@@ -510,6 +510,10 @@ function startQuick15(){ startQuizWith('all', 15); }
 function startMistakes(){
   const wrong = SIE_QUESTIONS.filter(q=>{ const s=state[q.id]; return s && (s.wrong||0)>0; });
   if(!wrong.length){ toast('No mistakes yet — run a quiz first'); return; }
+  ['dash','prac','fc','lit','exam','imp'].forEach(p=>{
+    const el=document.getElementById(p); if(el) el.classList.toggle('hidden', p!=='prac');
+    const nav=document.getElementById('nav-'+p); if(nav) nav.classList.toggle('active', p==='prac');
+  });
   quiz = wrong.slice();
   for(let i=quiz.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[quiz[i],quiz[j]]=[quiz[j],quiz[i]];}
   qi=0; quizCorrect=0;
@@ -534,6 +538,11 @@ function beginQuiz(){
   startQuizWith(sel? sel.getAttribute('data-sec') : 'all');
 }
 function startQuizWith(section, fixedN){
+  // ensure the Practice view is the active section (fixes dashboard shortcuts)
+  ['dash','prac','fc','lit','exam','imp'].forEach(p=>{
+    const el=document.getElementById(p); if(el) el.classList.toggle('hidden', p!=='prac');
+    const nav=document.getElementById('nav-'+p); if(nav) nav.classList.toggle('active', p==='prac');
+  });
   let pool = SIE_QUESTIONS.slice();
   if(section && section!=='all') pool = pool.filter(q=>q.section===section);
   const onlyweak = document.getElementById('onlyweak').checked;
@@ -746,6 +755,10 @@ function blueprintSample(){
   return combined;
 }
 function startMock(kind){
+  ['dash','prac','fc','lit','exam','imp'].forEach(p=>{
+    const el=document.getElementById(p); if(el) el.classList.toggle('hidden', p!=='exam');
+    const nav=document.getElementById('nav-'+p); if(nav) nav.classList.toggle('active', p==='exam');
+  });
   const full = kind==='full';
   const sampled = blueprintSample();
   mock = {

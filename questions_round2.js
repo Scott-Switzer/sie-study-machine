@@ -1,0 +1,1276 @@
+var SIE_QUESTIONS_R2 = [
+  {
+    "id": "r2-001",
+    "section": "1 - Capital Markets",
+    "stem": "The Securities Exchange Act of 1934 primarily regulates:",
+    "choices": {
+      "A": "The initial issuance of securities",
+      "B": "Trading of securities in the secondary market",
+      "C": "Municipal bond issuance",
+      "D": "State blue-sky laws"
+    },
+    "answer": "B",
+    "explanation": "The 1934 Act governs the secondary market, exchanges, and SROs. The 1933 Act governs new issues.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-002",
+    "section": "1 - Capital Markets",
+    "stem": "Which of the following is NOT an SRO?",
+    "choices": {
+      "A": "FINRA",
+      "B": "MSRB",
+      "C": "The SEC",
+      "D": "CBOE"
+    },
+    "answer": "C",
+    "explanation": "The SEC is a government agency, not an SRO. FINRA, MSRB, and CBOE are SROs/exchanges.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-003",
+    "section": "1 - Capital Markets",
+    "stem": "A registered representative recommending a stock based on material non-public info would violate:",
+    "choices": {
+      "A": "The 1933 Act",
+      "B": "Regulation FD / insider trading rules",
+      "C": "The Investment Company Act",
+      "D": "Blue sky laws"
+    },
+    "answer": "B",
+    "explanation": "Trading/tipping on MNPI violates insider-trading provisions (1934 Act Rule 10b-5 / Reg FD context).",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-004",
+    "section": "1 - Capital Markets",
+    "stem": "Monetary policy is conducted by:",
+    "choices": {
+      "A": "Congress",
+      "B": "The Federal Reserve",
+      "C": "The SEC",
+      "D": "State governments"
+    },
+    "answer": "B",
+    "explanation": "The Fed sets monetary policy (rates, money supply). Fiscal policy is Congress/the administration.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-005",
+    "section": "1 - Capital Markets",
+    "stem": "If the Fed sells Treasury securities in the open market, the likely effect is:",
+    "choices": {
+      "A": "Money supply increases, rates fall",
+      "B": "Money supply decreases, rates rise",
+      "C": "No change",
+      "D": "Dollar falls"
+    },
+    "answer": "B",
+    "explanation": "Selling Treasuries drains reserves -> tighter money -> rates rise. Buying eases.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-006",
+    "section": "1 - Capital Markets",
+    "stem": "A private placement sold under Rule 506 of Reg D may be sold to:",
+    "choices": {
+      "A": "Unlimited accredited + up to 35 sophisticated non-accredited",
+      "B": "Only institutions",
+      "C": "The general public",
+      "D": "Only employees"
+    },
+    "answer": "A",
+    "explanation": "Rule 506: unlimited accredited investors and up to 35 non-accredited who are sophisticated. No general solicitation limits under 506(c) if verified.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-007",
+    "section": "1 - Capital Markets",
+    "stem": "The 'cooling-off period' refers to:",
+    "choices": {
+      "A": "Time between filing and effectiveness of a registration",
+      "B": "Time after a trade before settlement",
+      "C": "Period before a margin call",
+      "D": "Time between exams"
+    },
+    "answer": "A",
+    "explanation": "After a registrant files, the SEC reviews during the cooling-off period before the issue becomes effective.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-008",
+    "section": "1 - Capital Markets",
+    "stem": "Which entity insures bank deposits?",
+    "choices": {
+      "A": "SIPC",
+      "B": "FDIC",
+      "C": "FINRA",
+      "D": "The Fed"
+    },
+    "answer": "B",
+    "explanation": "FDIC insures bank deposits (up to $250k). SIPC protects brokerage securities, not bank deposits.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-009",
+    "section": "1 - Capital Markets",
+    "stem": "GDP measures:",
+    "choices": {
+      "A": "A company's profit",
+      "B": "The total value of goods/services produced in a period",
+      "C": "The inflation rate",
+      "D": "Unemployment"
+    },
+    "answer": "B",
+    "explanation": "GDP = gross domestic product, the market value of all final goods/services produced domestically in a period.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-010",
+    "section": "1 - Capital Markets",
+    "stem": "A lagging economic indicator is one that:",
+    "choices": {
+      "A": "Predicts the future",
+      "B": "Confirms a trend after it occurs",
+      "C": "Moves with the present",
+      "D": "Never changes"
+    },
+    "answer": "B",
+    "explanation": "Lagging indicators (e.g., unemployment duration, CPI) confirm trends after they happen. Leading indicators predict.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-011",
+    "section": "1 - Capital Markets",
+    "stem": "An issuer conducting a secondary offering is:",
+    "choices": {
+      "A": "Selling treasury shares to the public",
+      "B": "Having existing shareholders sell their shares",
+      "C": "Issuing new debt",
+      "D": "Redeeming bonds"
+    },
+    "answer": "B",
+    "explanation": "In a secondary (follow-on) offering, existing holders sell; proceeds go to sellers, not the issuer. (Note: a 'secondary offering' can also mean issuer new shares post-IPO; here the defining test is existing-shareholder sale.)",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-012",
+    "section": "1 - Capital Markets",
+    "stem": "The primary market is where:",
+    "choices": {
+      "A": "Investors trade among themselves",
+      "B": "New securities are issued to the public",
+      "C": "Options are cleared",
+      "D": "Bonds are redeemed"
+    },
+    "answer": "B",
+    "explanation": "Primary market = new issuance (issuer to public). Secondary = trading among investors.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-013",
+    "section": "1 - Capital Markets",
+    "stem": "MSRB rules are enforced on broker-dealers by:",
+    "choices": {
+      "A": "The MSRB directly",
+      "B": "FINRA",
+      "C": "The SEC only",
+      "D": "Municipalities"
+    },
+    "answer": "B",
+    "explanation": "MSRB writes muni rules but FINRA (and the Fed for banks) enforces them on regulated firms.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-014",
+    "section": "1 - Capital Markets",
+    "stem": "Which of the following describes the third market?",
+    "choices": {
+      "A": "Exchange-listed securities traded OTC",
+      "B": "Direct institution trades",
+      "C": "New issues",
+      "D": "Municipal trading"
+    },
+    "answer": "A",
+    "explanation": "Third market = exchange-listed stocks traded OTC (between institutions via dealers). Fourth market = direct institution-to-institution.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-015",
+    "section": "2 - Products & Risks",
+    "stem": "A bond with a 6% coupon when market rates are 5% will trade at:",
+    "choices": {
+      "A": "A discount",
+      "B": "A premium",
+      "C": "Par",
+      "D": "Face value only"
+    },
+    "answer": "B",
+    "explanation": "Coupon (6%) > market yield (5%) => price above par (premium).",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-016",
+    "section": "2 - Products & Risks",
+    "stem": "Duration measures a bond's sensitivity to:",
+    "choices": {
+      "A": "Credit risk",
+      "B": "Interest rate changes",
+      "C": "Inflation only",
+      "D": "Liquidity"
+    },
+    "answer": "B",
+    "explanation": "Duration estimates price sensitivity to interest-rate changes; higher duration = more rate risk.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-017",
+    "section": "2 - Products & Risks",
+    "stem": "A zero-coupon bond:",
+    "choices": {
+      "A": "Pays annual coupons",
+      "B": "Pays no periodic interest and is issued at a discount",
+      "C": "Is equity",
+      "D": "Has no maturity"
+    },
+    "answer": "B",
+    "explanation": "Zero-coupons pay no periodic interest; they're sold at a discount and redeemed at par at maturity.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-018",
+    "section": "2 - Products & Risks",
+    "stem": "Which of the following is a deferred annuity?",
+    "choices": {
+      "A": "One that has not yet annuitized",
+      "B": "One payable immediately",
+      "C": "A fixed annuity only",
+      "D": "An IRA"
+    },
+    "answer": "A",
+    "explanation": "During the accumulation (deferred) phase, the annuity grows tax-deferred before payouts begin at annuitization.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-019",
+    "section": "2 - Products & Risks",
+    "stem": "The 'surrender charge' on a variable annuity is:",
+    "choices": {
+      "A": "A fee for early withdrawal",
+      "B": "The sales load at purchase",
+      "C": "A death benefit",
+      "D": "The AIR"
+    },
+    "answer": "A",
+    "explanation": "Surrender charges penalize withdrawals during early years; they decline over time.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-020",
+    "section": "2 - Products & Risks",
+    "stem": "An investor buys 100 shares of ABC at $40 and writes one ABC call (covered). Max loss is approximately:",
+    "choices": {
+      "A": "Unlimited",
+      "B": "$40 minus premium received",
+      "C": "The premium only",
+      "D": "Zero"
+    },
+    "answer": "B",
+    "explanation": "Covered call max loss = stock cost minus premium received (stock to $0). The premium cushions the downside.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-021",
+    "section": "2 - Products & Risks",
+    "stem": "A 'spread' position in options involves:",
+    "choices": {
+      "A": " Buying one call ",
+      "B": "Buying and selling options of the same type with different strikes/expirations",
+      "C": "Owning the stock",
+      "D": "Selling short"
+    },
+    "answer": "B",
+    "explanation": "A spread = same-type options differing in strike and/or expiration (e.g., bull call spread).",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-022",
+    "section": "2 - Products & Risks",
+    "stem": "Investment-grade corporate bonds are rated:",
+    "choices": {
+      "A": "BBB- or higher (S&P/Fitch) / Baa3 or higher (Moody's)",
+      "B": "BB+ or lower",
+      "C": "D",
+      "D": "Only AAA"
+    },
+    "answer": "A",
+    "explanation": "Investment grade = BBB-/Baa3 and above. Below is speculative (high-yield/junk).",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-023",
+    "section": "2 - Products & Risks",
+    "stem": "A revenue bond is backed by:",
+    "choices": {
+      "A": "Taxes",
+      "B": "Earnings from a specific project (tolls, utilities)",
+      "C": "The federal government",
+      "D": "The issuer's general fund"
+    },
+    "answer": "B",
+    "explanation": "Revenue bonds are repaid from a project's revenues (toll road, airport). GO bonds use taxing power.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-024",
+    "section": "2 - Products & Risks",
+    "stem": "Which statement about ETFs is TRUE?",
+    "choices": {
+      "A": "They price once daily at NAV",
+      "B": "They trade intraday like stocks at market price",
+      "C": "They are unregulated",
+      "D": "They have no expense ratio"
+    },
+    "answer": "B",
+    "explanation": "ETFs trade on exchanges throughout the day at market prices (can differ slightly from NAV). Open-end funds price once daily.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-025",
+    "section": "2 - Products & Risks",
+    "stem": "A UIT is different from a mutual fund because it:",
+    "choices": {
+      "A": "Is actively managed",
+      "B": "Holds a fixed portfolio and terminates",
+      "C": "Issues unlimited shares",
+      "D": "Is a hedge fund"
+    },
+    "answer": "B",
+    "explanation": "UITs are unmanaged, fixed portfolios that terminate and return principal; mutual funds are actively/continuously managed with redeemable shares.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-026",
+    "section": "2 - Products & Risks",
+    "stem": "Systematic withdrawal from a mutual fund is:",
+    "choices": {
+      "A": "Guaranteed by the fund",
+      "B": "A service, not a guarantee of income",
+      "C": "Insured by SIPC",
+      "D": "Tax-free"
+    },
+    "answer": "B",
+    "explanation": "Systematic withdrawal is a distribution option, not a guarantee; SIPC doesn't guarantee value.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-027",
+    "section": "2 - Products & Risks",
+    "stem": "The NAV of an open-end fund is calculated:",
+    "choices": {
+      "A": "Once at market close (forward pricing)",
+      "B": "Continuously",
+      "C": "Weekly",
+      "D": "At the issuer's discretion"
+    },
+    "answer": "A",
+    "explanation": "Open-end funds use forward pricing: NAV computed at end of day; orders fill at next computed NAV.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-028",
+    "section": "2 - Products & Risks",
+    "stem": "Preferred stockholders are paid:",
+    "choices": {
+      "A": "After common, before bondholders",
+      "B": "Before common but after bondholders",
+      "C": "Before bondholders",
+      "D": "Last"
+    },
+    "answer": "B",
+    "explanation": "Seniority at liquidation: bondholders > preferred > common. Preferred get dividends before common.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-029",
+    "section": "2 - Products & Risks",
+    "stem": "A participating preferred shareholder may also receive:",
+    "choices": {
+      "A": "Voting rights",
+      "B": "Extra dividends in prosperous years",
+      "C": "A higher par value",
+      "D": "Conversion to bonds"
+    },
+    "answer": "B",
+    "explanation": "Participating preferred can get additional dividends if the company does especially well, beyond the fixed rate.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-030",
+    "section": "2 - Products & Risks",
+    "stem": "American Depositary Receipts (ADRs) are denominated in:",
+    "choices": {
+      "A": "The foreign currency",
+      "B": "US dollars",
+      "C": "Euros only",
+      "D": "Gold"
+    },
+    "answer": "B",
+    "explanation": "ADRs trade in the US in dollars, representing foreign shares held by a US depositary bank.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-031",
+    "section": "2 - Products & Risks",
+    "stem": "Which of the following has the HIGHEST risk (unsystematic)?",
+    "choices": {
+      "A": "A diversified index fund",
+      "B": "A single small-company stock",
+      "C": "Treasury bills",
+      "D": "A bond ladder"
+    },
+    "answer": "B",
+    "explanation": "Single-stock risk is unsystematic and high; diversification reduces it. T-bills have minimal risk.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-032",
+    "section": "2 - Products & Risks",
+    "stem": "Inflation risk most directly hurts:",
+    "choices": {
+      "A": "Fixed-income investors",
+      "B": "Equity holders only",
+      "C": "The issuer",
+      "D": "The SEC"
+    },
+    "answer": "A",
+    "explanation": "Inflation erodes the real value of fixed payments (bonds), a key inflation-risk concern for bondholders.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-033",
+    "section": "2 - Products & Risks",
+    "stem": "A bond selling at a discount has a yield to maturity that is:",
+    "choices": {
+      "A": "Below the coupon",
+      "B": "Above the coupon",
+      "C": "Equal to the coupon",
+      "D": "Zero"
+    },
+    "answer": "B",
+    "explanation": "Discount bond: YTM > coupon (investor gains the discount at maturity). Premium: YTM < coupon.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-034",
+    "section": "2 - Products & Risks",
+    "stem": "Treasury bills are issued:",
+    "choices": {
+      "A": "At par with coupons",
+      "B": "At a discount, no coupons",
+      "C": "Only quarterly",
+      "D": "By municipalities"
+    },
+    "answer": "B",
+    "explanation": "T-bills are discount instruments (sold below par, no coupon); mature <1 year.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-035",
+    "section": "2 - Products & Risks",
+    "stem": "The put-call parity relationship links:",
+    "choices": {
+      "A": "Stock, call, put, and bond prices",
+      "B": "Only two stocks",
+      "C": "Dividends and earnings",
+      "D": "NAV and price"
+    },
+    "answer": "A",
+    "explanation": "Put-call parity relates call, put, stock, and risk-free bond prices in a no-arbitrage relationship.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-036",
+    "section": "2 - Products & Risks",
+    "stem": "A 'naked' (uncovered) call writer faces:",
+    "choices": {
+      "A": "Limited loss",
+      "B": "Unlimited loss",
+      "C": "No risk",
+      "D": "A fixed gain"
+    },
+    "answer": "B",
+    "explanation": "Uncovered (naked) call: if the stock rises, the writer must buy high to deliver at the low strike => unlimited loss.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-037",
+    "section": "2 - Products & Risks",
+    "stem": "Money market fund shares are typically valued at:",
+    "choices": {
+      "A": "$1.00 NAV (stable value)",
+      "B": "Fluctuating NAV like equity",
+      "C": "Zero",
+      "D": "Par of $100"
+    },
+    "answer": "A",
+    "explanation": "Money market funds aim for a stable $1.00 NAV (with rare 'breaking the buck').",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-038",
+    "section": "2 - Products & Risks",
+    "stem": "A convertible bond can be converted into:",
+    "choices": {
+      "A": "Cash only",
+      "B": "A predetermined number of the issuer's common shares",
+      "C": "Another bond",
+      "D": "Preferred stock of any issuer"
+    },
+    "answer": "B",
+    "explanation": "Convertible bonds convert into the issuer's common stock at a set ratio, giving upside participation.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-039",
+    "section": "2 - Products & Risks",
+    "stem": "Which product is characterized as having both insurance and securities features?",
+    "choices": {
+      "A": "Common stock",
+      "B": "Variable annuity",
+      "C": "Treasury bond",
+      "D": "CD"
+    },
+    "answer": "B",
+    "explanation": "Variable annuities combine an insurance wrapper with securities investment (separate account), hence both regulated.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-040",
+    "section": "2 - Products & Risks",
+    "stem": "Liquidity risk is the risk that:",
+    "choices": {
+      "A": "Interest rates rise",
+      "B": "An asset cannot be sold quickly without a price concession",
+      "C": "The issuer defaults",
+      "D": "Inflation rises"
+    },
+    "answer": "B",
+    "explanation": "Liquidity risk = difficulty selling quickly at fair value. DPPs/REITS are relatively illiquid.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-041",
+    "section": "2 - Products & Risks",
+    "stem": "The 'expiration' of an option is when:",
+    "choices": {
+      "A": "It is first traded",
+      "B": "The right to exercise ends",
+      "C": "The stock pays a dividend",
+      "D": "The premium is set"
+    },
+    "answer": "B",
+    "explanation": "Expiration = the last day the option can be exercised (for American) or the only day (European).",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-042",
+    "section": "2 - Products & Risks",
+    "stem": "A 'straddle' involves buying a call and put with the same:",
+    "choices": {
+      "A": "Strike and expiration",
+      "B": "Different underlying",
+      "C": "Stock only",
+      "D": "Issuer"
+    },
+    "answer": "A",
+    "explanation": "A straddle = same-strike, same-expiration call and put; profits from large moves either direction.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-043",
+    "section": "2 - Products & Risks",
+    "stem": "Capital gain on a stock held >1 year is taxed as:",
+    "choices": {
+      "A": "Ordinary income",
+      "B": "Long-term capital gain (lower rate)",
+      "C": "Tax-free",
+      "D": "A penalty"
+    },
+    "answer": "B",
+    "explanation": "Long-term capital gains (held >1 yr) get preferential rates vs ordinary income.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-044",
+    "section": "2 - Products & Risks",
+    "stem": "A 'rights offering' gives existing shareholders the right to:",
+    "choices": {
+      "A": "Sell the company",
+      "B": "Buy new shares at a discount (subscription)",
+      "C": "Vote twice",
+      "D": "Convert to bonds"
+    },
+    "answer": "B",
+    "explanation": "Rights let current shareholders buy new shares (usually at a discount) to maintain ownership (preemptive).",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-045",
+    "section": "2 - Products & Risks",
+    "stem": "Which is NOT a characteristic of common stock?",
+    "choices": {
+      "A": "Voting rights",
+      "B": "Limited liability",
+      "C": "A fixed dividend guarantee",
+      "D": "Residual claim"
+    },
+    "answer": "C",
+    "explanation": "Common dividends are discretionary (not guaranteed). Voting, limited liability, and residual claim are characteristics.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-046",
+    "section": "2 - Products & Risks",
+    "stem": "The 75-5-10 test applies to:",
+    "choices": {
+      "A": "Margin accounts",
+      "B": "Diversified investment companies for pass-through taxation",
+      "C": "Settlement",
+      "D": "Municipal issuance"
+    },
+    "answer": "B",
+    "explanation": "To be a regulated investment company (pass-through), a fund must meet diversification: <=75% in one issuer, <=5% per issuer, <=10% voting of any issuer.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-047",
+    "section": "2 - Products & Risks",
+    "stem": "Closed-end funds can trade at a premium because:",
+    "choices": {
+      "A": "They redeem at NAV only",
+      "B": "Market price is set by supply/demand, not just NAV",
+      "C": "They are insured",
+      "D": "They pay no fees"
+    },
+    "answer": "B",
+    "explanation": "Closed-end shares trade on exchanges; price = market-driven, can exceed (premium) or fall below (discount) NAV.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-048",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "A 'stop-limit' order becomes a limit order when:",
+    "choices": {
+      "A": "The market opens",
+      "B": "The stop price is reached",
+      "C": "It is cancelled",
+      "D": "Dividends are paid"
+    },
+    "answer": "B",
+    "explanation": "Stop-limit = once stop triggers, becomes a limit order (may not fill if price moves past limit).",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-049",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "Which settlement applies to options?",
+    "choices": {
+      "A": "T+0",
+      "B": "T+1",
+      "C": "T+2",
+      "D": "T+3"
+    },
+    "answer": "B",
+    "explanation": "Listed options settle T+1 (next business day), like equities.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-050",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "A customer's 'know your customer' info should be updated:",
+    "choices": {
+      "A": "Never",
+      "B": "Periodically and when circumstances change",
+      "C": "Only at account opening",
+      "D": "Annually by the SEC"
+    },
+    "answer": "B",
+    "explanation": "KYC info must be kept current; firms update periodically and when the customer's situation changes.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-051",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "A cash account that buys and sells before paying in full is a:",
+    "choices": {
+      "A": "Free riding violation",
+      "B": "Allowed if small",
+      "C": "A margin trade",
+      "D": "A short sale"
+    },
+    "answer": "A",
+    "explanation": "Free riding = buying and selling in a cash account before paying for the initial purchase (prohibited).",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-052",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "Suitability requires that a recommendation be suitable based on the customer's:",
+    "choices": {
+      "A": "Zodiac sign",
+      "B": "Investment profile (objs, risk, horizon, finances)",
+      "C": "Political views",
+      "D": "Gender"
+    },
+    "answer": "B",
+    "explanation": "Suitability is judged against the customer's investment profile, not irrelevant personal traits.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-053",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "A 'prompt' (or 'prearranged') trade between two related accounts to create fake volume is:",
+    "choices": {
+      "A": "Permitted",
+      "B": "Manipulation (painting the tape / matched trades)",
+      "C": "A type of arbitration",
+      "D": "Required by Reg BI"
+    },
+    "answer": "B",
+    "explanation": "Matched/prearranged trades and painting the tape are manipulative and prohibited.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-054",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "The Currency Transaction Report (CTR) is filed for cash transactions over:",
+    "choices": {
+      "A": "$1,000",
+      "B": "$5,000",
+      "C": "$10,000",
+      "D": "$25,000"
+    },
+    "answer": "C",
+    "explanation": "CTR threshold is $10,000 in currency. SAR is $5,000 for suspected activity.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-055",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "A registered rep who wants to write a financial column for a newspaper must:",
+    "choices": {
+      "A": "Do it secretly",
+      "B": "Get prior written approval from the firm",
+      "C": "Pay the SEC",
+      "D": "Never do it"
+    },
+    "answer": "B",
+    "explanation": "Public communications/writing by reps generally require the firm's prior written approval.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-056",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "Which of the following is a cash account activity?",
+    "choices": {
+      "A": "Buying stock and paying in full by settlement",
+      "B": "Borrowing to buy",
+      "C": "Selling short on margin",
+      "D": "Writing uncovered options on margin"
+    },
+    "answer": "A",
+    "explanation": "Cash accounts require full payment; no borrowing. Margin enables leverage and shorting.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-057",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "A 'good-till-canceled' (GTC) order is typically cancelled by the firm after:",
+    "choices": {
+      "A": "One day",
+      "B": "A set period (e.g., 60-90 days)",
+      "C": "One minute",
+      "D": "It never expires"
+    },
+    "answer": "B",
+    "explanation": "GTC stays active until filled/cancelled, but firms often auto-cancel after ~60-90 days.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-058",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "A customer dispute must be directed to arbitration under:",
+    "choices": {
+      "A": "FINRA's dispute resolution",
+      "B": "The SEC only",
+      "C": "State court exclusively",
+      "D": "The issuer"
+    },
+    "answer": "A",
+    "explanation": "Most customer-broker disputes go to FINRA arbitration (mandatory pre-dispute arbitration clauses).",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-059",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "Front-running by a trader is unethical because it:",
+    "choices": {
+      "A": "Helps the customer",
+      "B": "Uses the customer's order info for the firm's benefit ahead of the customer",
+      "C": "Reduces volume",
+      "D": "Is required"
+    },
+    "answer": "B",
+    "explanation": "Front-running trades ahead of customer orders to profit from anticipated price moves, harming the customer.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-060",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "Short sales must occur in a:",
+    "choices": {
+      "A": "Cash account",
+      "B": "Margin account",
+      "C": "IRA",
+      "D": "UGMA"
+    },
+    "answer": "B",
+    "explanation": "Short selling requires a margin account (borrowing shares). IRAs/UGMA generally can't short.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-061",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "A 'day order' expires:",
+    "choices": {
+      "A": "At the close of the trading day if unfilled",
+      "B": "After one week",
+      "C": "Never",
+      "D": "At settlement"
+    },
+    "answer": "A",
+    "explanation": "Day orders expire at market close if not filled; GTC persists.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-062",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "Regulation Best Interest became effective in:",
+    "choices": {
+      "A": "2019",
+      "B": "2008",
+      "C": "1994",
+      "D": "2023"
+    },
+    "answer": "A",
+    "explanation": "Reg BI took effect June 30, 2020 (adopted 2019), raising the broker standard for retail customers.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-063",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "Which document confirms a trade to the customer?",
+    "choices": {
+      "A": "The prospectus",
+      "B": "The confirmation",
+      "C": "Form U4",
+      "D": "The research report"
+    },
+    "answer": "B",
+    "explanation": "Trade confirmations detail the transaction and must be sent by/on settlement.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-064",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "A customer purchasing a security in a cash account must pay:",
+    "choices": {
+      "A": "Within 2 hours",
+      "B": "By settlement (T+1)",
+      "C": "Never",
+      "D": "After 30 days"
+    },
+    "answer": "B",
+    "explanation": "Cash accounts require payment by settlement; Reg T's payment window aligns with T+1 for most securities.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-065",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "'Churning' requires, among other things:",
+    "choices": {
+      "A": "High account value",
+      "B": "Control over the account plus excessive trading",
+      "C": "A margin account",
+      "D": "Insider info"
+    },
+    "answer": "B",
+    "explanation": "Churning = excessive trading to generate commissions, requiring control of the account and quantitative excess relative to objectives. (Control + excessive trading.)",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-066",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "Market manipulation that spreads false rumors to drive price is called:",
+    "choices": {
+      "A": "Spoofing",
+      "B": "Rumor mongering / pump-and-dump",
+      "C": "Arbitrage",
+      "D": "Hedging"
+    },
+    "answer": "B",
+    "explanation": "Spreading false info to move price (pump-and-dump, rumor mongering) is manipulation/fraud.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-067",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "A limit order to sell at $60 will execute at:",
+    "choices": {
+      "A": "$60 or higher",
+      "B": "$60 or lower",
+      "C": "Any price",
+      "D": "Only at open"
+    },
+    "answer": "A",
+    "explanation": "Sell limit executes at the limit or higher (you won't sell below $60). Buy limit at limit or lower.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-068",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "SIPC does NOT cover:",
+    "choices": {
+      "A": "Missing securities if a firm fails",
+      "B": "Losses from a declining market",
+      "C": "Lost cash (within limits)",
+      "D": "Accounting errors at the firm"
+    },
+    "answer": "B",
+    "explanation": "SIPC covers custodial failure of the firm, NOT investment losses from market moves.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-069",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "An IRA is established to provide:",
+    "choices": {
+      "A": "Life insurance",
+      "B": "Retirement savings",
+      "C": "College funding only",
+      "D": "A margin loan"
+    },
+    "answer": "B",
+    "explanation": "IRAs are retirement vehicles. 529s are for education.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-070",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "A variable annuity is sold with a prospectus because it is:",
+    "choices": {
+      "A": "An insurance product only",
+      "B": "A security (separate account)",
+      "C": "FDIC insured",
+      "D": "Tax-free always"
+    },
+    "answer": "B",
+    "explanation": "Because the separate account holds securities, variable annuities are securities and require a prospectus + registered rep.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-071",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "A customer complaint must be kept in writing per:",
+    "choices": {
+      "A": "FINRA Rule 4513",
+      "B": "The 1933 Act",
+      "C": "Blue sky laws",
+      "D": "The Fed"
+    },
+    "answer": "A",
+    "explanation": "FINRA Rule 4513 requires firms to maintain written records of customer complaints.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-072",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "Which is a prohibited practice regarding commissions?",
+    "choices": {
+      "A": "Disclosed commissions",
+      "B": "Excessive/earned through churning",
+      "C": "Mark-ups on principal trades",
+      "D": "Negotiated fees"
+    },
+    "answer": "B",
+    "explanation": "Commissions are fine if fair/disclosed; churning to generate excessive commissions is prohibited.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-073",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "The 'trade date' is when:",
+    "choices": {
+      "A": "The order is placed",
+      "B": "The trade is executed",
+      "C": "Payment is made",
+      "D": "The exam is taken"
+    },
+    "answer": "B",
+    "explanation": "Trade date = execution date; settlement date is when cash/securities exchange (T+1 later).",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-074",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "A broker-dealer acting as a principal earns:",
+    "choices": {
+      "A": "A commission",
+      "B": "A mark-up (or mark-down)",
+      "C": "Nothing",
+      "D": "A fee from the SEC"
+    },
+    "answer": "B",
+    "explanation": "As principal, the firm earns a mark-up (sell) or mark-down (buy); as agent, it earns a commission.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-075",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "Which order type guarantees a price but not a fill?",
+    "choices": {
+      "A": "Market",
+      "B": "Stop",
+      "C": "Limit",
+      "D": "GTC"
+    },
+    "answer": "C",
+    "explanation": "Limit orders guarantee a price (or better) but may not fill if the market never reaches it.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-076",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "A 'pattern day trader' rule applies to accounts that:",
+    "choices": {
+      "A": "Trade once a month",
+      "B": "Day-trade 4+ times in 5 business days in a margin account",
+      "C": "Hold only mutual funds",
+      "D": "Are cash accounts"
+    },
+    "answer": "B",
+    "explanation": "PDT rule: 4+ day trades in 5 days in a margin account triggers $25k equity requirement.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-077",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "The 'firm element' of continuing education is provided by:",
+    "choices": {
+      "A": "The SEC",
+      "B": "The member firm (annual training)",
+      "C": "The customer",
+      "D": "The state"
+    },
+    "answer": "B",
+    "explanation": "Firm Element = the firm's own annual training program; Regulatory Element is FINRA's computer-based module.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-078",
+    "section": "4 - Regulatory Framework",
+    "stem": "FINRA Rule 2111 (suitability) requires recommendations be:",
+    "choices": {
+      "A": "Based on the firm's profit",
+      "B": "Suitable for the customer's profile",
+      "C": "Only low-risk",
+      "D": "Approved by the SEC"
+    },
+    "answer": "B",
+    "explanation": "Rule 2111: recommendations must be suitable (reasonable-basis, customer-specific, and quantitative).",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-079",
+    "section": "4 - Regulatory Framework",
+    "stem": "A 'statutory disqualification' can result from:",
+    "choices": {
+      "A": "A parking ticket",
+      "B": "A felony or certain financial crimes",
+      "C": "A low credit score alone",
+      "D": "Changing firms"
+    },
+    "answer": "B",
+    "explanation": "Felony/financial crimes/liens/bankruptcy can statutorily disqualify a person from registration.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-080",
+    "section": "4 - Regulatory Framework",
+    "stem": "Form U4 must be updated for a felony within:",
+    "choices": {
+      "A": "30 calendar days",
+      "B": "10 business days",
+      "C": "1 year",
+      "D": "Never"
+    },
+    "answer": "B",
+    "explanation": "Criminal events: report on U4 within 10 business days. Other reportable events: 30 calendar days.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-081",
+    "section": "4 - Regulatory Framework",
+    "stem": "The 'CE' regulatory element is delivered by:",
+    "choices": {
+      "A": "The employing firm's HR",
+      "B": "FINRA (computer-based)",
+      "C": "The SEC",
+      "D": "A state regulator"
+    },
+    "answer": "B",
+    "explanation": "The Regulatory Element is FINRA's computer-based training; the Firm Element is the firm's own.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-082",
+    "section": "4 - Regulatory Framework",
+    "stem": "BrokerCheck is operated by:",
+    "choices": {
+      "A": "The SEC",
+      "B": "FINRA",
+      "C": "MSRB",
+      "D": "The Fed"
+    },
+    "answer": "B",
+    "explanation": "BrokerCheck is FINRA's free public disclosure tool for broker history.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-083",
+    "section": "4 - Regulatory Framework",
+    "stem": "Which act created the SIPC?",
+    "choices": {
+      "A": "The Securities Act of 1933",
+      "B": "The Securities Investor Protection Act of 1970",
+      "C": "The 1934 Act",
+      "D": "ERISA"
+    },
+    "answer": "B",
+    "explanation": "SIPA (1970) created SIPC to protect customers if a broker-dealer fails.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-084",
+    "section": "4 - Regulatory Framework",
+    "stem": "A gift to an employee of another member firm beyond $100 requires:",
+    "choices": {
+      "A": "Nothing",
+      "B": "The employer's written consent (FINRA 3220)",
+      "C": "SEC approval",
+      "D": "A tax payment"
+    },
+    "answer": "B",
+    "explanation": "Gifts/gratuities > $100/yr per person need the recipient's employer's written consent.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-085",
+    "section": "4 - Regulatory Framework",
+    "stem": "MSRB Rule G-37 restricts:",
+    "choices": {
+      "A": "Advertising",
+      "B": "Political contributions by muni professionals",
+      "C": "Margin",
+      "D": "Settlement"
+    },
+    "answer": "B",
+    "explanation": "G-37 bars muni securities business for firms whose associated persons make prohibited political contributions.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-086",
+    "section": "4 - Regulatory Framework",
+    "stem": "Which of the following must a firm report under Rule 4530?",
+    "choices": {
+      "A": "Routine trades",
+      "B": "Reportable events (certain convictions, liens, disputes)",
+      "C": "Customer logins",
+      "D": "Market prices"
+    },
+    "answer": "B",
+    "explanation": "Rule 4530 requires reporting specified events (e.g., certain judgments, liens, customer disputes, terminations for cause).",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-087",
+    "section": "4 - Regulatory Framework",
+    "stem": "The USA PATRIOT Act strengthened:",
+    "choices": {
+      "A": "Margin rules",
+      "B": "AML / customer identification (CIP)",
+      "C": "Suitability",
+      "D": "Options approval"
+    },
+    "answer": "B",
+    "explanation": "The PATRIOT Act expanded AML, requiring CIP and enhanced due diligence at broker-dealers.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-088",
+    "section": "4 - Regulatory Framework",
+    "stem": "A registered person doing outside business activities must comply with:",
+    "choices": {
+      "A": "Rule 3270",
+      "B": "Rule 144",
+      "C": "Reg T",
+      "D": "Rule 10b-5"
+    },
+    "answer": "A",
+    "explanation": "Rule 3270 requires written notice to the firm of outside business activities.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-089",
+    "section": "4 - Regulatory Framework",
+    "stem": "Private securities transactions ('selling away') are governed by:",
+    "choices": {
+      "A": "Rule 3280",
+      "B": "Rule 2111",
+      "C": "The 1933 Act",
+      "D": "Blue sky laws"
+    },
+    "answer": "A",
+    "explanation": "Rule 3280 requires disclosure/approval of private securities transactions outside the firm.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-090",
+    "section": "4 - Regulatory Framework",
+    "stem": "FINRA's authority comes from:",
+    "choices": {
+      "A": "Congress directly",
+      "B": "Delegation under the 1934 Act (SEC oversight)",
+      "C": "The Constitution",
+      "D": "State law only"
+    },
+    "answer": "B",
+    "explanation": "FINRA is an SRO authorized under the 1934 Act, subject to SEC oversight.",
+    "source": "Authored R2 (Hermes study machine)"
+  },
+  {
+    "id": "r2-091",
+    "section": "4 - Regulatory Framework",
+    "stem": "The maximum cash coverage under SIPC is:",
+    "choices": {
+      "A": "$100,000",
+      "B": "$250,000",
+      "C": "$500,000",
+      "D": "$1,000,000"
+    },
+    "answer": "B",
+    "explanation": "SIPC covers up to $500k total per customer, max $250k cash.",
+    "source": "Authored R2 (Hermes study machine)"
+  }
+];

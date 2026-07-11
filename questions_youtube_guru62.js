@@ -11,7 +11,7 @@ var SIE_QUESTIONS_YT_GURU62 = [
     },
     "answer": "A",
     "explanation": "The correct choice (A) is: “At the end of that December”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
-    "source": "YouTube: Series 7 Guru (guru62)"
+    "source": "youtube:guru62:dM3JI9ldcog"
   },
   {
     "id": "yt-GURU62-2",
@@ -25,7 +25,7 @@ var SIE_QUESTIONS_YT_GURU62 = [
     },
     "answer": "A",
     "explanation": "The correct choice (A) is: “Investing as a limited partner in a limited partnership”. This falls under <b>4 - Regulatory Framework</b>.",
-    "source": "YouTube: Series 7 Guru (guru62)"
+    "source": "youtube:guru62:dM3JI9ldcog"
   },
   {
     "id": "yt-GURU62-3",
@@ -39,7 +39,7 @@ var SIE_QUESTIONS_YT_GURU62 = [
     },
     "answer": "D",
     "explanation": "The correct choice (D) is: “They must notify the Administrator that Tim is no longer employed by the firm”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
-    "source": "YouTube: Series 7 Guru (guru62)"
+    "source": "youtube:guru62:dM3JI9ldcog"
   },
   {
     "id": "yt-GURU62-4",
@@ -53,7 +53,7 @@ var SIE_QUESTIONS_YT_GURU62 = [
     },
     "answer": "B",
     "explanation": "The correct choice (B) is: “Fingerprints are required by the state securities Administrator for registration as an agent”. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
-    "source": "YouTube: Series 7 Guru (guru62)"
+    "source": "youtube:guru62:dM3JI9ldcog"
   },
   {
     "id": "yt-GURU62-4",
@@ -67,7 +67,7 @@ var SIE_QUESTIONS_YT_GURU62 = [
     },
     "answer": "B",
     "explanation": "The correct choice (B) is: “Fingerprints are required by the state securities Administrator for registration as an agent”. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
-    "source": "YouTube: Series 7 Guru (guru62)"
+    "source": "youtube:guru62:dM3JI9ldcog"
   },
   {
     "id": "yt-GURU62-6",
@@ -81,7 +81,7 @@ var SIE_QUESTIONS_YT_GURU62 = [
     },
     "answer": "A",
     "explanation": "The correct choice (A) is: “No later than the 15th of the month following the calendar quarter being reported”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (guru62)"
+    "source": "youtube:guru62:dM3JI9ldcog"
   },
   {
     "id": "yt-GURU62-7",
@@ -95,6 +95,6 @@ var SIE_QUESTIONS_YT_GURU62 = [
     },
     "answer": "D",
     "explanation": "The correct choice (D) is: “10 years”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
-    "source": "YouTube: Series 7 Guru (guru62)"
+    "source": "youtube:guru62:dM3JI9ldcog"
   }
 ];

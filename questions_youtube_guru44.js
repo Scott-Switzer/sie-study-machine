@@ -1,6 +1,6 @@
 var SIE_QUESTIONS_YT_GURU44 = [
   {
-    "id": "yt-GURU44-1",
+    "id": "yt-GURU44-",
     "section": "1 - Capital Markets",
     "stem": "Purchasing ADRs facilitate:",
     "choices": {
@@ -11,10 +11,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "C",
     "explanation": "The correct choice (C) is: “U.S. trading in foreign securities”. This falls under <b>1 - Capital Markets</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-3",
+    "id": "yt-GURU44-",
     "section": "1 - Capital Markets",
     "stem": "Your client sold some municipal bonds resulting in a long-term capital gain of $20,000. Which statement is true regarding the taxability of this gain?",
     "choices": {
@@ -25,10 +25,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "C",
     "explanation": "The correct choice (C) is: “The gain is taxable at both the state and federal level”. This falls under <b>1 - Capital Markets</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-4",
+    "id": "yt-GURU44-",
     "section": "2 - Products & Risks",
     "stem": "Which of the following can only be set up for a child?",
     "choices": {
@@ -39,10 +39,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "B",
     "explanation": "The correct choice (B) is: “ESA”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-5",
+    "id": "yt-GURU44-",
     "section": "1 - Capital Markets",
     "stem": "Which correctly describes treasury stock?",
     "choices": {
@@ -53,10 +53,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "C",
     "explanation": "The correct choice (C) is: “Outstanding shares repurchased by the issuer”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-6",
+    "id": "yt-GURU44-",
     "section": "2 - Products & Risks",
     "stem": "Which type of secured bond is backed by rolling stock, such as airplanes?",
     "choices": {
@@ -67,10 +67,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "D",
     "explanation": "The correct choice (D) is: “Equipment trust certificate”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-7",
+    "id": "yt-GURU44-",
     "section": "2 - Products & Risks",
     "stem": "Mutual fund shareholders may receive income in which of the following ways?",
     "choices": {
@@ -81,10 +81,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "B",
     "explanation": "The correct choice (B) is: “Dividends and capital gains”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-8",
+    "id": "yt-GURU44-",
     "section": "2 - Products & Risks",
     "stem": "Your client Matt inherited $150,000 worth of stock in Costco. What type of risk should Matt be most worried about?",
     "choices": {
@@ -95,10 +95,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "C",
     "explanation": "The correct choice (C) is: “Business risk”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-9",
+    "id": "yt-GURU44-",
     "section": "2 - Products & Risks",
     "stem": "Which has the most interest rate risk?",
     "choices": {
@@ -109,10 +109,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "C",
     "explanation": "The correct choice (C) is: “Treasury bonds”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-10",
+    "id": "yt-GURU44-",
     "section": "2 - Products & Risks",
     "stem": "Catherine has $250,000 in equities, and no other investments. She should be most concerned with which of the following types of risks?",
     "choices": {
@@ -123,10 +123,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "C",
     "explanation": "The correct choice (C) is: “Market”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-11",
+    "id": "yt-GURU44-",
     "section": "2 - Products & Risks",
     "stem": "Units of ownership in a limited partnership are called:",
     "choices": {
@@ -137,10 +137,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "D",
     "explanation": "The correct choice (D) is: “Interests”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-12",
+    "id": "yt-GURU44-",
     "section": "2 - Products & Risks",
     "stem": "An investor is short 1 ABC 50 call @ 4. What do they need to cover this position?",
     "choices": {
@@ -151,10 +151,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "D",
     "explanation": "The correct choice (D) is: “100 shares of ABC”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-13",
+    "id": "yt-GURU44-",
     "section": "4 - Regulatory Framework",
     "stem": "Your client owns shares of one S&P 500 company. He would like to reduce his business risk. Which would help accomplish this?",
     "choices": {
@@ -165,10 +165,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "C",
     "explanation": "The correct choice (C) is: “Sell the shares of the one company and invest in an S&P 500 index fund”. This falls under <b>4 - Regulatory Framework</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-14",
+    "id": "yt-GURU44-",
     "section": "1 - Capital Markets",
     "stem": "In order for the interest paid by a municipal bond to be tax free at the state level, which of the following must be true?",
     "choices": {
@@ -179,10 +179,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "A",
     "explanation": "The correct choice (A) is: “The bond must be from the investor's home state”. This falls under <b>1 - Capital Markets</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-15",
+    "id": "yt-GURU44-",
     "section": "2 - Products & Risks",
     "stem": "Expenses deducted from the separate account of a life insurance policy include all except:",
     "choices": {
@@ -193,10 +193,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "B",
     "explanation": "The correct choice (B) is: “The commission”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-16",
+    "id": "yt-GURU44-",
     "section": "2 - Products & Risks",
     "stem": "Which of the following is not insured by the FDIC?",
     "choices": {
@@ -207,10 +207,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "D",
     "explanation": "The correct choice (D) is: “A money market mutual fund purchased at the bank”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-17",
+    "id": "yt-GURU44-",
     "section": "2 - Products & Risks",
     "stem": "Stock dividends are taxed:",
     "choices": {
@@ -221,10 +221,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "C",
     "explanation": "The correct choice (C) is: “When the shares are sold”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-18",
+    "id": "yt-GURU44-",
     "section": "2 - Products & Risks",
     "stem": "All are false about direct participation programs except:",
     "choices": {
@@ -235,10 +235,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "D",
     "explanation": "The correct choice (D) is: “There must be one or more general partners”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-19",
+    "id": "yt-GURU44-",
     "section": "2 - Products & Risks",
     "stem": "Which type of preferred stock would receive an omitted dividend?",
     "choices": {
@@ -249,10 +249,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "C",
     "explanation": "The correct choice (C) is: “Cumulative”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-21",
+    "id": "yt-GURU44-",
     "section": "3 - Trading, Accounts & Prohibited",
     "stem": "A UGMA account must be:",
     "choices": {
@@ -263,10 +263,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "B",
     "explanation": "The correct choice (B) is: “A cash account”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-22",
+    "id": "yt-GURU44-",
     "section": "2 - Products & Risks",
     "stem": "Which of the following would have an adverse effect on the return of an equity REIT?",
     "choices": {
@@ -277,10 +277,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "D",
     "explanation": "The correct choice (D) is: “Overbuilding”. This falls under <b>2 - Products & Risks</b>. Key principle: REITs let investors pool into income-producing real estate; dividends taxed as ordinary income.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-24",
+    "id": "yt-GURU44-",
     "section": "3 - Trading, Accounts & Prohibited",
     "stem": "What is FALSE regarding UTMAs?",
     "choices": {
@@ -291,10 +291,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "A",
     "explanation": "The correct choice (A) is: “Most states are not UTMA states”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-25",
+    "id": "yt-GURU44-",
     "section": "2 - Products & Risks",
     "stem": "What is most commonly used to measure a stock's market risk?",
     "choices": {
@@ -305,10 +305,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "A",
     "explanation": "The correct choice (A) is: “Beta”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-26",
+    "id": "yt-GURU44-",
     "section": "2 - Products & Risks",
     "stem": "Which type of equity holder has voting rights?",
     "choices": {
@@ -319,10 +319,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "A",
     "explanation": "The correct choice (A) is: “Common stock”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-27",
+    "id": "yt-GURU44-",
     "section": "1 - Capital Markets",
     "stem": "Your client has $200,000 in bank CDs. She should be most concerned with which type of risk?",
     "choices": {
@@ -333,10 +333,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "C",
     "explanation": "The correct choice (C) is: “Inflation”. This falls under <b>1 - Capital Markets</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-28",
+    "id": "yt-GURU44-",
     "section": "2 - Products & Risks",
     "stem": "Of the following, which type of investment company has an investment manager?",
     "choices": {
@@ -347,10 +347,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "B",
     "explanation": "The correct choice (B) is: “Management company”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-29",
+    "id": "yt-GURU44-",
     "section": "1 - Capital Markets",
     "stem": "A treasury note pays interest:",
     "choices": {
@@ -361,10 +361,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "A",
     "explanation": "The correct choice (A) is: “Semi-annually”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-30",
+    "id": "yt-GURU44-",
     "section": "2 - Products & Risks",
     "stem": "Ben buys 100 shares of stock at $80. He also buys a May 74 put @ 5. If the stock price should fall to zero, what is the most that Ben will lose?",
     "choices": {
@@ -375,10 +375,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "A",
     "explanation": "The correct choice (A) is: “$1,100”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-31",
+    "id": "yt-GURU44-",
     "section": "2 - Products & Risks",
     "stem": "Lupita funded her qualified annuity with $100,000. When she died at age 70, her account balance was $219,000. She had not annuitized the contract. Which describes the death benefit best?",
     "choices": {
@@ -389,10 +389,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "B",
     "explanation": "The correct choice (B) is: “Her beneficiary will receive the account balance of $219,000, but will owe taxes (as ordinary income) on the entire amount since it was a qualified annuity”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-32",
+    "id": "yt-GURU44-",
     "section": "2 - Products & Risks",
     "stem": "Rights are options that are good for:",
     "choices": {
@@ -403,10 +403,10 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "D",
     "explanation": "The correct choice (D) is: “30 days”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
-    "id": "yt-GURU44-33",
+    "id": "yt-GURU44-",
     "section": "2 - Products & Risks",
     "stem": "Systematic risk is:",
     "choices": {
@@ -417,6 +417,6 @@ var SIE_QUESTIONS_YT_GURU44 = [
     },
     "answer": "B",
     "explanation": "The correct choice (B) is: “Risk that cannot be diversified away”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU44)"
+    "source": "YouTube: Series 7 Guru (guru44)"
   }
 ];

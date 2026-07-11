@@ -528,7 +528,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "an FHLMC bond."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “a U.S. Treasury bond.”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (A) is: “a U.S. Treasury bond.”. U.S. Treasury interest is exempt from <b>state and local (city) income tax</b> (though not federal) — so a Treasury avoids exactly the state + city taxes this client wants to dodge. An out-of-state municipal bond (C) is only exempt from <b>federal</b> tax; it is still subject to the client's home state and city tax, so it does NOT solve the problem. GNMA/FHLMC (B, D) are fully taxable at all levels.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {

@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "permission in writing."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “authorization by a principal.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU14)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "the name of the investment advisor."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “the share class or classes offered by the fund.”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
     "source": "YouTube: Series 7 Guru (GURU14)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "II and III"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “I and III”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (GURU14)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "Yield to call (YTC) is the same as yield to maturity (YTM)."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Yield to call (YTC) is the same as yield to maturity (YTM).”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (GURU14)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "$225,000 for the savings account, $100,000 for the custodial account, and nothing for the checking account."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “the entire $565,000.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU14)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "The next price below 39 after the market falls to 39"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “The next price below 39 after the market falls to 39”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU14)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "II and IV"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “I and IV”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU14)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "earnings from referred business from existing clients would be eligible for payment."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “earnings from referred business from existing clients would be eligible for payment.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU14)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "Sell the company's stock short"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Purchase a put option”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU14)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "30 days"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “No stated time limit”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU14)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "Initial public offering"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Private (nonpublic) securities offering”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
     "source": "YouTube: Series 7 Guru (GURU14)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "6%"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “3%”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (GURU14)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "must all be convertible shares."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “all have preference over the issuer's common shares.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU14)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "must receive a total of 9% in any year the board declares the 6% participating be paid."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “could receive an additional 3% over the stated 3% dividend if the board declares it.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU14)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "a description of how the proceeds raised from the sale will be used must be disclosed."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “the names and addresses of company officers and directors, their salaries, and a five-year business history of each must be shown.”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
     "source": "YouTube: Series 7 Guru (GURU14)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "the exchanges where the shares will trade."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “the SEC.”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
     "source": "YouTube: Series 7 Guru (GURU14)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "Sale of $10 million of U.S. Treasury bonds by a broker-dealer acting as a market maker"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Sale of $10 million of corporate bond by a broker-dealer acting as an underwriter”. This falls under <b>1 - Capital Markets</b>. Key principle: The primary market is where issuers sell new securities to investors.",
     "source": "YouTube: Series 7 Guru (GURU14)"
   }
 ];

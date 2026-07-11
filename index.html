@@ -43,8 +43,16 @@
   .choice.correct{border-color:var(--good);background:#10331c;color:#aff5c8}
   .choice.wrong{border-color:var(--bad);background:#3a1416;color:#ffc1c0}
   .choice .tag{float:right;font-size:11px;font-weight:700}
-  .exp{background:var(--panel2);border-left:3px solid var(--acc);padding:13px 15px;border-radius:0 9px 9px 0;margin-top:14px;font-size:14px}
+  .exp{background:var(--panel2);border-left:3px solid var(--acc);padding:13px 15px;border-radius:0 9px 9px 0;margin-top:14px;font-size:14px;line-height:1.5}
   .exp b{color:var(--acc2)}
+  .exp-head{font-weight:800;font-size:15px;margin-bottom:8px}
+  .exp-head.ok{color:var(--good)}
+  .exp-head.no{color:var(--bad)}
+  .exp-why{margin-bottom:8px}
+  .exp-why b{color:var(--acc2)}
+  .exp-src{border-top:1px dashed var(--line);padding-top:8px;margin-top:4px}
+  .exp-from{color:var(--mut)}
+  .revrow .exp-why{margin:4px 0}
   .qmeta{display:flex;justify-content:space-between;align-items:center;font-size:12px;color:var(--mut);margin-bottom:6px}
   .progressline{font-size:12px;color:var(--mut);margin-bottom:14px}
   .result-big{text-align:center;padding:10px 0}
@@ -272,701 +280,257 @@
 <div class="toast" id="toast"></div>
 
 <script src="questions.js"></script>
+<script src="questions_ach.js"></script>
+<script src="questions_ai75.js"></script>
+<script src="questions_oep.js"></script>
 <script src="questions_round2.js"></script>
-<script src="questions_youtube_guru1.js"></script>
-<script src="questions_youtube_guru44.js"></script>
-<script src="questions_youtube_guru43.js"></script>
-<script src="questions_youtube_guru42.js"></script>
-<script src="questions_youtube_guru41.js"></script>
-<script src="questions_youtube_guru40.js"></script>
-<script src="questions_youtube_guru39.js"></script>
-<script src="questions_youtube_guru38.js"></script>
-<script src="questions_youtube_guru37.js"></script>
-<script src="questions_youtube_guru36.js"></script>
-<script src="questions_youtube_guru35.js"></script>
-<script src="questions_youtube_guru34.js"></script>
-<script src="questions_youtube_guru33.js"></script>
-<script src="questions_youtube_guru32.js"></script>
-<script src="questions_youtube_guru31.js"></script>
-<script src="questions_youtube_guru30.js"></script>
-<script src="questions_youtube_guru29.js"></script>
-<script src="questions_youtube_guru28.js"></script>
-<script src="questions_youtube_guru27.js"></script>
-<script src="questions_youtube_guru26.js"></script>
-<script src="questions_youtube_guru25.js"></script>
-<script src="questions_youtube_guru24.js"></script>
-<script src="questions_youtube_guru23.js"></script>
-<script src="questions_youtube_guru22.js"></script>
+<script src="questions_series65.js"></script>
+<script src="questions_series66.js"></script>
+<script src="questions_series7.js"></script>
 <script src="questions_udemy1.js"></script>
 <script src="questions_udemy2.js"></script>
 <script src="questions_udemy3.js"></script>
-<script src="questions_youtube_guru21.js"></script>
-<script src="questions_youtube_guru20.js"></script>
-<script src="questions_youtube_guru19.js"></script>
-<script src="questions_youtube_guru18.js"></script>
-<script src="questions_youtube_knop2.js"></script>
-<script src="questions_youtube_guru17.js"></script>
-<script src="questions_youtube_guru16.js"></script>
-<script src="questions_youtube_pm3.js"></script>
-<script src="questions_youtube_guru15.js"></script>
-<script src="questions_youtube_guru14.js"></script>
-<script src="questions_youtube_guru13.js"></script>
-<script src="questions_youtube_knop1.js"></script>
-<script src="questions_youtube_guru12.js"></script>
-<script src="questions_youtube_guru11.js"></script>
-<script src="questions_youtube_pm1.js"></script>
-<script src="questions_youtube_guru9.js"></script>
-<script src="questions_youtube_guru8.js"></script>
-<script src="questions_youtube_guru7.js"></script>
-<script src="questions_youtube_guru6.js"></script>
-<script src="questions_youtube_guru5.js"></script>
-<script src="questions_youtube_guru4.js"></script>
-<script src="questions_youtube_guru3.js"></script>
-<script src="questions_youtube_guru2.js"></script>
-<script src="questions_youtube_guru10.js"></script>
-<script src="questions_youtube_ca4.js"></script>
-<script src="questions_youtube_ca3.js"></script>
-<script src="questions_youtube_ca2.js"></script>
 <script src="questions_youtube_ca1.js"></script>
-<script src="questions_oep.js"></script>
-<script src="questions_ai75.js"></script>
+<script src="questions_youtube_ca2.js"></script>
+<script src="questions_youtube_ca3.js"></script>
+<script src="questions_youtube_ca4.js"></script>
+<script src="questions_youtube_guru1.js"></script>
+<script src="questions_youtube_guru10.js"></script>
+<script src="questions_youtube_guru11.js"></script>
+<script src="questions_youtube_guru12.js"></script>
+<script src="questions_youtube_guru13.js"></script>
+<script src="questions_youtube_guru14.js"></script>
+<script src="questions_youtube_guru15.js"></script>
+<script src="questions_youtube_guru16.js"></script>
+<script src="questions_youtube_guru17.js"></script>
+<script src="questions_youtube_guru18.js"></script>
+<script src="questions_youtube_guru19.js"></script>
+<script src="questions_youtube_guru2.js"></script>
+<script src="questions_youtube_guru20.js"></script>
+<script src="questions_youtube_guru21.js"></script>
+<script src="questions_youtube_guru22.js"></script>
+<script src="questions_youtube_guru23.js"></script>
+<script src="questions_youtube_guru24.js"></script>
+<script src="questions_youtube_guru25.js"></script>
+<script src="questions_youtube_guru26.js"></script>
+<script src="questions_youtube_guru27.js"></script>
+<script src="questions_youtube_guru28.js"></script>
+<script src="questions_youtube_guru29.js"></script>
+<script src="questions_youtube_guru3.js"></script>
+<script src="questions_youtube_guru30.js"></script>
+<script src="questions_youtube_guru31.js"></script>
+<script src="questions_youtube_guru32.js"></script>
+<script src="questions_youtube_guru33.js"></script>
+<script src="questions_youtube_guru34.js"></script>
+<script src="questions_youtube_guru35.js"></script>
+<script src="questions_youtube_guru36.js"></script>
+<script src="questions_youtube_guru37.js"></script>
+<script src="questions_youtube_guru38.js"></script>
+<script src="questions_youtube_guru39.js"></script>
+<script src="questions_youtube_guru4.js"></script>
+<script src="questions_youtube_guru40.js"></script>
+<script src="questions_youtube_guru41.js"></script>
+<script src="questions_youtube_guru42.js"></script>
+<script src="questions_youtube_guru43.js"></script>
+<script src="questions_youtube_guru44.js"></script>
+<script src="questions_youtube_guru5.js"></script>
+<script src="questions_youtube_guru6.js"></script>
+<script src="questions_youtube_guru7.js"></script>
+<script src="questions_youtube_guru8.js"></script>
+<script src="questions_youtube_guru9.js"></script>
+<script src="questions_youtube_knop1.js"></script>
+<script src="questions_youtube_knop2.js"></script>
+<script src="questions_youtube_pm1.js"></script>
+<script src="questions_youtube_pm3.js"></script>
 <script>
 /* Concatenate all banks */
-if (typeof SIE_QUESTIONS_R2 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_R2);
-}
-if (typeof SIE_QUESTIONS_YT !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT);
-}
-if (typeof SIE_QUESTIONS_YT_GURU1 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU1);
-}
-if (typeof SIE_QUESTIONS_YT_GURU44 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU44);
-}
-if (typeof SIE_QUESTIONS_YT_GURU43 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU43);
-}
-if (typeof SIE_QUESTIONS_YT_GURU42 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU42);
-}
-if (typeof SIE_QUESTIONS_YT_GURU41 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU41);
-}
-if (typeof SIE_QUESTIONS_YT_GURU40 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU40);
-}
-if (typeof SIE_QUESTIONS_YT_GURU39 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU39);
-}
-if (typeof SIE_QUESTIONS_YT_GURU38 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU38);
-}
-if (typeof SIE_QUESTIONS_YT_GURU37 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU37);
-}
-if (typeof SIE_QUESTIONS_YT_GURU36 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU36);
-}
-if (typeof SIE_QUESTIONS_YT_GURU35 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU35);
-}
-if (typeof SIE_QUESTIONS_YT_GURU34 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU34);
-}
-if (typeof SIE_QUESTIONS_YT_GURU33 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU33);
-}
-if (typeof SIE_QUESTIONS_YT_GURU32 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU32);
-}
-if (typeof SIE_QUESTIONS_YT_GURU31 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU31);
-}
-if (typeof SIE_QUESTIONS_YT_GURU30 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU30);
-}
-if (typeof SIE_QUESTIONS_YT_GURU29 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU29);
-}
-if (typeof SIE_QUESTIONS_YT_GURU28 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU28);
-}
-if (typeof SIE_QUESTIONS_YT_GURU27 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU27);
-}
-if (typeof SIE_QUESTIONS_YT_GURU26 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU26);
-}
-if (typeof SIE_QUESTIONS_YT_GURU25 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU25);
-}
-if (typeof SIE_QUESTIONS_YT_GURU24 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU24);
-}
-if (typeof SIE_QUESTIONS_YT_GURU23 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU23);
-}
-if (typeof SIE_QUESTIONS_YT_GURU22 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU22);
-}
-if (typeof SIE_QUESTIONS_UDEMY_UDEMY1 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_UDEMY_UDEMY1);
-}
-if (typeof SIE_QUESTIONS_UDEMY_UDEMY2 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_UDEMY_UDEMY2);
-}
-if (typeof SIE_QUESTIONS_UDEMY_UDEMY3 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_UDEMY_UDEMY3);
-}
-if (typeof SIE_QUESTIONS_YT_GURU21 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU21);
-}
-if (typeof SIE_QUESTIONS_YT_GURU20 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU20);
-}
-if (typeof SIE_QUESTIONS_YT_GURU19 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU19);
-}
-if (typeof SIE_QUESTIONS_YT_GURU18 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU18);
-}
-if (typeof SIE_QUESTIONS_YT_KNOP2 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_KNOP2);
-}
-if (typeof SIE_QUESTIONS_YT_GURU17 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU17);
-}
-if (typeof SIE_QUESTIONS_YT_GURU16 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU16);
-}
-if (typeof SIE_QUESTIONS_YT_PM3 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_PM3);
-}
-if (typeof SIE_QUESTIONS_YT_GURU15 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU15);
-}
-if (typeof SIE_QUESTIONS_YT_GURU14 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU14);
-}
-if (typeof SIE_QUESTIONS_YT_GURU13 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU13);
-}
-if (typeof SIE_QUESTIONS_YT_KNOP1 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_KNOP1);
-}
-if (typeof SIE_QUESTIONS_YT_GURU12 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU12);
-}
-if (typeof SIE_QUESTIONS_YT_GURU11 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU11);
-}
-if (typeof SIE_QUESTIONS_YT_PM1 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_PM1);
-}
-if (typeof SIE_QUESTIONS_YT_GURU9 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU9);
-}
-if (typeof SIE_QUESTIONS_YT_GURU8 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU8);
-}
-if (typeof SIE_QUESTIONS_YT_GURU7 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU7);
-}
-if (typeof SIE_QUESTIONS_YT_GURU6 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU6);
-}
-if (typeof SIE_QUESTIONS_YT_GURU5 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU5);
-}
-if (typeof SIE_QUESTIONS_YT_GURU4 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU4);
-}
-if (typeof SIE_QUESTIONS_YT_GURU3 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU3);
-}
-if (typeof SIE_QUESTIONS_YT_GURU2 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU2);
-}
-if (typeof SIE_QUESTIONS_YT_GURU10 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_GURU10);
-}
-if (typeof SIE_QUESTIONS_YT_CA4 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_CA4);
-}
-if (typeof SIE_QUESTIONS_YT_CA3 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_CA3);
-}
-if (typeof SIE_QUESTIONS_YT_CA2 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_CA2);
-}
-if (typeof SIE_QUESTIONS_YT_CA1 !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_CA1);
-}
-if (typeof SIE_QUESTIONS_OEP !== "undefined") {
-  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_OEP);
+if (typeof SIE_QUESTIONS === "undefined") { var SIE_QUESTIONS = []; }
+if (typeof SIE_QUESTIONS_ACH !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_ACH);
 }
 if (typeof SIE_QUESTIONS_AI75 !== "undefined") {
   SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_AI75);
 }
-/* ---------------- STATE ---------------- */
-const SEC_WEIGHT = {
-  "1 - Capital Markets":16,
-  "2 - Products & Risks":44,
-  "3 - Trading, Accounts & Prohibited":31,
-  "4 - Regulatory Framework":9
-};
-const STORE_KEY = "sie_study_machine_v1";
-let state = loadState();
-function loadState(){
-  try{ return JSON.parse(localStorage.getItem(STORE_KEY)) || {}; }catch(e){ return {}; }
+if (typeof SIE_QUESTIONS_OEP !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_OEP);
 }
-function saveState(){ try{ localStorage.setItem(STORE_KEY, JSON.stringify(state)); }catch(e){} }
-// state[qid] = {seen:int, correct:int, wrong:int}
-
-/* ---------------- NAV ---------------- */
-function show(page){
-  ['dash','prac','fc','lit','exam','imp'].forEach(p=>{
-    const el=document.getElementById(p); if(el) el.classList.toggle('hidden', p!==page);
-    const nav=document.getElementById('nav-'+p); if(nav) nav.classList.toggle('active', p===page);
-  });
-  if(page==='dash') renderDash();
-  if(page==='prac') renderPracSetup();
-  if(page==='fc') renderFcSetup();
-  if(page==='exam') renderMockSetupView();
-  if(page==='lit') renderLit();
+if (typeof SIE_QUESTIONS_ROUND2 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_ROUND2);
 }
-
-/* ---------------- DASHBOARD ---------------- */
-function renderDash(){
-  document.getElementById('st-total').textContent = SIE_QUESTIONS.length;
-  const ids = Object.keys(state);
-  const seen = ids.length;
-  let correct=0, total=0;
-  ids.forEach(id=>{ correct+=state[id].correct||0; total+=(state[id].correct||0)+(state[id].wrong||0); });
-  document.getElementById('st-seen').textContent = seen;
-  document.getElementById('st-acc').textContent = total? Math.round(correct/total*100)+'%':'0%';
-  const mastered = ids.filter(id=>state[id].wrong===0 && state[id].seen>=2).length;
-  document.getElementById('st-mastered').textContent = mastered;
-
-  // section bars
-  const secs = {};
-  SIE_QUESTIONS.forEach(q=>{ secs[q.section]=(secs[q.section]||0)+1; });
-  let html='';
-  Object.keys(SEC_WEIGHT).forEach(sec=>{
-    const tot = secs[sec]||0;
-    let sc=0,tt=0;
-    SIE_QUESTIONS.filter(q=>q.section===sec).forEach(q=>{
-      const s=state[q.id]; if(s){sc+=s.correct||0; tt+=(s.correct||0)+(s.wrong||0);}
-    });
-    const acc = tt? Math.round(sc/tt*100):0;
-    const w = SEC_WEIGHT[sec];
-    html += `<div class="secrow"><span class="name">${sec}</span>
-      <div class="bar" style="flex:2"><i style="width:${acc}%"></i></div>
-      <span class="pct">${acc}% · ${tot}q</span></div>
-      <div class="small" style="text-align:right;margin:-4px 0 8px">exam weight ${w}%</div>`;
-  });
-  document.getElementById('secbars').innerHTML = html;
-
-  // weak areas
-  const weak = SIE_QUESTIONS.map(q=>{
-    const s=state[q.id]; const acc = s? (s.correct||0)/((s.correct||0)+(s.wrong||0)||1):0;
-    const seen = s? (s.seen||0):0;
-    return {q, acc, seen};
-  }).filter(x=> x.seen===0 || x.acc<0.7).sort((a,b)=>a.acc-b.acc).slice(0,8);
-  let wh = weak.length? '' : '<p class="muted">No weak areas yet — start a quiz.</p>';
-  weak.forEach(x=>{
-    const tag = x.seen===0? 'UNSEEN' : Math.round(x.acc*100)+'%';
-    wh += `<div class="secrow"><span class="name">${x.q.stem.slice(0,70)}…</span>
-      <span class="pill" style="border-color:${x.seen===0?'var(--mut)':'var(--bad)'};color:${x.seen===0?'var(--mut)':'var(--bad)'}">${tag}</span></div>`;
-  });
-  document.getElementById('weak').innerHTML = wh;
-  document.getElementById('streak-box').innerHTML = renderStreak();
+if (typeof SIE_QUESTIONS_SERIES65 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_SERIES65);
 }
-
-/* ---------------- PRACTICE ---------------- */
-let quiz = [], qi=0, quizCorrect=0;
-function startQuick15(){ startQuizWith('all', 15); }
-function startMistakes(){
-  const wrong = SIE_QUESTIONS.filter(q=>{ const s=state[q.id]; return s && (s.wrong||0)>0; });
-  if(!wrong.length){ toast('No mistakes yet — run a quiz first'); return; }
-  ['dash','prac','fc','lit','exam','imp'].forEach(p=>{
-    const el=document.getElementById(p); if(el) el.classList.toggle('hidden', p!=='prac');
-    const nav=document.getElementById('nav-'+p); if(nav) nav.classList.toggle('active', p==='prac');
-  });
-  quiz = wrong.slice();
-  for(let i=quiz.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[quiz[i],quiz[j]]=[quiz[j],quiz[i]];}
-  qi=0; quizCorrect=0;
-  document.getElementById('prac-setup').classList.add('hidden');
-  document.getElementById('prac-run').classList.remove('hidden');
-  document.getElementById('prac-result').classList.add('hidden');
-  show('prac'); renderQ();
+if (typeof SIE_QUESTIONS_SERIES66 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_SERIES66);
 }
-function renderPracSetup(){
-  document.getElementById('prac-setup').classList.remove('hidden');
-  document.getElementById('prac-run').classList.add('hidden');
-  document.getElementById('prac-result').classList.add('hidden');
-  const secs = {};
-  SIE_QUESTIONS.forEach(q=>{ secs[q.section]=(secs[q.section]||0)+1; });
-  let html = `<button class="btn primary" onclick="startQuiz('all')">All Sections</button>`;
-  Object.keys(secs).forEach(s=>{ html += `<button class="btn" onclick="startQuiz('${s}')">${s} (${secs[s]})</button>`; });
-  document.getElementById('sec-buttons').innerHTML = html;
+if (typeof SIE_QUESTIONS_SERIES7 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_SERIES7);
 }
-function startQuiz(section){ startQuizWith(section); }
-function beginQuiz(){
-  const sel = document.querySelector('#sec-buttons .active');
-  startQuizWith(sel? sel.getAttribute('data-sec') : 'all');
+if (typeof SIE_QUESTIONS_UDEMY1 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_UDEMY1);
 }
-function startQuizWith(section, fixedN){
-  // ensure the Practice view is the active section (fixes dashboard shortcuts)
-  ['dash','prac','fc','lit','exam','imp'].forEach(p=>{
-    const el=document.getElementById(p); if(el) el.classList.toggle('hidden', p!=='prac');
-    const nav=document.getElementById('nav-'+p); if(nav) nav.classList.toggle('active', p==='prac');
-  });
-  let pool = SIE_QUESTIONS.slice();
-  if(section && section!=='all') pool = pool.filter(q=>q.section===section);
-  const onlyweak = document.getElementById('onlyweak').checked;
-  if(onlyweak){
-    const w = pool.filter(q=>{ const s=state[q.id]; return !s || (s.wrong||0)>0 || (s.seen||0)===0; });
-    if(w.length) pool = w;
-  }
-  let n = fixedN || document.getElementById('qcount').value;
-  if(n==='all') n = pool.length; else n = Math.min(parseInt(n), pool.length);
-  // shuffle
-  for(let i=pool.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[pool[i],pool[j]]=[pool[j],pool[i]];}
-  quiz = pool.slice(0,n);
-  qi=0; quizCorrect=0;
-  document.getElementById('prac-setup').classList.add('hidden');
-  document.getElementById('prac-run').classList.remove('hidden');
-  document.getElementById('prac-result').classList.add('hidden');
-  renderQ();
+if (typeof SIE_QUESTIONS_UDEMY2 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_UDEMY2);
 }
-function renderQ(){
-  const q = quiz[qi];
-  document.getElementById('q-section').textContent = q.section;
-  document.getElementById('q-count').textContent = `Q ${qi+1} / ${quiz.length}`;
-  document.getElementById('q-progress').textContent = '';
-  document.getElementById('q-stem').textContent = q.stem;
-  const c = document.getElementById('q-choices'); c.innerHTML='';
-  Object.keys(q.choices).forEach(k=>{
-    const b=document.createElement('button');
-    b.className='choice'; b.textContent=q.choices[k]; b.onclick=()=>answer(k,b,q);
-    c.appendChild(b);
-  });
-  document.getElementById('q-exp').classList.add('hidden');
-  document.getElementById('btn-next').classList.add('hidden');
-  document.getElementById('btn-finish').classList.add('hidden');
+if (typeof SIE_QUESTIONS_UDEMY3 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_UDEMY3);
 }
-function answer(letter,btn,q){
-  if(document.getElementById('q-exp').classList.contains('hidden')===false) return;
-  const correct = letter===q.answer;
-  // mark choices
-  document.querySelectorAll('#q-choices .choice').forEach(b=>{
-    const l = Object.keys(q.choices).find(k=>q.choices[k]===b.textContent);
-    if(l===q.answer){ b.classList.add('correct'); }
-    if(b===btn && !correct){ b.classList.add('wrong'); }
-    b.onclick=null;
-  });
-  // state
-  if(!state[q.id]) state[q.id]={seen:0,correct:0,wrong:0};
-  state[q.id].seen++;
-  if(correct){ state[q.id].correct++; quizCorrect++; }
-  else state[q.id].wrong++;
-  saveState();
-  // explanation
-  const e=document.getElementById('q-exp');
-  e.innerHTML = `<b>Answer: ${q.answer}.</b> ${q.explanation} <span class="muted">— source: ${q.source||'bank'}</span>`;
-  e.classList.remove('hidden');
-  if(qi===quiz.length-1) document.getElementById('btn-finish').classList.remove('hidden');
-  else document.getElementById('btn-next').classList.remove('hidden');
-  toast(correct?'Correct ✓':'Incorrect ✗');
+if (typeof SIE_QUESTIONS_YOUTUBE_CA1 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_CA1);
 }
-function nextQ(){ qi++; renderQ(); }
-function finishQuiz(){
-  const pct = Math.round(quizCorrect/quiz.length*100);
-  document.getElementById('prac-run').classList.add('hidden');
-  const r=document.getElementById('prac-result'); r.classList.remove('hidden');
-  document.getElementById('r-score').textContent = pct+'%';
-  document.getElementById('r-score').style.color = pct>=70?'var(--good)':'var(--bad)';
-  document.getElementById('r-detail').textContent = `${quizCorrect}/${quiz.length} correct — ${pct>=70?'Above the 70% pass line ✓':'Below the 70% pass line'}`;
+if (typeof SIE_QUESTIONS_YOUTUBE_CA2 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_CA2);
 }
-function resetProgress(){
-  if(confirm('Erase all progress?')){ state={}; saveState(); renderDash(); toast('Progress reset'); }
+if (typeof SIE_QUESTIONS_YOUTUBE_CA3 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_CA3);
 }
-
-/* ---------------- FLASHCARDS ---------------- */
-let fcList=[], fcIdx=0, fcFlipped=false;
-function renderFcSetup(){
-  const secs={}; SIE_QUESTIONS.forEach(q=>{secs[q.section]=(secs[q.section]||0)+1;});
-  let html=`<button class="btn primary" onclick="startFc('all')">All Sections</button>`;
-  Object.keys(secs).forEach(s=>{ html+=`<button class="btn" data-fc="${s}" onclick="startFc('${s}')">${s} (${secs[s]})</button>`;});
-  document.getElementById('fc-sec').innerHTML=html;
-  document.getElementById('fc-controls').style.display='none';
+if (typeof SIE_QUESTIONS_YOUTUBE_CA4 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_CA4);
 }
-function startFc(sec){
-  fcList = SIE_QUESTIONS.filter(q=> sec==='all'||q.section===sec);
-  for(let i=fcList.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[fcList[i],fcList[j]]=[fcList[j],fcList[i]];}
-  fcIdx=0; showFc();
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU1 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU1);
 }
-function showFc(){
-  if(!fcList.length) return;
-  const q=fcList[fcIdx];
-  document.getElementById('fc-q').textContent=q.stem;
-  const a=document.getElementById('fc-a');
-  a.textContent='Answer: '+q.answer+' — '+q.choices[q.answer]+(q.explanation?('  '+q.explanation):'');
-  a.classList.add('hidden');
-  document.getElementById('fc-flip').classList.remove('hidden');
-  fcFlipped=false;
-  document.getElementById('fc-controls').style.display='flex';
-  document.getElementById('fc-pos').textContent=`${fcIdx+1} / ${fcList.length}`;
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU10 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU10);
 }
-function flip(){
-  fcFlipped=!fcFlipped;
-  document.getElementById('fc-a').classList.toggle('hidden',!fcFlipped);
-  document.getElementById('fc-flip').classList.toggle('hidden',fcFlipped);
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU11 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU11);
 }
-function fcKnown(){ toast('Marked known'); fcNext(); }
-function fcAgain(){ toast('Keep studying'); fcNext(); }
-function fcNext(){ if(fcIdx<fcList.length-1){fcIdx++; showFc();} }
-function fcPrev(){ if(fcIdx>0){fcIdx--; showFc();} }
-
-/* ---------------- IMPORT / EXPORT ---------------- */
-function doImport(){
-  const txt=document.getElementById('imp-text').value.trim();
-  if(!txt){ document.getElementById('imp-msg').textContent='Nothing to import.'; return; }
-  try{
-    let arr=JSON.parse(txt);
-    if(!Array.isArray(arr)) arr=[arr];
-    let added=0;
-    arr.forEach(o=>{
-      if(o && o.stem && o.choices && o.answer){
-        o.id='imp-'+(o.id||(Date.now()+'-'+added));
-        o.source=o.source||'imported';
-        SIE_QUESTIONS.push(o); added++;
-      }
-    });
-    if(added){ document.getElementById('imp-msg').style.color='var(--good)';
-      document.getElementById('imp-msg').textContent=`Added ${added} questions. Bank now ${SIE_QUESTIONS.length}. Re-open Dashboard/Practice to see them.`;
-      toast(`Imported ${added} ✔`);
-      document.getElementById('imp-text').value='';
-    } else { document.getElementById('imp-msg').textContent='No valid question objects found (need stem, choices, answer).'; }
-  }catch(e){ document.getElementById('imp-msg').style.color='var(--bad)'; document.getElementById('imp-msg').textContent='JSON parse error: '+e.message; }
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU12 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU12);
 }
-function exportBank(){
-  const blob=new Blob([JSON.stringify(SIE_QUESTIONS,null,2)],{type:'application/json'});
-  const a=document.createElement('a'); a.href=URL.createObjectURL(blob);
-  a.download='sie_bank_export.json'; a.click(); toast('Exported');
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU13 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU13);
 }
-function loadFile(e){
-  const f=e.target.files[0]; if(!f) return;
-  const r=new FileReader();
-  r.onload=ev=>{
-    let txt=ev.target.result.replace(/^const\s+SIE_QUESTIONS\s*=\s*/,'').replace(/;\s*$/,'');
-    try{
-      let arr=JSON.parse(txt); if(!Array.isArray(arr)) arr=[arr];
-      let added=0;
-      arr.forEach(o=>{ if(o&&o.stem&&o.choices&&o.answer){ o.id=o.id||('file-'+(Date.now()+'-'+added)); o.source=o.source||'file'; SIE_QUESTIONS.push(o); added++; }});
-      document.getElementById('imp-msg').style.color='var(--good)';
-      document.getElementById('imp-msg').textContent=`Loaded ${added} questions from file. Bank now ${SIE_QUESTIONS.length}.`;
-      toast(`Loaded ${added} ✔`);
-    }catch(err){ document.getElementById('imp-msg').style.color='var(--bad)'; document.getElementById('imp-msg').textContent='Could not parse file: '+err.message; }
-  };
-  r.readAsText(f);
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU14 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU14);
 }
-
-  /* ---------------- LITERATURE ---------------- */
-const LIT_ITEMS = [
-  {file:"literature/FINRA_SIE_Content_Outline.pdf", title:"FINRA SIE Content Outline (official)", type:"PDF", desc:"The authoritative blueprint — every topic and its exam weight. Start here.", tags:"official"},
-  {file:"literature/STC_SIE_Learning_Guide_v08.pdf", title:"STC SIE Learning Guide", type:"PDF", desc:"Full 2.9MB vendor study manual covering all 4 functions. Deep reading.", tags:"vendor"},
-  {file:"literature/Udemy_SIE_Course_Notes_May2026.pdf", title:"Udemy SIE Prep Course — Notes (May 2026)", type:"PDF", desc:"30K-word 2026 course notes: all 4 sections, current rules (80Q=75+5, 70% pass). Best new reading.", tags:"course"},
-  {file:"literature/Udemy_SIE_Course_Slides_May2026.pdf", title:"Udemy SIE Prep Course — Slides (May 2026)", type:"PDF", desc:"Full slide deck companion to the course notes. Visual overview of every topic.", tags:"course"},
-  {file:"literature/SIE_Cheat_Sheet_2026.pdf", title:"SIE Cheat Sheet 2026 (Revised)", type:"PDF", desc:"Condensed one-page-style reference for last-minute review.", tags:"cheatsheet"},
-  {file:"literature/careeremployer_SIE_guide.html", title:"Career Employer — FREE SIE Study Guide 2026", type:"HTML", desc:"Module-by-module guide with checkpoint quizzes & flashcards. 64KB of readable text.", tags:"guide"},
-  {file:"literature/siepracticeexam_guide.html", title:"SIEPracticeExam.com — Free Study Guide", type:"HTML", desc:"Four-section guide mapped to FINRA outline, with a review quiz per section.", tags:"guide"},
-  {file:"literature/openexam_prep_guide.html", title:"Open Exam Prep — SIE Study Guide", type:"HTML", desc:"Comprehensive free guide with per-section practice + AI hints.", tags:"guide"},
-  {file:"literature/mometrix_study_guide.html", title:"Mometrix — SIE Study Guide (overview)", type:"HTML", desc:"Mometrix's topic breakdown and exam-strategy page.", tags:"guide"}
-];
-function renderLit(){
-  let html='';
-  LIT_ITEMS.forEach(it=>{
-    const isPdf = it.type==='PDF';
-    const open = isPdf ? `window.open('${it.file}','_blank')` : `window.open('${it.file}','_blank')`;
-    html += `<div class="revrow" style="align-items:center">
-      <div style="flex:1">
-        <div style="font-weight:700">${it.title}</div>
-        <div class="small">${it.desc}</div>
-      </div>
-      <span class="pill">${it.type}</span>
-      <button class="btn primary" onclick="${open}">Open</button>
-    </div>`;
-  });
-  document.getElementById('lit-list').innerHTML = html;
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU15 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU15);
 }
-
-/* ---------------- MOCK EXAM ---------------- */
-const EXAM_BLUEPRINT = {"1 - Capital Markets":12,"2 - Products & Risks":33,"3 - Trading, Accounts & Prohibited":23,"4 - Regulatory Framework":7};
-let mock={}, mtimer=null;
-function renderMockSetupView(){
-  document.getElementById('exam-setup').classList.remove('hidden');
-  document.getElementById('exam-run').classList.add('hidden');
-  document.getElementById('exam-result').classList.add('hidden');
-  document.getElementById('exam-review').classList.add('hidden');
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU16 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU16);
 }
-function blueprintSample(){
-  // build a 75-q list matching the FINRA section counts exactly
-  const bySec={}; SIE_QUESTIONS.forEach(q=>{(bySec[q.section]=bySec[q.section]||[]).push(q);});
-  const pick=(sec,n)=>{
-    const pool=bySec[sec]?bySec[sec].slice():[];
-    for(let i=pool.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[pool[i],pool[j]]=[pool[j],pool[i]];}
-    return pool.slice(0,Math.min(n,pool.length));
-  };
-  let list=[];
-  Object.keys(EXAM_BLUEPRINT).forEach(sec=>{ list=list.concat(pick(sec,EXAM_BLUEPRINT[sec])); });
-  // add 5 unscored pretest questions (drawn from anywhere, marked unscored)
-  const extra=pick("2 - Products & Risks",0); // placeholder
-  const allPool=SIE_QUESTIONS.slice();
-  for(let i=allPool.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[allPool[i],allPool[j]]=[allPool[j],allPool[i]];}
-  let scored=list.filter(q=>Object.keys(EXAM_BLUEPRINT).includes(q.section));
-  const pretest=allPool.filter(q=>!scored.includes(q)).slice(0,5).map(q=>({q,scored:false}));
-  // interleave pretest randomly among scored
-  scored=scored.map(q=>({q,scored:true}));
-  const combined=scored.concat(pretest);
-  for(let i=combined.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[combined[i],combined[j]]=[combined[j],combined[i]];}
-  return combined;
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU17 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU17);
 }
-function startMock(kind){
-  ['dash','prac','fc','lit','exam','imp'].forEach(p=>{
-    const el=document.getElementById(p); if(el) el.classList.toggle('hidden', p!=='exam');
-    const nav=document.getElementById('nav-'+p); if(nav) nav.classList.toggle('active', p==='exam');
-  });
-  const full = kind==='full';
-  const sampled = blueprintSample();
-  mock = {
-    items: full? sampled : sampled.slice(0,40),
-    idx:0, answers:{}, flagged:{}, duration: full?105:55, endAt:0, scoredn:0
-  };
-  mock.endAt = Date.now()+mock.duration*60*1000;
-  mock.scoredn = mock.items.filter(i=>i.scored).length;
-  document.getElementById('exam-setup').classList.add('hidden');
-  document.getElementById('exam-result').classList.add('hidden');
-  document.getElementById('exam-review').classList.add('hidden');
-  document.getElementById('exam-run').classList.remove('hidden');
-  renderExamQ(); startExamClock();
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU18 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU18);
 }
-function startExamClock(){
-  if(mtimer) clearInterval(mtimer);
-  const tick=()=>{
-    const rem=Math.max(0,mock.endAt-Date.now());
-    const m=Math.floor(rem/60000), s=Math.floor((rem%60000)/1000);
-    const el=document.getElementById('exam-timer');
-    el.textContent=`${m}:${String(s).padStart(2,'0')}`;
-    el.className='timer'+(rem<5*60000?' crit':(rem<15*60000?' warn':''));
-    if(rem<=0){ submitMock(); }
-  };
-  tick(); mtimer=setInterval(tick,1000);
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU19 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU19);
 }
-function renderExamQ(){
-  const it=mock.items[mock.idx];
-  document.getElementById('exam-qcount').textContent=`Question ${mock.idx+1} / ${mock.items.length}`;
-  document.getElementById('exam-section').textContent=it.q.section+(it.scored?'':' · unscored practice');
-  document.getElementById('exam-stem').textContent=it.q.stem;
-  const c=document.getElementById('exam-choices'); c.innerHTML='';
-  Object.keys(it.q.choices).forEach(k=>{
-    const b=document.createElement('button');
-    b.className='choice'+(mock.answers[mock.idx]===k?' sel':'');
-    b.textContent=it.q.choices[k];
-    b.onclick=()=>{ mock.answers[mock.idx]=k; renderExamQ(); };
-    c.appendChild(b);
-  });
-  const fg=document.getElementById('exam-flag');
-  fg.className='flagbtn'+(mock.flagged[mock.idx]?' on':'');
-  // grid
-  const g=document.getElementById('exam-grid'); g.innerHTML='';
-  mock.items.forEach((it2,i)=>{
-    const b=document.createElement('button');
-    b.textContent=i+1;
-    if(mock.answers[i]!==undefined) b.classList.add('answered');
-    if(mock.flagged[i]) b.classList.add('flag');
-    if(i===mock.idx) b.classList.add('cur');
-    b.onclick=()=>{ mock.idx=i; renderExamQ(); };
-    g.appendChild(b);
-  });
-  const answered=mock.items.filter((_,i)=>mock.answers[i]!==undefined).length;
-  const flagged=Object.keys(mock.flagged).length;
-  document.getElementById('exam-flagstat').textContent=`answered ${answered}/${mock.items.length} · flagged ${flagged}`;
-  document.getElementById('exam-nextbtn').classList.toggle('hidden', mock.idx===mock.items.length-1);
-  document.getElementById('exam-submitbtn').classList.toggle('hidden', mock.idx!==mock.items.length-1);
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU2 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU2);
 }
-function toggleFlag(){ mock.flagged[mock.idx]=!mock.flagged[mock.idx]; renderExamQ(); }
-function examPrev(){ if(mock.idx>0){mock.idx--; renderExamQ();} }
-function examNext(){ if(mock.idx<mock.items.length-1){mock.idx++; renderExamQ();} }
-function submitMock(){
-  if(mtimer) clearInterval(mtimer);
-  const unsealed=mock.items.filter((_,i)=>mock.answers[i]===undefined).length;
-  if(unsealed>0 && !confirm(`You have ${unsealed} unanswered question(s). Submit anyway?`)){ startExamClock(); return; }
-  let correct=0; const bySec={};
-  mock.items.forEach((it,i)=>{
-    if(!it.scored) return;
-    const sec=it.q.section; bySec[sec]=bySec[sec]||{tot:0,cor:0};
-    bySec[sec].tot++;
-    if(mock.answers[i]===it.q.answer){ correct++; bySec[sec].cor++; }
-  });
-  const pct=Math.round(correct/mock.scoredn*100);
-  document.getElementById('exam-run').classList.add('hidden');
-  const r=document.getElementById('exam-result'); r.classList.remove('hidden');
-  document.getElementById('exam-rscore').textContent=pct+'%';
-  document.getElementById('exam-rscore').style.color=pct>=70?'var(--good)':'var(--bad)';
-  document.getElementById('exam-rdetail').textContent=`${correct}/${mock.scoredn} scored correct — ${pct>=70?'PASS ✓ above the 70% line':'FAIL · below the 70% line'}`;
-  let sh='<h2>By Section</h2>';
-  Object.keys(EXAM_BLUEPRINT).forEach(sec=>{
-    const s=bySec[sec]||{tot:0,cor:0};
-    const a=s.tot?Math.round(s.cor/s.tot*100):0;
-    sh+=`<div class="secrow"><span class="name">${sec}</span><div class="bar" style="flex:2"><i style="width:${a}%"></i></div><span class="pct">${a}% · ${s.cor}/${s.tot}</span></div>`;
-  });
-  document.getElementById('exam-rsecs').innerHTML=sh;
-  recordStreak();
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU20 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU20);
 }
-function reviewMock(){
-  document.getElementById('exam-result').classList.add('hidden');
-  const rv=document.getElementById('exam-review'); rv.classList.remove('hidden');
-  let html='';
-  mock.items.forEach((it,i)=>{
-    const sel=mock.answers[i]; const ok=sel===it.q.answer;
-    html+=`<div class="revrow"><span class="${ok?'ok':'no'}">${sel||'–'}:${it.q.answer}</span>
-      <div><div class="qstem" style="font-size:14px;margin:0 0 6px">${i+1}. ${it.q.stem}</div>
-      <div class="small">${it.q.choices[it.q.answer]} — ${it.q.explanation||''}</div></div></div>`;
-  });
-  document.getElementById('exam-revlist').innerHTML=html;
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU21 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU21);
 }
-
-/* ---------------- STUDY STREAK ---------------- */
-function todayKey(){ return new Date().toISOString().slice(0,10); }
-function recordStreak(){
-  try{
-    let s=JSON.parse(localStorage.getItem('sie_streak')||'{}');
-    const t=todayKey();
-    if(s.last!==t){ s.count = (s.last && daysBetween(s.last,t)===1)? s.count+1 : 1; s.last=t; }
-    localStorage.setItem('sie_streak',JSON.stringify(s));
-  }catch(e){}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU22 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU22);
 }
-function daysBetween(a,b){ const d1=new Date(a),d2=new Date(b); return Math.round((d2-d1)/86400000); }
-function renderStreak(){
-  try{
-    const s=JSON.parse(localStorage.getItem('sie_streak')||'{}');
-    if(s.count) return `<span class="streak">🔥 ${s.count}-day streak</span>`;
-  }catch(e){}
-  return '';
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU23 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU23);
 }
-
-/* ---------------- UTIL ---------------- */
-let toastT;
-function toast(msg,err){
-  const t=document.getElementById('toast'); t.textContent=msg;
-  t.className='toast show'+(err?' err':'');
-  clearTimeout(toastT); toastT=setTimeout(()=>t.className='toast',1400);
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU24 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU24);
 }
-// init
-(function(){ renderDash(); })();
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU25 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU25);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU26 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU26);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU27 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU27);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU28 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU28);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU29 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU29);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU3 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU3);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU30 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU30);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU31 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU31);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU32 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU32);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU33 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU33);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU34 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU34);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU35 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU35);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU36 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU36);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU37 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU37);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU38 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU38);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU39 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU39);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU4 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU4);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU40 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU40);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU41 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU41);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU42 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU42);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU43 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU43);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU44 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU44);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU5 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU5);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU6 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU6);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU7 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU7);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU8 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU8);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_GURU9 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU9);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_KNOP1 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_KNOP1);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_KNOP2 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_KNOP2);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_PM1 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_PM1);
+}
+if (typeof SIE_QUESTIONS_YOUTUBE_PM3 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_PM3);
+}
 </script>
 </body>
 </html>

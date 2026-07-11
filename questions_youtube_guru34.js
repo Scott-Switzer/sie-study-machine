@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU34 = [
       "D": "I or II"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “II or III”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU34)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU34 = [
       "D": "Federal Deposit Insurance Corporation (FDIC)"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “National Public Finance Guarantee Corp. and AMBAC”. This falls under <b>4 - Regulatory Framework</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
     "source": "YouTube: Series 7 Guru (GURU34)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU34 = [
       "D": "a selling group member."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “a selling syndicate member.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU34)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU34 = [
       "D": "II and IV"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “I and III”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU34)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU34 = [
       "D": "50% government bond fund, 50% large-cap fund"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “50% large-cap stock fund, 40% municipal bond fund, 10% money market fund”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (GURU34)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU34 = [
       "D": "accumulation units are exchanged for annuity units."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “accumulation units are exchanged for annuity units.”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
     "source": "YouTube: Series 7 Guru (GURU34)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU34 = [
       "D": "$120,000"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “$900,000”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU34)"
   }
 ];

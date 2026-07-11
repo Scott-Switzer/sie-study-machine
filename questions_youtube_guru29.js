@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "MSRB"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “SEC”. This falls under <b>4 - Regulatory Framework</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "The account is automatically covered by SIPC for up to $1,000,000."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “The customer must pay for all purchases in full by the settlement date.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Know the settlement clock: equities T+2, options and most bonds T+1.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "The coupon rate will adjust upward."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “The price will increase.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Stop-limit order"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Market order”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Extremely bearish, anticipating a sharp decline in the stock."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Bullish, expecting the stock price to rise or remain stable.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Preemptive rights to maintain ownership percentage."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Guaranteed dividend payments.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "A closed-end fund specializing in infrastructure projects."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “A limited partnership investing in real estate.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Exempt from federal, and possibly state and local taxes."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Exempt from federal, and possibly state and local taxes.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Customer Suitability Form."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Margin Agreement (or Hypothecation Agreement).”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -136,12 +136,12 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "A customer places a large order for a well-known, liquid stock."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “A customer frequently makes large, round-number cash deposits.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
     "id": "yt-GURU29-11",
-    "section": "2 - Products & Risks",
+    "section": "3 - Trading, Accounts & Prohibited",
     "stem": "An investment adviser representative (IAR) recommends an investment to a client. The IAR has a conflict of interest that must be disclosed. This disclosure is most critically important for ensuring:",
     "choices": {
       "A": "The investment is suitable for the client.",
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "The firm meets its Know Your Customer (KYC) obligations."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “The client can make an informed decision free from undisclosed biases.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Know Your Customer: firms must verify identity and suitability profile.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "If the underlying stock is delisted from the exchange."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “If the underlying stock price remains below the strike price at expiration.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Phantom income risk"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Phantom income risk”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "This is a stop-limit order to buy, which becomes a limit order once XYZ stock trades at or above $50."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “This is a stop order to buy, which becomes a market order once XYZ stock trades at or above $50.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Exchange-traded fund (ETF)"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Closed-end fund”. This falls under <b>2 - Products & Risks</b>. Key principle: UITs are fixed, unmanaged portfolios with a stated termination date.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "High-grade municipal bonds"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Treasury Inflation-Protected Securities (TIPS)”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Annually, along with other account reviews."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Before the customer's first order can be executed.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "A unit investment trust (UIT)"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “An Exchange-Traded Fund (ETF)”. This falls under <b>2 - Products & Risks</b>. Key principle: UITs are fixed, unmanaged portfolios with a stated termination date.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "The gift is acceptable because it came from a client, not another firm."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “The gift is acceptable if approved by the firm's compliance department.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -276,12 +276,12 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "The yield an investor would receive if they held the bond for one year."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “The actual return an investor receives if they hold the bond until maturity, accounting for its current market price, par value, coupon interest, and time to maturity.”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
     "id": "yt-GURU29-21",
-    "section": "4 - Regulatory Framework",
+    "section": "2 - Products & Risks",
     "stem": "An investor buys 1 ABC Jan 50 Call @ $3. What is the maximum potential loss for this investor?",
     "choices": {
       "A": "$50",
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "The strike price of $50 per share"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “$300”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "The fund manager buys additional securities for the portfolio."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “The fund pays out a distribution to shareholders.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Broker-dealer's legal department."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Trustee, acting in the best interest of the beneficiary.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -332,12 +332,12 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "They are approved by FINRA before distribution to investors."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “They are generally considered the primary disclosure document for municipal bonds.”. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
     "id": "yt-GURU29-25",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "2 - Products & Risks",
     "stem": "A broker-dealer is participating in a new issue of municipal bonds. According to MSRB rules, which of the following is required for all new issue municipal bond customers?",
     "choices": {
       "A": "A suitability determination must be made for each customer.",
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "The customer must qualify as an accredited investor."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “A suitability determination must be made for each customer.”. This falls under <b>2 - Products & Risks</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "To govern the process for handling customer complaints."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “To standardize the procedures for handling securities transactions and settlements.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "A small-cap biotechnology firm with an unproven drug."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “A utility company that provides essential services.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Interest rate risk."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Unlimited loss potential.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Exchange-traded fund (ETF) specializing in municipal bonds"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Unit investment trust (UIT) specializing in municipal bonds”. This falls under <b>2 - Products & Risks</b>. Key principle: UITs are fixed, unmanaged portfolios with a stated termination date.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Solely for government-issued debt."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Greater than one year.”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -430,7 +430,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Priority claim on assets in case of liquidation over common stockholders."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Potential for significant capital appreciation.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -444,7 +444,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "The registered representative, after obtaining written authorization from the customer and approval from a principal."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “The registered representative, after obtaining written authorization from the customer and approval from a principal.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -458,7 +458,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "The price at which an order will be executed immediately."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “The highest price a buyer is willing to pay.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -472,7 +472,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "To mimic the performance of a specific market index."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “To invest in companies with high earnings potential and above-average growth.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   },
   {
@@ -486,7 +486,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Business risk."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Interest rate risk.”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
     "source": "YouTube: Series 7 Guru (GURU29)"
   }
 ];

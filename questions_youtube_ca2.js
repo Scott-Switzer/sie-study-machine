@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_CA2 = [
       "D": "$999"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “$10,112”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (CA2)"
   }
 ];

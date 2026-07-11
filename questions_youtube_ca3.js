@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_CA3 = [
       "D": "Build America bonds"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Treasury bonds”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (CA3)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_CA3 = [
       "D": "Written approval from FINRA is required for this action"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “The firm is required to keep the details of the transaction on record”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (CA3)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_CA3 = [
       "D": "Interest rate changes"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Interest rate changes”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (CA3)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_CA3 = [
       "D": "Conventional mortgages"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “FHA, VA and conventional mortgages”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (CA3)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_CA3 = [
       "D": "Diversified"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Diversified”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (CA3)"
   }
 ];

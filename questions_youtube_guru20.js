@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "liquidity risk."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “purchasing power risk.”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "An interest payment on a corporate bond"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “A 2:1 stock split”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "the ex-date."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “the record date.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "Regulatory risk"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Purchasing power risk”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "One year"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Two years”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -80,12 +80,12 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "During the dissolution of corporate assets, common shareholders will be paid if there are any funds left after debtholders and preferred shareholders are paid."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “During the dissolution of corporate assets, common shareholders will be paid if there are any funds left after debtholders and preferred shareholders are paid.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
     "id": "yt-GURU20-18",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "2 - Products & Risks",
     "stem": "Two months ago your customer sold short 200 shares of Seabird Airlines at $15 a share. Today, the stock is trading at $10 a share. In order to close out the position your customer would",
     "choices": {
       "A": "borrow 200 shares of Seabird.",
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "buy 200 shares of Seabird."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “buy 200 shares of Seabird.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "$10,000"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “$8,500”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "Income"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Income”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -136,12 +136,12 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "A commission-based account"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “A fee-based account”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
     "id": "yt-GURU20-24",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "2 - Products & Risks",
     "stem": "During the course of a day a customer makes six separate cash deposits at six different branches totaling over $11,000. This may be an example of",
     "choices": {
       "A": "integration, and an SAR should be filed.",
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "structuring, and an SAR should be filed."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “structuring, and an SAR should be filed.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "A partnership account"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Joint tenants in common (JTIC)”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "5%"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “6%”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "one involving municipal bonds."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “one that is unsolicited.”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "SAI must go into the mail on the same day"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Three business days from the date of the request”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "$2,000."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “$1,200.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "offering to sell a limited partnership interest in an oil and gas drilling program."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “part-time work parking cars on the weekend at a local racetrack.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "I and IV"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “II and III”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "the price of the bond move higher."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “the price of the bond be unchanged.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "lagging indicators."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “coincident indicators.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -290,12 +290,12 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "less than its current yield."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “equal to its current yield.”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
     "id": "yt-GURU20-48",
-    "section": "4 - Regulatory Framework",
+    "section": "1 - Capital Markets",
     "stem": "In a proxy contest, which of the following must register with the Securities and Exchange Commission (SEC)?\n\nI. All shareholders who have been approached by solicitors\nII. All persons participating in proxy solicitation\nIII. The upper management of the corporation who are also shareholders\nIV. All persons providing shareholders with unsolicited advice",
     "choices": {
       "A": "I and IV",
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "I and III"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “II and IV”. This falls under <b>1 - Capital Markets</b>. Key principle: The SEC is the federal regulator of securities markets.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "Six months"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “No waiting period”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "I and II"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “III and IV”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "Conduct Rules"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Code of Procedures”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "Maximum loss is the same for both parties."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Breakeven is the same for both parties.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "The firm lends the customer's securities without a consent agreement."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “The firm lends the customer's securities without a consent agreement.”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "the currency market."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “the capital market.”. This falls under <b>2 - Products & Risks</b>. Key principle: The secondary market is where investors trade already-issued securities.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "pegging."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “a wash sale.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "fully-disclosed account."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “prime account.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
@@ -430,12 +430,12 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "depletion applied when the equipment is sold."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “depreciation over the life of the program.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   },
   {
     "id": "yt-GURU20-73",
-    "section": "2 - Products & Risks",
+    "section": "1 - Capital Markets",
     "stem": "What is the intrinsic value of an XYZ 30 call sold at a premium of 3 when the current market value of XYZ is at 40?",
     "choices": {
       "A": "-$7",
@@ -444,7 +444,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "$7"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “$10”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU20)"
   }
 ];

@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "II and IV"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “II and IV”. This falls under <b>2 - Products & Risks</b>. Key principle: The primary market is where issuers sell new securities to investors.",
     "source": "YouTube: Series 7 Guru (KNOP2)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "Corporate pension plan"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “401(k) plan”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (KNOP2)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "A 5 year Treasury note"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “A 30 year zero coupon bond”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (KNOP2)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "regulations regarding frontrunning of customer orders."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Insider trading laws.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
     "source": "YouTube: Series 7 Guru (KNOP2)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "Collateralized by mortgages"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Are pass-through securities”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (KNOP2)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "hedging a long stock position against falling prices"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “diversifying holdings”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (KNOP2)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "$0 because contributions to IRAs are no longer allowed"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “$5,000 per individual”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (KNOP2)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "$5,000"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “$2,500”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (KNOP2)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "Buying puts"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Uncovered call writing”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
     "source": "YouTube: Series 7 Guru (KNOP2)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "Interpositioning a customer order to achieve a better execution for that customer order"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Interpositioning a customer order to achieve a better execution for that customer order”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (KNOP2)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "within 120 days of their second anniversary of being registered and every three years thereafter"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “within 120 days of their second anniversary of being registered and every three years thereafter”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (KNOP2)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "May only participate if his net short position is less than 100 shares."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Must get permission from MNO's board of directors in order to participate”. This falls under <b>4 - Regulatory Framework</b>. Key principle: The SEC is the federal regulator of securities markets.",
     "source": "YouTube: Series 7 Guru (KNOP2)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "The fund stands ready to issue and redeem shares as necessary"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Their net asset value must be determined at least once each business day”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (KNOP2)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "II and IV"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “II and III”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (KNOP2)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "the business day following the day of the contract"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “within the time specified, but not less than four business days or more than 60 calendar days”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (KNOP2)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "I, II and III only"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “I, II and IV only”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (KNOP2)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "Markit letters"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Offering circulars”. This falls under <b>4 - Regulatory Framework</b>. Key principle: MSRB writes rules for municipal securities; FINRA enforces them.",
     "source": "YouTube: Series 7 Guru (KNOP2)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "85"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “85”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (KNOP2)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "not be taxed in the year received"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “be treated as a return of capital”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
     "source": "YouTube: Series 7 Guru (KNOP2)"
   }
 ];

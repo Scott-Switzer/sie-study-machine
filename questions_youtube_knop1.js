@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "depression"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “depression”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Update his bio on the firm's social media pages"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “File an update to Form U-4 within 30 days”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Fiscal policy"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Monetary policy”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -52,12 +52,12 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "must refrain from any social media posts regarding their prior affiliation with the firm."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “must continue to update FINRA on any address changes.”. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
     "id": "yt-KNOP1-6",
-    "section": "2 - Products & Risks",
+    "section": "1 - Capital Markets",
     "stem": "Characteristics of private activity bonds include which two of the following? I. May trade with a higher yield than other municipal bonds II. May trade with a lower yield than other municipal bonds III. Are often subject to alternative minimum tax IV. Are usually exempt from alternative minimum tax",
     "choices": {
       "A": "II and IV",
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "I and IV"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “I and III”. This falls under <b>1 - Capital Markets</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "No, given that there cannot be a reasonable expectation that she will continue to satisfy the income test for accredited investors as described in Regulation D."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Yes, since she had satisfied the income requirement of $200,000 during the two most recent years of her employment.”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "2014"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “2014”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "provide the information with the customer's written permission."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “provide the information to support the investigation.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Registered as a unit investment trust under the Investment Company Act of 1940"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Registered as a unit investment trust under the Investment Company Act of 1940”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -136,12 +136,12 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "The broker-dealer can increase house maintenance requirements, but only if advance written notice is given."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “The broker-dealer can increase house maintenance requirements, but only if advance written notice is given.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
     "id": "yt-KNOP1-14",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "1 - Capital Markets",
     "stem": "If a customer's order was filled in the third market, the pricing and liquidity available for that order",
     "choices": {
       "A": "Should be the same or better that was available in the security's primary listing market.",
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Will depend on the number of market participants available to fill that order."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Will depend on the number of market participants available to fill that order.”. This falls under <b>1 - Capital Markets</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "The tax liability on the dividend will be deferred until the investor sells those shares."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “A tax liability will be incurred even though the investor did not take the dividend in cash.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -178,12 +178,12 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Recessions"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Rising interest rates”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
     "id": "yt-KNOP1-21",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "2 - Products & Risks",
     "stem": "Which statement is true when a bond is in default?",
     "choices": {
       "A": "There is no commission payable on the transaction.",
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "The price of the bond remains relatively stable regardless of market conditions."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “The bond trades flat.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "I, II, III and IV"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “I, II, III and IV”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Two years"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Three years”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "is a violation of Reg T and FINRA freeriding rules, and the account must be suspended."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “is a violation of Reg T and FINRA freeriding rules, and will cause the account to be frozen, and the broker-dealer will hold the sale proceeds until the original transaction has been paid for.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Neither ETNs nor ETFs own any securities in their investment portfolios."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “ETFs own the securities in their portfolio, whereas ETNs do not, as they are unsecured debt instruments.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Quantity of shares"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Customer's bid or ask price”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "They can issue equity shares only"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “They do not issue new shares after their initial public offering”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Interest rates"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Interest rates”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "The order has been converted."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “The order will convert on the next business day.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -318,12 +318,12 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "approval by the SEC"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “approval by the SEC”. This falls under <b>4 - Regulatory Framework</b>. Key principle: The SEC is the federal regulator of securities markets.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
     "id": "yt-KNOP1-39",
-    "section": "4 - Regulatory Framework",
+    "section": "1 - Capital Markets",
     "stem": "Shares acquired from the spouse of an affiliate in a private placement would be considered",
     "choices": {
       "A": "restricted securities",
@@ -332,12 +332,12 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "immediately saleable"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “restricted securities”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
     "id": "yt-KNOP1-43",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "2 - Products & Risks",
     "stem": "In a unit investment trust the party that is responsible for the trust's organization is the",
     "choices": {
       "A": "Administrator",
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Investment manager"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Sponsor”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Total value will decline by 10%"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Total value will not change”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "I and III"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “I and III”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -388,12 +388,12 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Their options might have an expiration as long as three years"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Their options might have an expiration as long as three years”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
     "id": "yt-KNOP1-49",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "2 - Products & Risks",
     "stem": "A securities trader would be permitted to indirectly manipulate stock prices",
     "choices": {
       "A": "As long as no retail investors are harmed.",
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "If properly supervised by a principal."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Under no circumstances.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -416,12 +416,12 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Real Estate Investment Trust (REIT)"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Mutual fund”. This falls under <b>2 - Products & Risks</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
     "id": "yt-KNOP1-53",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "1 - Capital Markets",
     "stem": "Under the Securities Exchange Act of 1934, the SEC does which of the following? I. Regulates securities exchanges. II. Requires the registration of brokers and dealers. III. Prohibits inequitable and unfair trade practices. IV. Regulates over-the-counter markets.",
     "choices": {
       "A": "I and IV only",
@@ -430,12 +430,12 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "I, II, III and IV"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “I, II, III and IV”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
     "id": "yt-KNOP1-54",
-    "section": "4 - Regulatory Framework",
+    "section": "1 - Capital Markets",
     "stem": "Are hedge funds required to register with the SEC?",
     "choices": {
       "A": "All hedges must register, except those operated for the exclusive benefit of family offices.",
@@ -444,7 +444,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Yes, if they manage private funds with more than $150 million in assets"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Yes, if they manage private funds with more than $150 million in assets”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -458,7 +458,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Prepared to sell her shares back to the company"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Prepared to sell her shares back to the company”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -472,7 +472,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Long put"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Short put”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -486,7 +486,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "ELK"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “ETF”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -500,7 +500,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Liquidate their portfolio"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Diversify their portfolio”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -514,7 +514,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "The customer will sell shares at the NAV of $10 plus the sales charge"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “The customer may buy or sell shares at a price higher or lower than $10”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -528,7 +528,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "I and III only"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “I and II only”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -542,7 +542,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "NYSE"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “FINRA”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -556,7 +556,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "the economic health of the local or state economy."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “the feasibility and revenue stream produced by the specific project financed.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -570,7 +570,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Insider trading which should be avoided."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “commingling and is a violation.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -584,7 +584,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "The bond with the higher coupon is more marketable."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “The bond with the higher coupon is more marketable.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -598,7 +598,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Television commercial"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Letter to a client”. This falls under <b>4 - Regulatory Framework</b>. Key principle: MSRB writes rules for municipal securities; FINRA enforces them.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -612,7 +612,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "sell 10 shares at $10 and buy 15 shares at $10.25."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “buy 10 round lots at $10 and sell 15 round lots at $10.25.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -626,12 +626,12 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "An investment manager is hired to actively manage the trust assets"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “An investment manager is hired to actively manage the trust assets”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
     "id": "yt-KNOP1-82",
-    "section": "1 - Capital Markets",
+    "section": "2 - Products & Risks",
     "stem": "Mortgage REITs offer investors the potential for all of the following EXCEPT",
     "choices": {
       "A": "The opportunity to participate in the recovery of housing markets and overall economic growth",
@@ -640,7 +640,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "A steady income stream"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “An ownership interest in properties held within the portfolio”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   },
   {
@@ -654,7 +654,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "BBB"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “BB”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (KNOP1)"
   }
 ];

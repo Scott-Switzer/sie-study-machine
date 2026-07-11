@@ -10,12 +10,12 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "An investor purchases $40,000 worth of speculative and other low-grade bonds with a personal check."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “An investor purchases $12,000 worth of securities with twelve $1,000 postal money orders.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
     "id": "yt-GURU11-7",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "1 - Capital Markets",
     "stem": "All of the following are risks of investing in publicly traded mortgage-backed securities except",
     "choices": {
       "A": "falling interest rates might accelerate early repayment of principal.",
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "borrowers might default on their mortgage payments."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “the market for mortgage-backed securities is illiquid.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "are subject to registration with the Municipal Securities Rulemaking Board (MSRB) and are required to make full disclosure by delivering an official statement."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “are not subject to registration with the SEC but are required to register in the state of New Jersey.”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "real estate investment trusts (REITs)."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “real estate investment trusts (REITs).”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "The Bond Buyer."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “the bond resolution.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "no effect."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “an increase.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "I or II"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “II or III”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -108,12 +108,12 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "The investor's balance sheet"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “The investor's income statement”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
     "id": "yt-GURU11-31",
-    "section": "1 - Capital Markets",
+    "section": "2 - Products & Risks",
     "stem": "A company is offering investors the opportunity to purchase shares for the next five years at a fixed price slightly above today's market price. The company is issuing",
     "choices": {
       "A": "warrants.",
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "a letter of intent."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “warrants.”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "currency risk."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “liquidity risk.”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "Sell 30-year T-bond yield-based puts"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Buy 30-year T-bond yield-based calls”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "I and III"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “III and IV”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "State income tax"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Foreign income tax”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "investment goal suitability."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “quantitative suitability.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "Underwriting agreement"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Agreement among underwriters”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "Rule 506(b)."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Rule 506(b).”. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "outstanding shares."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “authorized shares.”. This falls under <b>1 - Capital Markets</b>. Key principle: An IPO is the first public sale of a company's stock (primary market).",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "Foreign stock mutual funds"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Common stock traded on the New York Stock Exchange”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -262,12 +262,12 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "a negotiated market."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “an auction market.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
     "id": "yt-GURU11-58",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "2 - Products & Risks",
     "stem": "If a customer sold 1,000 shares of XYZ at a loss, a wash sale will result in within 30 days of the date of sale if your customer",
     "choices": {
       "A": "buys 10 XYZ at-the-money calls.",
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "buys 10 XYZ at-the-money puts."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “buys 10 XYZ at-the-money calls.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "debentures."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “income bonds.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -304,12 +304,12 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "$125."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “$1,000.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
     "id": "yt-GURU11-66",
-    "section": "2 - Products & Risks",
+    "section": "1 - Capital Markets",
     "stem": "All of the following events will affect the net asset value (NAV) per share of a mutual fund except",
     "choices": {
       "A": "wholesale redemption of fund shares.",
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "the fund pays dividends to its shareholders."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “the fund receives cash dividends on the securities in its portfolio.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "a selling group member."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “a selling syndicate member.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "II and IV"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “I and III”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "I will not invest in any polluter of the atmosphere."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “I want to maximize my income.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "5:1"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “10:1”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "by the 15th day after the current business quarter."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “within 10 business days.”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "have its first breakpoint no higher than $10,000."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “not have a 12b-1 charge in excess of 0.75%.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "exempt from the principal approval requirements."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “correspondence.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -430,7 +430,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "$144,000."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “$36,000.”. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -444,7 +444,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "$66.75 per share"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “$66.75 per share”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -458,7 +458,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "an unregistered REIT."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “an untraded REIT.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: The SEC is the federal regulator of securities markets.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -472,7 +472,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "5.00%."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “5.67%.”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -486,12 +486,12 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "I and III"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “II and IV”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
     "id": "yt-GURU11-111",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "1 - Capital Markets",
     "stem": "Which of the following statements regarding Government National Mortgage Association (GNMA) securities are true?",
     "choices": {
       "A": "II and IV",
@@ -500,7 +500,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "I and III"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “I and IV”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -514,12 +514,12 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "I and III"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “II and IV”. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
     "id": "yt-GURU11-119",
-    "section": "2 - Products & Risks",
+    "section": "1 - Capital Markets",
     "stem": "Your client lives in a state with a very high state income tax; there is also a city tax. The client wishes to invest in a debt security that will avoid those taxes. You might suggest",
     "choices": {
       "A": "a U.S. Treasury bond.",
@@ -528,12 +528,12 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "an FHLMC bond."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “a U.S. Treasury bond.”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
     "id": "yt-GURU11-120",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "1 - Capital Markets",
     "stem": "A customer has written a letter of complaint to the dealer. Upon receipt of the complaint, a municipal securities dealer must first",
     "choices": {
       "A": "accept the complaint and record the action taken.",
@@ -542,7 +542,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "notify the examining regulatory authority."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “accept the complaint and record the action taken.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -556,7 +556,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "commodities."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “eurobonds.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -570,7 +570,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "in violation because this is considered retail communication because Melody is actually soliciting and all forms of solicitation are deemed retail no matter to how many people it is directed."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “in violation of the rules, because despite the fact that the letters had personal touches, it is still a form letter for marketing that is being sent to numerous individuals.”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -584,7 +584,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "approval from Morgan's current supervising principal would be required before this recommendation could be made."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “certain disclosures have to be made in an educational format using a FINRA template.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   },
   {
@@ -598,7 +598,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "On a no-par preferred stock, the dividend is a stated rate."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “On a no-par preferred stock, the dividend is a stated rate.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU11)"
   }
 ];

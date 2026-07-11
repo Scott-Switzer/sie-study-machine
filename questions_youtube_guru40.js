@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU40 = [
       "D": "The objective of the fund assumes that most investors cannot tolerate as much risk as they get older."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “As life-cycle funds get nearer to their target date, the portfolio holdings will be adjusted to purchase more equity securities and less fixed-income securities.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU40)"
   },
   {
@@ -24,12 +24,12 @@ var SIE_QUESTIONS_YT_GURU40 = [
       "D": "the day the stock price is increased by the amount of the dividend"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “the date on and after the date the seller is entitled to the dividend”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU40)"
   },
   {
     "id": "yt-GURU40-26",
-    "section": "4 - Regulatory Framework",
+    "section": "2 - Products & Risks",
     "stem": "Which of the following partnership documents needs to be filed with the secretary of state in the home state of the partnership?",
     "choices": {
       "A": "I only",
@@ -38,12 +38,12 @@ var SIE_QUESTIONS_YT_GURU40 = [
       "D": "I, II, and III"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “I only”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU40)"
   },
   {
     "id": "yt-GURU40-31",
-    "section": "4 - Regulatory Framework",
+    "section": "1 - Capital Markets",
     "stem": "All of the following are important factors when determining the markup or commission on a municipal bond trade EXCEPT",
     "choices": {
       "A": "The fact that you and the firm you work for are entitled to make a profit",
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU40 = [
       "D": "The market value of the securities at the time of the trade"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “The 5 percent markup policy”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU40)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU40 = [
       "D": "Currency risk is minimized."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Currency risk is minimized.”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU40)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU40 = [
       "D": "When bond prices are fluctuating"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “When bond prices are rising”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU40)"
   },
   {
@@ -94,12 +94,12 @@ var SIE_QUESTIONS_YT_GURU40 = [
       "D": "all of the above"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “all of the above”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU40)"
   },
   {
     "id": "yt-GURU40-42",
-    "section": "2 - Products & Risks",
+    "section": "1 - Capital Markets",
     "stem": "All of the following items would be found on the official statement of a municipal bond issue EXCEPT",
     "choices": {
       "A": "the markup",
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU40 = [
       "D": "a legal opinion"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “the markup”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU40)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU40 = [
       "D": "buy an XYZ combination"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “buy an XYZ call”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU40)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU40 = [
       "D": "A money market fund"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “A sector fund”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU40)"
   }
 ];

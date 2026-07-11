@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU32 = [
       "D": "75%"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “51%”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU32)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU32 = [
       "D": "Allows the company to avoid all regulatory oversight"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Facilitates going public without the process of registration”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
     "source": "YouTube: Series 7 Guru (GURU32)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU32 = [
       "D": "stock price minus dividends"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “no adjustment”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU32)"
   }
 ];

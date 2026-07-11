@@ -10,12 +10,12 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "current market value of a bond."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “par value, usually $1,000 for a bond.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
     "id": "yt-GURU9-2",
-    "section": "4 - Regulatory Framework",
+    "section": "1 - Capital Markets",
     "stem": "As participants in a firm commitment underwriting agreement, the underwriters know that",
     "choices": {
       "A": "they, the underwriters, will not be at risk for any securities left unsold.",
@@ -24,12 +24,12 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "they, the underwriters, will be acting as principals buying the securities from the issuer."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “they, the underwriters, will be acting as principals buying the securities from the issuer.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
     "id": "yt-GURU9-3",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "2 - Products & Risks",
     "stem": "A married couple have equal 50% ownership interests in a tenants in common account (TIC). If one party to the account dies, what happens to the shares in the account?",
     "choices": {
       "A": "Ownership and distribution of all shares would be determined by probate court.",
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "The deceased party's interest is transferred to the remaining party."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Half, or 50% of the shares, would belong to the remaining party and the balance would be distributed to the estate of the deceased party.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "15%"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “25%”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "Revocable living trust"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Revocable living trust”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "At the close of the business day"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “At the close of the business day”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "purchasing power risk."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “default risk.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "indefinitely."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “90 days.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "the OTC market."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “the fourth market.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "board of directors (BOD)."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “stockholders.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "The fund receives dividends."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “A large number of investors making deposits in the fund.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "Uniform Gift to Minors Act (UGMA)."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “ABLE accounts.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "There is no limit to the number of transfers per year between custodians."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “There is no limit to the number of transfers per year between custodians.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "an exchange-listed stock trading at $5 or less per share."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “an unlisted (not listed on a U.S. stock exchange) security trading at less than $5 per share.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "The customer must choose to round up or round down."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “429.2”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "Six years"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Three years”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "20%"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “10%”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "writing calls against her stock position is a conservative strategy for generating income."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “writing calls against her stock position is a conservative strategy for generating income.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "2%"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “5%”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "rise."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “fall.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "distribute sales literature to interested existing clients."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “distribute sales literature to interested existing clients.”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -304,12 +304,12 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "900 votes, no more than 450 votes for any one seat"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “900 votes, no more than 300 votes for any one seat”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
     "id": "yt-GURU9-27",
-    "section": "4 - Regulatory Framework",
+    "section": "1 - Capital Markets",
     "stem": "A person who looks to provide advice to a city government concerning the issuance of municipal debt securities would best be described as",
     "choices": {
       "A": "a market maker.",
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "an investment adviser."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “a municipal advisor.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "Price risk"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Liquidity risk”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "a firm principal."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “a Registered Options Principal”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "trading in fixed annuities."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “trading in the over-the-counter (OTC) market.”. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "Both the regulatory and firm level continuing education requirements."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Both the regulatory and firm level continuing education requirements.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "subject to variation and stated as a percentage of its par value."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “fixed and stated as a percentage of its par value.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "I and IV"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “I and IV”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "call risk."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “capital risk.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -430,12 +430,12 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "option contracts."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “option contracts.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
     "id": "yt-GURU9-39",
-    "section": "4 - Regulatory Framework",
+    "section": "1 - Capital Markets",
     "stem": "All of the following terms and phrases are associated with the buy side of the contract except",
     "choices": {
       "A": "Has a right.",
@@ -444,7 +444,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "Owns the contract."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Writes the contract.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -458,7 +458,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "I and II"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “III and IV”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -472,7 +472,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "the third market."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “An exchange.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -486,7 +486,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "It is good for three years if the issuer meets certain requirements."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “It requires a prospectus to be filed only once.”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -500,7 +500,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "equal to the exercise price."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “less than the exercise price.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -514,7 +514,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "Rights"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “T-notes”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -528,12 +528,12 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "An investment that actively manages a securities portfolio to achieve a stated investment objective"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “A contract between an investor and an issuer in which the issuer guarantees payment of a stated sum to the investor at some set date in the future”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
     "id": "yt-GURU9-47",
-    "section": "4 - Regulatory Framework",
+    "section": "1 - Capital Markets",
     "stem": "Advantages to the investor offered by investment companies include I. ability to invest small amounts in many different securities. II. special securities prices available only to investment companies. III. elimination of market risk through pooling of investments. IV. increased purchasing power in the marketplace.",
     "choices": {
       "A": "I and III",
@@ -542,7 +542,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "I and IV"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “I and IV”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -556,7 +556,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "Raw land"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Exploratory”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -570,7 +570,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "I and II"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “I and IV”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -584,7 +584,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "an outside tippee."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “a contemporaneous trader.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -598,7 +598,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "business risk."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “call risk.”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -612,7 +612,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "Four years"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Six years”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -626,7 +626,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "how the shares are delivered to the investor."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “how sales charges and related expenses are paid.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -640,7 +640,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "record date."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “declaration date.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -654,7 +654,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "all passive investments be reported under the rule."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “prior written notice to the employing firm be provided.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -668,7 +668,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "The CEO of the corporation"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “The investor's friend”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -682,7 +682,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "Information on any felony convictions within the past 10 years."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Any aliases.”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -696,7 +696,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "OMG convertible bonds"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “OMG put options”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -710,7 +710,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "It is a useful but not mandatory document showing detailed information intended to offer investors adequate reason to purchase share purchases."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “It is a full and fair disclosure of all material information and facts regarding the issuance of securities.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -724,7 +724,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "I, II, III, and IV"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “I and II”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -738,7 +738,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "regulatory risk."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “legislative risk.”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -752,7 +752,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "will affect contributions into a Section 529 plan."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “may affect contributions into a Coverdell ESA.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -766,7 +766,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "nonsystematic risks."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “systematic risks.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -780,7 +780,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "the interest rate the investor has agreed to pay the issuer."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “the interest rate the issuer has agreed to pay the investor.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -794,7 +794,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "fewer shares worth less per share with a decreased net position value."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “fewer shares worth more per share with the same net position value.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -808,7 +808,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "I and IV"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “II and IV”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -822,7 +822,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "an unsolicited transaction."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “a private securities transaction.”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   },
   {
@@ -836,7 +836,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "three years."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “five years.”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU9)"
   }
 ];

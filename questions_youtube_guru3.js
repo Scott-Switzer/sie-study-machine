@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU3 = [
       "D": "A Financial Industry Regulatory Authority (FINRA) examiner."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “The employing firm.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU3)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU3 = [
       "D": "the same day."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “the next business day.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU3)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU3 = [
       "D": "call and put contracts."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “call and put contracts.”. This falls under <b>1 - Capital Markets</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (GURU3)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU3 = [
       "D": "I and II"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “II and III”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU3)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU3 = [
       "D": "for the preferred shares of another issuer."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “for a fixed number of shares of the issuing corporation's common stock.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU3)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU3 = [
       "D": "a discount of $200."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “a premium of $200.”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (GURU3)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU3 = [
       "D": "This is a solicited trade."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “This is not a recommendation.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU3)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU3 = [
       "D": "The Financial Industry Regulatory Authority (FINRA)."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “The Federal Savings and Loan Insurance Corporation (FSLIC).”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU3)"
   }
 ];

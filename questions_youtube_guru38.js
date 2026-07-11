@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "Same day"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “T+2”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Equity trades settle T+2 business days; options T+1; municipal/GOV corp bonds T+1.",
     "source": "YouTube: Series 7 Guru (GURU38)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "The registered representative may accept the gift, but must report it to FINRA immediately."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “The registered representative may accept the gift, provided their firm's policies allow it and it is not conditional on future business.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU38)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "Commodities"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Fixed-income securities”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU38)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "Dividing the fund's net investment income by the number of shares outstanding."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Subtracting the fund's liabilities from its assets and dividing by the number of outstanding shares.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU38)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "It can be callable by the issuer."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “It typically has voting rights.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU38)"
   },
   {
@@ -80,12 +80,12 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "Liquidity risk"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Prepayment risk”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
     "source": "YouTube: Series 7 Guru (GURU38)"
   },
   {
     "id": "yt-GURU38-10",
-    "section": "2 - Products & Risks",
+    "section": "1 - Capital Markets",
     "stem": "Which of the following securities would be considered a money market instrument?",
     "choices": {
       "A": "Common stock",
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "Municipal bond"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Commercial paper”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (GURU38)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "High-yield (junk) bond"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “High-yield (junk) bond”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (GURU38)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "Increasing unemployment"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Rising inflation”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU38)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "Federal Reserve Board (FRB)"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Municipal Securities Rulemaking Board (MSRB)”. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU38)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "Exchange-Traded Fund (ETF)"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Closed-end fund”. This falls under <b>2 - Products & Risks</b>. Key principle: UITs are fixed, unmanaged portfolios with a stated termination date.",
     "source": "YouTube: Series 7 Guru (GURU38)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "The day before the offering."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “The settlement date.”. This falls under <b>1 - Capital Markets</b>. Key principle: Know the settlement clock: equities T+2, options and most bonds T+1.",
     "source": "YouTube: Series 7 Guru (GURU38)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "Call premium"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Dealer spread”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (GURU38)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "Executing a large block trade that impacts the stock price."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Spreading false rumors about a company to drive its stock price down.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU38)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "The YTM cannot be determined without knowing the bond's maturity."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “The YTM is lower than the coupon rate.”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (GURU38)"
   }
 ];

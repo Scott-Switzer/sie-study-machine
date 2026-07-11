@@ -10,12 +10,12 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "$50 annual interest until maturity."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “$50 annual interest until maturity.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
     "id": "yt-GURU12-4",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "2 - Products & Risks",
     "stem": "A brokerage firm has accumulated a large holding in a little known company by purchasing several hundred thousand shares of the company's stock. The firm instructs its registered representatives to begin touting the stock to every one of its customers and to make cold calls to new potential customers as well. This is most likely a scheme known as",
     "choices": {
       "A": "pegging",
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "marking the open"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “pump and dump”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "All benefit the same"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Younger employees”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "Nonregistered employees of broker-dealers have a limited scope of activities."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Nonregistered employees of broker-dealers have a limited scope of activities.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "a buy back."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “a tender offer.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "FHLMC certificate"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “FHLMC certificate”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "three years."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “six years.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "Short call"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Short call”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "It has only premium value."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “The put has intrinsic value.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "a trust serves as a depository holding the securities to serve as collateral."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “these are unsecured debt securities.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "Cash dividends."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Stock dividends.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "Treasury bonds."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Treasury STRIPS.”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "No income restrictions"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “No income restrictions”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "Units of a unit investment trust"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Common shares of a closed-end investment company”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "25 points or $2,500."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Unlimited.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "Treasury STRIPS"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Treasury receipts”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "calls made by tax exempt nonprofit organizations."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “calls made to make the customer aware of new products that are available to the customer.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "over the last 1, 5, 10, 15, 20, and 25 years."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “over the last 1, 5, and 10 years.”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "1.0%"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “0.5%”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "Confirm whether the person is an established customer."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Confirm that a margin account has been established.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "an individual IRA."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “a margin account.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "I and III"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “I and III”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "The share price goes up, and the number of shares goes up."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “The share price goes down, and the number of shares goes up.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "At par."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “At the money.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "always before the sales presentation begins."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “before or during the sales presentation.”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "Wednesday, April 27"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Tuesday, April 26”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "three years."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “three years.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -388,12 +388,12 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "A mutual fund purchase"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “A closed-end investment company purchased on the NYSE”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
     "id": "yt-GURU12-33",
-    "section": "2 - Products & Risks",
+    "section": "1 - Capital Markets",
     "stem": "The Investment Company Act of 1940 classifies investment companies into three broad types. Which of the following is one of those types?",
     "choices": {
       "A": "GAMMA certificates",
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "Face-amount certificates"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Face-amount certificates”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "intermediate shares."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “level-load shares.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -430,12 +430,12 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "Eurodollars."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Banker's acceptances (BAs)”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
     "id": "yt-GURU12-36",
-    "section": "1 - Capital Markets",
+    "section": "2 - Products & Risks",
     "stem": "Which of the following are securities representing other securities held on deposit with a trustee where the principal and interest payments have been separated?",
     "choices": {
       "A": "Treasury receipts and STRIPS",
@@ -444,7 +444,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "Treasury receipts, bills, and notes"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Treasury receipts and STRIPS”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -458,7 +458,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "The Trust Indenture Act"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “The Bank Secrecy Act”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -472,7 +472,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "The Securities and Exchange Act of 1934"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “The Uniform Securities Act”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -486,7 +486,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "The warrant allows the holder to exercise to purchase the underlying stock at a price lower than the market price at the time of the warrant's issue."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “The warrant allows the holder to exercise to purchase the underlying stock at a price lower than the market price at the time of the warrant's issue.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -500,7 +500,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "Department of Justice (DOJ)"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Financial Industry Regulatory Authority (FINRA)”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -514,7 +514,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "The limited partners"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “The investors”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -528,12 +528,12 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "$900"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “$900”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
     "id": "yt-GURU12-44",
-    "section": "2 - Products & Risks",
+    "section": "1 - Capital Markets",
     "stem": "For options investors, which of the following are true? I. Buyers pay the premium for the right to exercise. II. Buyers pay the premium and incur an obligation to buy or sell. III. Sellers receive the premium and incur an obligation to buy or sell. IV. Sellers receive the premium for the right to exercise.",
     "choices": {
       "A": "I and IV",
@@ -542,7 +542,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "II and III"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “I and III”. This falls under <b>1 - Capital Markets</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -556,7 +556,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "to be taxed directly, much like corporations are taxed."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “as having the owners of the business liable for any taxes due.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -570,7 +570,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "assigned to the holder."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “allowed to expire”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -584,12 +584,12 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "Securities Information Center (SIC)"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Securities Investor Protection Corporation (SIPC)”. This falls under <b>4 - Regulatory Framework</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
     "id": "yt-GURU12-49",
-    "section": "4 - Regulatory Framework",
+    "section": "2 - Products & Risks",
     "stem": "Your client, Mickey, just purchased 10 July EuroDollar Put contracts at 1.10. She notices that they are European Style contracts and asks you what this means. You tell her",
     "choices": {
       "A": "she may not exercise the contracts. The contracts will exercise at expiration if they are in the money.",
@@ -598,7 +598,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "she may only exercise the contracts on the last day of trading before expiration."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “she may only exercise the contracts on the last day of trading before expiration.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   },
   {
@@ -612,7 +612,7 @@ var SIE_QUESTIONS_YT_GURU12 = [
       "D": "write covered puts that are currently out of the money."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “write covered puts that are currently out of the money.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU12)"
   }
 ];

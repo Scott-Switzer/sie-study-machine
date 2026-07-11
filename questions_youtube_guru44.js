@@ -1,7 +1,7 @@
 var SIE_QUESTIONS_YT_GURU44 = [
   {
     "id": "yt-GURU44-1",
-    "section": "4 - Regulatory Framework",
+    "section": "1 - Capital Markets",
     "stem": "Purchasing ADRs facilitate:",
     "choices": {
       "A": "Foreign trading of domestic securities",
@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Domestic trading of foreign government securities"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “U.S. trading in foreign securities”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "The gain is taxable at the state level, but tax free federally"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “The gain is taxable at both the state and federal level”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Prepaid tuition plan"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “ESA”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Stock issued by the United States government"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Outstanding shares repurchased by the issuer”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Equipment trust certificate"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Equipment trust certificate”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Capital gains"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Dividends and capital gains”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Purchasing power risk"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Business risk”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "T-bills"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Treasury bonds”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Financial"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Market”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Interests"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Interests”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "100 shares of ABC"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “100 shares of ABC”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Buy U.S. government bonds"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Sell the shares of the one company and invest in an S&P 500 index fund”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -178,12 +178,12 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "The bond must be from a state neighboring the investor's home state"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “The bond must be from the investor's home state”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
     "id": "yt-GURU44-15",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "2 - Products & Risks",
     "stem": "Expenses deducted from the separate account of a life insurance policy include all except:",
     "choices": {
       "A": "Mortality expense",
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Expense risk fee"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “The commission”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "A money market mutual fund purchased at the bank"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “A money market mutual fund purchased at the bank”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "When paid"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “When the shares are sold”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "There must be one or more general partners"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “There must be one or more general partners”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Straight"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Cumulative”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "A brokerage account"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “A cash account”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Overbuilding"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Overbuilding”. This falls under <b>2 - Products & Risks</b>. Key principle: REITs let investors pool into income-producing real estate; dividends taxed as ordinary income.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "They allow the custodian to remain trustee longer than a UGMA, usually until age 25"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Most states are not UTMA states”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Alpha"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Beta”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Common and preferred stock"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Common stock”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -332,12 +332,12 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Market"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Inflation”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
     "id": "yt-GURU44-28",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "2 - Products & Risks",
     "stem": "Of the following, which type of investment company has an investment manager?",
     "choices": {
       "A": "Holding companies",
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Face amount certificate company"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Management company”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Upon maturity"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Semi-annually”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "$6,900"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “$1,100”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Her beneficiary will receive the account balance of $219,000, but will owe taxes (at long-term capital gains rates) on the entire amount since it was a qualified annuity"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Her beneficiary will receive the account balance of $219,000, but will owe taxes (as ordinary income) on the entire amount since it was a qualified annuity”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "30 days"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “30 days”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   },
   {
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Stock specific risk"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Risk that cannot be diversified away”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU44)"
   }
 ];

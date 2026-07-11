@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "MSRB"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “SEC”. This falls under <b>4 - Regulatory Framework</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
     "source": "YouTube: Series 7 Guru (GURU25)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "Market maker"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Market maker”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU25)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "Interest-rate fluctuations"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Bankruptcy of a broker-dealer”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
     "source": "YouTube: Series 7 Guru (GURU25)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "Reverse split"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Private placement”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU25)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "Interest-rate risk"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "No clicked radio in any kept frame; answer inferred from footer 'Answer: C' reveal. Keep only if acceptable per policy.",
     "source": "YouTube: Series 7 Guru (GURU25)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "Correspondent trading"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Discretion”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
     "source": "YouTube: Series 7 Guru (GURU25)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "To allow time for SEC review"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “To allow time for SEC review”. This falls under <b>1 - Capital Markets</b>. Key principle: The SEC is the federal regulator of securities markets.",
     "source": "YouTube: Series 7 Guru (GURU25)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "Intraday trading"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Intraday trading”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU25)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "Trading after market hours"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Trading based on material nonpublic information”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
     "source": "YouTube: Series 7 Guru (GURU25)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "Increase leverage"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Reduce risk exposure”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Diversification reduces unsystematic (company-specific) risk.",
     "source": "YouTube: Series 7 Guru (GURU25)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "They offer the highest interest rates"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “They carry low default risk”. This falls under <b>1 - Capital Markets</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
     "source": "YouTube: Series 7 Guru (GURU25)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "The stock is risk-free"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “The stock is more volatile than the market”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU25)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "Unregistered private placements"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Previously issued stocks”. This falls under <b>1 - Capital Markets</b>. Key principle: An IPO is the first public sale of a company's stock (primary market).",
     "source": "YouTube: Series 7 Guru (GURU25)"
   }
 ];

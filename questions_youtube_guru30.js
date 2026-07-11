@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "an accredited investor."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “an eligible investor.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "I and II"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “II and III”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "obtain approval from FINRA."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "conflicting on-screen selections: A/B/D",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "The options disclosure document (ODD)."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “The options disclosure document (ODD).”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -66,12 +66,12 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "With very young children, higher education is too far in the future to plan for financially."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “They cannot be expressed as a sum of money or a cash flow.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
     "id": "yt-GURU30-14",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "2 - Products & Risks",
     "stem": "One of your affluent customers just came into an additional large sum of money. She has ample cash reserves and a large, well-diversified portfolio. She would like to use this windfall to aggressively invest. She intends to open a second portfolio to devote to what she calls 'fun investments.' The investment objective for this second portfolio is best described as:",
     "choices": {
       "A": "Income. The more income generated, the more investments she can undertake.",
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Growth. The whole point of investing is to grow your money, and it applies here as well."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Speculation. She can afford to take some flyers and wishes to do so.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "It requires written discretionary authorization."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "conflicting on-screen selections: A/B",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -108,12 +108,12 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Current employment stability"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Expected retirement age”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
     "id": "yt-GURU30-17",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "2 - Products & Risks",
     "stem": "Corporate profit and loss statements are typically prepared annually to reflect one year of business activity. Your customer's income statement is the analogous information for an individual. What is the most convenient way to prepare an income statement?",
     "choices": {
       "A": "Semi-annually",
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Yearly"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Monthly”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "The account may be opened, but all recommendations must be suitable based on the customer's situation."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “The account may be opened, but no recommendations may be made.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: The SEC is the federal regulator of securities markets.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "The customer must approve each order before or after it is executed."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "conflicting on-screen selections: C/D",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "The client's tax returns for the past three years"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “The client's tax returns for the past three years”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Margin trading in a fiduciary account does not require any special documentation."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Margin trading in a fiduciary account does not require any special documentation.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "I and III"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “I and III”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Capital appreciation"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Capital appreciation”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "a nonapproval account."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “a discretionary account.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Opening a margin account to go along with an existing cash account."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Changing the asset allocation in an existing account.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "III and IV"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “III and IV”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Investment goals."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Investment constraints.”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -276,12 +276,12 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Tax returns for the past two years."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “A letter from a duly licensed life insurance agent.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
     "id": "yt-GURU30-36",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "2 - Products & Risks",
     "stem": "If a registered representative receives a call from a custodian wishing to buy shares of a new issue security, she should",
     "choices": {
       "A": "refuse to accept an order.",
@@ -290,12 +290,12 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "discuss and review suitability."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “discuss and review suitability.”. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
     "id": "yt-GURU30-37",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "2 - Products & Risks",
     "stem": "Which of the following oral orders can be accepted from a customer without additional documentation?",
     "choices": {
       "A": "Buy 100 shares of ABC when the price is right",
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Increase my position in ABC"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Buy 100 shares of ABC when the price is right”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "reasonable-basis suitability analysis."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “qualitative suitability analysis.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -332,12 +332,12 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Brokerage account reports"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “W-2 forms”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
     "id": "yt-GURU30-43",
-    "section": "4 - Regulatory Framework",
+    "section": "2 - Products & Risks",
     "stem": "A customer wants to buy ABC bonds, and as his representative, you have advised him that the trade is unsuitable. If he decides to go ahead with the purchase, you must",
     "choices": {
       "A": "Execute the trade specifically as the customer has directed you to do but mark it unsolicited.",
@@ -346,12 +346,12 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Execute the trade only if the customer has previous trading experience in similar securities."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Execute the trade specifically as the customer has directed you to do but mark it unsolicited.”. This falls under <b>2 - Products & Risks</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
     "id": "yt-GURU30-44",
-    "section": "4 - Regulatory Framework",
+    "section": "2 - Products & Risks",
     "stem": "If a customer gives specific instructions to his registered representative to purchase a security that is clearly unsuitable in light of the customer's investment objectives, under FINRA rules, the registered representative",
     "choices": {
       "A": "cannot enter the order.",
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "can enter the order."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “can enter the order.”. This falls under <b>2 - Products & Risks</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "an accredited investor."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “an accredited investor.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "calling the representative each time she wants to place an order."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “providing a limited power of attorney giving discretionary powers.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Preserving capital"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Preserving capital”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Investor preferences."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "conflicting on-screen selections: A/B",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -430,7 +430,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "require documentation from the other party to the JTWROS account showing they agree with the proposed transactions."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “discuss with the customer why speculative stocks might not be appropriate, given the circumstances as you know them before entering any orders.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -444,7 +444,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "transfer on death (TOD) accounts."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "conflicting on-screen selections: A/D",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -458,7 +458,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Level of risk tolerance."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Level of risk tolerance.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -472,7 +472,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "cannot open the account in this manner."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “can open the account with a written statement of ownership from the customer.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -486,7 +486,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "II and III"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “I and II”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -500,7 +500,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Liquidity"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "correct is B = Current income",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -514,12 +514,12 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "execute the order and mark it unsolicited."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “execute the order and mark it unsolicited.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
     "id": "yt-GURU30-59",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "1 - Capital Markets",
     "stem": "One of your prospective customers has proven to be grumpy and noncommunicative. He is reluctant to discuss his employment with you and refuses to give you any information at all about his financial or tax status. You are unable to get any but the most minimal information about him from other sources. How should you treat this prospect?",
     "choices": {
       "A": "You may not make any investment recommendations to him.",
@@ -528,7 +528,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "You may only recommend securities that he specifically asks about."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “You may not make any investment recommendations to him.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -542,7 +542,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Lack of safety."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Lack of liquidity.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -556,7 +556,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "The client's goal requires growth with some risk."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “The client's goal requires growth with some risk.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -570,7 +570,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "has a reasonable basis for believing that the security will outperform others in its industry."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “is suitable for at least some investors.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -584,12 +584,12 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "It is permitted if the fiduciary observes the prudent investor rule."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “It is permitted if provided for in the underlying documentation.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
     "id": "yt-GURU30-67",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "1 - Capital Markets",
     "stem": "If a customer attempts to place an order for municipal securities that the registered representative deems completely unsuitable for the customer, the registered representative:",
     "choices": {
       "A": "may execute the order on a not held basis.",
@@ -598,7 +598,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "may execute the order and mark the order ticket as unsolicited."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "conflicting on-screen selections: A/D",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -612,7 +612,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Safety. There is no point in saving up for a goal if you lose the money."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "correct is A = Time horizon",
     "source": "YouTube: Series 7 Guru (GURU30)"
   },
   {
@@ -626,7 +626,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Safety."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "correct is B = Growth",
     "source": "YouTube: Series 7 Guru (GURU30)"
   }
 ];

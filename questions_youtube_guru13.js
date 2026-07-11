@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Insuring customer deposits in banks and thrifts."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Protecting investors by overseeing broker-dealers and their registered representatives.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU13)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Fourth market"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Primary market”. This falls under <b>1 - Capital Markets</b>. Key principle: The secondary market is where investors trade already-issued securities.",
     "source": "YouTube: Series 7 Guru (GURU13)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Stop-limit order"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Market order”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU13)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Potential for capital appreciation."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Priority claim on assets in case of liquidation, before bondholders.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU13)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "100%"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “50%”. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (GURU13)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Due diligence."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Insider trading.”. This falls under <b>2 - Products & Risks</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
     "source": "YouTube: Series 7 Guru (GURU13)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Subject to a flat capital gains tax rate."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Exempt from federal income tax and may be exempt from state and local taxes for residents of the issuing state.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU13)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Peak"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Expansion”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU13)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Liquidity risk"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Inflation (Purchasing Power) risk”. This falls under <b>1 - Capital Markets</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
     "source": "YouTube: Series 7 Guru (GURU13)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Accumulation phase"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Accumulation phase”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
     "source": "YouTube: Series 7 Guru (GURU13)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Credit risk"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Reinvestment risk”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU13)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "The broker-dealer must provide a prospectus for every transaction."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “The broker-dealer must obtain a signed suitability statement from the customer.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (GURU13)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Free riding."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Churning.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Excessive trading to generate commissions = churning (unauthorized, prohibited).",
     "source": "YouTube: Series 7 Guru (GURU13)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Systematic risk"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Systematic risk”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
     "source": "YouTube: Series 7 Guru (GURU13)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Fourth market (institution-to-institution)."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “First market (exchange-listed).”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU13)"
   },
   {
@@ -220,12 +220,12 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Time value is equal to the intrinsic value."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Time value erodes as an option approaches expiration.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU13)"
   },
   {
     "id": "yt-GURU13-35",
-    "section": "4 - Regulatory Framework",
+    "section": "2 - Products & Risks",
     "stem": "Which of the following is NOT a characteristic of a qualified retirement plan under ERISA?",
     "choices": {
       "A": "Contributions are typically tax-deductible for the employer or employee.",
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Employer contributions are typically subject to FICA and FUTA taxes."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Employer contributions are typically subject to FICA and FUTA taxes.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU13)"
   }
 ];

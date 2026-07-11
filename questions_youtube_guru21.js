@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "An insurance company sells bonds out of its general account portfolio to another insurance company for its general account portfolio"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “A QIB buys newly issued stock in a private investment in a public company (PIPE)”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Insider Trading Act of 1988"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Securities Act of 1933”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Rule 144A"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Rule 144”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Exchange Traded Fund (ETF)"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Index fund”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Unit Investment Trust"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Exchange Traded Note (ETN)”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Structuring"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Structuring”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Place a hold on the customer's account"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “File a Suspicious Activity Report (SAR)”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -108,12 +108,12 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "The same cost base as the deceased plus unrealized capital gains"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “The market value of the shares when the owner dies”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
     "id": "yt-GURU21-9",
-    "section": "2 - Products & Risks",
+    "section": "1 - Capital Markets",
     "stem": "The last transaction in ABC 5.50s 2030 was 98. The bond is selling at:",
     "choices": {
       "A": "Par",
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Asset value"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Discount”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "GNMA must register under the Securities Act of 1933"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “GNMA must register under the Securities Act of 1933”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Common stock"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Common stock”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "8 quarters"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “8 quarters”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "At maturity"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Monthly”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Preferred stock"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Warrants”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Interest rate risk"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Credit risk”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "$69"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “$69”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Price in the secondary market"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “NAV computed after the order is received”. This falls under <b>1 - Capital Markets</b>. Key principle: The secondary market is where investors trade already-issued securities.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Fifth business day"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Second business day”. This falls under <b>2 - Products & Risks</b>. Key principle: Know the settlement clock: equities T+2, options and most bonds T+1.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "A transfer agent"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “A market maker”. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Annually"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Monthly”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Investors who have previously purchased restricted stock"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Institutional investor with $100 million or more in assets under management”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Broker call rate"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Fed funds rate”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Common stock"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Secured bonds”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "A qualified institutional investor (QIB)"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “An accredited investor”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "110 shares at $45.45"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “110 shares at $45.45”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Outstanding stock"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Treasury stock”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Each stockholder's proportionate ownership increases"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “The price per share of common stock decreases”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Sell 100 shares at $15 and buy 300 shares at $15.15"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Buy 3,000 shares at $15 and sell 1,000 shares at $15.15”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
@@ -402,12 +402,12 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "The yield to maturity is the same as the yield to call"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “The yield to maturity is the same as the yield to call”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   },
   {
     "id": "yt-GURU21-30",
-    "section": "2 - Products & Risks",
+    "section": "1 - Capital Markets",
     "stem": "At the time of issuance, which of the following securities has the shortest period to expiration?",
     "choices": {
       "A": "Rights",
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Warrants"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Rights”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU21)"
   }
 ];

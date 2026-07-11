@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "I and III"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “I and III”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU19)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "I and III"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “I, II, III, and IV”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU19)"
   },
   {
@@ -38,12 +38,12 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "Aggressive growth fund"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Bond fund”. This falls under <b>2 - Products & Risks</b>. Key principle: Diversification reduces unsystematic (company-specific) risk.",
     "source": "YouTube: Series 7 Guru (GURU19)"
   },
   {
     "id": "yt-GURU19-45",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "2 - Products & Risks",
     "stem": "A customer is short 10 ABC Dec 50 calls at 2.50 and short 10 ABC Dec 50 puts at 3.50. Before expiration, ABC declines to 40.50, and the customer is assigned on his put position while his short calls expire worthless. A month later, he liquidates his long position at 45 for",
     "choices": {
       "A": "a gain of $7,500.",
@@ -52,12 +52,12 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "a gain of $1,000."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “a gain of $7,500.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU19)"
   },
   {
     "id": "yt-GURU19-63",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "1 - Capital Markets",
     "stem": "All of the following will affect special memorandum account (SMA) in a short account except",
     "choices": {
       "A": "appreciation of CMV.",
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "the purchase of securities."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “the purchase of securities.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU19)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "II and III"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “I and IV”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU19)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "ten ABC 6s of 2045 convertible into 20 shares plus forty additional shares."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “ten ABC 6s of 2045 with a conversion price of $41.67.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU19)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "an elected official of a municipality having some decision-making authority regarding new municipal bond issues."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “an employee of a broker-dealer engaged in municipal security representative activities other than retail sales or who solicits municipal securities business for the broker-dealer.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: MSRB writes rules for municipal securities; FINRA enforces them.",
     "source": "YouTube: Series 7 Guru (GURU19)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "II and III"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “I and III”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU19)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "consolidation."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “consolidation.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU19)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "$10,000."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “$10,000.”. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (GURU19)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "Form D must be filed."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “it is not necessary for J.B. to file a Form 144.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: The secondary market is where investors trade already-issued securities.",
     "source": "YouTube: Series 7 Guru (GURU19)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "9% of the net asset value."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “8.5% of the net asset value.”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU19)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "arbitrage"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “money laundering”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU19)"
   }
 ];

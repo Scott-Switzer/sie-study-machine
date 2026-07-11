@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "II and IV"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “I and III”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU15)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "An accountant for the underwriter of the issuer"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “An aunt of a registered representative”. This falls under <b>2 - Products & Risks</b>. Key principle: An IPO is the first public sale of a company's stock (primary market).",
     "source": "YouTube: Series 7 Guru (GURU15)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "Making false or misleading statements to a customer for the purpose of inducing the customer to purchase or sell a security"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Trading in a customer's account considered excessive, and for which no discernible investment purpose is detected”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Excessive trading to generate commissions = churning (unauthorized, prohibited).",
     "source": "YouTube: Series 7 Guru (GURU15)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "Willful failure to disclose motor vehicle fines in excess of $1,000"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Willful failure to disclose personal bankruptcy or unsatisfied liens”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU15)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "employ a thorough investigation and provide a report to the Securities and Exchange Commission (SEC)."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “turn the complaint over to the appropriate supervisor or principal.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU15)"
   },
   {
@@ -80,12 +80,12 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "an automatic bar from the industry for three years."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “the registration being deactivated until the requirements are met.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
     "source": "YouTube: Series 7 Guru (GURU15)"
   },
   {
     "id": "yt-GURU15-13",
-    "section": "4 - Regulatory Framework",
+    "section": "1 - Capital Markets",
     "stem": "What is the breakeven for a 35 put contract with a premium of 3?",
     "choices": {
       "A": "32",
@@ -94,12 +94,12 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "41"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “32”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU15)"
   },
   {
     "id": "yt-GURU15-14",
-    "section": "4 - Regulatory Framework",
+    "section": "1 - Capital Markets",
     "stem": "All of the following associated persons engaged in the investment banking and securities business are considered registered representatives, except",
     "choices": {
       "A": "someone who solicits or otherwise conducts securities business.",
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "someone who trains others to supervise, solicit, or conduct business in securities."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “someone who serves on the board of directors.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU15)"
   },
   {
@@ -122,12 +122,12 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "Within 15 days of the first trade"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Within 15 days after the account approval”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU15)"
   },
   {
     "id": "yt-GURU15-24",
-    "section": "4 - Regulatory Framework",
+    "section": "1 - Capital Markets",
     "stem": "Al and Sarah just want one diversified investment that will invest in several different classes of securities including hard assets such as precious metals.",
     "choices": {
       "A": "Asset allocation fund",
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "None of the above"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Asset allocation fund”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU15)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "Legislative risk"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Interest Rate risk”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU15)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "Legislative risk"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Retirement account balance”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU15)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "the stated rate divided by par value."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “annual income divided by the market price.”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (GURU15)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "Holding a stock and selling it above its cost basis if held for one year would be a long-term gain."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Holding a stock and selling above its cost basis for more than 12 months would be a long-term gain.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU15)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "Preferred stock dividends must be satisfied before common dividends can be paid."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Preemptive rights obligate the stockholder to maintain his percentage of ownership when additional shares are issued.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU15)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "July 1st"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “July 1st”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU15)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "Right to maintain their percentage of ownership in a stock rights offering"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Right to vote for the Chief Executive Officer (CEO)”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU15)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "The possibility of receiving dividends in arrears"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Right to vote for members of the board of directors”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU15)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "Both are usually attached to a debt security at issue"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Both may be exercised to purchase common stock”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU15)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "II and IV"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “I and IV”. This falls under <b>1 - Capital Markets</b>. Key principle: The secondary market is where investors trade already-issued securities.",
     "source": "YouTube: Series 7 Guru (GURU15)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "Closed-end fund"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Open-end fund”. This falls under <b>2 - Products & Risks</b>. Key principle: UITs are fixed, unmanaged portfolios with a stated termination date.",
     "source": "YouTube: Series 7 Guru (GURU15)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "they have forward pricing."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “they issue a set number of shares to the public.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU15)"
   }
 ];

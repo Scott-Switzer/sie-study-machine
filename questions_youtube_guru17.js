@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "All of the above"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “All of the above”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU17)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "Yield to Call"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Yield to Call”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (GURU17)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "Collection ratio"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Coterminus”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU17)"
   },
   {
@@ -52,12 +52,12 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "97"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “103”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU17)"
   },
   {
     "id": "yt-GURU17-57",
-    "section": "2 - Products & Risks",
+    "section": "1 - Capital Markets",
     "stem": "Identify the position as one of the following:",
     "choices": {
       "A": "Spread",
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "Combination"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Covered Call”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU17)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "Short put"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Long put”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU17)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "Operationally it has special privileges"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “There must be a letter on file attesting to ownership”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU17)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "90 days"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “20 days”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU17)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "Underwriters concession"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Management fee”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU17)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "Underwriter's fee"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Total takedown”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU17)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "Competitive trader"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Two dollar broker”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU17)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "Competitive trader"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Two dollar broker”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU17)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "Buy stop limit"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Buy stop”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU17)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "$9.04"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “$9.04”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU17)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "II & III"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “II & III”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU17)"
   }
 ];

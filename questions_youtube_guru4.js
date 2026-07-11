@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "An increase in the value of shares owned and any dividends received"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “An increase in the value of shares owned and any dividends received”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Made a deposit of cash or securities in a brokerage account within the past calendar year"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Made a deposit of cash or securities in a brokerage account within the past calendar year”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Stockholders can vote for those who will serve on the board of directors"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Stockholders can participate directly in the management of the company”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "The owner of a call has the right to exercise the contract, and the writer would then be assigned and obligated to sell shares to the owner at the strike price."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “The owner of a call has the right to exercise the contract, and the writer would then be assigned and obligated to sell shares to the owner at the strike price.”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "The sale of shares where the client pays the smallest sales charge"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “The sale of investment company shares in dollar amounts just below the point at which the sales charge is reduced on quantity transactions to incur the higher sales charge”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Cannot exceed $100"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Cannot exceed $250”. This falls under <b>4 - Regulatory Framework</b>. Key principle: MSRB writes rules for municipal securities; FINRA enforces them.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Income from dividends can be nonexistent"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Shares owned will decline in value (price)”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "An offering circular"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “An offering circular”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "The next business day"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “The record date”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "The prospectus"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “An official statement”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Pays the current dividends on the preferred, but not the omitted dividends on the preferred, before paying a dividend on the common"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Pays omitted and current preferred dividends before paying dividends on common stock”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Inform the customer that he can reduce his sales charge by combining purchases in other funds offered by the XYZ complex of funds"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Inform the customer that he can reduce his sales charge through a letter of intent”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "72 is currently the highest price any buyer is willing to pay for 1000 shares"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “72 is currently the highest price any buyer is willing to pay for 1000 shares”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Distributions from a Roth IRA may be tax deductible"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Contributions to a traditional IRA may be deductible”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Indefinite, although the broker/dealer may demand return but only after the customer has a gain"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Indefinite, although the broker/dealer may demand return anytime”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Charitable Remainder Trust"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Exchange Traded Fund”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "May expire worthless"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “May exercise anytime up to expiration”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "A AAA-rate Corporate bond that trades on an exchange"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “A pool of short term investments”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Liquidity"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Reinvestment”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Supply and demand determined at the opening each day"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Current market price”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Unlimited number of shares, 6 months after the offering"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Up to 1% of outstanding shares, within 90 days, 6 months after the offering”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Buys stock of other REIT's"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Owns and manages a portfolio of real property and receives income from the property”. This falls under <b>2 - Products & Risks</b>. Key principle: REITs let investors pool into income-producing real estate; dividends taxed as ordinary income.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "On the 4th market"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Over the counter”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Group of empanelled judges"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Both members of the public as well as members of the industry”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Can be bought only at Federal Banks"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Issued at a discount to par”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Keogh"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “SIMPLE”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Not place discretionary trades without the customer's written authorization"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Not place discretionary trades without the customer's written authorization”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "A long-term friend that has since become a customer"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “A long-term friend that has since become a customer”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   },
   {
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Decrease the number of shares outstanding and decrease the share price"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Decrease the number of shares outstanding and increase the share price”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU4)"
   }
 ];

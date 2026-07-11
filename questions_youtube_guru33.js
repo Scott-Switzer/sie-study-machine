@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "A Treasury Inflation-Protected bond"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “A GNMA mutual fund”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "The customer will break even if XYZ trades at 37."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “The strategy is called a bull credit spread.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "A closed-end equity trust with long-term growth as its primary objective"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “A closed-end equity trust with long-term growth as its primary objective”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "European-style options, expiration in April, in-the-money strike price"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “European-style options, expiration in April, in-the-money strike price”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "The customer is permitted to take only the amount of shares that equal the total dollar amount of the original report."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "On-screen highlight showed D; correct SIE answer is A (customer owed the better/reported execution price; firm must make whole).",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "common shares outstanding less newly issued shares during the year"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "fully diluted/primary EPS includes conversion dilution; on-screen A consistent.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "The charge for this service is usually the same as the sales charge when purchasing the fund."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “The plan may result in depletion of capital.”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -108,12 +108,12 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "Take a 401K dist"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "correct = C; on-screen clicked B (panel mislabel)",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
     "id": "yt-GURU33-29",
-    "section": "4 - Regulatory Framework",
+    "section": "2 - Products & Risks",
     "stem": "AMBAC insurance guarantees the timely payment of...",
     "choices": {
       "A": "Interest only",
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "Sinking fund deposits"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Interest and Principal”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "$12000 equity, $1000 SMA"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “$9000 equity, $1000 SMA”. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "Cannot be determined"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “$32,000”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "II and IV"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “II and III”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "Trust account"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "ChatGPT panel 'Revised Answer: Coverdell ESA' (B) conflicts with on-screen highlighted radio A.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "$11,550"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "On-screen radio B highlighted; ChatGPT math yields A ($10,450).",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "Simple IRA"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “SEP IRA”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "trust account"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Roth IRA”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "The registered representative must get a signed attestation from each attendee that they received the PPM"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “The registered representative must get a signed attestation from each attendee that they received the PPM”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "no gain or loss"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “$700 profit”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "$3800"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “$3800”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "Municipal bond with 20 years to maturity"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Growth funds”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "50%"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “25%”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "Buy Canadian Dollar Puts"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Buy Canadian Dollar Puts”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "Do nothing"
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Discuss with the client whether there is a need change objectives”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "$110"
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “$105”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "buy securities in the open market"
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “increase the reserve requirements”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "Firm"
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Firm”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU33)"
   }
 ];

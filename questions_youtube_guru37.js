@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "The individual is statutorily disqualified and would need to seek a waiver from FINRA."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “The individual is eligible because more than 10 years have passed since the conviction.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Yield-to-call."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Tax-free equivalent yield.”. This falls under <b>1 - Capital Markets</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Distributes shares of an initial public offering (IPO) under a best efforts underwriting."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Charges a markup or markdown on a security it is selling from or buying into its own inventory.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: An IPO is the first public sale of a company's stock (primary market).",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "The wife is immediately limited to trading only liquidation transactions until the account is retitled."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “The entire account automatically transfers to the surviving wife's sole ownership.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "They stand ready to redeem their shares at the current Net Asset Value (NAV)."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “They stand ready to redeem their shares at the current Net Asset Value (NAV).”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "The offering amount must not exceed $75 million, and all purchasers must be accredited investors."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “All purchasers must reside in the state, and the securities cannot be resold to non-residents for six months from the date of the sale by the issuer.”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "American Depositary Receipt (ADR)."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Warrant.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Personal bankruptcy filed more than 10 years ago."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Any charge or conviction related to a felony.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -122,12 +122,12 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Buying a call option."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Selling a covered call option.”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
     "id": "yt-GURU37-10",
-    "section": "3 - Trading, Accounts & Prohibited",
+    "section": "1 - Capital Markets",
     "stem": "The Fourth Market is best characterized as the venue where:",
     "choices": {
       "A": "Exchange-listed securities are traded over the counter (OTC) by non-members.",
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "The market for derivative products, such as options and futures, is transacted."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Exchange-listed securities trade between two institutional investors without the use of a broker-dealer.”. This falls under <b>1 - Capital Markets</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "12%."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “0%.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "State Securities Administrators (Blue Sky Laws)."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “The Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA).”. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "The SEC focuses on disclosures to the investing public, while FINRA solely focuses on the conduct of corporate issuers."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “The SEC writes federal securities laws, while FINRA acts as a primary SRO responsible for rule enforcement and broker-dealer examinations.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Call risk, due to the potential for the issuing bank to redeem the ADR."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Currency risk, due to the value of the underlying foreign shares being denominated in a foreign currency.”. This falls under <b>2 - Products & Risks</b>. Key principle: The secondary market is where investors trade already-issued securities.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "The donor may restrict the use of the funds until the minor reaches age 25."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Contributions are considered an irrevocable gift, and the minor is the account's legal owner.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "A phantom income gain."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “An ordinary income gain.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -234,12 +234,12 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "A firm's website or social media post promoting its investment services to the general public."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “A firm's website or social media post promoting its investment services to the general public.”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
     "id": "yt-GURU37-18",
-    "section": "4 - Regulatory Framework",
+    "section": "1 - Capital Markets",
     "stem": "In the over-the-counter (OTC) market, a market maker posts a quote of 15.00 - 15.25 (5x10). What does the number 10 represent in this quote?",
     "choices": {
       "A": "The number of round lots (100 shares) the market maker is willing to sell at $15.25.",
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "The minimum price fluctuation for the security."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “The number of round lots (100 shares) the market maker is willing to sell at $15.25.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "It can only be purchased by large institutional investors."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “It is highly liquid and has a short-term maturity of one year or less.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "The Sarbanes-Oxley Act of 2002."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “The Securities Exchange Act of 1934.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Compliance Obligation."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Care Obligation.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Regulation Best Interest requires brokers to act in retail customers' best interest.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Index Mutual Fund."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Inverse and Leveraged ETF.”. This falls under <b>2 - Products & Risks</b>. Key principle: REITs let investors pool into income-producing real estate; dividends taxed as ordinary income.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -318,12 +318,12 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "BDs manage discretionary accounts, while IAs are strictly prohibited from holding customer funds."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “BDs charge commissions for effecting transactions, while IAs charge fees for investment advice.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: The SEC is the federal regulator of securities markets.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
     "id": "yt-GURU37-24",
-    "section": "1 - Capital Markets",
+    "section": "2 - Products & Risks",
     "stem": "How are U.S. Treasury bonds and notes typically quoted in the secondary market?",
     "choices": {
       "A": "As a percentage of par in 32nds of a point.",
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "As a percentage of par in 100ths of a point."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “As a percentage of par in 32nds of a point.”. This falls under <b>2 - Products & Risks</b>. Key principle: The secondary market is where investors trade already-issued securities.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Is a corporate entity with assets exceeding $5 million, regardless of the type of investment."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Has a gross income of at least $200,000 in each of the two most recent years (or $300,000 with a spouse) with a reasonable expectation of reaching the same level in the current year.”. This falls under <b>4 - Regulatory Framework</b>.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -360,12 +360,12 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Total annual income and net worth."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Name, physical address, and date of birth.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
     "id": "yt-GURU37-27",
-    "section": "4 - Regulatory Framework",
+    "section": "1 - Capital Markets",
     "stem": "Following a disciplinary action, an associated person who wishes to appeal a FINRA Hearing Panel's decision must first submit the appeal to the:",
     "choices": {
       "A": "Securities and Exchange Commission (SEC).",
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "State Securities Administrator."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “National Adjudicatory Council (NAC).”. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -388,12 +388,12 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Quiet period."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “Cooling-off period.”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
     "id": "yt-GURU37-29",
-    "section": "2 - Products & Risks",
+    "section": "1 - Capital Markets",
     "stem": "The debt service for a General Obligation (GO) municipal bond is primarily secured by:",
     "choices": {
       "A": "User fees and tolls collected from the project being financed.",
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "An escrow account containing U.S. government securities."
     },
     "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (B) is: “The full faith and credit of the issuing municipality, backed by its taxing power.”. This falls under <b>1 - Capital Markets</b>.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Within a reasonable time after the initial transaction."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “Within a reasonable time after the initial transaction.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Know the settlement clock: equities T+2, options and most bonds T+1.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -430,7 +430,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "The premium paid, which is $300."
     },
     "answer": "D",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (D) is: “The premium paid, which is $300.”. This falls under <b>2 - Products & Risks</b>.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -444,7 +444,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Unauthorized trading (executing trades without customer permission)."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Selling Away.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Excessive trading to generate commissions = churning (unauthorized, prohibited).",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -458,7 +458,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Set the minimum equity required in the customer's account before a margin call is issued."
     },
     "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (C) is: “Authorize the broker-dealer to rehypothecate (pledge) the customer's margin securities as collateral for a bank loan.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -472,7 +472,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Ensure the corporation complies with all federal and state securities laws."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “Handle the issuance, cancellation, and exchange of stock certificates and maintain the list of registered shareholders.”. This falls under <b>1 - Capital Markets</b>. Key principle: The secondary market is where investors trade already-issued securities.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   },
   {
@@ -486,7 +486,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "To distribute a statutory prospectus to the public."
     },
     "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
+    "explanation": "The correct choice (A) is: “To solicit indications of interest from potential investors.”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
     "source": "YouTube: Series 7 Guru (GURU37)"
   }
 ];

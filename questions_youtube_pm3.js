@@ -14,20 +14,6 @@ var SIE_QUESTIONS_YT_PM3 = [
     "source": "YouTube: Series 7 Guru (PM3)"
   },
   {
-    "id": "yt-PM3-5",
-    "section": "2 - Products & Risks",
-    "stem": "Stability in the value of a debt portfolio is greatest when:",
-    "choices": {
-      "A": "Interest rates are falling",
-      "B": "Maturities of the debt securities are long",
-      "C": "Interest rates are rising",
-      "D": "Maturities of the debt securities are short"
-    },
-    "answer": "A",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
-    "source": "YouTube: Series 7 Guru (PM3)"
-  },
-  {
     "id": "yt-PM3-6",
     "section": "2 - Products & Risks",
     "stem": "Which of the following types of pooled investments has a fixed portfolio?",

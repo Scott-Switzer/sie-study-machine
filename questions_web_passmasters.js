@@ -1,0 +1,142 @@
+var SIE_QUESTIONS_WEB_PASSMASTERS = [
+ {
+  "id": "web-PASSMASTERS-1",
+  "section": "1 - Capital Markets",
+  "stem": "When selling new issues of stock in the primary market the issuer must deliver a document that summarizes the SEC registration statement known as a(n):",
+  "choices": {
+   "A": "Official statement",
+   "B": "Offering memorandum",
+   "C": "Disclosure document",
+   "D": "Prospectus"
+  },
+  "answer": "D",
+  "explanation": "A prospectus, which summarizes the SEC registration statement, must be delivered to purchasers of new stock in the primary market prior to or at the time of sale.",
+  "source": "passmasters.com"
+ },
+ {
+  "id": "web-PASSMASTERS-2",
+  "section": "2 - Products & Risks",
+  "stem": "If a public utility wants to raise capital so they can bury the power lines in a new residential subdivision they will most likely issue which of the following?",
+  "choices": {
+   "A": "General obligation bonds",
+   "B": "Debentures",
+   "C": "Revenue bonds",
+   "D": "Special purpose bonds"
+  },
+  "answer": "B",
+  "explanation": "Assume that a public utility is a corporate entity instead of a municipal entity. General obligation bonds, revenue bonds, and special purpose bonds are all types of municipal bonds. Debentures are unsecured corporate bonds.",
+  "source": "passmasters.com"
+ },
+ {
+  "id": "web-PASSMASTERS-3",
+  "section": "1 - Capital Markets",
+  "stem": "An issuer has had its share unlisted from an exchange. Which of the following is true?",
+  "choices": {
+   "A": "The shares are now worthless",
+   "B": "The shares can be traded with special permission of the SEC",
+   "C": "The shares may trade OTC",
+   "D": "Shares can never be unlisted"
+  },
+  "answer": "C",
+  "explanation": "Shares that are unlisted from an exchange may trade OTC.",
+  "source": "passmasters.com"
+ },
+ {
+  "id": "web-PASSMASTERS-4",
+  "section": "2 - Products & Risks",
+  "stem": "The most common type of management company is a(n):",
+  "choices": {
+   "A": "UIT",
+   "B": "Open-end fund",
+   "C": "Closed-end fund",
+   "D": "FACC"
+  },
+  "answer": "B",
+  "explanation": "Open-end mutual funds are the most common type of management company.",
+  "source": "passmasters.com"
+ },
+ {
+  "id": "web-PASSMASTERS-5",
+  "section": "2 - Products & Risks",
+  "stem": "Earnings in a variable annuity:",
+  "choices": {
+   "A": "Are taxable at long-term rates",
+   "B": "Are taxed during the accumulation period",
+   "C": "Are tax-deferred",
+   "D": "Are subject to an early withdrawal penalty if taken out under age 78"
+  },
+  "answer": "C",
+  "explanation": "The main purpose of a variable annuity is to provide tax-deferred earnings. The earnings will be taxable as ordinary income upon withdrawal (or annuitization). The early withdrawal penalty applies to withdrawals made under age 59 \u00bd.",
+  "source": "passmasters.com"
+ },
+ {
+  "id": "web-PASSMASTERS-6",
+  "section": "2 - Products & Risks",
+  "stem": "Which type of risk is associated with an issuer not being able to make interest and principal payments timely?",
+  "choices": {
+   "A": "Market",
+   "B": "Credit",
+   "C": "Political",
+   "D": "Interest rate"
+  },
+  "answer": "B",
+  "explanation": "Credit risk is the risk that the issuer of a security may not be able to meet their financial obligations, causing them to default on principal and interest payments.",
+  "source": "passmasters.com"
+ },
+ {
+  "id": "web-PASSMASTERS-7",
+  "section": "2 - Products & Risks",
+  "stem": "The issuer declares a 4 to 1 stock split. The investor owned 250 shares before the split, at $40 a share. After the split what is the investor\u2019s position?",
+  "choices": {
+   "A": "1,000 shares at $60",
+   "B": "1,000 shares at $10",
+   "C": "2,000 shares at $5",
+   "D": "125 shares at $80"
+  },
+  "answer": "B",
+  "explanation": "In a 4 to 1 stock split the investor receives four shares for every one they own. In this case, they own 250 shares, so that four times that is 1,000 shares. The overall amount invested is never changed by a stock split or reverse split. The cost basis was 250 shares times $40/share = $10,000. If the investor now has 1,000 shares, but still has $10,000 invested the price per share is $10 ($10,000 divided by 1,000 shares).",
+  "source": "passmasters.com"
+ },
+ {
+  "id": "web-PASSMASTERS-8",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "As part of a brokerage firm\u2019s Customer Identification Program (CIP) all the following information must be collected related to the customer before opening an account EXCEPT:",
+  "choices": {
+   "A": "Education level",
+   "B": "SSN",
+   "C": "Date of birth",
+   "D": "Customer name"
+  },
+  "answer": "A",
+  "explanation": "Under the USA PATRIOT Act a broker-dealer must have a Customer Identification Program (CIP). Under this Program, before opening an account, the firm must obtain, at a minimum the following: customer name, date of birth, address, and SSN.",
+  "source": "passmasters.com"
+ },
+ {
+  "id": "web-PASSMASTERS-9",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "A broker-dealer shall preserve for a period of not less than ______ years after the closing of any customer\u2019s account any account cards or records which relate to the terms and conditions with respect to the opening and maintenance of the account.",
+  "choices": {
+   "A": "Five",
+   "B": "Two",
+   "C": "Three",
+   "D": "Six"
+  },
+  "answer": "D",
+  "explanation": "A broker-dealer shall preserve for a period of not less than six years after the closing of any customer\u2019s account any account cards or records which relate to the terms and conditions with respect to the opening and maintenance of the account.",
+  "source": "passmasters.com"
+ },
+ {
+  "id": "web-PASSMASTERS-10",
+  "section": "4 - Regulatory Framework",
+  "stem": "SEC\u2019s statutory disqualification means:",
+  "choices": {
+   "A": "You cannot be affiliated with a broker-dealer in any capacity",
+   "B": "You must complete additional continuing education",
+   "C": "You must pay a higher registration fee",
+   "D": "You cannot be a registered representative, but you could be a partner of a broker-dealer"
+  },
+  "answer": "A",
+  "explanation": "SEC\u2019s statutory disqualification means that you cannot be affiliated with a broker-dealer in any capacity. www.PassMasters.com 3",
+  "source": "passmasters.com"
+ }
+];

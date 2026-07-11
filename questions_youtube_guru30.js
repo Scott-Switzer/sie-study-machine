@@ -10,13 +10,13 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "an accredited investor."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “an eligible investor.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Based on the income shown, the client does not meet the accredited investor income threshold on W-2 wages alone; the source credited 'an eligible investor' (C) as the appropriate classification in its key.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
     "id": "yt-guru30-4",
     "section": "4 - Regulatory Framework",
-    "stem": "In recommending securities to customers, a FINRA member firm must do which of the following?",
+    "stem": "In recommending securities to customers, a FINRA member firm must do which two of the following? I. Ensure the recommendation will generate a profit for the customer. II. Have a reasonable basis to believe the recommendation is suitable for at least some investors. III. Have a reasonable basis to believe the recommendation is suitable for the particular customer based on that customer's profile. IV. Monitor the customer's account only once per year regardless of activity.",
     "choices": {
       "A": "I and IV",
       "B": "II and III",
@@ -24,9 +24,10 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "I and II"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “II and III”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "FINRA's suitability rule requires a reasonable-basis suitability analysis (the recommendation is suitable for at least some investors, II) and a customer-specific suitability analysis (suitable for the particular customer's objectives and profile, III). Firms cannot guarantee profits (I is false), and there is no once-per-year-only monitoring rule (IV is false). Therefore B (II and III) is correct.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
+
   {
     "id": "yt-guru30-11",
     "section": "3 - Trading, Accounts & Prohibited",
@@ -52,7 +53,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "The options disclosure document (ODD)."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “The options disclosure document (ODD).”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
+    "explanation": "The correct choice (D) is: \u201cThe options disclosure document (ODD).\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -66,7 +67,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "With very young children, higher education is too far in the future to plan for financially."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “They cannot be expressed as a sum of money or a cash flow.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cThey cannot be expressed as a sum of money or a cash flow.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -80,7 +81,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Growth. The whole point of investing is to grow your money, and it applies here as well."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Speculation. She can afford to take some flyers and wishes to do so.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cSpeculation. She can afford to take some flyers and wishes to do so.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -108,7 +109,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Current employment stability"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Expected retirement age”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cExpected retirement age\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -122,7 +123,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Yearly"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Monthly”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cMonthly\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -136,7 +137,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "The account may be opened, but all recommendations must be suitable based on the customer's situation."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “The account may be opened, but no recommendations may be made.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: The SEC is the federal regulator of securities markets.",
+    "explanation": "The correct choice (C) is: \u201cThe account may be opened, but no recommendations may be made.\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: The SEC is the federal regulator of securities markets.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -164,7 +165,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "The client's tax returns for the past three years"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “The client's tax returns for the past three years”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cThe client's tax returns for the past three years\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -178,7 +179,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Margin trading in a fiduciary account does not require any special documentation."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Margin trading in a fiduciary account does not require any special documentation.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (D) is: \u201cMargin trading in a fiduciary account does not require any special documentation.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -192,7 +193,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "I and III"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “I and III”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cI and III\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -206,7 +207,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Capital appreciation"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Capital appreciation”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "The correct choice (D) is: \u201cCapital appreciation\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -220,7 +221,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "a nonapproval account."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “a discretionary account.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201ca discretionary account.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -234,7 +235,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Opening a margin account to go along with an existing cash account."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Changing the asset allocation in an existing account.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (B) is: \u201cChanging the asset allocation in an existing account.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -248,7 +249,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "III and IV"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “III and IV”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cIII and IV\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -262,7 +263,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Investment goals."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Investment constraints.”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cInvestment constraints.\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -276,7 +277,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Tax returns for the past two years."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “A letter from a duly licensed life insurance agent.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cA letter from a duly licensed life insurance agent.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -290,7 +291,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "discuss and review suitability."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “discuss and review suitability.”. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (D) is: \u201cdiscuss and review suitability.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -304,7 +305,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Increase my position in ABC"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Buy 100 shares of ABC when the price is right”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cBuy 100 shares of ABC when the price is right\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -318,7 +319,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "reasonable-basis suitability analysis."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “qualitative suitability analysis.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
+    "explanation": "The correct choice (A) is: \u201cqualitative suitability analysis.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -332,7 +333,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Brokerage account reports"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “W-2 forms”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cW-2 forms\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -346,7 +347,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Execute the trade only if the customer has previous trading experience in similar securities."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Execute the trade specifically as the customer has directed you to do but mark it unsolicited.”. This falls under <b>2 - Products & Risks</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (A) is: \u201cExecute the trade specifically as the customer has directed you to do but mark it unsolicited.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -360,7 +361,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "can enter the order."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “can enter the order.”. This falls under <b>2 - Products & Risks</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (D) is: \u201ccan enter the order.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -374,7 +375,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "an accredited investor."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “an accredited investor.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201can accredited investor.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -388,7 +389,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "calling the representative each time she wants to place an order."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “providing a limited power of attorney giving discretionary powers.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cproviding a limited power of attorney giving discretionary powers.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -402,7 +403,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Preserving capital"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Preserving capital”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cPreserving capital\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -430,7 +431,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "require documentation from the other party to the JTWROS account showing they agree with the proposed transactions."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “discuss with the customer why speculative stocks might not be appropriate, given the circumstances as you know them before entering any orders.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cdiscuss with the customer why speculative stocks might not be appropriate, given the circumstances as you know them before entering any orders.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -458,7 +459,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Level of risk tolerance."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Level of risk tolerance.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cLevel of risk tolerance.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -472,7 +473,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "cannot open the account in this manner."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “can open the account with a written statement of ownership from the customer.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (B) is: \u201ccan open the account with a written statement of ownership from the customer.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -486,7 +487,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "II and III"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “I and II”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cI and II\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -499,7 +500,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "C": "Preservation of capital",
       "D": "Liquidity"
     },
-    "answer": "D",
+    "answer": "B",
     "explanation": "correct is B = Current income",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
@@ -514,7 +515,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "execute the order and mark it unsolicited."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “execute the order and mark it unsolicited.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cexecute the order and mark it unsolicited.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -528,7 +529,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "You may only recommend securities that he specifically asks about."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “You may not make any investment recommendations to him.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cYou may not make any investment recommendations to him.\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -542,7 +543,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Lack of safety."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Lack of liquidity.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "The correct choice (B) is: \u201cLack of liquidity.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -556,7 +557,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "The client's goal requires growth with some risk."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “The client's goal requires growth with some risk.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cThe client's goal requires growth with some risk.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -570,7 +571,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "has a reasonable basis for believing that the security will outperform others in its industry."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “is suitable for at least some investors.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
+    "explanation": "The correct choice (A) is: \u201cis suitable for at least some investors.\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -584,7 +585,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "It is permitted if the fiduciary observes the prudent investor rule."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “It is permitted if provided for in the underlying documentation.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (A) is: \u201cIt is permitted if provided for in the underlying documentation.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -611,7 +612,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "C": "Taxes. They reduce the amount available to invest and reduce the return on investment.",
       "D": "Safety. There is no point in saving up for a goal if you lose the money."
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": "correct is A = Time horizon",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
@@ -625,8 +626,8 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "C": "Liquidity.",
       "D": "Safety."
     },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “Liquidity.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "answer": "B",
+    "explanation": "The correct choice (C) is: \u201cLiquidity.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
     "source": "YouTube: Series 7 Guru (guru30)"
   }
 ];

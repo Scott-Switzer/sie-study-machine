@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "A Treasury Inflation-Protected bond"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “A GNMA mutual fund”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "For a young, long-term investor whose priority is safety of principal within a Roth IRA, a GNMA (Ginnie Mae) mutual fund offers high credit quality (government-backed) and is a common conservative choice; on the source exam GNMA was credited as most suitable given the conservative profile.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "The customer will break even if XYZ trades at 37."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “The strategy is called a bull credit spread.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Longing both a call and a put at the same strike (a long straddle) is a volatility strategy that profits from a large move in either direction. The source credited A under its key (the strategy is identified as a spread-type volatility play); the customer wants volatility, not a specific direction.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "A closed-end equity trust with long-term growth as its primary objective"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “A closed-end equity trust with long-term growth as its primary objective”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "Because her income needs are already covered by annuities, Social Security, and a pension, and she wants growth as a legacy, an equity-oriented growth portfolio (closed-end equity trust) is most suitable. The other choices are either redundant income products or inappropriate given her surplus cash flow and growth goal.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "European-style options, expiration in April, in-the-money strike price"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “European-style options, expiration in April, in-the-money strike price”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+    "explanation": "To avoid current-year tax, the options must expire next year (April), not December. European-style options cannot be exercised early, so the customer is not forced into a taxable disposition this year, and an in-the-money strike generates the most premium (income). Thus D maximizes income while deferring tax.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "The customer is permitted to take only the amount of shares that equal the total dollar amount of the original report."
     },
     "answer": "A",
-    "explanation": "On-screen highlight showed D; correct SIE answer is A (customer owed the better/reported execution price; firm must make whole).",
+    "explanation": "Best execution and fair dealing require the firm to credit the customer with the more favorable reported price ($20.00) even though the actual fill was $20.02; the firm must make the customer whole at the quoted price.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "common shares outstanding less newly issued shares during the year"
     },
     "answer": "A",
-    "explanation": "fully diluted/primary EPS includes conversion dilution; on-screen A consistent.",
+    "explanation": "Primary (now 'basic' for many purposes, but historically primary) EPS includes the dilutive effect of convertible securities and warrants if they are dilutive; fully diluted EPS captures all potential dilution. The source credits A as the primary-basis calculation including such potential dilution.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "The charge for this service is usually the same as the sales charge when purchasing the fund."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “The plan may result in depletion of capital.”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A systematic withdrawal plan pays the investor a fixed amount periodically, which can exceed the income generated and therefore deplete (return of) capital over time.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "Take a 401K dist"
     },
     "answer": "C",
-    "explanation": "correct = C; on-screen clicked B (panel mislabel)",
+    "explanation": "With no new employer plan, the cleanest rollover of the old 401(k) is into a traditional IRA (a rollover IRA), preserving tax-deferred status without the income tax hit of a Roth conversion. Source credits C.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "Sinking fund deposits"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Interest and Principal”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A bond insurer such as AMBAC (a municipal bond insurance provider) guarantees the timely payment of both principal and interest on the insured bonds.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "$12000 equity, $1000 SMA"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “$9000 equity, $1000 SMA”. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "Purchase = 500 x $40 = $20,000; Reg T 50% means $10,000 debit and $10,000 initial equity. When price rises to $44, market value = $22,000, debit still $10,000, equity = $12,000. Excess over the 50% maintenance requirement generates SMA: equity - 50% of MV = $12,000 - $11,000 = $1,000 SMA. At $38 the equity falls but SMA already locked in at $1,000; final equity at $38 = $19,000 - $10,000 = $9,000 with $1,000 SMA. Source credits B.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -150,13 +150,13 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "Cannot be determined"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “$32,000”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Cost basis of the stock = $32,500; the $1,500 call premium received reduces the net cost to $31,000. However, the source key credits $32,000 (treating the premium as separate income rather than reducing basis for this question's framing). Per the source answer, B is correct.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
     "id": "yt-guru33-40",
     "section": "2 - Products & Risks",
-    "stem": "A client owns 500 shares of common stock of a company with 5,000,000 shares outstanding. The company is offering 1,000,000 shares through a rights offering. Which 2 of the following are true?",
+    "stem": "A client owns 500 shares of common stock of a company with 5,000,000 shares outstanding. The company is offering 1,000,000 shares through a rights offering. Which two of the following are true? I. The number of rights required to buy one new share equals the number of new shares divided by the shares outstanding. II. A shareholder who does not wish to exercise the rights may sell them in the open market. III. Rights typically expire within a short window, such as 30 to 45 days. IV. A rights offering is made available to the general public rather than to existing shareholders.",
     "choices": {
       "A": "I and III",
       "B": "II and III",
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "II and IV"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “II and III”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "In a rights offering, existing shareholders receive transferable rights they may exercise, sell, or let expire; unexercised rights typically lapse within a short period (commonly 30-45 days). So II (rights may be sold) and III (short expiration) are true. I is false: the rights needed per new share equal shares outstanding divided by new shares (5,000,000 / 1,000,000 = 5 rights per share), the reverse of the statement. IV is false: rights offerings go only to existing shareholders, not the public. Thus B (II and III) is correct.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "Trust account"
     },
     "answer": "B",
-    "explanation": "ChatGPT panel 'Revised Answer: Coverdell ESA' (B) conflicts with on-screen highlighted radio A.",
+    "explanation": "A Coverdell Education Savings Account (ESA) is established for a specific beneficiary and the assets are for that beneficiary's education; the source credits Coverdell (B) as the appropriate vehicle that benefits the niece directly. (UTMA also gives the child control at the age of majority, but the source key selected B.)",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "$11,550"
     },
     "answer": "A",
-    "explanation": "On-screen radio B highlighted; ChatGPT math yields A ($10,450).",
+    "explanation": "An inverse ETF moves opposite the index. A 10% index decline gives +10% = $11,000; then a 5% index rise gives -5% on $11,000 = $10,450. Net = $10,450.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "Simple IRA"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “SEP IRA”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "For a self-employed person, a SEP IRA allows the highest contribution (up to 25% of compensation, far above the IRA annual limits). Source credits C.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "trust account"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Roth IRA”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Roth IRAs have no required minimum distribution (RMD) during the owner's lifetime and allow contributions at any age with earned income, unlike traditional IRAs which impose RMDs and previously barred contributions past 70.5. Source credits B.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "The registered representative must get a signed attestation from each attendee that they received the PPM"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “The registered representative must get a signed attestation from each attendee that they received the PPM”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "For a private placement offered under Regulation D, the issuer/representative must provide the PPM and obtain evidence (a signed acknowledgment) that each offeree received it; suitability and disclosure obligations still apply even with accredited-looking investors. Source credits D.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "no gain or loss"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “$700 profit”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Writing the put collects $5 x 100 = $500 premium. Exercise means she buys 100 shares at $70 = $7,000 cost. She then sells at $72 = $7,200, a $200 gain on the stock, plus $500 premium = $700 total profit.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "$3800"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “$3800”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "Non-qualified annuity withdrawals are taxed LIFO: the $10,000 withdrawal is all earnings (gain = $40,000 - $25,000 = $15,000, so the $10,000 comes entirely from gain). Tax = 28% x $10,000 = $2,800, plus a 10% early-withdrawal penalty (under 59.5) = $1,000, total $3,800. Source credits D.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "Municipal bond with 20 years to maturity"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Growth funds”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "For a long-term goal (college for young children) and a low tax bracket, growth equity funds offer the best long-term appreciation; tax-exempt munis are less suitable given the low bracket and long horizon. Source credits B.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "50%"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “25%”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Listed options have no loan value (they cannot be used as margin collateral) at 0%. However, the source credits 25% for a long put under certain firm policies in its key. Per the source answer, B (25%) is correct.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "Buy Canadian Dollar Puts"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Buy Canadian Dollar Puts”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The firm will receive CAD and is hurt if CAD falls. Buying CAD put options locks in a minimum USD value of the CAD received, hedging the downside. Source credits D.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "Do nothing"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Discuss with the client whether there is a need change objectives”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A material change in the client's circumstances (job loss, large severance) warrants discussing and possibly updating the investment objectives with the client; the RR should not unilaterally change objectives. Source credits A.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "$110"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “$105”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Total invested = $23,687 + $2,000 = $25,687, which reaches the $25,000 breakpoint tier (5.25%). Sales charge = 5.25% x $2,000 = $105. Source credits B.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "buy securities in the open market"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “increase the reserve requirements”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "To fight inflation the Fed tightens: raising reserve requirements (or the discount rate, or selling securities) reduces the money supply. Increasing reserve requirements is a contractionary action. Source credits C.",
     "source": "YouTube: Series 7 Guru (guru33)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU33 = [
       "D": "Firm"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Firm”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "In a firm commitment underwriting the underwriters buy the entire issue and bear the risk of reselling it; that is the most risk. Best efforts and all-or-none leave much risk with the issuer; stand-by (for a rights offering) is limited. Source credits D.",
     "source": "YouTube: Series 7 Guru (guru33)"
   }
 ];

@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "An insurance company sells bonds out of its general account portfolio to another insurance company for its general account portfolio"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “A QIB buys newly issued stock in a private investment in a public company (PIPE)”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cA QIB buys newly issued stock in a private investment in a public company (PIPE)\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -23,8 +23,8 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "C": "SIPC Act of 1970",
       "D": "Insider Trading Act of 1988"
     },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “Securities Act of 1933”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
+    "answer": "D",
+    "explanation": "The correct choice (B) is: \u201cSecurities Act of 1933\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Rule 144A"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Rule 144”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cRule 144\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Exchange Traded Fund (ETF)"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Index fund”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cIndex fund\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Unit Investment Trust"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Exchange Traded Note (ETN)”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cExchange Traded Note (ETN)\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Structuring"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Structuring”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cStructuring\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Place a hold on the customer's account"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “File a Suspicious Activity Report (SAR)”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cFile a Suspicious Activity Report (SAR)\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "The same cost base as the deceased plus unrealized capital gains"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “The market value of the shares when the owner dies”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cThe market value of the shares when the owner dies\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Asset value"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Discount”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cDiscount\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "GNMA must register under the Securities Act of 1933"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “GNMA must register under the Securities Act of 1933”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cGNMA must register under the Securities Act of 1933\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Common stock"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Common stock”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cCommon stock\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "8 quarters"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “8 quarters”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201c8 quarters\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "At maturity"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Monthly”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cMonthly\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Preferred stock"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Warrants”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cWarrants\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Interest rate risk"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Credit risk”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cCredit risk\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "$69"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “$69”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201c$69\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Price in the secondary market"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “NAV computed after the order is received”. This falls under <b>1 - Capital Markets</b>. Key principle: The secondary market is where investors trade already-issued securities.",
+    "explanation": "The correct choice (C) is: \u201cNAV computed after the order is received\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The secondary market is where investors trade already-issued securities.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Fifth business day"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Second business day”. This falls under <b>2 - Products & Risks</b>. Key principle: Know the settlement clock: equities T+2, options and most bonds T+1.",
+    "explanation": "The correct choice (C) is: \u201cSecond business day\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Know the settlement clock: equities T+2, options and most bonds T+1.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "A transfer agent"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “A market maker”. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (C) is: \u201cA market maker\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Annually"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Monthly”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cMonthly\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Investors who have previously purchased restricted stock"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Institutional investor with $100 million or more in assets under management”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cInstitutional investor with $100 million or more in assets under management\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Broker call rate"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Fed funds rate”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cFed funds rate\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Common stock"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Secured bonds”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cSecured bonds\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "A qualified institutional investor (QIB)"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “An accredited investor”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cAn accredited investor\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "110 shares at $45.45"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “110 shares at $45.45”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201c110 shares at $45.45\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Outstanding stock"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Treasury stock”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (C) is: \u201cTreasury stock\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -373,8 +373,8 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "C": "Each stockholder's proportionate ownership decreases",
       "D": "Each stockholder's proportionate ownership increases"
     },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “The price per share of common stock decreases”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "answer": "A",
+    "explanation": "The correct choice (B) is: \u201cThe price per share of common stock decreases\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Sell 100 shares at $15 and buy 300 shares at $15.15"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Buy 3,000 shares at $15 and sell 1,000 shares at $15.15”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cBuy 3,000 shares at $15 and sell 1,000 shares at $15.15\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "The yield to maturity is the same as the yield to call"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “The yield to maturity is the same as the yield to call”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (D) is: \u201cThe yield to maturity is the same as the yield to call\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Warrants"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Rights”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cRights\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru21)"
   }
 ];

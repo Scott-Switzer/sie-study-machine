@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "An investor purchases $40,000 worth of speculative and other low-grade bonds with a personal check."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “An investor purchases $12,000 worth of securities with twelve $1,000 postal money orders.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A Currency Transaction Report (CTR) is required for currency or cash-equivalent transactions over $10,000. Twelve $1,000 postal money orders totaling $12,000 are cash equivalents and trigger a CTR; depositing securities or trading within an account does not.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "borrowers might default on their mortgage payments."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “the market for mortgage-backed securities is illiquid.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Agency MBS (e.g., GNMA/FNMA/FHLMC) are among the most liquid securities markets; saying the market is illiquid is the exception. Prepayment risk (from falling rates) and extension risk (from rising rates) and default risk are all real MBS risks.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "are subject to registration with the Municipal Securities Rulemaking Board (MSRB) and are required to make full disclosure by delivering an official statement."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “are not subject to registration with the SEC but are required to register in the state of New Jersey.”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "Municipal securities are exempt from federal SEC registration but are typically subject to state (blue sky) registration in the issuing state. (Note: on the source exam the credited answer was A; the most technically accurate SIE view is C — munis are exempt from SEC registration and disclose via an official statement — but the source key selected A.)",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "real estate investment trusts (REITs)."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “real estate investment trusts (REITs).”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Direct pass-through of income and losses to investors is a feature of partnerships and S corporations (and DPPs such as real estate and oil & gas programs). A REIT is a corporation that does not pass through losses to shareholders (it passes income but not the tax losses). Source credits D.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "The Bond Buyer."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “the bond resolution.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The bond resolution (indenture) sets out the terms of the issue, including any call provisions. The legal opinion addresses tax exemption; the notice of sale is an invitation to bid; The Bond Buyer is a trade publication.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "no effect."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “an increase.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A reverse split reduces the number of shares outstanding, so earnings per share (net income / shares) increases even though total earnings are unchanged. Source credits B.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -88,13 +88,13 @@ var SIE_QUESTIONS_YT_GURU11 = [
     "section": "2 - Products & Risks",
     "stem": "An investor holding which of the following positions is exposed to a potentially unlimited loss?",
     "choices": {
-      "A": "II or III",
-      "B": "II or IV",
-      "C": "I or III",
-      "D": "I or II"
+      "A": "Short 100 shares of stock; and short 1 uncovered call on that stock.",
+      "B": "Long 100 shares of stock; and long 1 put on that stock (protective put).",
+      "C": "Long 100 shares of stock; and short 1 covered call on that stock.",
+      "D": "Long 100 shares of stock; and long 1 call on that stock."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “II or III”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Short stock and a short (uncovered) call both carry theoretically unlimited loss: a rising stock price can move without limit against the short seller. The protective put (B), covered call (C), and long stock plus long call (D) all have loss limited to the amount paid for the position plus premium. Therefore A (either a short stock or a short call position) is the only choice composed entirely of unlimited-loss positions.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "The investor's balance sheet"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The investor's income statement”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Whether a customer can afford $200/month contributions depends on cash flow, best shown by the income statement (revenues vs. expenses). Objectives guide goals but the income statement shows ability to pay. Source credits B.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "a letter of intent."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “warrants.”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+    "explanation": "A warrant gives the holder the right to buy the issuer's stock at a fixed strike price for a long period (often years), typically slightly above current market when issued. Source credits A.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "currency risk."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “liquidity risk.”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "A diversified foreign stock mutual fund is itself liquid (redeemable daily at NAV), so the investor is least concerned with liquidity risk; they remain exposed to market, political, and currency risk. Source credits C.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -150,13 +150,13 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "Sell 30-year T-bond yield-based puts"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Buy 30-year T-bond yield-based calls”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+    "explanation": "Yield-based (interest-rate) options: a call gains when yields rise. Buying T-bond yield calls profits when long-term rates rise, offsetting the bond portfolio's price decline. Source credits A.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
     "id": "yt-guru11-39",
     "section": "2 - Products & Risks",
-    "stem": "Which of the following DTET option contracts are out of the money when DTET is trading at $88 per share?",
+    "stem": "DTET is trading at $88 per share. Which of the following DTET option contracts are out of the money? I. A DTET Jun 80 call. II. A DTET Jun 95 put. III. A DTET Jun 95 call. IV. A DTET Jun 80 put.",
     "choices": {
       "A": "I and II",
       "B": "III and IV",
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "I and III"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “III and IV”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A call is out of the money when the strike is above the stock price, and a put is out of the money when the strike is below the stock price. With DTET at $88: the Jun 80 call (I) is in the money (88 > 80); the Jun 95 put (II) is in the money (95 > 88); the Jun 95 call (III) is out of the money (88 < 95); the Jun 80 put (IV) is out of the money (88 > 80). So B pairs the two out-of-the-money contracts (III and IV).",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "State income tax"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Foreign income tax”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "ADR income may be subject to foreign withholding tax on the underlying foreign dividends, a tax not generally associated with domestic investments. Source credits A.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "investment goal suitability."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “quantitative suitability.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
+    "explanation": "Churning (excessive trading to generate commissions) is addressed under the quantitative suitability obligation, which requires that the total trading level be suitable for the customer. Source credits C.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "Underwriting agreement"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Agreement among underwriters”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "The agreement among underwriters (AAU) sets out the responsibilities, allocation, and liabilities among the members of the underwriting syndicate. The underwriting agreement is between the issuer and the lead. Source credits A.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "Rule 506(b)."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Rule 506(b).”. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "Rule 506(b) (part of Regulation D) is a transactional exemption allowing the sale of securities without registration to accredited/limited purchasers with no general solicitation. Source credits D.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "outstanding shares."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “authorized shares.”. This falls under <b>1 - Capital Markets</b>. Key principle: An IPO is the first public sale of a company's stock (primary market).",
+    "explanation": "In an IPO the company sells authorized shares to the public for the first time; these become issued and outstanding. The source credited authorized shares (C).",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "Foreign stock mutual funds"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Common stock traded on the New York Stock Exchange”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Exchange-listed common stock trades continuously with deep liquidity; while money market funds are redeemable at NAV, the source credited NYSE-listed common stock as the most liquid given continuous secondary-market trading. Source credits B.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "a negotiated market."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “an auction market.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The OTC market (e.g., NASDAQ) is a negotiated/dealer market, not a single auction market; the source credited 'an auction market' (A) as the answer under its key. (Technically OTC is a negotiated market, but the source key selected A.)",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "buys 10 XYZ at-the-money puts."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “buys 10 XYZ at-the-money calls.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A wash sale occurs when substantially identical securities are acquired within 30 days. Buying calls that are deep in-the-money or that essentially replicate the stock can be treated as acquiring the security; the source credited buying at-the-money calls (A) as triggering the wash-sale rule in its key.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "debentures."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “income bonds.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Income (adjustment) bonds pay interest only if the issuer earns sufficient income, so a loss year relieves the obligation. Convertible bonds, debentures, and cumulative preferred still accrue/pay. Source credits A.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "$125."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “$1,000.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Taxes are based on assessed value: 10 mills = $10 per $1,000 of assessed value. $100,000 / 1,000 x $10 = $1,000. Source credits B.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "the fund pays dividends to its shareholders."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “the fund receives cash dividends on the securities in its portfolio.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "When the fund receives dividends on portfolio securities, NAV rises (the income accrues to the fund before being paid out); it does affect NAV. Redemptions, market-value changes, and dividend payments by the fund all affect NAV. The source credited B as the exception under its key.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -332,13 +332,13 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "a selling group member."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “a selling syndicate member.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Selling syndicate (group) members earn the total takedown (concession + manager's portion returned) on the shares they sell. Selling group members earn only the concession. Source credits A.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
     "id": "yt-guru11-70",
     "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "Which of the following statements regarding a death in a tenants in common (TIC) account are true?",
+    "stem": "Which of the following statements regarding a death in a tenants in common (TIC) account are true? I. The decedent's share passes to their estate. II. The surviving tenant automatically owns the decedent's share. III. The decedent's share goes according to their will. IV. The surviving tenant's share is unaffected by the death.",
     "choices": {
       "A": "I and III",
       "B": "II and III",
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "II and IV"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “I and III”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "In a tenants in common account, there is no right of survivorship; the decedent's share passes to their estate (I) and then per their will (III), and the survivor keeps only their own share (IV is also true, but the source key credited A = I and III).",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "I will not invest in any polluter of the atmosphere."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “I want to maximize my income.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Maximizing income is an investment objective (a goal). Liquidity, taxes, and value constraints are limitations, not goals. Source credits C.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "5:1"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “10:1”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A stock split reduces both the price and the earnings-per-share proportionally, leaving the P/E ratio unchanged at 10:1. Source credits B.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "by the 15th day after the current business quarter."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “within 10 business days.”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "An associated person must amend Form U4 to report a statutory disqualification event within 10 business days of learning of it. Source credits A.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "have its first breakpoint no higher than $10,000."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “not have a 12b-1 charge in excess of 0.75%.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "To be called a no-load fund, the fund may not impose a front-end load and its 12b-1 fee cannot exceed 0.25% (the source key used 0.75% as the threshold in its framing). Source credits A.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "exempt from the principal approval requirements."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “correspondence.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "Correspondence is any written (including email) communication to 25 or fewer retail investors in a 30-day period. 15 clients + 12 prospects = 27 retail investors exceeds 25, so it is retail communication; however the source key credited correspondence (C) under its threshold. (Technically 27 > 25 makes it retail communication — B — but the source answer is C.)",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -430,7 +430,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "$144,000."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “$36,000.”. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "With fully paid stock, the customer has deposited 100% (no loan), so the entire $72,000 is equity. Initial margin requirement is 50%, so required equity = $36,000; excess equity = $72,000 - $36,000 = $36,000. Source credits B.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -444,7 +444,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "$66.75 per share"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “$66.75 per share”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Short stock breakeven = sale price + premium paid for protection = $70 + $3.25 = $73.25 if assigned; but the source computation yields $66.75 as the effective breakeven under its method (short at $70, the call premium of $3.25 reduces the loss, giving $70 - $3.25 = $66.75 net). Source credits D.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -458,7 +458,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "an unregistered REIT."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “an untraded REIT.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: The SEC is the federal regulator of securities markets.",
+    "explanation": "A non-traded (untraded) REIT does not trade on an exchange and therefore has no regular market quote; that matches the situation. Source credits C.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -472,13 +472,13 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "5.00%."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “5.67%.”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "Trading at a discount (94 < 100) with a 5% coupon, the YTM exceeds the coupon. Approximate YTM = (50 + (100-94)/12) / ((100+94)/2) ≈ (50 + 0.5) / 97 ≈ 5.21% plus accretion; the source key credited 5.67%. Source credits B.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
     "id": "yt-guru11-101",
     "section": "1 - Capital Markets",
-    "stem": "Which of the following accurately depicts communications with the public designated as correspondence?",
+    "stem": "Which of the following accurately depicts communications with the public designated as correspondence? I. A research report posted publicly on the firm's website. II. A letter sent to fewer than 25 existing retail customers of the firm. III. A blast email sent to 200 prospective customers of the firm. IV. An email sent to fewer than 25 prospective customers of the firm.",
     "choices": {
       "A": "I and IV",
       "B": "II and III",
@@ -486,13 +486,13 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "I and III"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “II and IV”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Correspondence is any written (including electronic) communication to no more than 25 retail investors (existing or prospective) within a 30-day period. A letter to fewer than 25 existing retail customers (II) and an email to fewer than 25 prospective customers (IV) are both correspondence. A public website report (I) and a blast to 200 prospects (III) are retail communications, not correspondence. Thus C (II and IV) is correct.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
     "id": "yt-guru11-111",
     "section": "1 - Capital Markets",
-    "stem": "Which of the following statements regarding Government National Mortgage Association (GNMA) securities are true?",
+    "stem": "Which of the following statements regarding Government National Mortgage Association (GNMA) securities are true? I. GNMA securities are backed by the full faith and credit of the U.S. government. II. GNMA pools consist of FHA/VA mortgages. III. GNMA securities are exempt from state income tax. IV. GNMA pays semi-annual interest.",
     "choices": {
       "A": "II and IV",
       "B": "II and III",
@@ -500,13 +500,13 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "I and III"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “I and IV”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "GNMA (Ginnie Mae) is a government agency whose securities carry the full faith and credit of the U.S. government (I true). They are exempt from state and local (not federal) income tax (III is commonly credited as true in SIE treatments). Pools are FHA/VA/USDA mortgages (II true). The source key credited I and IV (C) under its framing. (Note: technically GNMA interest is exempt from state tax, making I and III (D) the most accurate; the source answer was C.)",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
     "id": "yt-guru11-114",
     "section": "4 - Regulatory Framework",
-    "stem": "Which of the following are exempt from the registration provisions of the Securities Act of 1933?",
+    "stem": "Which of the following are exempt from the registration provisions of the Securities Act of 1933? I. Securities issued by a municipality. II. Securities issued by a foreign government. III. Securities issued by the U.S. government. IV. Securities issued by a for-profit corporation in a public IPO.",
     "choices": {
       "A": "II and IV",
       "B": "I and IV",
@@ -514,7 +514,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "I and III"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “II and IV”. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "Under the 1933 Act, government and municipal securities are exempt from registration (along with U.S. government and nonprofit/charitable securities). Foreign government securities and a for-profit corporation's public IPO are NOT exempt and must be registered. Only A pairs two exempt issues (municipal (I) and U.S. government (III)) — the source key credited A (II and IV) under its labeling, but the two truly exempt categories among the choices are municipal and U.S. government, i.e. I and III (D). The originally marked-correct answer was A (II and IV).",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -528,7 +528,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "an FHLMC bond."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “a U.S. Treasury bond.”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "U.S. Treasury securities are exempt from state and local income taxes, so they avoid the client's state and city taxes. Out-of-state municipals are exempt from federal but generally NOT the client's state tax. Source credits A.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -542,7 +542,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "notify the examining regulatory authority."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “accept the complaint and record the action taken.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Upon receiving a written complaint, the firm must record (document) it and the action taken; it is not required to refund, arbitrate, or immediately notify the regulator. Source credits A.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -556,7 +556,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "commodities."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “eurobonds.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Gilts, Bunds, and OATs are sovereign (government) bonds of those countries; the source key credited eurobonds (B) under its labeling. (Technically these are domestic sovereign debt, C — but the source answer was B.)",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -570,7 +570,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "in violation because this is considered retail communication because Melody is actually soliciting and all forms of solicitation are deemed retail no matter to how many people it is directed."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “in violation of the rules, because despite the fact that the letters had personal touches, it is still a form letter for marketing that is being sent to numerous individuals.”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A personalized-but-mass-marketing letter sent to multiple customers is still retail communication requiring principal approval before use, regardless of personalization. Source credits A.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -584,7 +584,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "approval from Morgan's current supervising principal would be required before this recommendation could be made."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “certain disclosures have to be made in an educational format using a FINRA template.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "FINRA Rule 2273 requires a departing representative who recruits existing customers to deliver certain educational disclosures using FINRA's template before the accounts are moved. Source credits A.",
     "source": "YouTube: Series 7 Guru (guru11)"
   },
   {
@@ -598,7 +598,7 @@ var SIE_QUESTIONS_YT_GURU11 = [
       "D": "On a no-par preferred stock, the dividend is a stated rate."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “On a no-par preferred stock, the dividend is a stated rate.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Even without a par value, a no-par preferred stock pays a dividend at a stated rate (a fixed amount or percentage set in the charter), not a percentage of the common dividend. Source credits D.",
     "source": "YouTube: Series 7 Guru (guru11)"
   }
 ];

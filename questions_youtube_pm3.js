@@ -9,8 +9,8 @@ var SIE_QUESTIONS_YT_PM3 = [
       "C": "Russell 2000",
       "D": "S&P 400"
     },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “S&P 500”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "answer": "C",
+    "explanation": "The correct choice (B) is: \u201cS&P 500\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "Open-end mutual fund"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Unit investment trust”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cUnit investment trust\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "75 shares at $167 each"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “200 shares at $62.50”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201c200 shares at $62.50\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "A single 30-year-old looking for a retirement vehicle"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “A 33-year-old married man, with a stay-at-home wife, three small children, and a home with a 30-year mortgage”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cA 33-year-old married man, with a stay-at-home wife, three small children, and a home with a 30-year mortgage\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "Insider trading is trading based on material, nonpublic information"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Insider trading is allowed if the insider follows the requirements of SEC Rule 144”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
+    "explanation": "The correct choice (C) is: \u201cInsider trading is allowed if the insider follows the requirements of SEC Rule 144\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "The names of all registered representatives at the firm"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “The names of all registered representatives at the firm”. This falls under <b>4 - Regulatory Framework</b>. Key principle: The SEC is the federal regulator of securities markets.",
+    "explanation": "The correct choice (D) is: \u201cThe names of all registered representatives at the firm\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: The SEC is the federal regulator of securities markets.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "12%"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “8%”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (C) is: \u201c8%\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "The value of U.S. exports increases"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “The value of the U.S. dollar increases”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cThe value of the U.S. dollar increases\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "They engage in hedging to minimize risk"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “They are highly regulated”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cThey are highly regulated\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "Once annuitized, the annuitant has 30 days to change their payout option"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Once annuitized, the annuitant has 30 days to change their payout option”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "The correct choice (D) is: \u201cOnce annuitized, the annuitant has 30 days to change their payout option\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "For tax purposes, they are less complicated than owning the foreign shares directly"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “They are denominated in a foreign currency”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cThey are denominated in a foreign currency\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "The lowest the price of the underlying stock can go is zero, and the highest it can go is unlimited"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “The lowest the price of the underlying stock can go is zero, and the highest it can go is unlimited”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+    "explanation": "The correct choice (D) is: \u201cThe lowest the price of the underlying stock can go is zero, and the highest it can go is unlimited\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "20 days after the registration statement has been filed with the SEC"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “When the registration statement has been cleared for sale by the SEC”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
+    "explanation": "The correct choice (C) is: \u201cWhen the registration statement has been cleared for sale by the SEC\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "Treasury bills are sold at a discount"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Treasury bonds mature in 1-10 years”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (C) is: \u201cTreasury bonds mature in 1-10 years\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "Trustee"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Transfer agent”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cTransfer agent\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "May have a 12b-1 fee of up to 75 basis points"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “May have a 12b-1 fee of up to 25 basis points”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cMay have a 12b-1 fee of up to 25 basis points\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "As a long-term liability on the balance sheet"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “As a current liability on the balance sheet”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cAs a current liability on the balance sheet\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "Melissa only"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Holly and Melissa”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cHolly and Melissa\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "Members"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “General partner(s)”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cGeneral partner(s)\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "90 days"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “180 days”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201c180 days\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "All clients must submit fingerprints"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The firm must designate to FINRA a compliance officer in charge of the anti-money laundering compliance program”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (B) is: \u201cThe firm must designate to FINRA a compliance officer in charge of the anti-money laundering compliance program\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "Have the same owner and beneficiary"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Have the same owner and beneficiary”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cHave the same owner and beneficiary\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "Providing written notice to the firm describing the registered representative's role in the proposed transaction"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Proceeding with the private securities transaction involving compensation when the member firm has disapproved the person's participation in the proposed transaction”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (A) is: \u201cProceeding with the private securities transaction involving compensation when the member firm has disapproved the person's participation in the proposed transaction\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "A security sold for a gain after owning it for one year or less is taxable as a long-term capital gain"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “A security sold for a gain after owning it for one year or less is taxable as a long-term capital gain”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cA security sold for a gain after owning it for one year or less is taxable as a long-term capital gain\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "Market risk"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Legislative risk”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cLegislative risk\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "This is allowed if Paul got permission from his principal"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “This is prohibited since it is after 9 pm in the timezone of the prospective client”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cThis is prohibited since it is after 9 pm in the timezone of the prospective client\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (pm3)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_PM3 = [
       "D": "Angel, age 32, an accountant working at a public accounting firm"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Maria, age 68, a retired librarian”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cMaria, age 68, a retired librarian\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (pm3)"
   }
 ];

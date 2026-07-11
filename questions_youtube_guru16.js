@@ -69,18 +69,18 @@ var SIE_QUESTIONS_YT_GURU16 = [
     "explanation": "The correct choice (A) is: “Member firms must always accommodate dealing with retail investors and not limit business to that done with other industry professionals.”. This falls under <b>2 - Products & Risks</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (guru16)"
   },
-  {
+    {
     "id": "yt-guru16-27",
     "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "A buy stop order at $30 could fill at which of the following prices?",
+    "stem": "A buy stop order at $30 could be filled at which of the following prices?\nI. $29.95\nII. $30.00\nIII. $30.10\nIV. $30.50",
     "choices": {
-      "A": "II and III",
-      "B": "I, II, III, and IV",
-      "C": "I and II",
-      "D": "III and IV"
+      "A": "I, II, and III",
+      "B": "II, III, and IV",
+      "C": "I and IV",
+      "D": "I, II, III, and IV"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “I, II, III, and IV”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A buy stop becomes a market order once the stock trades at or through the stop price of $30. It can therefore fill at $30.00 (II) or any price above it such as $30.10 (III) or $30.50 (IV), but never below the stop at $29.95 (I is false).",
     "source": "YouTube: Series 7 Guru (guru16)"
   },
   {
@@ -125,18 +125,18 @@ var SIE_QUESTIONS_YT_GURU16 = [
     "explanation": "The correct choice (B) is: “front-end load shares”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru16)"
   },
-  {
+    {
     "id": "yt-guru16-36",
     "section": "2 - Products & Risks",
-    "stem": "Which of the following is an example of an unsecured debt security?",
+    "stem": "Which of the following is an example of an unsecured debt security?\nI. A debenture.\nII. A mortgage bond.\nIII. A collateral trust bond.\nIV. An unsecured note.",
     "choices": {
       "A": "I and II",
       "B": "I and IV",
-      "C": "II and IV",
-      "D": "I and III"
+      "C": "II and III",
+      "D": "III and IV"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “I and IV”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Unsecured debt is backed only by the issuer's general credit—debentures (I) and unsecured notes (IV) qualify. Mortgage bonds (II) are secured by real property and collateral trust bonds (III) are secured by pledged securities.",
     "source": "YouTube: Series 7 Guru (guru16)"
   },
   {

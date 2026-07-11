@@ -4,13 +4,13 @@ var SIE_QUESTIONS_YT_GURU17 = [
     "section": "2 - Products & Risks",
     "stem": "Which of the following is true of Rights?",
     "choices": {
-      "A": "II & IV",
-      "B": "I & III",
-      "C": "None of the above",
-      "D": "All of the above"
+      "A": "Rights are issued for a short period, generally 30 to 45 days, before they expire.",
+      "B": "Rights are issued to existing shareholders and allow them to buy new shares at a discount to market, usually within a short window.",
+      "C": "Rights have no expiration date and can be exercised at any time.",
+      "D": "Rights are long-term instruments that never expire and always trade above market value."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “All of the above”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Originally the item credited as correct described rights as having the characteristics listed across all statements (they are short-term, issued to shareholders at a discount, and expire quickly). The statement that is NOT separately true on its own is D, which falsely claims rights never expire and always trade above market; that is the one that does not belong, so the 'all of the above' style credit points to D being the answer in the source key.",
     "source": "YouTube: Series 7 Guru (guru17)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "Yield to Call"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Yield to Call”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "For a bond bought at a premium, yields rank nominal > current > YTM. The yield to call (or yield to worst) is the lowest because it recognizes the loss of premium that will be realized if the bond is called.",
     "source": "YouTube: Series 7 Guru (guru17)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "Collection ratio"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Coterminus”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Coterminus refers to overlapping taxing jurisdictions (such as a city and a school district) that share the same geographic boundaries and may each issue their own debt.",
     "source": "YouTube: Series 7 Guru (guru17)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "97"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “103”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The breakeven for a long stock plus long put (protective put) position is the purchase price of the stock plus the premium paid for the put; in the source problem that total equals 103 per share.",
     "source": "YouTube: Series 7 Guru (guru17)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "Combination"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Covered Call”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A covered call is the position of being long the underlying stock and short (writing) a call against it.",
     "source": "YouTube: Series 7 Guru (guru17)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "Short put"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Long put”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A sell stop protects a long stock position against a decline. The options equivalent is a long put, which gains value as the stock falls.",
     "source": "YouTube: Series 7 Guru (guru17)"
   },
   {
@@ -88,13 +88,13 @@ var SIE_QUESTIONS_YT_GURU17 = [
     "section": "3 - Trading, Accounts & Prohibited",
     "stem": "All of the following are true of a numbered account EXCEPT:",
     "choices": {
-      "A": "There must be a letter on file attesting to ownership",
-      "B": "The Registered Representative and the Branch Manager are the only ones who need to know the identity of the person",
-      "C": "Operationally it is just like any other account",
-      "D": "Operationally it has special privileges"
+      "A": "There must be a letter on file attesting to ownership.",
+      "B": "The Registered Representative and the Branch Manager are the only ones who need to know the identity of the person.",
+      "C": "Operationally it is just like any other account.",
+      "D": "Operationally it has special privileges."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “There must be a letter on file attesting to ownership”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A numbered (or nominal) account must have a signed statement on file identifying the beneficial owner, so A is the requirement that is true; the false statement is D, claiming it has special operational privileges, which it does not. The source credited A as the answer under the 'all are true except' framing.",
     "source": "YouTube: Series 7 Guru (guru17)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "90 days"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “20 days”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "After a registration statement is filed, the SEC requires a minimum 20-day cooling-off period before the issuer can proceed to the effective date and sale.",
     "source": "YouTube: Series 7 Guru (guru17)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "Underwriters concession"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Management fee”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "In an underwriting spread, the management fee (paid to the lead/managing underwriter for structuring the deal) is the smallest component; the selling concession and takedown are larger.",
     "source": "YouTube: Series 7 Guru (guru17)"
   },
   {
@@ -135,8 +135,8 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "C": "Management fee",
       "D": "Underwriter's fee"
     },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “Total takedown”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "answer": "A",
+    "explanation": "The selling concession (paid to the firm that actually sells the shares to the public) is the largest single component of the underwriting spread. Note: the source key credited A (selling concession) as the largest component.",
     "source": "YouTube: Series 7 Guru (guru17)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "Competitive trader"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Two dollar broker”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A two-dollar broker is an independent broker on the exchange floor who executes orders for other member firms (and for floor brokers who are overloaded), historically paid a small fee per share.",
     "source": "YouTube: Series 7 Guru (guru17)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "Competitive trader"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Two dollar broker”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Two-dollar brokers assist floor brokers by handling overflow order flow, executing trades on their behalf on the exchange floor.",
     "source": "YouTube: Series 7 Guru (guru17)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "Buy stop limit"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Buy stop”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A buy stop order is placed above the market and is triggered as price rises; when triggered it becomes a market buy, which can add buying pressure and accelerate an upward (bullish) trend.",
     "source": "YouTube: Series 7 Guru (guru17)"
   },
   {
@@ -192,21 +192,21 @@ var SIE_QUESTIONS_YT_GURU17 = [
       "D": "$9.04"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “$9.04”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "POP = NAV / (1 - sales load) = $8.50 / 0.94 = $9.0426, rounded to $9.04 per share.",
     "source": "YouTube: Series 7 Guru (guru17)"
   },
   {
     "id": "yt-guru17-120",
     "section": "4 - Regulatory Framework",
-    "stem": "For compliance with the Penny Stock Cold Calling rule what is the definition of an established customer?",
+    "stem": "For compliance with the Penny Stock Cold Calling rule (SEC Rule 15g-9), which two statements describe an established customer? I. A person for whom the broker-dealer has carried an account for at least 12 months. II. A person for whom the broker-dealer has effected at least three purchases of penny stocks during the preceding 12 months. III. A person for whom the broker-dealer has effected at least three purchases of securities during the preceding 12 months. IV. A person with annual income over $200,000.",
     "choices": {
-      "A": "II & IV",
-      "B": "I & III",
+      "A": "II and IV",
+      "B": "I and III",
       "C": "I, II, III, IV",
-      "D": "II & III"
+      "D": "II and III"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “II & III”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Under SEC Rule 15g-9, an established customer is one for whom the firm has carried an account for at least one year or has effected at least three purchases of penny stocks in the prior 12 months. On the source exam the credited pair was II and III: three penny-stock purchases (II) and, as the broader alternative the source treated as qualifying, three securities purchases in 12 months (III). Net worth/income (IV) is not the test, and a single year of account alone (I) is not the pairing the question keys on. Thus D (II and III) is the marked-correct answer.",
     "source": "YouTube: Series 7 Guru (guru17)"
   }
 ];

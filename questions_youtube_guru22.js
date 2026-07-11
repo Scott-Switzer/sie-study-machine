@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "ADR"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “ADR”. This falls under <b>2 - Products & Risks</b>. Key principle: UITs are fixed, unmanaged portfolios with a stated termination date.",
+    "explanation": "An American Depositary Receipt (ADR) is a certificate issued by a U.S. bank representing ownership of shares in a foreign company; it lets U.S. investors buy and sell foreign stocks in U.S. dollars on U.S. markets. A REIT is a real estate company, a T-bill is short-term U.S. debt, and a UIT is a fixed unmanaged portfolio — none represent foreign shares.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Breakpoint discount"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Market order slippage”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A market order executes immediately at the best available price and guarantees execution but not price. In a fast-moving market the fill can occur far from the last quoted price — this price uncertainty is called slippage. Dividends, amortization, and breakpoint discounts are unrelated to execution timing.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Tax loss claim"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Missing securities claim”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "When a broker-dealer fails and customer securities are missing from its records, the customer files a missing-securities claim and SIPC works through a trustee to return customer property. Market-loss and tax-loss claims are not the mechanism for recovering custodied assets.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Sales concession only"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Advisory fee arrangement”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "An adviser compensated with an ongoing fee for continuous portfolio advice operates under an advisory (fee-based) arrangement, separate from transaction-based markups, commissions, or bond coupons. The recurring fee is the defining feature.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Form CRS"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Form CRS”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Form CRS (Customer Relationship Summary) is the brief disclosure document broker-dealers and investment advisers must give retail investors describing services, fees, conflicts of interest, and standards of conduct. Form 10-K is an issuer filing; Forms U4/U5 are registration/termination forms for reps.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Market order"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Not-held order”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A not-held order gives the broker discretion over the timing and price of execution, so the firm is not held to a specific price while seeking a better fill. A held order must be worked promptly; a day order expires intraday; a market order has no discretion.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Bond discount"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Surrender charge”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "A surrender charge is the penalty an insurer imposes when an annuity owner withdraws more than the allowed amount or surrenders the contract during its early years. It is distinct from a 12b-1 fee (fund distribution) or a markup.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Sinking fund"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Separate account”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "A variable annuity's investment options are held in the insurer's separate account, whose performance drives the contract value and exposes the owner to market risk. The general account backs fixed (not variable) guarantees; an SMA and sinking fund are unrelated.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Long call only"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Protective put”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A protective put combines long stock with a long put, giving the right to sell the shares at the strike and capping downside while retaining upside. A covered call writes a call against stock; a short put is a bullish obligation; long call alone has no stock hedge.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "ETF arbitrage"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Nontraded REIT liquidity risk”. This falls under <b>1 - Capital Markets</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "Nontraded (non-listed) REITs are not exchange-traded, so they lack a ready secondary market and carry significant liquidity risk — investors may be unable to sell easily. SIPC, Treasury liquidity, and ETF arbitrage do not describe this risk.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Customer asset return"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Customer asset return”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
+    "explanation": "When a firm liquidates, SIPC's role is to return customer securities and cash held in street name to the rightful customers, not to guarantee market value. A bond call, issuer buyback, or prospectus refund are not the return mechanism.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Voting risk"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Low-volume liquidity risk”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "Securities with thin trading volume have low liquidity, so selling quickly may require accepting a discount — low-volume liquidity risk. Tax bracket, coupon, and voting characteristics do not define tradeability.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Long purchase"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Short sale”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A short sale is selling borrowed shares with the obligation to repurchase later; the seller profits if the price falls and loses if it rises (unlimited loss potential). A covered call, rights offering, or long purchase describe different strategies.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "CUSIP request"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Customer complaint”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A customer complaint is any written statement by a customer alleging a grievance or a violation of rules or the law; firms must document, retain, and investigate them. A trade confirmation, tombstone ad, or CUSIP request are not complaints.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Annuity mortality risk"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “OTC liquidity risk”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "OTC securities trade outside formal exchanges with fewer market makers, so limited depth creates OTC liquidity risk — harder to buy or sell without moving the price. Roth conversions, FDIC insurance, and annuity mortality are unrelated.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Bond points"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Annuity units”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "During accumulation a variable annuity is measured in accumulation units; after annuitization, periodic payments are based on annuity units whose value fluctuates with the separate account. Voting shares, bonds, and points are not the units used.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Guaranteed dividend"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Stop order gap risk”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A stop order becomes a market order once the stop is triggered; if the market gaps through the stop price, the fill can be far worse than expected — stop-order gap risk. No stop guarantees a specific price or dividend.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "SEC performance guarantee"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “SIPC protection”. This falls under <b>4 - Regulatory Framework</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "SIPC protects customers of failed member broker-dealers by returning missing securities and cash up to $500,000, including a $250,000 cash sublimit. FDIC insures bank deposits, MSRB writes municipal rules, and the SEC does not guarantee customer assets.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Official statement"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Options Disclosure Document”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+    "explanation": "The Options Disclosure Document (ODD, the OCC booklet) must be provided to options applicants and explains the risks, characteristics, and mechanics of standardized options. A proxy, account statement, or official statement does not serve this purpose.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Fixed annuity"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Variable annuity”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "A variable annuity's value depends on the performance of the separate-account investment options the owner selects, so contract value and future payments vary with the market. Fixed annuities credit a set rate; stocks and Treasuries are not annuities.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Market making"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Fiduciary duty”. This falls under <b>2 - Products & Risks</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
+    "explanation": "An investment adviser owes a fiduciary duty — it must act in the client's best interest, ahead of its own, with full disclosure of conflicts. Suitability only, firm commitment underwriting, and market making are different standards/roles.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Guaranteed yield"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “No performance guarantee”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "No regulator or SIPC guarantees investment performance or value; protection covers custody of assets at a failed broker, not market results. Guaranteed profit, tax, or yield promises are misleading and untrue.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "No SIPC market-loss coverage"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “No SIPC market-loss coverage”. This falls under <b>4 - Regulatory Framework</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "SIPC does not cover declines in the market value of securities; it only protects against loss of customer assets caused by a broker-dealer's failure. FDIC insures bank deposits and MSRB does not pay investment losses.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Wrap fee program"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Wrap fee program”. This falls under <b>4 - Regulatory Framework</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "A wrap fee program charges clients a single bundled fee covering advisory services, brokerage, and administrative costs, disclosed in Form ADV. SIPC advances, breakpoint schedules, and bond ladders are different concepts.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Dividend market"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Over-the-counter market”. This falls under <b>1 - Capital Markets</b>. Key principle: The primary market is where issuers sell new securities to investors.",
+    "explanation": "The OTC (over-the-counter) market is a dealer network where securities trade away from a centralized listed exchange. An auction market and primary market describe different mechanisms; there is no dividend market.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Commodity pool only"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “SIPC member firm account”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "SIPC protection applies to customer accounts at SIPC-member broker-dealers; non-member or non-securities assets fall outside it. A bank savings account is FDIC, and a commodity pool is not SIPC-protected.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "SIPC trustee process"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “SIPC trustee process”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "On a member's failure, SIPC petitions a court, which appoints a trustee to return customer property; SIPC advances funds up to statutory limits. Underwriting syndicates, proxy committees, and transfer syndicates are not the liquidation mechanism.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Option agreement"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Adviser brochure”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "Form ADV Part 2A (the adviser brochure) is the narrative disclosure document describing an adviser's services, fees, conflicts, and background delivered to clients. An official statement is for munis; a margin call and option agreement are different.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Municipal tax guarantee"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “SIPC cash sublimit”. This falls under <b>1 - Capital Markets</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "Within the $500,000 SIPC limit, cash claims are capped at a $250,000 sublimit — the SIPC cash sublimit. There is no Treasury par or municipal tax guarantee and cash coverage is not unlimited.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Variable annuity"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Variable annuity”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "A variable annuity is an insurance contract whose value fluctuates with the underlying separate-account investments, combining insurance protection with market risk. A fixed annuity credits a set rate; Treasuries and money funds are not annuities.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -430,7 +430,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "FDIC bank limit"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “SIPC coverage limit”. This falls under <b>4 - Regulatory Framework</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "SIPC coverage is limited to $500,000 per customer (including $250,000 cash) for missing securities and cash at a failed member firm. It is not unlimited market protection, an issuer guarantee, or the FDIC bank limit.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -444,7 +444,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Bondholder"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Option writer”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The option writer (seller) receives the premium and assumes the obligation to perform if the holder exercises — writers can face large or unlimited losses. The buyer pays the premium and has only the right, not an obligation.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -458,7 +458,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Corporate earnings miss"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Broker-dealer failure”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "SIPC protection addresses broker-dealer failure (a custodial failure), not the issuer's own bankruptcy; if the issuer fails, that is market/credit risk outside SIPC. Municipal or corporate distress are issuer events, not liquidation of the broker.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -472,7 +472,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "NYSE floor auction"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Nasdaq”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Nasdaq is an electronic OTC market in which multiple competing market makers quote prices for each security. TreasuryDirect is a government site, a municipal issuer is not a market, and the NYSE is a floor auction market.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -486,7 +486,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "SIPC cash coverage"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “No SIPC futures coverage”. This falls under <b>4 - Regulatory Framework</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "SIPC covers securities and cash in customer accounts; commodity futures and options on futures are not covered by SIPC. There is no SIPC bond, stock, or cash coverage for futures.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -500,7 +500,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Options are insured by SIPC against losses"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Options are not suitable for every investor”. This falls under <b>2 - Products & Risks</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "Options are leveraged derivatives that can produce rapid, total, or unlimited losses and are not suitable for every investor; they require a risk disclosure (the ODD). They do not guarantee dividends, remove all market risk, or carry SIPC loss insurance.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -514,7 +514,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Inverted yield curve"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Inverted yield curve”. This falls under <b>1 - Capital Markets</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "An inverted yield curve occurs when short-term rates are higher than long-term rates, often signaling expectations of an economic slowdown. A normal curve slopes up; cumulative dividends and flat tax rates are unrelated.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -528,7 +528,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Limit order execution risk"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Limit order execution risk”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A limit order sets a maximum buy or minimum sell price; it controls price but may fail to execute if the market never reaches that price — limit-order execution risk. It is not a guaranteed fill or automatic dividend.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -542,7 +542,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Margin account"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Separate account”. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "Variable annuities are funded into the insurer's separate account, segregated from the general account and subject to investment performance. A transfer agent, general account, or margin account does not hold the subaccounts.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -556,7 +556,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Arbitration"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Arbitration”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Most customer-broker disputes are resolved through arbitration (FINRA Dispute Resolution), a private forum whose decisions are generally final and binding. Hypothecation, underwriting, and annuitization are unrelated processes.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -570,7 +570,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Cash settlement"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Outside business activity”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Know the settlement clock: equities T+2, options and most bonds T+1.",
+    "explanation": "Outside business activities — other business conducted for compensation outside the member firm — must be disclosed to and sometimes approved by the firm. Currency risk, ex-dividend dates, and cash settlement are not the disclosure category.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -584,7 +584,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "SIPC rule"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Regulation Best Interest”. This falls under <b>4 - Regulatory Framework</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "Regulation Best Interest (Reg BI) requires broker-dealers making recommendations to retail customers to act in the customer's best interest, under care, disclosure, conflict, and compliance obligations. MSRB markup, the Investment Company Act, and SIPC are distinct.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -598,7 +598,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "SIPC guarantees market gains"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “FDIC does not insure securities”. This falls under <b>4 - Regulatory Framework</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "FDIC insures bank deposits; it does not insure stocks, bonds, mutual funds, or other securities held at a brokerage. FINRA, MSRB, and SIPC do not insure bank accounts or guarantee market gains.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -612,7 +612,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Stop price activation"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Market order price risk”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A market order guarantees execution but not price; in volatile conditions the fill price is uncertain — market-order price risk. A limit order offers price protection, and all-or-none/stop orders behave differently.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -626,7 +626,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Growth fund"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Money market fund”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "A money market fund invests in short-term, high-quality debt such as T-bills and commercial paper, seeking stability and liquidity; it is not FDIC-insured. Variable annuities, closed-end bond funds, and growth funds do not fit the description.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -640,7 +640,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Proxy authority"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Limit order tradeoff”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A limit order protects price (you will not trade outside your limit) but risks non-execution if the market never reaches it — the limit-order tradeoff. Market orders give certainty of execution, not price; stop/proxy concepts differ.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -654,7 +654,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Nominal value"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Material information”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Material information is any fact a reasonable investor would consider important to an investment decision; trading on non-public material information is illegal insider trading. Par quotation, rumors, and nominal value are not the defined term.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -668,7 +668,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Pegging"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Selling away”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Selling away is a registered rep conducting securities transactions outside the firm without approval — a prohibited practice. Hypothecation is pledging securities; front running and pegging are different violations.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -682,7 +682,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Dividend notice"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Margin call”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "A margin call demands the customer deposit cash or securities when account equity falls below the maintenance requirement. Proxy requests, trade confirmations, and dividend notices are not margin demands.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -696,7 +696,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Custody only"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Care obligation”. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "Under Reg BI, the care obligation requires the broker-dealer to exercise reasonable diligence, care, and skill in making recommendations (suitable and cost-aware). Dividend elections, registration termination, and custody-only are different.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -710,7 +710,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Money market"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “NYSE”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The NYSE is a centralized auction market using designated market makers (DMMs) to facilitate continuous trading. OTC Pink and Nasdaq are dealer/electronic markets; the money market is for short-term debt.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -724,7 +724,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Cash account"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Private securities transaction”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Private securities transactions (selling away) by a rep must be approved or declined in writing by the firm under FINRA Rule 3280. Good delivery, public appearances, and cash accounts are different concepts.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -738,7 +738,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Treasury bill"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Short stock position”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "A short stock position loses more as the price rises, with unlimited loss potential since a stock's price has no ceiling. Long stock and long puts profit when prices fall or rise respectively within limits; a T-bill has minimal price risk.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -752,7 +752,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "SEC"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “FINRA”. This falls under <b>4 - Regulatory Framework</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "FINRA is the self-regulatory organization that writes and enforces rules for member broker-dealers and their registered representatives. MSRB writes municipal rules (FINRA enforces), SIPC protects customers, and the SEC is the federal regulator.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -766,7 +766,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Dividend exclusion"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Gifts and gratuities limit”. This falls under <b>1 - Capital Markets</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "FINRA limits business gifts and gratuities to associated persons of other firms to $100 per person per year to prevent conflicts of interest. Margin interest, breakpoint discounts, and dividend exclusions are not this limit.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -780,7 +780,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Unlimited cash coverage"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Cash sublimit”. This falls under <b>2 - Products & Risks</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "Of the $500,000 SIPC limit, cash is protected up to a $250,000 sublimit within the overall customer protection. There is no bond coupon or ETF expense limit, and cash coverage is not unlimited.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -794,7 +794,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Call risk"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Illiquidity risk”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Direct participation programs (partnership interests) are illiquid; interests are hard to sell quickly at fair value — illiquidity risk. Reinvestment, currency, and call risks describe other exposures.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -808,7 +808,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Custodian only"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Broker-dealer”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A broker-dealer is a person or firm in the business of buying and selling securities for customers (broker) or its own account (dealer). An issuer, investment adviser, or custodian alone does not fit the definition.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -822,7 +822,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Diversification"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Commingling”. This falls under <b>1 - Capital Markets</b>. Key principle: Diversification reduces unsystematic (company-specific) risk.",
+    "explanation": "Commingling — mixing customer funds or securities with the firm's own — is prohibited; customer assets must be segregated. Breakpoints, annuitization, and diversification are unrelated.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -836,7 +836,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Commission"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Markup”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A markup is the dealer's profit added when selling from inventory (principal) above the prevailing market; it must be fair and reasonable. An expense ratio, dividend, or commission (agent) are different charges.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -850,7 +850,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Long put"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Long call”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+    "explanation": "A long call (buying a call) is a bullish position whose maximum loss is limited to the premium paid, with theoretically unlimited upside. Short stock is bearish; covered/long puts are different directional bets.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -864,7 +864,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Transfer agent"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Investment adviser”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "An investment adviser is compensated for providing securities advice as a business, whether or not it has discretion, and is regulated under the Investment Advisers Act. A broker-dealer, issuer, or transfer agent is defined differently.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -878,7 +878,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Proxy ballot"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Yield curve”. This falls under <b>2 - Products & Risks</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
+    "explanation": "The yield curve plots the yields of similar-quality bonds across maturities; its shape (normal, inverted, flat) signals rate expectations. An order book, fund prospectus, or proxy ballot are not that graph.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -892,7 +892,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Long put"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Covered call”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A covered call is selling a call against stock already owned; the shares cover the obligation, generating income but capping upside. A naked call has no covering stock; a protective put and long put are different.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -906,7 +906,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Misleading projection"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Misleading projection”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A misleading projection is a communication implying returns without a reasonable basis or support — a prohibited misleading sales practice. A balanced presentation, trade confirmation, or official statement are not the violation.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -920,7 +920,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "DPP suitability review"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “DPP suitability review”. This falls under <b>2 - Products & Risks</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
+    "explanation": "Before recommending a direct participation program (DPP), a rep must review the customer's risk tolerance, liquidity needs, tax situation, and objectives for suitability. Automatic approval, tender offers, and FDIC verification are not the review.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -934,7 +934,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Issuer role"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Investment adviser role”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "An investment adviser's primary function is ongoing, compensated advice (fiduciary), distinct from a broker-dealer's emphasis on trade execution. Transfer-agent, broker-dealer execution, and issuer roles are different.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -948,7 +948,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Not-held order"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Held order”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A held order must be executed promptly at the market with no time or price discretion; the broker is held to immediate execution. GTC orders persist, discretionary orders grant latitude, and not-held orders grant time/price discretion.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -962,7 +962,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Securities Investor Protection Act"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Securities Investor Protection Act”. This falls under <b>4 - Regulatory Framework</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "The Securities Investor Protection Act of 1970 created SIPC to protect customers against the loss of securities and cash when a broker-dealer fails. Regulation T governs margin, blue-sky laws are state securities laws, and the 1933 Act governs new issues.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -976,7 +976,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Dealer acting as principal"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Dealer acting as principal”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: A fiduciary must act in the customer's best interest, ahead of their own.",
+    "explanation": "A dealer acts as principal, buying and selling from its own inventory and charging a markup (on a sale) or markdown (on a buy). An investment adviser acts as fiduciary, a clearing agency as custodian, and a broker as agent — not principal here.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -990,7 +990,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "MSRB Rule G-37"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Regulation T”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "Regulation T (Federal Reserve) sets the initial margin requirement, generally 50% equity to buy securities on margin; FINRA then sets the 25% maintenance requirement. SIPC, Rule 144 (restricted stock), and MSRB G-37 (pay-to-play) are unrelated.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -1004,7 +1004,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Custody of client assets"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Custody of client assets”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Custody means holding or having access to client funds or securities; advisers with custody face added safeguards such as independent surprise audits. Proxy, syndicate, or coupon custody alone are not the defined term.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -1018,7 +1018,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Inflation risk"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Liquidity risk”. This falls under <b>1 - Capital Markets</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "Liquidity risk is the risk an asset cannot be sold quickly at a fair price because of few buyers and sellers (a thin market). Credit, currency, and inflation risks describe other exposures.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -1032,7 +1032,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Guaranteed market fill"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Stop-limit non-execution risk”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A stop-limit order triggers a limit order once the stop is hit; if the market gaps past the limit price, the order may never fill — stop-limit non-execution risk. It confers no guaranteed voting, coupon, or market fill.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -1046,7 +1046,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Transfer agent"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Federal Reserve Board”. This falls under <b>1 - Capital Markets</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "The Federal Reserve Board (the Fed) conducts monetary policy, influencing money supply and interest rates through open-market operations, the discount rate, and reserve requirements. SIPC, MSRB, and transfer agents do not set monetary policy.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   },
   {
@@ -1060,7 +1060,7 @@ var SIE_QUESTIONS_YT_GURU22 = [
       "D": "Rule 144"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Regulation Best Interest”. This falls under <b>4 - Regulatory Framework</b>. Key principle: MSRB writes rules for municipal securities; FINRA enforces them.",
+    "explanation": "Regulation Best Interest requires that a broker-dealer's interest not be placed ahead of the retail customer's when making recommendations — the rep must act in the customer's best interest. MSRB G-17, Regulation T, and Rule 144 address other matters.",
     "source": "YouTube: SIE Exam Practice Test 2026"
   }
 ];

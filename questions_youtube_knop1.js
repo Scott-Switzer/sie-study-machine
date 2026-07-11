@@ -293,18 +293,18 @@ var SIE_QUESTIONS_YT_KNOP1 = [
     "explanation": "The correct choice (D) is: “Interest rates”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
-  {
+    {
     "id": "yt-knop1-36",
     "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "A stop order is entered as \"Sell 250 shares stop at $53.70.\" If the order remains unfilled, then",
+    "stem": "A customer places a SELL stop order for 250 shares of ABC stock with a stop price of $53.70. The order is entered when ABC is trading at $56.00. Which of the following statements is TRUE?",
     "choices": {
-      "A": "The order will convert on the next business day.",
-      "B": "The market price must be above $53.70.",
-      "C": "The market price must be below $53.70.",
-      "D": "The order has been converted."
+      "A": "Once ABC trades at or through $53.70, the order becomes a market order to sell.",
+      "B": "It is a market order that executes immediately at the current $56.00 price.",
+      "C": "It guarantees the customer a sale price of at least $53.70.",
+      "D": "It can only be placed in a margin account."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “The order will convert on the next business day.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A sell stop is inactive until the stock trades at or below the stop price; at that point it converts to a market order to sell (A). It does not execute at the current higher price (B), gives no price guarantee—a market order can fill below $53.70 (C)—and may be placed in a cash or margin account (D).",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {

@@ -83,18 +83,18 @@ var SIE_QUESTIONS_YT_GURU14 = [
     "explanation": "The correct choice (D) is: “The next price below 39 after the market falls to 39”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru14)"
   },
-  {
+    {
     "id": "yt-guru14-26",
     "section": "2 - Products & Risks",
-    "stem": "Which of the following are considered tools used to implement fiscal policies?",
+    "stem": "Which of the following are considered tools used to implement fiscal policy (as opposed to monetary policy)?\nI. Government spending.\nII. Taxation.\nIII. Open market operations.\nIV. The Federal Reserve's discount rate.",
     "choices": {
-      "A": "I and IV",
-      "B": "II and III",
-      "C": "I and III",
-      "D": "II and IV"
+      "A": "I and II",
+      "B": "III and IV",
+      "C": "I and IV",
+      "D": "II and III"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “I and IV”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Fiscal policy is set by Congress and the Executive branch through government spending (I) and taxation (II). Open market operations (III) and the discount rate (IV) are monetary-policy tools of the Federal Reserve.",
     "source": "YouTube: Series 7 Guru (guru14)"
   },
   {

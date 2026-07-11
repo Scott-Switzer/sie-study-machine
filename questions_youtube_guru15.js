@@ -2,7 +2,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
   {
     "id": "yt-guru15-3",
     "section": "2 - Products & Risks",
-    "stem": "Fiscal policy includes",
+    "stem": "Fiscal policy includes which of the following? I. Changes in government spending. II. Changes in the discount rate. III. Changes in taxation. IV. Open market operations.",
     "choices": {
       "A": "I and III",
       "B": "I and IV",
@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "II and IV"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “I and III”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Fiscal policy is set by Congress and the executive branch and consists of government spending (I) and taxation (III). The discount rate (II) and open market operations (IV) are tools of monetary policy, conducted by the Federal Reserve. Thus A (I and III) is correct.",
     "source": "YouTube: Series 7 Guru (guru15)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "An accountant for the underwriter of the issuer"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “An aunt of a registered representative”. This falls under <b>2 - Products & Risks</b>. Key principle: An IPO is the first public sale of a company's stock (primary market).",
+    "explanation": "IPO (new issue) shares may not be sold to restricted persons, which include broker-dealers, mutual fund managers, and accountants/attorneys/underwriters connected to the offering. An aunt of a registered representative is a family member beyond the restricted relationship and is permitted to purchase; she is not a 'restricted person' under FINRA Rule 5130.",
     "source": "YouTube: Series 7 Guru (guru15)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "Making false or misleading statements to a customer for the purpose of inducing the customer to purchase or sell a security"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Trading in a customer's account considered excessive, and for which no discernible investment purpose is detected”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Excessive trading to generate commissions = churning (unauthorized, prohibited).",
+    "explanation": "Churning is excessive trading in a customer's account by a registered representative primarily to generate commissions, with no reasonable investment justification given the customer's objectives.",
     "source": "YouTube: Series 7 Guru (guru15)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "Willful failure to disclose motor vehicle fines in excess of $1,000"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Willful failure to disclose personal bankruptcy or unsatisfied liens”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Willful failure to disclose required information such as a bankruptcy or unsatisfied lien on a Form U4 is a statutory disqualification. The other items are less clearly disqualifying (a single DUI charge, a misdemeanor, or minor traffic fines generally are not automatic disqualifications).",
     "source": "YouTube: Series 7 Guru (guru15)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "employ a thorough investigation and provide a report to the Securities and Exchange Commission (SEC)."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “turn the complaint over to the appropriate supervisor or principal.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "Written customer complaints must be forwarded to a supervisor/principal at the firm; the firm (not the RR individually) handles documentation and any regulatory reporting.",
     "source": "YouTube: Series 7 Guru (guru15)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "an automatic bar from the industry for three years."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “the registration being deactivated until the requirements are met.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "If the regulatory element CE is not completed on time, the individual's registration is deactivated (cannot function as a registered rep) until the requirement is satisfied.",
     "source": "YouTube: Series 7 Guru (guru15)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "41"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “32”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Breakeven for a long put = strike - premium = 35 - 3 = 32.",
     "source": "YouTube: Series 7 Guru (guru15)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "someone who trains others to supervise, solicit, or conduct business in securities."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “someone who serves on the board of directors.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A member of a board of directors is not, by that role alone, a registered representative; those who solicit, conduct, supervise, or train others in securities business are associated persons/RRs.",
     "source": "YouTube: Series 7 Guru (guru15)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "Within 15 days of the first trade"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Within 15 days after the account approval”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The option account agreement (including the margin agreement and the customer's signed acknowledgment) must be completed and returned within 15 days after the account is approved and trading begins.",
     "source": "YouTube: Series 7 Guru (guru15)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "None of the above"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Asset allocation fund”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "An asset allocation fund invests across multiple asset classes (stocks, bonds, cash, and sometimes hard assets such as precious metals) in a single diversified portfolio, matching the description.",
     "source": "YouTube: Series 7 Guru (guru15)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "Legislative risk"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Interest Rate risk”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Interest rate risk is a systematic (market-wide) risk that affects all securities. Business risk, default risk, and legislative risk can be company- or sector-specific (unsystematic), though legislative risk is sometimes considered systematic; on the source exam interest rate risk is the credited systematic risk.",
     "source": "YouTube: Series 7 Guru (guru15)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "Legislative risk"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Retirement account balance”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A retirement account balance is a measurable financial fact. Date of retirement, risk comfort, and legislative risk are not quantified financial considerations in the same sense (the last is a market risk, not a client financial fact).",
     "source": "YouTube: Series 7 Guru (guru15)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "the stated rate divided by par value."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “annual income divided by the market price.”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "Current yield = annual income (interest or dividends) / current market price.",
     "source": "YouTube: Series 7 Guru (guru15)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "Holding a stock and selling it above its cost basis if held for one year would be a long-term gain."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Holding a stock and selling above its cost basis for more than 12 months would be a long-term gain.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A gain on a position held more than 12 months is a long-term capital gain. (B and D say 'one year' which is ambiguous about the >12-month threshold; A expressly states more than 12 months.)",
     "source": "YouTube: Series 7 Guru (guru15)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "Preferred stock dividends must be satisfied before common dividends can be paid."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Preemptive rights obligate the stockholder to maintain his percentage of ownership when additional shares are issued.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Preemptive rights give existing shareholders the OPTION (right, not obligation) to buy new shares to maintain their percentage; they do not obligate the holder. C falsely states an obligation, so it is the untrue statement.",
     "source": "YouTube: Series 7 Guru (guru15)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "July 1st"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “July 1st”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The ex-date is one business day before the record date (July 5). The first business day before July 5 is July 1 (July 3-4 are the weekend), so the ex-date is July 1.",
     "source": "YouTube: Series 7 Guru (guru15)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "Right to maintain their percentage of ownership in a stock rights offering"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Right to vote for the Chief Executive Officer (CEO)”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Common shareholders vote for the board of directors (who then hire the CEO); they do not directly vote for the CEO. Transfer rights and preemptive/rights-offering rights belong to common shareholders.",
     "source": "YouTube: Series 7 Guru (guru15)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "The possibility of receiving dividends in arrears"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Right to vote for members of the board of directors”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Preferred stock is generally non-voting; it has dividend and liquidation preference over common and may accumulate dividends in arrears, but it does not carry the right to vote for the board.",
     "source": "YouTube: Series 7 Guru (guru15)"
   },
   {
@@ -262,13 +262,13 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "Both are usually attached to a debt security at issue"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Both may be exercised to purchase common stock”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Both rights and warrants give the holder the right to purchase the issuer's common stock. Rights are short-term (weeks); warrants are long-term (years) and are typically attached to debt or preferred, whereas rights are issued to existing shareholders.",
     "source": "YouTube: Series 7 Guru (guru15)"
   },
   {
     "id": "yt-guru15-45",
     "section": "1 - Capital Markets",
-    "stem": "Which of the following is true for a 6% bond priced at $960 in the secondary market?",
+    "stem": "Which of the following is true for a 6% bond priced at $960 in the secondary market? I. The bond is trading at a discount. II. The bond is trading at a premium. III. The current yield is less than the coupon rate. IV. The current yield is greater than the coupon rate.",
     "choices": {
       "A": "I and III",
       "B": "I and IV",
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "II and IV"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “I and IV”. This falls under <b>1 - Capital Markets</b>. Key principle: The secondary market is where investors trade already-issued securities.",
+    "explanation": "At $960 (below the $1,000 par), the bond trades at a discount (I true, II false). Annual interest is 6% of par = $60. Current yield = $60 / $960 = 6.25%, which is greater than the 6% coupon (IV true, III false). Therefore B (I and IV) is correct.",
     "source": "YouTube: Series 7 Guru (guru15)"
   },
   {
@@ -289,8 +289,8 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "C": "Open-end fund",
       "D": "Closed-end fund"
     },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “Open-end fund”. This falls under <b>2 - Products & Risks</b>. Key principle: UITs are fixed, unmanaged portfolios with a stated termination date.",
+    "answer": "D",
+    "explanation": "Closed-end fund shares trade on an exchange like stock and are not redeemable with the fund; open-end (mutual) funds, UITs, and face-amount certificates are redeemable with the issuer.",
     "source": "YouTube: Series 7 Guru (guru15)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU15 = [
       "D": "they have forward pricing."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “they issue a set number of shares to the public.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Open-end mutual funds issue an unlimited number of shares (they create and redeem shares continuously), so they do not issue a set/fixed number of shares. They issue only common stock, may charge up to an 8.5% sales load, and use forward pricing.",
     "source": "YouTube: Series 7 Guru (guru15)"
   }
 ];

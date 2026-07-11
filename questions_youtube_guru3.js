@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU3 = [
       "D": "A Financial Industry Regulatory Authority (FINRA) examiner."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The employing firm.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "Even when an associated person engages in outside (selling-away) business, the employing member firm retains supervisory responsibility for the representative's activities and must ensure proper supervision.",
     "source": "YouTube: Series 7 Guru (guru3)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU3 = [
       "D": "the same day."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “the next business day.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Option purchases must be paid for in full by the next business day (regular-way settlement for options is T+1).",
     "source": "YouTube: Series 7 Guru (guru3)"
   },
   {
@@ -38,13 +38,13 @@ var SIE_QUESTIONS_YT_GURU3 = [
       "D": "call and put contracts."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “call and put contracts.”. This falls under <b>1 - Capital Markets</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "Options (calls and puts) cannot be bought on margin because they must be paid for in full; equity and many debt securities such as municipal securities are marginable.",
     "source": "YouTube: Series 7 Guru (guru3)"
   },
   {
     "id": "yt-guru3-45",
     "section": "2 - Products & Risks",
-    "stem": "In a defined contribution plan:",
+    "stem": "In a defined contribution plan, which two of the following statements are true? I. The employer guarantees a specific retirement benefit amount. II. The employee's retirement benefit depends on the contributions made and the investment performance of the account. III. The employee bears the investment risk in the plan. IV. The plan promises a fixed monthly benefit for life.",
     "choices": {
       "A": "I and IV",
       "B": "II and III",
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU3 = [
       "D": "I and II"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “II and III”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "In a defined contribution plan the employer contributes to an individual account and makes no promise about the ultimate benefit; the employee bears the investment risk and the payoff depends on contributions and performance. So II and III are true. I and IV describe a defined benefit plan, not defined contribution. Thus B (II and III) is correct.",
     "source": "YouTube: Series 7 Guru (guru3)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU3 = [
       "D": "for the preferred shares of another issuer."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “for a fixed number of shares of the issuing corporation's common stock.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Convertible preferred stock gives the holder the right to convert (exchange) each preferred share for a fixed number of the issuer's common shares, per the conversion ratio.",
     "source": "YouTube: Series 7 Guru (guru3)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU3 = [
       "D": "a discount of $200."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “a premium of $200.”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The nominal (coupon) yield is 6% but the current yield is only 5%, so the price is above par (a premium). At par, current yield would equal the 6% coupon; a 5% current yield means price is above par by enough that $60 of annual interest equals 5% of the price ($1,200), i.e. purchased at $1,200, a $200 premium over the $1,000 par.",
     "source": "YouTube: Series 7 Guru (guru3)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU3 = [
       "D": "This is a solicited trade."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “This is not a recommendation.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "When a customer initiates the order with a specific instruction, it is unsolicited and is not a recommendation by the representative. A recommendation requires the representative to suggest the security or action.",
     "source": "YouTube: Series 7 Guru (guru3)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU3 = [
       "D": "The Financial Industry Regulatory Authority (FINRA)."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “The Federal Savings and Loan Insurance Corporation (FSLIC).”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "FINRA, the MSRB, and the CBOE are SROs that operate under SEC oversight. The FSLIC was a federal deposit insurance agency for thrifts, not a securities-industry SRO, so it does not function under SEC oversight in that capacity.",
     "source": "YouTube: Series 7 Guru (guru3)"
   }
 ];

@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "T+3 business days"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “T+2 business days”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Equity trades settle T+2 business days; options T+1; municipal/GOV corp bonds T+1.",
+    "explanation": "The correct choice (C) is: \u201cT+2 business days\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Equity trades settle T+2 business days; options T+1; municipal/GOV corp bonds T+1.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Federal Reserve Board (FRB)"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Securities and Exchange Commission (SEC)”. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (B) is: \u201cSecurities and Exchange Commission (SEC)\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "100%"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “100%”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201c100%\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Hedge funds"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Hedge funds”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cHedge funds\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Non-systematic risk"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Non-systematic risk”. This falls under <b>2 - Products & Risks</b>. Key principle: Diversification reduces unsystematic (company-specific) risk.",
+    "explanation": "The correct choice (D) is: \u201cNon-systematic risk\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Diversification reduces unsystematic (company-specific) risk.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Report the customer to regulatory authorities for placing an unsuitable order"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Execute the order but document that it was unsolicited and the representative's concerns.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cExecute the order but document that it was unsolicited and the representative's concerns.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -93,8 +93,8 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "C": "4 years",
       "D": "6 years"
     },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “4 years”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "answer": "D",
+    "explanation": "The correct choice (C) is: \u201c4 years\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "A market where investors are primarily selling short."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “A period of sustained growth and rising security prices.”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cA period of sustained growth and rising security prices.\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Liquidity risk only"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Currency risk”. This falls under <b>1 - Capital Markets</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "The correct choice (C) is: \u201cCurrency risk\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "The midpoint between the highest bid and lowest ask."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “The highest price a buyer is willing to pay for a security.”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cThe highest price a buyer is willing to pay for a security.\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "To enforce insider trading laws."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “To protect customers against losses resulting from the bankruptcy or insolvency of a broker-dealer.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
+    "explanation": "The correct choice (B) is: \u201cTo protect customers against losses resulting from the bankruptcy or insolvency of a broker-dealer.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "A third-party vendor providing IT support with no access to trading data."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “A compliance officer who has access to nonpublic information regarding client transactions.”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cA compliance officer who has access to nonpublic information regarding client transactions.\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "A situation where a customer has discretionary trading authority over their account."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “A situation where the municipal bond dealer, or an officer or employee of the dealer, is in a position to influence the issuer of the municipal bond.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cA situation where the municipal bond dealer, or an officer or employee of the dealer, is in a position to influence the issuer of the municipal bond.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "The difference between the strike price and the market price"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The premium received”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cThe premium received\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Processing customer cash and security movements."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Executing trades on behalf of clients.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cExecuting trades on behalf of clients.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Stop-limit order"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Market order”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cMarket order\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Annually, along with other account statements."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Within 30 days of opening the account.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cWithin 30 days of opening the account.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Day trading"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Short sale”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cShort sale\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "It is trading above its par value."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Its yield to maturity is higher than its coupon rate.”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (C) is: \u201cIts yield to maturity is higher than its coupon rate.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "To buy and sell municipal bonds in the secondary market."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “To write rules for municipal securities firms and professionals.”. This falls under <b>1 - Capital Markets</b>. Key principle: MSRB writes rules for municipal securities; FINRA enforces them.",
+    "explanation": "The correct choice (C) is: \u201cTo write rules for municipal securities firms and professionals.\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: MSRB writes rules for municipal securities; FINRA enforces them.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Liquidity risk"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Purchasing power risk (inflation risk)”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "The correct choice (C) is: \u201cPurchasing power risk (inflation risk)\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "The customer pays an additional fee for electronic delivery."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The customer provides written consent to receive electronic delivery.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cThe customer provides written consent to receive electronic delivery.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Common stock has a fixed maturity date, while preferred stock is perpetual."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Common stock has voting rights, while preferred stock typically does not.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cCommon stock has voting rights, while preferred stock typically does not.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "FINRA"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “The issuer of the securities”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
+    "explanation": "The correct choice (C) is: \u201cThe issuer of the securities\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
     "source": "YouTube: Series 7 Guru (guru26)"
   }
 ];

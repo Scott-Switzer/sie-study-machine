@@ -13,18 +13,18 @@ var SIE_QUESTIONS_UDEMY_UDEMY3 = [
     "explanation": "A. the Securities Act of 1933\nThe Securities Act of 1933 covers the sale of new issues (primary market). The Securities Act of 1933 was designed to provide more transparency in financial statements and to curb fraudulent activities of issuers. The Securities Act of 1933 also goes by a myriad of other names, such as the Paper Act, New Issues Act, Full Disclosure Act, and Truth in Securities Act.",
     "source": "YouTube/Udemy: Udemy Practice (UDEMYUDEMY3)"
   },
-  {
+    {
     "id": "yt-UDEMY-UDEMY3-2",
     "section": "2 - Products & Risks",
-    "stem": "One of your clients is interested in purchasing municipal GO bonds and is looking for guidance. You can inform him that.",
+    "stem": "One of your clients is interested in purchasing municipal general obligation (GO) bonds and asks for guidance. Which of the following statements are true?\nI. GO bond interest is subject to federal income tax.\nII. GO bonds are backed by the full faith, credit, and taxing power of the municipality.\nIII. GO bond issues generally require voter approval.\nIV. GO bond proceeds typically fund non-revenue-producing facilities such as schools and roads.",
     "choices": {
-      "A": "I and IV",
+      "A": "I and II",
       "B": "II, III, and IV",
-      "C": "II and III",
-      "D": "I, III, and IV"
+      "C": "I, III, and IV",
+      "D": "I, II, and IV"
     },
     "answer": "B",
-    "explanation": "B, II, III, and IV\nGeneral obligation (GO) bonds are issued to fund non-revenueproducing facilities and are backed by the taxing power of the municipality. Because the people living in the municipality will be paying additional taxes to back the bonds, they need voter approval. Also, GO bonds are...",
+    "explanation": "GO bonds are backed by the municipality's taxing power (II), normally require voter approval (III), and fund non-revenue-producing projects (IV). Their interest is generally exempt from federal income tax, so I is false.",
     "source": "YouTube/Udemy: Udemy Practice (UDEMYUDEMY3)"
   },
   {
@@ -167,18 +167,18 @@ var SIE_QUESTIONS_UDEMY_UDEMY3 = [
     "explanation": "D. sales Progressive taxes are taxes that increase depending on an individual's tax bracket. Progressive taxes affect individuals with high incomes more than individuals with low incomes. Personal income, gift, and estate taxes are progressive taxes. Sales tax and excise taxes (gas, alcohol, tobacco, and so on) are regressive taxes because everyone is taxed at the same rate.",
     "source": "YouTube/Udemy: Udemy Practice (UDEMYUDEMY3)"
   },
-  {
+    {
     "id": "yt-UDEMY-UDEMY3-13",
     "section": "4 - Regulatory Framework",
-    "stem": "The U.S. Securities and Exchange Commission regulates trading of which of the following securities?",
+    "stem": "The U.S. Securities and Exchange Commission (SEC) regulates the trading of which of the following?\nI. Common stock.\nII. Commodity futures contracts.\nIII. Corporate bonds.\nIV. Options on listed stocks.",
     "choices": {
       "A": "I, III, and IV",
-      "B": "III and IV",
-      "C": "II and III",
+      "B": "I, II, and III",
+      "C": "II, III, and IV",
       "D": "I, II, III, and IV"
     },
     "answer": "A",
-    "explanation": "The Securities and Exchange Commission (SEC), which was created under the Securities and Exchange Act of 1934, regulates the trading of securities. Commodities aren't considered securities and, therefore, aren't regulated by the SEC. A Series 7 license doesn't allow you to trade commodities, which is something you should keep in mind when answering Series 7 questions.",
+    "explanation": "The SEC regulates trading in securities—common stock (I), corporate bonds (III), and listed stock options (IV). Commodity futures are regulated by the CFTC, not the SEC, so II is excluded.",
     "source": "YouTube/Udemy: Udemy Practice (UDEMYUDEMY3)"
   },
   {
@@ -209,18 +209,18 @@ var SIE_QUESTIONS_UDEMY_UDEMY3 = [
     "explanation": "Common and preferred stock are both equity securities which represent ownership of the issuing corporation. TIPS, debentures, and GO bonds are debt securities.",
     "source": "YouTube/Udemy: Udemy Practice (UDEMYUDEMY3)"
   },
-  {
+    {
     "id": "yt-UDEMY-UDEMY3-16",
     "section": "2 - Products & Risks",
-    "stem": "An investor who purchases a corporate bond is",
+    "stem": "An investor who purchases a corporate bond is:\nI. purchasing an ownership interest in the corporation.\nII. lending money to the corporation.\nIII. becoming a creditor of the corporation.\nIV. acquiring a claim on assets that is subordinate to the common shareholders.",
     "choices": {
-      "A": "I and III",
+      "A": "I and II",
       "B": "I and IV",
       "C": "II and III",
-      "D": "II and IV"
+      "D": "III and IV"
     },
     "answer": "C",
-    "explanation": "Bondholders are lending money to the issuer and are taking the position of a creditor.",
+    "explanation": "A bondholder lends money to the issuer (II) and takes the position of a creditor (III). Bondholders do not own the company (I is false) and are senior to shareholders, not subordinate (IV is false).",
     "source": "YouTube/Udemy: Udemy Practice (UDEMYUDEMY3)"
   },
   {
@@ -321,18 +321,18 @@ var SIE_QUESTIONS_UDEMY_UDEMY3 = [
     "explanation": "D. initial public offering\nAn initial public offering (IPO) is the first time a corporation over sells stock to the public.",
     "source": "YouTube/Udemy: Udemy Practice (UDEMYUDEMY3)"
   },
-  {
+    {
     "id": "yt-UDEMY-UDEMY3-24",
     "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "Which of the following taxes are regressive?",
+    "stem": "Which of the following taxes are regressive?\nI. Federal income tax.\nII. General sales tax.\nIII. Gasoline (excise) tax.\nIV. Alcohol tax.",
     "choices": {
-      "A": "I and III",
-      "B": "II and IV",
+      "A": "I, II, and III",
+      "B": "I and IV",
       "C": "II, III, and IV",
-      "D": "I, II, and III"
+      "D": "I, III, and IV"
     },
     "answer": "C",
-    "explanation": "Regressive taxes are ones in which all individuals are taxed at the same rate regardless of income level. Regressive taxes include sales, gas, and alcohol. Progressive taxes, in which higher-income individuals pay a higher rate, include income, gift, and estate taxes.",
+    "explanation": "Regressive taxes take the same rate from everyone regardless of income—sales, gasoline, and alcohol (excise) taxes (II, III, IV). The federal income tax is progressive, so I is excluded.",
     "source": "YouTube/Udemy: Udemy Practice (UDEMYUDEMY3)"
   },
   {

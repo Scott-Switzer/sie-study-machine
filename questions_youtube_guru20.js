@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "liquidity risk."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “purchasing power risk.”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "The correct choice (C) is: \u201cpurchasing power risk.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "An interest payment on a corporate bond"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “A 2:1 stock split”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cA 2:1 stock split\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "the ex-date."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “the record date.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cthe record date.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "Regulatory risk"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Purchasing power risk”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cPurchasing power risk\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "One year"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Two years”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cTwo years\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -74,13 +74,13 @@ var SIE_QUESTIONS_YT_GURU20 = [
     "section": "2 - Products & Risks",
     "stem": "A common stock shareholder's residual right to corporate assets refers to which of the following?",
     "choices": {
-      "A": "During the dissolution of corporate assets, common shareholders will be paid first—before debtholders and preferred shareholders are paid.",
+      "A": "During the dissolution of corporate assets, common shareholders will be paid first\u2014before debtholders and preferred shareholders are paid.",
       "B": "During the dissolution of corporate assets, common shareholders will be paid if any funds are left after preferred shareholders are paid but before debtholders are paid.",
       "C": "During the dissolution of corporate assets, common shareholders will be paid if any funds are left after debtholders are paid but before preferred shareholders are paid.",
       "D": "During the dissolution of corporate assets, common shareholders will be paid if there are any funds left after debtholders and preferred shareholders are paid."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “During the dissolution of corporate assets, common shareholders will be paid if there are any funds left after debtholders and preferred shareholders are paid.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cDuring the dissolution of corporate assets, common shareholders will be paid if there are any funds left after debtholders and preferred shareholders are paid.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "buy 200 shares of Seabird."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “buy 200 shares of Seabird.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cbuy 200 shares of Seabird.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "$10,000"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “$8,500”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201c$8,500\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "Income"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Income”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cIncome\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "A commission-based account"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “A fee-based account”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cA fee-based account\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "structuring, and an SAR should be filed."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “structuring, and an SAR should be filed.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cstructuring, and an SAR should be filed.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "A partnership account"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Joint tenants in common (JTIC)”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cJoint tenants in common (JTIC)\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "5%"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “6%”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201c6%\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "one involving municipal bonds."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “one that is unsolicited.”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "The correct choice (C) is: \u201cone that is unsolicited.\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "SAI must go into the mail on the same day"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Three business days from the date of the request”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cThree business days from the date of the request\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "$2,000."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “$1,200.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201c$1,200.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "offering to sell a limited partnership interest in an oil and gas drilling program."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “part-time work parking cars on the weekend at a local racetrack.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cpart-time work parking cars on the weekend at a local racetrack.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "I and IV"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “II and III”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cII and III\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -261,8 +261,8 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "C": "the coupon of the bond adjusted downward.",
       "D": "the price of the bond move higher."
     },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “the price of the bond be unchanged.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "answer": "D",
+    "explanation": "The correct choice (A) is: \u201cthe price of the bond be unchanged.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "lagging indicators."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “coincident indicators.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201ccoincident indicators.\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "less than its current yield."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “equal to its current yield.”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (C) is: \u201cequal to its current yield.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "I and III"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “II and IV”. This falls under <b>1 - Capital Markets</b>. Key principle: The SEC is the federal regulator of securities markets.",
+    "explanation": "The correct choice (B) is: \u201cII and IV\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The SEC is the federal regulator of securities markets.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "Six months"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “No waiting period”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cNo waiting period\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "I and II"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “III and IV”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cIII and IV\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "Conduct Rules"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Code of Procedures”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (B) is: \u201cCode of Procedures\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "Maximum loss is the same for both parties."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Breakeven is the same for both parties.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cBreakeven is the same for both parties.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "The firm lends the customer's securities without a consent agreement."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “The firm lends the customer's securities without a consent agreement.”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cThe firm lends the customer's securities without a consent agreement.\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "the currency market."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “the capital market.”. This falls under <b>2 - Products & Risks</b>. Key principle: The secondary market is where investors trade already-issued securities.",
+    "explanation": "The correct choice (C) is: \u201cthe capital market.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: The secondary market is where investors trade already-issued securities.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "pegging."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “a wash sale.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201ca wash sale.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "fully-disclosed account."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “prime account.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cprime account.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -430,7 +430,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "depletion applied when the equipment is sold."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “depreciation over the life of the program.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cdepreciation over the life of the program.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -444,7 +444,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "$7"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “$10”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201c$10\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru20)"
   }
 ];

@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "D": "proxies available for voting by the board."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “shares owned by the stockholder.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Under statutory (regular) voting, a shareholder receives one vote per share for each director vacancy, so the number of votes per vacancy equals the number of shares owned. Votes cannot be concentrated on fewer candidates; that flexibility is the feature of cumulative voting, not statutory voting.",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -23,8 +23,8 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "C": "Issue a cash transfer receipt to the customer",
       "D": "Place a five-day hold on the customer's account for the funds received"
     },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “Issue a cash transfer receipt to the customer”. This falls under <b>4 - Regulatory Framework</b>. Key principle: The SEC is the federal regulator of securities markets.",
+    "answer": "A",
+    "explanation": "Under the Bank Secrecy Act, a broker-dealer (and other financial institutions) must file a Currency Transaction Report (CTR) with FinCEN whenever it receives (or disburses) more than $10,000 in currency from/ to a customer in one business day. A SAR is filed for suspicious activity, not for routine large cash; there is no receipt or mandatory hold requirement.",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "D": "$3,000."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “$2,000.”. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "Regulation T requires 50% initial margin, but FINRA Rule 4210 sets a $2,000 minimum initial deposit for a margin account. Fifty percent of $3,000 is $1,500, which is below the $2,000 floor, so the customer must deposit $2,000 (the greater of 50% or the $2,000 minimum).",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "D": "Tax deferred variable annuity"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Variable rate demand note”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "A variable rate demand note (VRDN) has a stated (long) final maturity, a floating rate that resets periodically (often tied to a short-term index), and a put feature letting the holder tender the note back to the dealer at par on a daily or weekly basis, which keeps it priced near par.",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "D": "Fixed-rate capital securities"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Asset-backed securities”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Asset-backed securities (e.g., CMOs and other ABS) are analyzed and traded on the basis of average life rather than stated final maturity because prepayments of the underlying loans shorten or lengthen the security's actual life.",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "D": "asset value."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “a premium.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Bond quotes are expressed as a percentage of par (100). A price of 102 means 102% of par, so the bond is selling at a premium (above par). At 100 it would be at par; below 100 it would be at a discount.",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "D": "At maturity"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Semiannually”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "Treasury notes (and Treasury bonds) pay interest semiannually (every six months) based on their stated coupon rate. Only the final principal is paid at maturity.",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "D": "a market maker."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “an agent.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "When a broker-dealer charges a commission for executing a customer's order, it acts as an agent (broker) on the customer's behalf. It acts as a principal (dealer) when it buys from or sells to the customer out of its own inventory and earns a markup/ markdown.",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "D": "Buy 250 shares at $10.00 and sell 100 shares at $10.10"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Buy 2,500 shares at $10.00 and sell 1,000 shares at $10.10”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A quote of 10.00 - 10.10 means the market maker is willing to buy (bid) at $10.00 and sell (ask) at $10.10. The size bracket [25x10] shows 25 round lots (2,500 shares) bid and 10 round lots (1,000 shares) offered, so it will buy 2,500 at $10.00 and sell 1,000 at $10.10.",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "D": "Lower management fees due to passive management of the fund"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Lower management fees due to passive management of the fund”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Index funds are passively managed to track a benchmark (e.g., the S&P 500), so they have low portfolio turnover and lower management fees than actively managed funds. They do not guarantee principal and can decline in bear markets.",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -149,8 +149,8 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "C": "Political",
       "D": "Nonsystematic"
     },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “Liquidity”. This falls under <b>1 - Capital Markets</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "answer": "D",
+    "explanation": "The portfolio is not broadly diversified: 60% is concentrated in just two individual companies (ABC Energy and XYZ Health Care). Because it holds only a handful of names rather than a wide array of issues, company-specific (nonsystematic) risk remains inherent. All holdings are liquid, and the S&P 500 ETF plus money market dampen systematic but not the concentrated idiosyncratic risk.",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -163,8 +163,8 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "C": "Exchange-traded funds (ETFs)",
       "D": "Exchange-traded notes (ETNs)"
     },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “Mutual funds”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "answer": "D",
+    "explanation": "An exchange-traded note (ETN) is an unsecured debt obligation of its issuing bank, so it carries the issuer's credit (default) risk. A downgrade of the issuer reduces the ETN's value. Mutual funds, UITs, and ETFs hold a basket of third-party securities and are not obligations of the issuer, so they are not directly exposed to the issuer's credit rating.",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -177,8 +177,8 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "C": "Custodian",
       "D": "Transfer agent"
     },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “Issuer”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "answer": "D",
+    "explanation": "The transfer agent maintains the issuer's record of registered shareholders and handles the mechanical details of a split — issuing the additional shares to the correct holders. The issuer does not keep these records itself; DTC and custodians handle clearing/safekeeping, not shareholder recordkeeping.",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -191,8 +191,8 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "C": "Treasury bonds",
       "D": "Blue chip industrials"
     },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “Treasury bills”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "answer": "C",
+    "explanation": "Long-term fixed-rate debt, such as long Treasury bonds, is most exposed to inflation (purchasing-power) risk because its fixed payments are eroded by rising prices over a long horizon. Short-term T-bills reprice quickly and so have far less inflation exposure; equities tend to offer some inflation hedge.",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "D": "4 quarters"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “2 quarters”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A recession is commonly defined as two consecutive (back-to-back) quarters of declining real GDP. The official determination also considers other indicators, but the two-quarter rule is the standard shorthand.",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "D": "a transfer agent."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “a market maker.”. This falls under <b>1 - Capital Markets</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "A market maker is assigned a security and is obligated to maintain continuous two-sided (bid and ask) quotes, standing ready to buy and sell at all times to provide liquidity. A broker executes for customers; an underwriter helps issue securities; a transfer agent keeps shareholder records.",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -233,8 +233,8 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "C": "The deadline by which to opt out from the privacy program",
       "D": "The policies to protect the security of nonpublic information"
     },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “The fee to opt out from the privacy program”. This falls under <b>4 - Regulatory Framework</b>. Key principle: The SEC is the federal regulator of securities markets.",
+    "answer": "D",
+    "explanation": "Regulation S-P requires a firm's privacy notice to describe its policies and practices for protecting the security, confidentiality, and integrity of nonpublic personal information, and to explain the customer's right to opt out of sharing that information with nonaffiliated third parties. There is no fee to opt out and no required opt-out deadline, and a website address is not mandated.",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "D": "Annually"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Quarterly”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Firms must send account statements at least quarterly. Monthly statements are required only when there is account activity in a given month; a dormant account with a cash balance and securities still must receive a statement every quarter.",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "D": "24 months"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “13 months”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A letter of intent (LOI) lets an investor reach a sales-charge breakpoint by aggregating purchases over time. Under the Investment Company Act, an LOI is valid for a maximum of 13 months (with a 13-month window to complete the intended investment).",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "D": "investors with direct purchases of stock from public companies."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “exposure to non-correlated assets with steady returns.”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "Direct participation programs (e.g., real estate, oil & gas, equipment leasing partnerships) give investors direct ownership in tangible, often non-correlated assets that can produce relatively steady income flows. They are illiquid and lack transparency, which rules out choice A; they are not publicly traded stock purchases.",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -289,8 +289,8 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "C": "The income eligibility restrictions to contribute to the account",
       "D": "The rights of the account beneficiary to the assets at the age of majority"
     },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “The income eligibility restrictions to contribute to the account”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "answer": "A",
+    "explanation": "Contributions to a 529 plan are not deductible on federal income tax returns, and there are no federal income-eligibility limits to contribute. However, many states allow a state income tax deduction (or credit) for contributions to their own 529 plan, so the RR should explain the potential state tax deductibility.",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "D": "1,200 shares at $50.00"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “1,200 shares at $41.67”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Total value is unchanged: 1,000 shares × $50.00 = $50,000. A 20% stock dividend increases the share count to 1,200 (1,000 × 1.20). The new price is $50,000 ÷ 1,200 = $41.67. The split/dividend merely redistributes value across more shares at a lower per-share price.",
     "source": "YouTube: Series 7 Guru (guru68)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU68 = [
       "D": "The investment management division of the appropriate regional SEC office"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “A registered principal of the RR's firm”. This falls under <b>2 - Products & Risks</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "Retail communications such as mutual fund advertisements are subject to FIRNA Rule 2210 and must be approved in writing by a registered principal (e.g., a Series 24 principal) of the RR's firm before being used. FINRA, state administrators, and the SEC do not pre-approve individual ads.",
     "source": "YouTube: Series 7 Guru (guru68)"
   }
 ];

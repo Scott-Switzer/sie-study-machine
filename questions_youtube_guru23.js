@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "Interest rates are falling"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The economy is weakening”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “The economy is weakening”. Rising unemployment is a lagging economic indicator: as demand and output slow, businesses cut jobs, so a rising jobless rate signals a weakening (contracting) economy.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "Unemployment rate decreases"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Unemployment rate decreases”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “Unemployment rate decreases”. Tighter monetary policy slows growth and typically pushes unemployment UP, not down, so a falling jobless rate is the least likely short-term result of a rate hike.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "Adjusting the discount rate"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Setting tax rates”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Setting tax rates”. Tax policy is fiscal policy set by Congress, not a Fed monetary tool; the Fed's tools are open-market operations, reserve requirements, and the discount rate.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "The economy will immediately enter a recession"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “The effects may offset each other, making the overall impact uncertain”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “The effects may offset each other, making the overall impact uncertain”. Expansionary fiscal policy (more spending) and contractionary monetary policy (higher rates) pull in opposite directions, so their net effect on growth is ambiguous.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "Bond interest payments will increase"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Bond prices will increase”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Bond prices will increase”. Bond prices and interest rates move inversely, so when the Fed lowers rates, existing fixed-coupon bonds become more valuable and their prices rise.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "The city's borrowing costs may increase"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “The city's borrowing costs may increase”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “The city's borrowing costs may increase”. A large federal tax cut is expansionary — it can swell the deficit and Treasury issuance and stoke inflation, pushing market rates up and raising the city's cost of borrowing.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "Reserve requirements for banks"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Open market operations”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Open market operations”. The FOMC directly conducts open-market operations (buying/selling Treasuries); the discount rate and reserve requirements are set by the Board of Governors.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "Broker call rate"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Discount rate”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Discount rate”. When a bank borrows short-term directly from its regional Federal Reserve Bank, it pays the discount rate — distinct from the interbank federal funds rate.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "Bond prices become more volatile"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Bond prices decrease”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Bond prices decrease”. Existing fixed-rate bonds fall in price when market rates rise, because newly issued bonds offer higher coupons, making older lower-coupon bonds less attractive.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "There is no relationship that is always true between interest rates and stocks"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “There is no relationship that is always true between interest rates and stocks”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “There is no relationship that is always true between interest rates and stocks”. Rate changes affect stocks through many channels (discount rates, earnings, sentiment), so no strict always-true rule links the two; absolute 'always' statements are false.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "Real estate investment trusts"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Money market funds”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “Money market funds”. Money-market yields track short-term rates, so when rates fall their returns decline immediately — making them the least likely to benefit from a rate-cut signal.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "Trough"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Expansion”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “Expansion”. Expansion is the business-cycle phase marked by rising employment, growing consumer spending, and increasing industrial production.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "Contraction"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Trough”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Trough”. The trough is the cycle low — high unemployment and low inflation — often with early signs of recovery in some sectors before the next expansion begins.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "Peak"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Peak”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “Peak”. Near the peak, output is near maximum so unemployment is low, but capacity constraints push inflation higher even as growth begins to slow.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -247,8 +247,8 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "C": "She will have the same number of shares, but the price per share will decrease.",
       "D": "She will have twice as many shares, and the price per share will double."
     },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “She will have half as many shares, and the price per share will double.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "answer": "B",
+    "explanation": "The correct choice (B) is: \"She will have twice as many shares, and the price per share will be halved.\" A 2-for-1 stock split doubles the number of shares owned and halves the per-share price, so total market value is unchanged.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "It is backed by specific assets as collateral"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “It is backed by specific assets as collateral”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “It is backed by specific assets as collateral”. A secured (collateralized) bond is backed by specific pledged assets, giving bondholders a claim on those assets if the issuer defaults — unlike an unsecured/debenture bond.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "The process of merging two parcels of land into one"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “A legal right to use another person's land for a specific limited purpose”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “A legal right to use another person's land for a specific limited purpose”. An easement is a non-possessory property right letting one party use another's land for a defined purpose (e.g., a utility or access right-of-way).",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "Exchange-traded fund"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Open-end investment company”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “Open-end investment company”. Open-end funds (mutual funds) issue redeemable shares and must compute NAV at least once each business day, buying and selling at that NAV.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "The put writer must deliver cash to Maria without receiving shares."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “The put writer must buy XYZ shares from Maria at the strike price.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “The put writer must buy XYZ shares from Maria at the strike price.”. The writer (seller) of a put is obligated to buy the underlying at the strike when the holder exercises; the buyer holds the right, the writer bears the duty.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -430,7 +430,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "Inflation risk"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Unsystematic risk”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Unsystematic risk”. Unsystematic (company-specific) risk can be diversified away by holding many unrelated assets; systematic/market risk cannot be eliminated through diversification.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -444,7 +444,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "The risk-return tradeoff is a fundamental investment principle."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Taking more risk always results in higher returns.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “Taking more risk always results in higher returns.”. Risk and expected return are related, but risk does not guarantee higher actual returns — more risk raises the chance of loss, so an 'always' claim is false.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -472,7 +472,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "Fill-or-kill order"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Market order”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “Market order”. A market order executes immediately at the best available current price with no price guarantee, unlike a limit order which specifies a maximum/minimum price.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -485,8 +485,8 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "C": "Her order remains unfilled.",
       "D": "Her order is automatically converted to a market order."
     },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “Her order is filled at $51.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "answer": "C",
+    "explanation": "The correct choice (C) is: \"Her order remains unfilled.\" A buy limit order executes only at the limit price ($50) or lower. Since XYZ traded at $51 all day and never reached $50, the order is never triggered and stays open/unfilled at close.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -556,7 +556,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "Custodial account"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Joint tenants with right of survivorship”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Joint tenants with right of survivorship”. JTWROS requires equal ownership shares and passes automatically to the survivor; tenants in common allows unequal shares and provides no right of survivorship.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -584,7 +584,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "Custodial account"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Custodial account”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “Custodial account”. A custodial (UTMA/UGMA) account lets an adult (the custodian) manage and hold assets for a minor until the minor reaches the age of majority.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -612,7 +612,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "Only if the communication is sent to more than 25 people"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “False”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “False”. Not every communication needs prior principal approval — only retail communications broadly distributed to more than 25 retail investors; one-on-one correspondence is reviewed after the fact.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -668,7 +668,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "Recent market trends"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Need for stable income and capital preservation”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Need for stable income and capital preservation”. Suitability requires matching the recommendation to the customer's profile; an elderly, low-income retiree's primary need is income and preservation, not aggressive growth.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -724,7 +724,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "Placing stop-loss orders"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Front-running”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “Front-running”. Front-running — trading ahead of a client's pending order to profit from the anticipated price move — is a prohibited practice under securities regulation.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {
@@ -752,7 +752,7 @@ var SIE_QUESTIONS_YT_GURU23 = [
       "D": "Marking the close"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Placing a market order”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Placing a market order”. A market order is a normal, permitted order type; prohibited practices include painting the tape, wash sales, and marking the close — not simply using a market order.",
     "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
   },
   {

@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "I and III"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “I and III”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cI and III\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "I and III"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “I, II, III, and IV”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cI, II, III, and IV\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "Aggressive growth fund"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Bond fund”. This falls under <b>2 - Products & Risks</b>. Key principle: Diversification reduces unsystematic (company-specific) risk.",
+    "explanation": "The correct choice (C) is: \u201cBond fund\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Diversification reduces unsystematic (company-specific) risk.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -51,8 +51,8 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "C": "a loss of $7,500.",
       "D": "a gain of $1,000."
     },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “a gain of $7,500.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "answer": "D",
+    "explanation": "The correct choice (A) is: \u201ca gain of $7,500.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "the purchase of securities."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “the purchase of securities.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cthe purchase of securities.\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -79,8 +79,8 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "C": "I and III",
       "D": "II and III"
     },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “I and IV”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "answer": "B",
+    "explanation": "The correct choice (A) is: \u201cI and IV\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "ten ABC 6s of 2045 convertible into 20 shares plus forty additional shares."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “ten ABC 6s of 2045 with a conversion price of $41.67.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cten ABC 6s of 2045 with a conversion price of $41.67.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "an elected official of a municipality having some decision-making authority regarding new municipal bond issues."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “an employee of a broker-dealer engaged in municipal security representative activities other than retail sales or who solicits municipal securities business for the broker-dealer.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: MSRB writes rules for municipal securities; FINRA enforces them.",
+    "explanation": "The correct choice (A) is: \u201can employee of a broker-dealer engaged in municipal security representative activities other than retail sales or who solicits municipal securities business for the broker-dealer.\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: MSRB writes rules for municipal securities; FINRA enforces them.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "II and III"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “I and III”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cI and III\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "consolidation."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “consolidation.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cconsolidation.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -149,8 +149,8 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "C": "$15,000.",
       "D": "$10,000."
     },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “$10,000.”. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "answer": "A",
+    "explanation": "The correct choice (D) is: \u201c$10,000.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "Form D must be filed."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “it is not necessary for J.B. to file a Form 144.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: The secondary market is where investors trade already-issued securities.",
+    "explanation": "The correct choice (A) is: \u201cit is not necessary for J.B. to file a Form 144.\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: The secondary market is where investors trade already-issued securities.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "9% of the net asset value."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “8.5% of the net asset value.”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201c8.5% of the net asset value.\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "arbitrage"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “money laundering”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cmoney laundering\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru19)"
   }
 ];

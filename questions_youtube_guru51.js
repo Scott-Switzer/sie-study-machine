@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "your proportional percentage of residual assets"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “your proportional percentage of residual assets”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cyour proportional percentage of residual assets\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "all of the above"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “all of the above”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201call of the above\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "been fixed at the time of issuance"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “gone up as the price of ABC has fallen”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (C) is: \u201cgone up as the price of ABC has fallen\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "taxed at a set rate of 15%"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “taxed at a set rate of 15%”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201ctaxed at a set rate of 15%\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "right to maintain their percentage of ownership in the company"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “right to vote for executive compensation”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cright to vote for executive compensation\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -80,21 +80,21 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "the foreign country May issue restrictions on the foreign ownership of stock"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “each ADR represents 100 shares of foreign stock and the ADR holder May request delivery of the foreign shares”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201ceach ADR represents 100 shares of foreign stock and the ADR holder May request delivery of the foreign shares\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
     "id": "yt-guru51-7",
     "section": "2 - Products & Risks",
-    "stem": "each ADR represents 100 shares of foreign stock and the ADR holder May request delivery of the foreign shares an investor buys a 10% preferred stock at 110 what is their current yield",
+    "stem": "An ADR represents 100 shares of a foreign stock. An investor buys 1 ADR at $110 per ADR, and each ADR pays an annual dividend of $10. What is the current yield?",
     "choices": {
       "A": "10.4%",
-      "B": "99.1%",
+      "B": "9.09%",
       "C": "10%",
-      "D": "99.5%"
+      "D": "9.1%"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “99.1%”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "Current yield = annual income / current price = $10 / $110 = 9.09%. Choice B is correct.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "5,000"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “500”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201c500\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "the investor is subject to currency risk"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “the dividend will be paid in US Dollars”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cthe dividend will be paid in US Dollars\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "$900"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “$900”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201c$900\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "3.5% of the corporate profits"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “$3.50 per share”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201c$3.50 per share\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "the right to receive the past dividends Before Common holders receive a dividend"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “right to exchange the preferred for the underlying common shares”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cright to exchange the preferred for the underlying common shares\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "sold to investors to raise operating capital for the company"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “arbitrarily determined at the time of incorporation and may not be changed”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201carbitrarily determined at the time of incorporation and may not be changed\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "bankruptcy"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “bankruptcy”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cbankruptcy\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "a figure determined by subtracting the current yield from the current market price"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “a figure determined by subtracting the current yield from the current market price”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (D) is: \u201ca figure determined by subtracting the current yield from the current market price\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "80 shares"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “40 shares”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (C) is: \u201c40 shares\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "to reassure its investors that all is well"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “to maintain control of the company”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (A) is: \u201cto maintain control of the company\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "$0.125"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “$125”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201c$125\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "principal only bonds"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “principal only bonds”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cprincipal only bonds\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "current interest rate"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “real interest rate”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201creal interest rate\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "bearer bonds"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “bearer bonds”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cbearer bonds\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "lower the coupon"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “increase the number of shares outstanding when the warrants are exercised”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cincrease the number of shares outstanding when the warrants are exercised\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "collateral trust certificates"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “mortgage Bond”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cmortgage Bond\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "stocks and bonds issued by another company"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “stocks and bonds issued by another company”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cstocks and bonds issued by another company\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "depends on the purchase price"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “$1,040”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201c$1,040\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "24"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “22”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201c22\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "99.2%"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “8.33%”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (B) is: \u201c8.33%\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "28"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “30”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201c30\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "Bankers acceptance"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “industrial revenue Bond”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cindustrial revenue Bond\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "long-term when rates are low"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “long-term when rates are high”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201clong-term when rates are high\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -430,7 +430,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "$5,000"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “$1,000”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201c$1,000\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -444,7 +444,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "$1,316"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “$135”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201c$135\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -458,7 +458,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "monthly"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “at maturity”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cat maturity\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -472,7 +472,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "Its purpose is to earn a profit by providing mortgage capital."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “It provides an investment free of federal, state, and local taxes.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cIt provides an investment free of federal, state, and local taxes.\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -486,7 +486,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "exchange money market instruments to their Mutual benefit"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “obtain short-term financing”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (B) is: \u201cobtain short-term financing\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -500,7 +500,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "A treasury note issued 9 years ago"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “A treasury note issued 9 years ago”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+    "explanation": "The correct choice (D) is: \u201cA treasury note issued 9 years ago\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -514,7 +514,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "t-bond"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Bankers acceptance”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (A) is: \u201cBankers acceptance\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -528,7 +528,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "9 months"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “9 months”. This falls under <b>2 - Products & Risks</b>. Key principle: Duration measures a bond's price sensitivity to interest-rate changes.",
+    "explanation": "The correct choice (D) is: \u201c9 months\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Duration measures a bond's price sensitivity to interest-rate changes.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -542,7 +542,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "common stock"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “treasury bonds”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (C) is: \u201ctreasury bonds\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -556,7 +556,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "increasing interest rates"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “increasing interest rates”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (D) is: \u201cincreasing interest rates\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -570,7 +570,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "as demand Rises prices tend to rise"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “as Supply Rises prices tend to rise”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cas Supply Rises prices tend to rise\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -584,7 +584,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "discount rate"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “discount rate”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cdiscount rate\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -598,7 +598,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "falling stock prices"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “falling inventories”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cfalling inventories\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -612,7 +612,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "discount rate"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “federal funds rate”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cfederal funds rate\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -626,7 +626,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "fiscal policy and money market policy"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “monetary policy and fiscal policy”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cmonetary policy and fiscal policy\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -640,7 +640,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "i N3"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “i N3”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201ci N3\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -654,7 +654,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "discount rate"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “governmental spending”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cgovernmental spending\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru51)"
   }
 ];

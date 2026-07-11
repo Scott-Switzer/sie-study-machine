@@ -181,18 +181,18 @@ var SIE_QUESTIONS_YT_KNOP2 = [
     "explanation": "The correct choice (A) is: “Their net asset value must be determined at least once each business day”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
-  {
+    {
     "id": "yt-knop2-51",
     "section": "2 - Products & Risks",
-    "stem": "Which two of the following are characteristics of REITs?",
+    "stem": "Which two of the following are characteristics of Real Estate Investment Trusts (REITs)?\nI. REITs are partnerships that pass through all income and losses to shareholders.\nII. REITs must distribute at least 90% of their taxable income to shareholders to avoid corporate tax.\nIII. REITs are exempt from federal corporate income tax if they meet the distribution requirement.\nIV. REIT shareholders have unlimited liability for the REIT's debts.",
     "choices": {
       "A": "II and III",
       "B": "I and II",
       "C": "I and IV",
-      "D": "II and IV"
+      "D": "III and IV"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “II and III”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "To qualify, a REIT must distribute at least 90% of taxable income to shareholders (II) and is then exempt from federal corporate income tax (III). REITs are corporations, not pass-through partnerships (I false), and shareholders have limited liability (IV false).",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {
@@ -209,18 +209,18 @@ var SIE_QUESTIONS_YT_KNOP2 = [
     "explanation": "The correct choice (A) is: “within the time specified, but not less than four business days or more than 60 calendar days”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
-  {
+    {
     "id": "yt-knop2-56",
     "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "Which of the following statements are true regarding T bills?",
+    "stem": "Which of the following statements are true regarding Treasury bills (T-bills)?\nI. T-bills are issued at a discount to face value.\nII. T-bills pay no periodic interest.\nIII. T-bills are long-term securities maturing in more than 10 years.\nIV. T-bills are backed by the full faith and credit of the U.S. government.",
     "choices": {
-      "A": "I, II and IV only",
+      "A": "I, II, and IV",
       "B": "I and II only",
-      "C": "I, II, III and IV",
-      "D": "I, II and III only"
+      "C": "I, II, III, and IV",
+      "D": "II, III, and IV"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “I, II and IV only”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "T-bills are short-term (maturities of 4, 8, 13, 17, 26, or 52 weeks), sold at a discount with no periodic coupons (I, II), and carry the full faith and credit of the U.S. government (IV). They are NOT long-term, so III is false.",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {

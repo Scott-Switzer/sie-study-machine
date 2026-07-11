@@ -223,18 +223,18 @@ var SIE_QUESTIONS_YT_GURU2 = [
     "explanation": "The correct choice (A) is: “selling the security.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
-  {
+    {
     "id": "yt-guru2-19",
     "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "Which of the following regarding established customers of a broker-dealer and the purchase of penny stocks are true?",
+    "stem": "Which of the following regarding established customers of a broker-dealer and the purchase of penny stocks are true?\nI. The broker-dealer is exempt from the penny-stock suitability determination requirement.\nII. The broker-dealer must deliver a copy of its suitability determination to the customer.\nIII. The broker-dealer must obtain a signed written agreement from the customer before the trade.\nIV. The broker-dealer is exempt from sending the penny-stock risk disclosure document.",
     "choices": {
-      "A": "II and IV",
-      "B": "I and III",
+      "A": "I and II",
+      "B": "II and III",
       "C": "I and IV",
-      "D": "II and III"
+      "D": "III and IV"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “I and IV”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "An 'established customer' (generally one who has kept an account for at least a year, or made three qualifying penny-stock trades in the prior 12 months) is exempt from the special penny-stock rules—both the suitability determination (I) and the risk disclosure document (IV). The written agreement and delivery requirements (II, III) therefore do not apply.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -321,18 +321,18 @@ var SIE_QUESTIONS_YT_GURU2 = [
     "explanation": "The correct choice (A) is: “Statutory prospectus”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
-  {
+    {
     "id": "yt-guru2-26",
     "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "WRJ stock is quoted as 21 bid, 21.15 offer. For a customer order, which of the following is true?",
+    "stem": "WRJ stock is quoted as 21.00 bid, 21.15 offer. For a customer order, which of the following are true?\nI. A customer selling the stock will receive 21.00 (the bid).\nII. A customer buying the stock will pay 21.15 (the offer).\nIII. The dealer's spread is $0.15 per share.\nIV. The market maker is willing to buy the stock at 21.15.",
     "choices": {
-      "A": "I, II and III",
-      "B": "II and III",
-      "C": "III and IV",
-      "D": "I and IV"
+      "A": "I, II, and III",
+      "B": "I and IV",
+      "C": "II and III",
+      "D": "I, III, and IV"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “I, II and III”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A seller receives the bid of 21.00 (I), a buyer pays the offer of 21.15 (II), and the spread is 21.15 - 21.00 = $0.15 (III). The market maker buys at the bid (21.00), not at 21.15, so IV is false.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -769,18 +769,18 @@ var SIE_QUESTIONS_YT_GURU2 = [
     "explanation": "The correct choice (B) is: “II and IV”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
-  {
+    {
     "id": "yt-guru2-63",
     "section": "2 - Products & Risks",
-    "stem": "A call option reaches its expiration date and goes unexercised. This means",
+    "stem": "A call option reaches its expiration date and goes unexercised. This means:\nI. the holder must deliver the underlying stock.\nII. the option premium paid expires worthless.\nIII. the writer keeps the premium received.\nIV. the holder is obligated to buy the stock.",
     "choices": {
-      "A": "I and IV",
+      "A": "I and II",
       "B": "II and III",
-      "C": "II and IV",
-      "D": "I and III"
+      "C": "I and IV",
+      "D": "III and IV"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “II and III”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "An unexercised call expires worthless, so the buyer's premium is lost (II) and the writer keeps it (III). The holder is never obligated to deliver or buy—those describe the writer's obligations only if exercised—so I and IV are false.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -853,18 +853,18 @@ var SIE_QUESTIONS_YT_GURU2 = [
     "explanation": "The correct choice (C) is: “They are utilized by the public sector only.”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
-  {
+    {
     "id": "yt-guru2-70",
     "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "An investor has opened an individual brokerage account for use in a small business and has given a business partner a power of attorney (POA) over the account. Which of the following persons may have access to the account for trading purposes?",
+    "stem": "An investor has opened an individual brokerage account for use in a small business and has given a business partner a power of attorney (POA) over the account. Which of the following persons may have access to the account for trading purposes?\nI. Any employee of the small business.\nII. The account owner.\nIII. The business partner holding the POA.\nIV. The broker-dealer's registered representative, at their own discretion.",
     "choices": {
       "A": "II and III",
-      "B": "II and IV",
+      "B": "I and IV",
       "C": "I and III",
-      "D": "I and IV"
+      "D": "II and IV"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “II and III”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The account owner (II) may always trade, and the attorney-in-fact holding a valid POA (the partner, III) may act on the owner's behalf. Arbitrary employees (I) and a representative trading on their own discretion without authority (IV) may not.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {

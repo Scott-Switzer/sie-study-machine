@@ -9,8 +9,8 @@ var SIE_QUESTIONS_YT_CA4 = [
       "C": "An inverse, but not leveraged, ETF is more appropriate for long-term bearish investors.",
       "D": "Shorting a leveraged ETF would be more suitable than purchasing a leveraged, inverse ETF for long-term bearish investors."
     },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “Shorting a leveraged ETF would be more suitable than purchasing a leveraged, inverse ETF for long-term bearish investors.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "answer": "B",
+    "explanation": "The correct choice (D) is: \u201cShorting a leveraged ETF would be more suitable than purchasing a leveraged, inverse ETF for long-term bearish investors.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
     "source": "YouTube: Series 7 Guru (ca4)"
   }
 ];

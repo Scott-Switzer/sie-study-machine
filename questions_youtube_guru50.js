@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "Long term debt issues of the United States government, the rates of which are published weekly"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “A form of short-term borrowing for dealers in government securities”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A repurchase agreement (repo) is a short-term loan collateralized by government securities; the dealer sells the securities and agrees to repurchase them later at a higher price, effectively borrowing overnight/short-term.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "Variable annuity"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Variable rate demand note”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "A variable-rate demand note (VRDN) pays a floating rate and gives the holder the right to 'put' (sell back) the note at par, often daily or weekly, while having a stated maturity. Source credits A.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "$500,000"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “$50,000”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Owning stock, the maximum loss is the entire investment ($50,000) if the stock goes to zero; there is no obligation beyond the purchase price.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "Current assets divided by current liabilities"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Assets minus liabilities”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Net worth (owner's equity) = total assets minus total liabilities.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "They trade during the day at many prices"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “They never have a commission to buy or sell”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "ETFs trade like stocks on an exchange, so buying or selling them incurs a brokerage commission (or trading cost); saying they never have a commission is false. Source credits A.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "Require investors maintain their investment for a minimum length of time"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Determine their share price a minimum of once every business day, at the close of business of the NYSE”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Hedge funds are private and typically price (and allow redemptions from) their shares much less frequently than daily; many have lock-ups and monthly/quarterly pricing. Daily NYSE-close pricing is a mutual-fund/ETF feature, not a hedge fund requirement. Source credits A.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "It must be sold with a prospectus"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “It has a guaranteed minimum cash value”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
+    "explanation": "Variable life insurance has a variable (not guaranteed) cash value that depends on the performance of the separate account; only the death benefit has a guaranteed minimum. So A is the false statement. Source credits A.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "SEP IRA"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Deferred compensation”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Deferred compensation arrangements are non-qualified (not meeting ERISA qualified-plan requirements). 401(k), Keogh, and SEP are qualified plans. Source credits B.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "The family contribution limit is higher than the individual limit"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Any amount contributed by a person's employer does not affect their remaining contribution limit”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "HSA limits are aggregate: employer + employee contributions together count toward the single annual limit, so employer contributions DO reduce the remaining amount the individual can contribute. B is incorrect. Source credits B.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "Additional shares"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Cash”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The most common form of dividend paid on stock is a cash dividend. Source credits C.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "Current yield"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Yield to worst”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "For a callable bond, the yield to worst (the lowest of yield to call, yield to maturity, etc.) is the most conservative and most relevant yield to an investor. Source credits B.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "12%"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “8.5%”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Total nominal return = ($3 dividend + $9 gain) / $100 = 12%. Real return = nominal - inflation = 12% - 3.5% = 8.5%. Source credits A.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -178,13 +178,13 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "Notify FINRA immediately"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Let the compliance department know so documentation can be done”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "Written customer complaints must be forwarded to the firm's compliance/supervisory personnel so they can be documented and handled per procedure. Source credits C.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
     "id": "yt-guru50-15",
     "section": "2 - Products & Risks",
-    "stem": "The CBOE will conduct fingerprint-based background checks on which of the following?",
+    "stem": "The CBOE will conduct fingerprint-based background checks on which of the following? I. Persons associated with CBOE member firms. II. Applicants for membership in the CBOE. III. Persons regularly on the trading floor. IV. Clerical employees of member firms.",
     "choices": {
       "A": "I, II, III, IV",
       "B": "I, IV",
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "II, IV"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “I, II, III, IV”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Pursuant to SEC Rule 17f-2, the CBOE fingerprinting plan requires fingerprint-based background checks for all categories of associated persons and applicants: those associated with member firms, membership applicants, persons regularly on the trading floor, and clerical employees of member firms. Therefore all four (I, II, III, IV) are covered, making A correct.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "Bill has lost his right to vote in person"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “The proxy cannot vote for Bill since Bill is attending in person”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "When a shareholder attends the meeting in person, any previously granted proxy is revoked and cannot vote on their behalf. Source credits C.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "10 years"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “20 years”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
+    "explanation": "Under federal securities law, the maximum prison sentence for insider trading violations is 20 years. Source credits C.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "$42"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “$42”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A covered call reduces the stock's breakeven by the premium received: $50 - $8 = $42. Source credits D.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "Safety concerns"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Convenience”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "Mail-holding beyond 3 months requires a valid reason such as travel, safety, or security; 'convenience' alone is not an acceptable reason. Source credits A.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "Annette's original cost basis"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “The fair market value of the stock as of Annette's date of death”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Inherited securities receive a step-up (or step-down) in basis to the fair market value on the date of the decedent's death. Source credits C.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "The spot exchange rate"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “The spot exchange rate”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "In a currency trade, the amount of counter currency received is determined by the spot exchange rate (for immediate delivery). Source credits D.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "Business risk"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Inflationary risk”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Inflationary (purchasing-power) risk affects the entire market and is systematic. Credit, business, and legislative risks are more company/sector specific (unsystematic). Source credits C.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "Fixed annuity"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Index annuity”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "Indexed annuities (equity-indexed) typically carry the longest surrender charge schedules among annuity types. Source credits C.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "Contract"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Sustain an upward trend in the following days”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Strong upward move on heavy volume suggests positive momentum, so the index is likely to continue trending up in the near term. Source credits B.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "Diversified shares"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Closed-end shares”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Closed-end fund shares trade on an exchange at the market bid/ask (like stock), so a seller receives the bid price less a commission. Open-end shares redeem at NAV. Source credits A.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "Sharing a client's NPI within days of opening up the new account"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Sharing a client's NPI with a non-affiliated third party after the new account has been opened and the client has been given a reasonable amount of time to opt-out of the sharing”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Reg S-P requires firms to give customers an initial and annual privacy notice and a reasonable opportunity to opt out before sharing nonpublic personal information with non-affiliated third parties. Sharing after that opportunity is allowed. Source credits C.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "The request may be oral"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The principal must approve this situation before it will take effect”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Discretionary authority requires the customer's written authorization and prior approval (acceptance) by a principal of the firm. Source credits B.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "The third market is where exchange listed securities trade OTC"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The primary market consists of shareholders selling shares to other shareholders”. This falls under <b>1 - Capital Markets</b>. Key principle: The secondary market is where investors trade already-issued securities.",
+    "explanation": "The primary market is where issuers sell new securities to investors (IPOs/secondary offerings); shareholders selling to shareholders is the secondary market. So B is false. Source credits B.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "Never"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “With the member firm's prior written consent, in a joint account, in proportion to the amount the registered representative has invested”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "An RR may share in profits/losses of a customer account only if there is written consent from the firm and the sharing is proportional to the RR's own investment (in a joint account). Source credits B.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "1,000 or more"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “10,000 or more”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "A block trade is generally 10,000 shares or more (or $200,000+ in bonds). Source credits C.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "Front running"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Placing a trade for a client the day it was received”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Executing a customer's order promptly (the day received) is proper conduct, not manipulation. Spreading false info, marking the close, and front running are manipulative/improper. Source credits A.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -430,7 +430,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "Broker-dealer ABC can continue to call Leonard since he is a customer"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Broker-dealer ABC must not call Leonard”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "Once a customer asks to be placed on the firm's do-not-call list, the firm must cease calling; an oral request is sufficient and need not be in writing. Source credits B.",
     "source": "YouTube: Series 7 Guru (guru50)"
   },
   {
@@ -444,7 +444,7 @@ var SIE_QUESTIONS_YT_GURU50 = [
       "D": "Tightened short-term credit"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Tightened short-term credit”. This falls under <b>1 - Capital Markets</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "Tightening short-term credit (raising short-term rates) pushes short-term yields above long-term yields, inverting the yield curve. Source credits D.",
     "source": "YouTube: Series 7 Guru (guru50)"
   }
 ];

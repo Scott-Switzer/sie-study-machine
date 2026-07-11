@@ -355,8 +355,12 @@
 
 <script src="questions_youtube_guru52.js"></script>
 
+<script src="questions_web_finra.js"></script>
 <script>
 /* Concatenate all banks */
+if (typeof SIE_QUESTIONS_WEB_FINRA !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_WEB_FINRA);
+}
 if (typeof SIE_QUESTIONS_R2 !== "undefined") {
   SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_R2);
 }

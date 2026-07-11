@@ -378,8 +378,16 @@
 <script src="questions_youtube_guru68.js"></script>
 <script src="questions_youtube_guru69.js"></script>
 <script src="questions_youtube_guru70.js"></script>
+<script src="questions_web_oep.js"></script>
+<script src="questions_web_passmasters.js"></script>
 <script>
 /* Concatenate all banks */
+if (typeof SIE_QUESTIONS_WEB_PASSMASTERS !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_WEB_PASSMASTERS);
+}
+if (typeof SIE_QUESTIONS_WEB_OEP !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_WEB_OEP);
+}
 if (typeof SIE_QUESTIONS_R2 !== "undefined") {
   SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_R2);
 }

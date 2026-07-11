@@ -10,21 +10,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "the interest in the business once purchased, can never be sold."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “there is no secondary market making them highly illiquid.”. This falls under <b>2 - Products & Risks</b>. Key principle: The secondary market is where investors trade already-issued securities.",
-    "source": "YouTube: Series 7 Guru (guru5)"
-  },
-  {
-    "id": "yt-guru5-11",
-    "section": "2 - Products & Risks",
-    "stem": "Political risk is more associated with",
-    "choices": {
-      "A": "emerging economies and can never occur in highly developed ones.",
-      "B": "developed economies and not with emerging economies.",
-      "C": "emerging economies, but could occur even in highly developed ones.",
-      "D": "developed economies but could occur in emerging economies."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “emerging economies, but could occur even in highly developed ones.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"developed economies and not with emerging economies..\" Political risk is most associated with emerging economies but can also occur in highly developed ones.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -38,21 +24,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "a cash account with limited power of attorney."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “a cash account with limited power of attorney.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
-    "source": "YouTube: Series 7 Guru (guru5)"
-  },
-  {
-    "id": "yt-guru5-13",
-    "section": "2 - Products & Risks",
-    "stem": "Potential risks of owning common stock include all of the following except",
-    "choices": {
-      "A": "Market risk",
-      "B": "Business risk",
-      "C": "Unlimited liability",
-      "D": "Low priority in liquidation"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “Unlimited liability”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"Low priority in liquidation.\" Common shareholders have limited liability, so 'unlimited liability' is not a risk of owning common stock.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -66,21 +38,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "Within 120 days of the person's third registration anniversary and then every 2 years thereafter"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Annually”. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
-    "source": "YouTube: Series 7 Guru (guru5)"
-  },
-  {
-    "id": "yt-guru5-15",
-    "section": "2 - Products & Risks",
-    "stem": "For a real estate DPP, which of the following is true?",
-    "choices": {
-      "A": "Income will come from appreciation of the portfolio properties.",
-      "B": "Income can be derived from rents received for the properties.",
-      "C": "Neither income nor capital growth would come from rents received.",
-      "D": "Capital growth can be derived from rents received."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “Income can be derived from rents received for the properties.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Neither income nor capital growth would come from rents received..\" A real estate DPP can generate income from rents received on its portfolio properties as well as from capital appreciation.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -94,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "nothing."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “$4.00.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"$4.00..\" Noncumulative preferred has no arrears; after omitting dividends the company need only pay the current year's $4 before resuming common dividends.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -108,63 +66,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "the Comptroller of the Currency."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “the Federal Reserve Board (FRB).”. This falls under <b>1 - Capital Markets</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
-    "source": "YouTube: Series 7 Guru (guru5)"
-  },
-  {
-    "id": "yt-guru5-19",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "Each of the following investments and practices are deemed ineligible for an IRA or any other retirement plan except",
-    "choices": {
-      "A": "collectible fine art.",
-      "B": "margin account trading.",
-      "C": "life insurance.",
-      "D": "variable annuities."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “variable annuities.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
-    "source": "YouTube: Series 7 Guru (guru5)"
-  },
-  {
-    "id": "yt-guru5-20",
-    "section": "2 - Products & Risks",
-    "stem": "All of these are leading economic indicators except",
-    "choices": {
-      "A": "Building permits,",
-      "B": "Manufacturers' new orders,",
-      "C": "Duration of unemployment,",
-      "D": "The stock market as measured by the S&P 500."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “Duration of unemployment,”. This falls under <b>2 - Products & Risks</b>. Key principle: Duration measures a bond's price sensitivity to interest-rate changes.",
-    "source": "YouTube: Series 7 Guru (guru5)"
-  },
-  {
-    "id": "yt-guru5-21",
-    "section": "1 - Capital Markets",
-    "stem": "Section 529 plans are considered municipal fund securities. They must therefore be sold by",
-    "choices": {
-      "A": "prospectus.",
-      "B": "security memo.",
-      "C": "investment letter.",
-      "D": "official statement."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “official statement.”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
-    "source": "YouTube: Series 7 Guru (guru5)"
-  },
-  {
-    "id": "yt-guru5-22",
-    "section": "2 - Products & Risks",
-    "stem": "A call option reaches its expiration date and goes unexercised. This means: (I) the buyer gains the premium paid; (II) the buyer loses the premium paid; (III) the writer gains the premium received; (IV) the writer loses the premium received.",
-    "choices": {
-      "A": "I and III",
-      "B": "II and IV",
-      "C": "I and IV",
-      "D": "II and III"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “I and III”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"I and IV.\" When a call expires unexercised the buyer loses the premium paid and the writer keeps the premium received.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -178,49 +80,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "Fully paid for marginable securities totaling $6,400 in market value"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Fully paid for marginable securities totaling $6,400 in market value”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
-    "source": "YouTube: Series 7 Guru (guru5)"
-  },
-  {
-    "id": "yt-guru5-24",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "A customer wanting to open a margin account is told that the securities will be held in street name. This means that the securities will be registered in",
-    "choices": {
-      "A": "the name of the customer.",
-      "B": "the names of the customer and the broker-dealer jointly.",
-      "C": "the name of the broker-dealer.",
-      "D": "the name of the bank supplying the loan."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “the name of the broker-dealer.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
-    "source": "YouTube: Series 7 Guru (guru5)"
-  },
-  {
-    "id": "yt-guru5-25",
-    "section": "2 - Products & Risks",
-    "stem": "Regular way settlement for the purchase of an equity option occurs",
-    "choices": {
-      "A": "three business days after the trade date.",
-      "B": "one business day after the trade date.",
-      "C": "two business days after the trade date.",
-      "D": "the same business day as the trade date."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “one business day after the trade date.”. This falls under <b>2 - Products & Risks</b>. Key principle: Know the settlement clock: equities T+2, options and most bonds T+1.",
-    "source": "YouTube: Series 7 Guru (guru5)"
-  },
-  {
-    "id": "yt-guru5-26",
-    "section": "2 - Products & Risks",
-    "stem": "Earned income includes which of the following?",
-    "choices": {
-      "A": "Child support paid to a divorced spouse",
-      "B": "Dividends earned on a mutual fund",
-      "C": "A year-end bonus",
-      "D": "Interest income earned on a bond"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “A year-end bonus”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"Interest income earned on a bond.\" Earned income includes wages, salary, and bonuses; dividends and interest are unearned (portfolio) income.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -234,21 +94,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "Two years"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Six years”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (guru5)"
-  },
-  {
-    "id": "yt-guru5-28",
-    "section": "4 - Regulatory Framework",
-    "stem": "All of the following are acceptable choices to function as a depository and intermediary for transactions between buyers and sellers of securities except",
-    "choices": {
-      "A": "the Depository Trust Company (DTC)",
-      "B": "carrying firms",
-      "C": "credit unions",
-      "D": "the National Securities Clearing Corporation (NSCC)"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “credit unions”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"credit unions.\" Depositories/intermediaries include DTC, NSCC, and carrying firms; credit unions are not part of the securities clearance system.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -262,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "3000"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “30”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"30.\" The Dow Jones Industrial Average is a price-weighted average of 30 large U.S. industrial stocks.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -276,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "Unit investment trust"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Unit investment trust”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"Unit investment trust.\" A unit investment trust has a fixed portfolio and a predetermined termination (liquidation) date.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -290,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "business risk"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “currency risk”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"currency risk.\" Investing in foreign securities exposes the investor to currency risk from exchange-rate movements.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -304,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "Long put"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Long call”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"Long call.\" A long call provides a full hedge against a short stock position because gains on the call offset rising stock prices.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -318,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "market order"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “stop order”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"stop order.\" A stop order becomes a market order once the specified stop price is reached (triggered).",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -332,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "The sponsor"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “The employee”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"The employee.\" In a defined contribution plan the employee bears the investment risk and is responsible for the eventual return.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -346,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "M3"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “M2”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"M2.\" M2 includes currency, checking accounts, small time deposits, and retail money market mutual funds.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -360,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "unlimited"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “the premium”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"the premium.\" The maximum loss on a long call is limited to the premium paid.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -374,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "B shares"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “B shares”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"B shares.\" Class B shares carry a contingent deferred sales charge (CDSC) that starts high and declines to zero over a holding period.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -388,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "$500,000"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “$250,000”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"$250,000.\" Damages in a private suit based on manipulative practices are capped at $250,000.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -402,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "ABC Railroad Trust."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “ABC Railroad Power Systems, Inc.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"ABC Railroad Power Systems, Inc..\" Exempt issuers include governments, municipalities, and charitable/religious trusts; a regular corporation like ABC Railroad Power Systems is not exempt.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -416,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "6%"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “6%”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"6%.\" Sales charge = (POP - NAV) / POP = ($30 - $28.20) / $30 = 6%.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -430,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "Thursday, September 22"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Tuesday, September 27”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Tuesday, September 27.\" The record date is the date set by the board (Tuesday, September 27) on which a shareholder must be recorded to receive the dividend.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -444,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "Mutual fund"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Unit investment trust”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Unit investment trust.\" A unit investment trust typically holds a fixed, unmanaged portfolio.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -458,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "Proceeds plus cost basis"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Proceeds minus cost basis”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Proceeds minus cost basis.\" For tax purposes, gain or loss = proceeds minus cost basis.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -472,21 +318,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "a written disclosure of the terms of the credit extended by the broker-dealer, including the method of interest computation and situations under which interest rates may change."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “a contract allowing securities to be pledged for the loan.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
-    "source": "YouTube: Series 7 Guru (guru5)"
-  },
-  {
-    "id": "yt-guru5-45",
-    "section": "2 - Products & Risks",
-    "stem": "Which of the following is not correct regarding a rights offering?",
-    "choices": {
-      "A": "The number of rights issued is based on the number of new shares to be issued.",
-      "B": "The subscription period is typically 30 to 45 days.",
-      "C": "Rights are issued to existing shareholders on a one-right for one-existing share basis.",
-      "D": "The rights offering allows the holder to exercise and purchase the stock at a price lower than the market."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “The number of rights issued is based on the number of new shares to be issued.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"The number of rights issued is based on the number of new shares to be issued..\" In a rights offering the number of rights issued is based on existing shares (one right per share), not on the number of new shares to be issued.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -500,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "$3,000 reduction in ordinary income and $9,000 in carry-forward losses"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “$3,000 reduction in ordinary income and $9,000 in carry-forward losses”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"$3,000 reduction in ordinary income and $9,000 in carry-forward losses.\" Net result is a $12,000 capital loss (a $17,000 loss on ABC and a $5,000 gain on DEF); only $3,000 is deductible against ordinary income with $9,000 carried forward.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -514,21 +346,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "a Form U5 from the previous employer."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “both a Form U5 from the previous employer and a Form U4 from the new one.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
-    "source": "YouTube: Series 7 Guru (guru5)"
-  },
-  {
-    "id": "yt-guru5-50",
-    "section": "4 - Regulatory Framework",
-    "stem": "The Achieving a Better Life Experience (ABLE) Act of 2014 enabled the establishment of ABLE accounts for certain individuals. All of the following regarding ABLE accounts are true except",
-    "choices": {
-      "A": "Income earned in an ABLE account is not taxed.",
-      "B": "Eligibility is limited to those whose onset of significant disability occurred before the age of 26.",
-      "C": "Contributions to ABLE accounts are tax deductible at the federal level.",
-      "D": "Contributions can be made by any person, including the account beneficiary."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “Contributions to ABLE accounts are tax deductible at the federal level.”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Contributions to ABLE accounts are tax deductible at the federal level..\" ABLE account contributions are not deductible at the federal level, though earnings and qualified withdrawals are tax-free.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -542,21 +360,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "A municipal bond issued from a state other than the customer's residence"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “A municipal bond issued from a state other than the customer's residence”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
-    "source": "YouTube: Series 7 Guru (guru5)"
-  },
-  {
-    "id": "yt-guru5-52",
-    "section": "2 - Products & Risks",
-    "stem": "Your customer sells an 8% corporate bond for 102. They purchased the bond at par one year ago. What is the total return of this position?",
-    "choices": {
-      "A": "12%",
-      "B": "10%",
-      "C": "8%",
-      "D": "5%"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “10%”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"5%.\" Total return = ($102 sale - $100 cost) + $8 coupon = $10 on $100 cost = 10%.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -570,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "Business risk, which can lead to financial risk."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Call risk, which can lead to reinvestment risk.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Call risk, which can lead to reinvestment risk..\" When a callable bond is called as rates fall, the investor faces call risk and must reinvest at lower rates (reinvestment risk).",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -584,21 +388,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "30 days"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “40 days”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
-    "source": "YouTube: Series 7 Guru (guru5)"
-  },
-  {
-    "id": "yt-guru5-56",
-    "section": "2 - Products & Risks",
-    "stem": "All of the following statements are true except",
-    "choices": {
-      "A": "A closed-end company may issue bonds.",
-      "B": "A bond mutual fund may issue bonds.",
-      "C": "A closed-end company may issue preferred stock.",
-      "D": "A bond mutual fund may not issue bonds."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “A bond mutual fund may issue bonds.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"A closed-end company may issue bonds..\" Bond mutual funds (open-end) may not issue senior securities such as bonds; closed-end companies may.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -612,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "Violated the TCPA because it is after 9:00 pm the prospect's time"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Violated the TCPA because it is after 9:00 pm the prospect's time”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"Violated the TCPA because it is after 9:00 pm the prospect's time.\" The TCPA prohibits telephone solicitation after 9:00 p.m. in the called party's time zone.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -626,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "1.00%"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “1.20%”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"1.20%.\" Expense ratio = expenses / average net assets = $1.44M / $120M = 1.20%.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -640,7 +430,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "discharged."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “voluntary.”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"voluntary..\" On Form U5, a 'voluntary' termination requires no additional explanation; other reasons do.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -654,7 +444,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "I and III"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “I and IV”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"I and IV.\" In a stock split, more shares means a lower per-share price (I) and fewer shares means a higher per-share price (IV).",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -668,21 +458,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "Current yield (CY) is higher than yield to call (YTC)."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Current yield (CY) is lower than yield to maturity (YTM).”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
-    "source": "YouTube: Series 7 Guru (guru5)"
-  },
-  {
-    "id": "yt-guru5-64",
-    "section": "2 - Products & Risks",
-    "stem": "A nonaffiliated owns 3% of an issuer's common stock. This person will be considered a control person if a spouse owns",
-    "choices": {
-      "A": "8% of the issuer's common stock.",
-      "B": "any shares of the issuer's common stock.",
-      "C": "2% of the issuer's common stock.",
-      "D": "5% of the issuer's common stock."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “8% of the issuer's common stock.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"8% of the issuer's common stock..\" A nonaffiliate is deemed a control person if aggregated with a spouse who owns 8% (control is attributed to spouses).",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -696,21 +472,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "semiannually and mature at par value."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “semiannually and mature at par value.”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
-    "source": "YouTube: Series 7 Guru (guru5)"
-  },
-  {
-    "id": "yt-guru5-66",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "Your client, Sophia, retired from her job five years ago and placed all of the proceeds of her 401(k) distribution into a rollover IRA at a local bank. If Sophia wishes to transfer the funds to an IRA at her broker-dealer, which of the following statements would be true?",
-    "choices": {
-      "A": "A transfer of this type is not permitted.",
-      "B": "Mandatory tax withholding applies to trustee-to-trustee transfers.",
-      "C": "A transfer of this type will incur a 10% penalty.",
-      "D": "There is no limit to the number of transfers per year between custodians."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “There is no limit to the number of transfers per year between custodians.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"There is no limit to the number of transfers per year between custodians..\" Trustee-to-trustee (rollover) transfers between IRA custodians are unlimited in number and are not taxable events.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {
@@ -724,7 +486,7 @@ var SIE_QUESTIONS_YT_GURU5 = [
       "D": "They are mandatory and must be placed during the cooling-off period."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “They are mandatory and must be placed during the cooling-off period.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"They are mandatory and must be placed during the cooling-off period..\" Tombstone ads are optional (not mandatory) and appear only after the effective date, not during the cooling-off period.",
     "source": "YouTube: Series 7 Guru (guru5)"
   },
   {

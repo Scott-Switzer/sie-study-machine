@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "An insurance company sells bonds out of its general account portfolio to another insurance company for its general account portfolio"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cA QIB buys newly issued stock in a private investment in a public company (PIPE)\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"A QIB buys newly issued stock in a private investment in a public company (PIPE).\" A primary transaction is a sale of newly issued securities directly by the issuer (here, a PIPE to a QIB).",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -24,21 +24,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Insider Trading Act of 1988"
     },
     "answer": "D",
-    "explanation": "The correct choice (B) is: \u201cSecurities Act of 1933\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
-    "source": "YouTube: Series 7 Guru (guru21)"
-  },
-  {
-    "id": "yt-guru21-3",
-    "section": "4 - Regulatory Framework",
-    "stem": "Which of the following restricts the volume that a control person can sell in the public market in any 90 day period?",
-    "choices": {
-      "A": "Rule 145",
-      "B": "Rule 147",
-      "C": "Rule 144",
-      "D": "Rule 144A"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cRule 144\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Rule 147.\" Rule 144 limits the volume a control person (affiliate) may sell in the public market over any 90-day period.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -52,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Exchange Traded Fund (ETF)"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cIndex fund\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Index fund.\" An index fund passively tracks the market and suits an investor who wants market return without active management.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -66,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Unit Investment Trust"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cExchange Traded Note (ETN)\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Exchange Traded Note (ETN).\" An ETN is an unsecured debt note issued by a bank, making it a debt instrument.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -80,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Structuring"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cStructuring\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"Structuring.\" The three money-laundering stages are placement, layering, and integration; structuring is a technique, not a stage.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -94,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Place a hold on the customer's account"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cFile a Suspicious Activity Report (SAR)\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"File a Suspicious Activity Report (SAR).\" Commercially illogical transactions of $5,000 or more require filing a Suspicious Activity Report (SAR).",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -108,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "The same cost base as the deceased plus unrealized capital gains"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cThe market value of the shares when the owner dies\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"The market value of the shares when the owner dies.\" Inherited securities take a stepped-up cost basis equal to fair market value on the date of the owner's death.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -122,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Asset value"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cDiscount\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Discount.\" A bond quoted at 98 is selling at a discount (below the 100 par).",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -136,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "GNMA must register under the Securities Act of 1933"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cGNMA must register under the Securities Act of 1933\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"GNMA must register under the Securities Act of 1933.\" GNMA pass-throughs are direct U.S. government obligations and are exempt from Securities Act registration, so 'must register' is false.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -150,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Common stock"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cCommon stock\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"Common stock.\" Common stock is most junior in liquidation, paid after all debt and preferred.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -164,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "8 quarters"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201c8 quarters\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"8 quarters.\" A depression is an extreme, prolonged downturn; the SIE treats it as roughly eight or more quarters of declining GDP.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -178,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "At maturity"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cMonthly\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"Monthly.\" GNMA pass-throughs pay both interest and principal to investors monthly.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -192,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Preferred stock"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cWarrants\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Warrants.\" Corporations attach warrants to bonds to make them more marketable and lower the coupon.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -206,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Interest rate risk"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cCredit risk\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"Credit risk.\" A below-investment-grade (high-yield) bond's greatest risk is credit (default) risk.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -220,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "$69"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201c$69\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"$69.\" Protective put breakeven = stock cost + put premium = $65 + $4 = $69.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -234,49 +220,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Price in the secondary market"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cNAV computed after the order is received\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The secondary market is where investors trade already-issued securities.",
-    "source": "YouTube: Series 7 Guru (guru21)"
-  },
-  {
-    "id": "yt-guru21-18",
-    "section": "2 - Products & Risks",
-    "stem": "Regular way settlement on Corporate bonds is:",
-    "choices": {
-      "A": "Same day",
-      "B": "Next business day",
-      "C": "Second business day",
-      "D": "Fifth business day"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cSecond business day\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Know the settlement clock: equities T+2, options and most bonds T+1.",
-    "source": "YouTube: Series 7 Guru (guru21)"
-  },
-  {
-    "id": "yt-guru21-19",
-    "section": "1 - Capital Markets",
-    "stem": "A FINRA member firm willing to provide liquidity by being willing to buy at its bid and sell at its ask is known as:",
-    "choices": {
-      "A": "A broker",
-      "B": "An underwriter",
-      "C": "A market maker",
-      "D": "A transfer agent"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cA market maker\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (guru21)"
-  },
-  {
-    "id": "yt-guru21-20",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "A customer has a penny stock in her account. How often must the firm send her an account statement?",
-    "choices": {
-      "A": "Monthly",
-      "B": "Quarterly",
-      "C": "Semiannually",
-      "D": "Annually"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cMonthly\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Semiannually.\" Penny stock accounts must receive monthly statements.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -290,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Investors who have previously purchased restricted stock"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cInstitutional investor with $100 million or more in assets under management\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Institutional investor with $100 million or more in assets under management.\" A QIB under Rule 144A is an institutional investor with at least $100 million in securities under management.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -304,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Broker call rate"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cFed funds rate\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Fed funds rate.\" The federal funds rate is the most volatile short-term rate because it moves with daily liquidity conditions.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -318,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Common stock"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cSecured bonds\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"Secured bonds.\" Secured bonds are most senior in liquidation, ahead of unsecured debt, preferred, and common.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -332,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "A qualified institutional investor (QIB)"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cAn accredited investor\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"An accredited investor.\" Income over $200,000 in each of the prior two years with a reasonable expectation of the same makes one an accredited investor.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -346,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "110 shares at $45.45"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201c110 shares at $45.45\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"110 shares at $45.45.\" A 10% stock dividend turns 100 shares into 110 and reduces the price to $50 / 1.10 = $45.45.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -360,21 +304,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Outstanding stock"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cTreasury stock\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
-    "source": "YouTube: Series 7 Guru (guru21)"
-  },
-  {
-    "id": "yt-guru21-27",
-    "section": "2 - Products & Risks",
-    "stem": "Which of the following represents the effect of a reverse stock split?",
-    "choices": {
-      "A": "The price per share of common stock increases",
-      "B": "The price per share of common stock decreases",
-      "C": "Each stockholder's proportionate ownership decreases",
-      "D": "Each stockholder's proportionate ownership increases"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (B) is: \u201cThe price per share of common stock decreases\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Each stockholder's proportionate ownership decreases.\" A reverse split reduces share count and increases the per-share price while leaving total value unchanged.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -388,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "Sell 100 shares at $15 and buy 300 shares at $15.15"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cBuy 3,000 shares at $15 and sell 1,000 shares at $15.15\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Buy 3,000 shares at $15 and sell 1,000 shares at $15.15.\" A quote of 15 - 15.15 with size (30 x 10) means buy 3,000 shares at $15 and sell 1,000 at $15.15.",
     "source": "YouTube: Series 7 Guru (guru21)"
   },
   {
@@ -402,21 +332,7 @@ var SIE_QUESTIONS_YT_GURU21 = [
       "D": "The yield to maturity is the same as the yield to call"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cThe yield to maturity is the same as the yield to call\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
-    "source": "YouTube: Series 7 Guru (guru21)"
-  },
-  {
-    "id": "yt-guru21-30",
-    "section": "1 - Capital Markets",
-    "stem": "At the time of issuance, which of the following securities has the shortest period to expiration?",
-    "choices": {
-      "A": "Rights",
-      "B": "LEAPs",
-      "C": "Convertible Bonds",
-      "D": "Warrants"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cRights\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"Warrants.\" Rights have the shortest life at issuance (about 30-45 days); LEAPs, convertibles, and warrants last much longer.",
     "source": "YouTube: Series 7 Guru (guru21)"
   }
 ];

@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "Account number"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cAddress\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"Address.\" Under Reg S-P, a customer's address is generally treated as publicly available and is not the core 'non-public personal information' the rule protects (SSN, account number, DL number are).",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "Educational plans and vocational plans"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cPrepaid tuition plans and college savings plans\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Prepaid tuition plans and college savings plans.\" The two 529 plan types are prepaid tuition plans and college savings (investment) plans.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "Determine the investment with the least risk"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cAnnualize the returns for comparison purposes\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Annualize the returns for comparison purposes.\" To compare returns over different holding periods, annualize them to a common basis.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "Should not be considered in making an investment decision as nothing can recover them"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cShould not be considered in making an investment decision as nothing can recover them\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"Should not be considered in making an investment decision as nothing can recover them.\" Sunk costs are unrecoverable and should be ignored when making forward-looking investment decisions.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "It would be a red flag in an anti-money laundering program"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cThis is illegal\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"This is illegal.\" Structuring cash deposits to avoid BSA reporting is suspicious and triggers an SAR, but it is not automatically 'illegal' in itself.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "The order will remain unchanged"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cThe order will be adjusted to 200 shares of XYZ at $30\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"The order will be adjusted to 200 shares of XYZ at $30.\" A 2:1 stock split adjusts an open buy order to 200 shares at $30 (double shares, halve price).",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "Prime broker"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cClearing firm\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Clearing firm.\" A carrying (clearing) broker-dealer holds and settles customer assets; an introducing firm delegates this to it.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -108,21 +108,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "Six years"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cTwo years\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
-    "source": "YouTube: Series 7 Guru (pm1)"
-  },
-  {
-    "id": "yt-pm1-14",
-    "section": "2 - Products & Risks",
-    "stem": "Which of the following is not a type of unsystematic risk?",
-    "choices": {
-      "A": "Business",
-      "B": "Regulatory",
-      "C": "Political",
-      "D": "Purchasing power"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cPurchasing power\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"Business.\" Purchasing power (inflation) risk is systematic; business, regulatory, and political risks are unsystematic.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -136,7 +122,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "An obligation to buy"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cAn obligation to sell\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"An obligation to sell.\" Selling a call obligates the writer to sell the underlying at the strike if assigned.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -150,7 +136,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "They do not have an investment adviser"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cThey are a type of management company\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"They are a type of management company.\" A unit investment trust is not a management company; it has no board, no adviser, and a fixed portfolio.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -164,7 +150,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "A conflict of interest obligation"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cA know your customer obligation\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"A know your customer obligation.\" Reg BI's four obligations are Disclosure, Care, Conflict of Interest, and Compliance; 'know your customer' is part of the Care obligation, not a separate named component.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -178,21 +164,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "An uncle"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cAn uncle\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (pm1)"
-  },
-  {
-    "id": "yt-pm1-19",
-    "section": "1 - Capital Markets",
-    "stem": "Records related to communications are not required to include which of the following?",
-    "choices": {
-      "A": "The name of the person who prepared the communication",
-      "B": "The date of approval of the communication",
-      "C": "The date of the communication's first and last use",
-      "D": "The name of the person who approved the communication"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cThe name of the person who prepared the communication\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"The name of the person who approved the communication.\" Communications records need not identify the person who prepared the communication, only approver, dates, and use.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -206,7 +178,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "To diversify the portfolio"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cTo preserve capital\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"To preserve capital.\" ADRs are bought for diversification, income, and tax simplicity, not specifically to preserve capital.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -220,35 +192,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "Make sales"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cPurely clerical activities until she is granted registration\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
-    "source": "YouTube: Series 7 Guru (pm1)"
-  },
-  {
-    "id": "yt-pm1-23",
-    "section": "1 - Capital Markets",
-    "stem": "Which of the following statements regarding markets is correct?",
-    "choices": {
-      "A": "The NASDAQ is an auction marketplace",
-      "B": "The secondary market consists of shareholder to shareholder transactions",
-      "C": "The NYSE is a negotiated marketplace",
-      "D": "Securities trade in the primary market for 90 days"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cThe secondary market consists of shareholder to shareholder transactions\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The secondary market is where investors trade already-issued securities.",
-    "source": "YouTube: Series 7 Guru (pm1)"
-  },
-  {
-    "id": "yt-pm1-24",
-    "section": "4 - Regulatory Framework",
-    "stem": "Trina, a registered representative for the last 20 years, decides to retire. Form U5 is filed within 30 days of her retirement. Should Trina change her mind and decide she would like to come back to the securities business, she has how long to reapply without having to retest?",
-    "choices": {
-      "A": "6 months",
-      "B": "30 days",
-      "C": "2 years",
-      "D": "180 days"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c2 years\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"30 days.\" A terminated rep may reregister without retesting within 2 years of the U5.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -262,7 +206,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "New high/new low ratio"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cBenchmark index\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Benchmark index.\" A benchmark index is a measuring standard, not a market-sentiment gauge like the VIX or advance/decline line.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -276,21 +220,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "Once chosen, the insurance company will allow changes once a year"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cOnce chosen, the insurance company will allow changes once a year\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
-    "source": "YouTube: Series 7 Guru (pm1)"
-  },
-  {
-    "id": "yt-pm1-28",
-    "section": "1 - Capital Markets",
-    "stem": "Exchange traded funds:",
-    "choices": {
-      "A": "Are never actively managed",
-      "B": "Are always index funds",
-      "C": "Are traded on an exchange",
-      "D": "Issue redeemable securities"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cAre traded on an exchange\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"Issue redeemable securities.\" ETFs are investment companies whose shares trade on an exchange like a stock.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -304,7 +234,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "Out of gross income"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cAt the discretion of the company's Board of Directors\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"At the discretion of the company's Board of Directors.\" Dividends are declared and paid at the discretion of the board of directors.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -318,21 +248,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "Red herring"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cOfficial statement\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
-    "source": "YouTube: Series 7 Guru (pm1)"
-  },
-  {
-    "id": "yt-pm1-32",
-    "section": "2 - Products & Risks",
-    "stem": "Which correctly describes the rights of cumulative preferred stockholders?",
-    "choices": {
-      "A": "They have the right to exchange the preferred shares for common stock",
-      "B": "They will receive omitted dividends before common stockholders will get paid a dividend",
-      "C": "They may receive an additional dividend",
-      "D": "Dividends will be paid before bondholders receive interest"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cThey will receive omitted dividends before common stockholders will get paid a dividend\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"They have the right to exchange the preferred shares for common stock.\" Cumulative preferred holders must receive all omitted (passed) dividends before common holders get paid.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -346,7 +262,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "Political"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cBusiness\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"Business.\" Business risk is the risk of loss from the failure or poor performance of a specific company.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -360,21 +276,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "A written complaint regarding the state of the economy and the performance of the market overall"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cA written email that has no merit but accuses a registered representative of making misrepresentations to a client\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (pm1)"
-  },
-  {
-    "id": "yt-pm1-35",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "Which of the following must be included in a broker-dealer's business continuity plan? I. Procedures for the relocation of the office II. Procedures to protect, backup and recover books and records III. Plans for alternate means of communications with stakeholders IV. Audited financial statements",
-    "choices": {
-      "A": "III",
-      "B": "I, II, III",
-      "C": "I, II, III, IV",
-      "D": "II, IV"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cI, II, III\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"III.\" A BCP must include relocation procedures, books-and-records backup/recovery, and alternate communications (I, II, III); audited statements are not required.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -388,21 +290,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "Greater"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cLower\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
-    "source": "YouTube: Series 7 Guru (pm1)"
-  },
-  {
-    "id": "yt-pm1-37",
-    "section": "2 - Products & Risks",
-    "stem": "If your client would like to receive a dividend on a stock, he would need to own the stock by the:",
-    "choices": {
-      "A": "Record date",
-      "B": "Payable date",
-      "C": "Ex-dividend date",
-      "D": "Declaration date"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (A) is: \u201cRecord date\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Ex-dividend date.\" To receive a declared dividend the customer must own the stock as of the ex-dividend date.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -416,21 +304,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "529 plan"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201c529 plan\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
-    "source": "YouTube: Series 7 Guru (pm1)"
-  },
-  {
-    "id": "yt-pm1-39",
-    "section": "2 - Products & Risks",
-    "stem": "To fund an ESA for a given tax year the contribution must be made by:",
-    "choices": {
-      "A": "December 31",
-      "B": "April 15",
-      "C": "December 1",
-      "D": "May 30"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cApril 15\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"May 30.\" ESA contributions for a tax year may be made until April 15 of the following year.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -444,7 +318,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "Electronic communications are exempt from the review and supervision rules related to client communications"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cEmails include electronic communications as well as electronic correspondence\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Emails include electronic communications as well as electronic correspondence.\" Under supervision rules, emails are electronic communications and are subject to review alongside correspondence.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -458,21 +332,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "Securities Exchange Act of 1934"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cSecurities Exchange Act of 1934\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The secondary market is where investors trade already-issued securities.",
-    "source": "YouTube: Series 7 Guru (pm1)"
-  },
-  {
-    "id": "yt-pm1-43",
-    "section": "2 - Products & Risks",
-    "stem": "An investor bought a portfolio of callable bonds. Interest rates have since gone down significantly since the bonds were purchased. What should be the investor's main concern?",
-    "choices": {
-      "A": "The bonds in the portfolio will be hard to sell",
-      "B": "The market price of his portfolio has decreased",
-      "C": "The portfolio is paying less than current interest rates",
-      "D": "Reinvestment risk"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cReinvestment risk\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"Reinvestment risk.\" When callable bonds are called as rates fall, the main concern is reinvestment risk at lower prevailing rates.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -486,49 +346,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "Annually"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cPrior to every shareholder meeting\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: The SEC is the federal regulator of securities markets.",
-    "source": "YouTube: Series 7 Guru (pm1)"
-  },
-  {
-    "id": "yt-pm1-46",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "A registered rep who buys stock for his discretionary accounts and then disseminates rumors via social media designed to drive up the price of the stock so he can sell it for a profit is guilty of:",
-    "choices": {
-      "A": "Front running",
-      "B": "Pump and dump",
-      "C": "Excessive trading",
-      "D": "Insider trading"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cPump and dump\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
-    "source": "YouTube: Series 7 Guru (pm1)"
-  },
-  {
-    "id": "yt-pm1-47",
-    "section": "1 - Capital Markets",
-    "stem": "ETNs are:",
-    "choices": {
-      "A": "Shares of equity",
-      "B": "Illiquid",
-      "C": "Senior notes that trade in the secondary market",
-      "D": "Representative of a pool of equity securities"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cSenior notes that trade in the secondary market\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The secondary market is where investors trade already-issued securities.",
-    "source": "YouTube: Series 7 Guru (pm1)"
-  },
-  {
-    "id": "yt-pm1-48",
-    "section": "2 - Products & Risks",
-    "stem": "Which is a security?",
-    "choices": {
-      "A": "Forward contract",
-      "B": "Option contract",
-      "C": "Commodity",
-      "D": "Futures contract"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cOption contract\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Option contract.\" An option contract is a security; forwards and futures on commodities are not securities under the federal securities laws.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -542,35 +360,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "Regulation T"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cSROs\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
-    "source": "YouTube: Series 7 Guru (pm1)"
-  },
-  {
-    "id": "yt-pm1-54",
-    "section": "4 - Regulatory Framework",
-    "stem": "SEC's statutory disqualification means:",
-    "choices": {
-      "A": "You cannot be affiliated with a broker/dealer in any capacity",
-      "B": "You must pay a higher registration fee",
-      "C": "You cannot be a registered representative, but you could be a partner of a broker-dealer",
-      "D": "You must complete additional continuing education"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cYou cannot be affiliated with a broker/dealer in any capacity\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
-    "source": "YouTube: Series 7 Guru (pm1)"
-  },
-  {
-    "id": "yt-pm1-55",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "Unregistered persons may:",
-    "choices": {
-      "A": "Engage in clerical work",
-      "B": "Take orders",
-      "C": "Receive commissions",
-      "D": "Solicit clients"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cEngage in clerical work\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Take orders.\" Unregistered persons may perform clerical and administrative tasks but not solicit, take orders, or receive commissions.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -584,7 +374,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "III, IV"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cI, II, III, IV\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"I, II, III, IV.\" The CBOE conducts fingerprint-based background checks on directors, employees, officers, and all temporary/contract personnel.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -598,7 +388,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "As initial public offerings"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cThrough private placements\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Through private placements.\" DPP interests are predominantly sold through private placements (Regulation D) rather than public offerings.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -612,7 +402,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "Sole proprietorship"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cSole proprietorship\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"Sole proprietorship.\" A sole proprietorship is the hardest form to raise capital because it cannot sell equity or issue debt like a corporation.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -626,21 +416,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "Contact the local police whenever a person on this list tries to open an account"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cBlock accounts of entities and individuals that appear on the SDN list\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (pm1)"
-  },
-  {
-    "id": "yt-pm1-60",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "Jorge opened a Roth IRA seven years ago. Over those seven years he contributed $40,000. His current account balance is $45,000. He is currently age 55. All of the following would allow for Jorge to make a penalty free withdrawal of contributions and earnings except:",
-    "choices": {
-      "A": "Disability",
-      "B": "Death",
-      "C": "A trip to Europe",
-      "D": "First-time homebuyer expenses up to $10,000"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cA trip to Europe\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"Disability.\" Roth IRA penalty-free withdrawals (qualified) are allowed for death, disability, first-time home purchase, and certain expenses, but not a discretionary trip.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -654,7 +430,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "The trustee may be any person"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cThe trustee may be any person\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"The trustee may be any person.\" A trustee must be a competent adult, so 'the trustee may be any person' is the untrue statement.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -668,7 +444,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "General partnerships"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cLimited partnerships\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"Limited partnerships.\" DPPs are typically organized as limited partnerships with general and limited partners.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -682,7 +458,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "Proponents of PFOF argue that if the practice were to be prohibited zero commissions practices may not continue"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cAll brokers engage in PFOF\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"All brokers engage in PFOF.\" Not all brokers engage in payment for order flow; it is common among retail zero-commission brokers but not universal.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -696,35 +472,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "U10"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cU4\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
-    "source": "YouTube: Series 7 Guru (pm1)"
-  },
-  {
-    "id": "yt-pm1-67",
-    "section": "1 - Capital Markets",
-    "stem": "A private over-the-counter network where institutions trade securities is called the:",
-    "choices": {
-      "A": "Secondary market",
-      "B": "Fourth market",
-      "C": "Primary market",
-      "D": "Third market"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cFourth market\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The secondary market is where investors trade already-issued securities.",
-    "source": "YouTube: Series 7 Guru (pm1)"
-  },
-  {
-    "id": "yt-pm1-68",
-    "section": "2 - Products & Risks",
-    "stem": "Sean is long 1 ABC 40 call @ 4. The most Sean can make is?",
-    "choices": {
-      "A": "$40",
-      "B": "$400",
-      "C": "Unlimited",
-      "D": "$4400"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cUnlimited\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"$40.\" A long call's maximum gain is unlimited as the stock can rise without limit.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -738,7 +486,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "Capital risk"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cReinvestment risk\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Reinvestment risk.\" A maturing CD facing much lower rates means the investor must reinvest at lower yields: reinvestment risk.",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {

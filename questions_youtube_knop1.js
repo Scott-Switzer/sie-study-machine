@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "depression"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “depression”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"depression.\" A decline in real GDP exceeding 10% is classified as a depression (a severe, prolonged downturn).",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Update his bio on the firm's social media pages"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “File an update to Form U-4 within 30 days”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"File an update to Form U-4 within 30 days.\" A registered rep who changes address must amend Form U4 within 30 days.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Fiscal policy"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Monetary policy”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Monetary policy.\" Monetary policy uses interest rates and the money supply to stabilize the economy.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -52,35 +52,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "must refrain from any social media posts regarding their prior affiliation with the firm."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “must continue to update FINRA on any address changes.”. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (knop1)"
-  },
-  {
-    "id": "yt-knop1-6",
-    "section": "1 - Capital Markets",
-    "stem": "Characteristics of private activity bonds include which two of the following? I. May trade with a higher yield than other municipal bonds II. May trade with a lower yield than other municipal bonds III. Are often subject to alternative minimum tax IV. Are usually exempt from alternative minimum tax",
-    "choices": {
-      "A": "II and IV",
-      "B": "I and III",
-      "C": "II and III",
-      "D": "I and IV"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “I and III”. This falls under <b>1 - Capital Markets</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
-    "source": "YouTube: Series 7 Guru (knop1)"
-  },
-  {
-    "id": "yt-knop1-8",
-    "section": "4 - Regulatory Framework",
-    "stem": "A client, now in her fifth year of retirement, is considering an investment in a Regulation D offering. She has made similar investments in the past, particularly during the last five years of her employment, when she was earning at least $200,000 per year during that time period. If she chooses to pursue this investment, would she be considered an \"accredited\" investor?",
-    "choices": {
-      "A": "Yes, since she had satisfied the income requirement of $200,000 during the two most recent years of her employment.",
-      "B": "No, as she is no longer working and would thus be unable to handle the financial risk that such an investment would entail.",
-      "C": "Yes, since she has an investment history of purchasing Regulation D offerings.",
-      "D": "No, given that there cannot be a reasonable expectation that she will continue to satisfy the income test for accredited investors as described in Regulation D."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “Yes, since she had satisfied the income requirement of $200,000 during the two most recent years of her employment.”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"Yes, since she had satisfied the income requirement of $200,000 during the two most recent years of her employment..\" Meeting the $200,000 income test in the two most recent years of employment qualifies her as accredited even after retirement.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -94,7 +66,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "2014"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “2014”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"2014.\" Roth contributions made in 2009 become qualified (tax- and penalty-free) after the 5-year clock ends in 2014, provided age 59.5 is also met.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -108,21 +80,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "provide the information with the customer's written permission."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “provide the information to support the investigation.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (knop1)"
-  },
-  {
-    "id": "yt-knop1-12",
-    "section": "2 - Products & Risks",
-    "stem": "An insurance company's separate account is not directly managed by its investment managers. This separate account is",
-    "choices": {
-      "A": "Registered as an open-end investment company under the Investment Company Act of 1940",
-      "B": "is not registered under the Investment Company Act of 1940",
-      "C": "Registered as a closed-end investment company under the Investment Company Act of 1940",
-      "D": "Registered as a unit investment trust under the Investment Company Act of 1940"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “Registered as a unit investment trust under the Investment Company Act of 1940”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Registered as a closed-end investment company under the Investment Company Act of 1940.\" A variable annuity separate account is registered under the 1940 Act as a unit investment trust.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -136,35 +94,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "The broker-dealer can increase house maintenance requirements, but only if advance written notice is given."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “The broker-dealer can increase house maintenance requirements, but only if advance written notice is given.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
-    "source": "YouTube: Series 7 Guru (knop1)"
-  },
-  {
-    "id": "yt-knop1-14",
-    "section": "1 - Capital Markets",
-    "stem": "If a customer's order was filled in the third market, the pricing and liquidity available for that order",
-    "choices": {
-      "A": "Should be the same or better that was available in the security's primary listing market.",
-      "B": "Is at the discretion of the OTC marketplace.",
-      "C": "Will usually be inferior to what was available in the security's primary listing market.",
-      "D": "Will depend on the number of market participants available to fill that order."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “Will depend on the number of market participants available to fill that order.”. This falls under <b>1 - Capital Markets</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
-    "source": "YouTube: Series 7 Guru (knop1)"
-  },
-  {
-    "id": "yt-knop1-15",
-    "section": "2 - Products & Risks",
-    "stem": "The XYZ mutual fund offers a dividend reinvestment plan to its investors. When an investor chooses to reinvest their dividend,",
-    "choices": {
-      "A": "They will only be required to pay income tax on a portion of the dividend.",
-      "B": "A tax liability will be incurred even though the investor did not take the dividend in cash.",
-      "C": "The investor may claim a special tax exemption on their next tax return if they have held their shares for at least one year.",
-      "D": "The tax liability on the dividend will be deferred until the investor sells those shares."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “A tax liability will be incurred even though the investor did not take the dividend in cash.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"The tax liability on the dividend will be deferred until the investor sells those shares..\" Dividend reinvestment is taxable in the year received even though the investor took no cash.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -178,7 +108,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Recessions"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Rising interest rates”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"Rising interest rates.\" Bond investors are most exposed to interest rate risk when rates are rising (prices fall).",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -192,7 +122,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "The price of the bond remains relatively stable regardless of market conditions."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The bond trades flat.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"The bond trades flat..\" A bond in default trades 'flat' (without accrued interest).",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -206,49 +136,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "I, II, III and IV"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “I, II, III and IV”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (knop1)"
-  },
-  {
-    "id": "yt-knop1-25",
-    "section": "4 - Regulatory Framework",
-    "stem": "FINRA members must retain records of all retail communications, including principal reviews and approvals, for how long?",
-    "choices": {
-      "A": "As long as the piece of communication is used plus two years",
-      "B": "Three years",
-      "C": "Five years",
-      "D": "Two years"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “Three years”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (knop1)"
-  },
-  {
-    "id": "yt-knop1-26",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "In a cash account, a customer purchases a security and sells the same security without first paying for the original purchase. This transaction",
-    "choices": {
-      "A": "is permissible as long as the sales proceeds cover the purchase amount.",
-      "B": "is a violation of Reg T and FINRA freeriding rules, and will cause the account to be frozen, and the broker-dealer will hold the sale proceeds until the original transaction has been paid for.",
-      "C": "will cause the account to be frozen, but the sales proceeds may be used to cover the cost of the original purchase.",
-      "D": "is a violation of Reg T and FINRA freeriding rules, and the account must be suspended."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “is a violation of Reg T and FINRA freeriding rules, and will cause the account to be frozen, and the broker-dealer will hold the sale proceeds until the original transaction has been paid for.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (knop1)"
-  },
-  {
-    "id": "yt-knop1-27",
-    "section": "2 - Products & Risks",
-    "stem": "Which of the following statements is correct?",
-    "choices": {
-      "A": "Both ETNs and ETFs have ownership interests in specified securities in their respective portfolios.",
-      "B": "ETNs own the securities in their portfolio, whereas ETFs do not, as they are unsecured debt instruments.",
-      "C": "ETFs own the securities in their portfolio, whereas ETNs do not, as they are unsecured debt instruments.",
-      "D": "Neither ETNs nor ETFs own any securities in their investment portfolios."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “ETFs own the securities in their portfolio, whereas ETNs do not, as they are unsecured debt instruments.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"Neither ETNs nor ETFs own any securities in their investment portfolios..\" ETFs hold a portfolio of securities; ETNs are unsecured debt obligations of the issuer and own nothing.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -262,7 +150,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Quantity of shares"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Customer's bid or ask price”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"Customer's bid or ask price.\" A customer confirmation need not show the customer's bid or ask; it shows trade date, price, and quantity.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -276,7 +164,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "They can issue equity shares only"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “They do not issue new shares after their initial public offering”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"They do not issue new shares after their initial public offering.\" Open-end mutual funds continuously issue and redeem shares at NAV, so 'they do not issue new shares after IPO' is false.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -290,7 +178,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Interest rates"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Interest rates”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"Interest rates.\" Interest rates are the single most impactful factor on a bond's price.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
     {
@@ -318,21 +206,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "approval by the SEC"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “approval by the SEC”. This falls under <b>4 - Regulatory Framework</b>. Key principle: The SEC is the federal regulator of securities markets.",
-    "source": "YouTube: Series 7 Guru (knop1)"
-  },
-  {
-    "id": "yt-knop1-39",
-    "section": "1 - Capital Markets",
-    "stem": "Shares acquired from the spouse of an affiliate in a private placement would be considered",
-    "choices": {
-      "A": "restricted securities",
-      "B": "an illegal transfer",
-      "C": "non-affiliated securities",
-      "D": "immediately saleable"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “restricted securities”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"immediately saleable.\" Securities acquired from an affiliate's spouse in a private placement are restricted securities.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -346,7 +220,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Investment manager"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Sponsor”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Sponsor.\" The sponsor organizes the UIT; the trustee holds the securities and the evaluator prices them.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -360,7 +234,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Total value will decline by 10%"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Total value will not change”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Total value will not change.\" A 1-for-10 reverse split cuts shares to 80 but raises the price tenfold, leaving total value unchanged.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -374,7 +248,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "I and III"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “I and III”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"I and III.\" UIT investors own units (not shares) in a non-actively-managed portfolio (I and III).",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -388,21 +262,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Their options might have an expiration as long as three years"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Their options might have an expiration as long as three years”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
-    "source": "YouTube: Series 7 Guru (knop1)"
-  },
-  {
-    "id": "yt-knop1-49",
-    "section": "2 - Products & Risks",
-    "stem": "A securities trader would be permitted to indirectly manipulate stock prices",
-    "choices": {
-      "A": "As long as no retail investors are harmed.",
-      "B": "If there are information barriers in place at the trader's firm",
-      "C": "Under no circumstances.",
-      "D": "If properly supervised by a principal."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “Under no circumstances.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"If properly supervised by a principal..\" Market manipulation is prohibited under all circumstances; there is no permissible indirect manipulation.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -416,49 +276,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Real Estate Investment Trust (REIT)"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Mutual fund”. This falls under <b>2 - Products & Risks</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
-    "source": "YouTube: Series 7 Guru (knop1)"
-  },
-  {
-    "id": "yt-knop1-53",
-    "section": "1 - Capital Markets",
-    "stem": "Under the Securities Exchange Act of 1934, the SEC does which of the following? I. Regulates securities exchanges. II. Requires the registration of brokers and dealers. III. Prohibits inequitable and unfair trade practices. IV. Regulates over-the-counter markets.",
-    "choices": {
-      "A": "I and IV only",
-      "B": "II, III and IV only",
-      "C": "I and II only",
-      "D": "I, II, III and IV"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “I, II, III and IV”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
-    "source": "YouTube: Series 7 Guru (knop1)"
-  },
-  {
-    "id": "yt-knop1-54",
-    "section": "1 - Capital Markets",
-    "stem": "Are hedge funds required to register with the SEC?",
-    "choices": {
-      "A": "All hedges must register, except those operated for the exclusive benefit of family offices.",
-      "B": "No, because they are exempt from registration under US securities law",
-      "C": "Yes, if they have more than 35 investors",
-      "D": "Yes, if they manage private funds with more than $150 million in assets"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “Yes, if they manage private funds with more than $150 million in assets”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
-    "source": "YouTube: Series 7 Guru (knop1)"
-  },
-  {
-    "id": "yt-knop1-55",
-    "section": "2 - Products & Risks",
-    "stem": "If an investor is holding callable preferred stock, she should",
-    "choices": {
-      "A": "Prepared to negotiate a stock buyback program with the company",
-      "B": "Willing to purchase additional shares from the company",
-      "C": "Willing to call the company and discuss the possible liquidation of her shares",
-      "D": "Prepared to sell her shares back to the company"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “Prepared to sell her shares back to the company”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Willing to purchase additional shares from the company.\" Callable preferred can be redeemed by the issuer, so the holder should be prepared to sell (or have it called) back to the company.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -472,7 +290,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Long put"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Short put”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Short put.\" The holder of a short put is obligated to buy the stock if assigned at exercise.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -486,7 +304,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "ELK"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “ETF”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"ETF.\" An ETF provides intraday liquidity and tracks a broad index, fitting the investor's needs.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -500,7 +318,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Liquidate their portfolio"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Diversify their portfolio”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Diversify their portfolio.\" Non-systematic (company-specific) risk is reduced through diversification.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -514,7 +332,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "The customer will sell shares at the NAV of $10 plus the sales charge"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “The customer may buy or sell shares at a price higher or lower than $10”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"The customer may buy or sell shares at a price higher or lower than $10.\" Closed-end shares trade in the market and may be bought or sold at prices above or below NAV.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -528,35 +346,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "I and III only"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “I and II only”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
-    "source": "YouTube: Series 7 Guru (knop1)"
-  },
-  {
-    "id": "yt-knop1-68",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "Which self-regulatory organization (SRO) is responsible for monitoring and approving the advertising and sales literature that U.S. broker-dealers distribute to the public?",
-    "choices": {
-      "A": "MSRB",
-      "B": "FINRA",
-      "C": "Depository Trust Company",
-      "D": "NYSE"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “FINRA”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (knop1)"
-  },
-  {
-    "id": "yt-knop1-73",
-    "section": "1 - Capital Markets",
-    "stem": "In evaluating the credit of revenue bonds, it is most relevant to evaluate",
-    "choices": {
-      "A": "the taxing authority of the jurisdiction in which the project is located.",
-      "B": "the financial guarantee provided by the state or county standing behind the bond.",
-      "C": "the feasibility and revenue stream produced by the specific project financed.",
-      "D": "the economic health of the local or state economy."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “the feasibility and revenue stream produced by the specific project financed.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"the financial guarantee provided by the state or county standing behind the bond..\" Revenue bond creditworthiness depends on the feasibility and revenue of the specific project financed.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -570,21 +360,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Insider trading which should be avoided."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “commingling and is a violation.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
-    "source": "YouTube: Series 7 Guru (knop1)"
-  },
-  {
-    "id": "yt-knop1-75",
-    "section": "2 - Products & Risks",
-    "stem": "Two bonds have relatively similar quality and terms to maturity. Which of the following statements is true?",
-    "choices": {
-      "A": "The bond with the higher coupon will trade at a lower price.",
-      "B": "The bonds will have equal coupon rates.",
-      "C": "The bond with the lower coupon is more liquid.",
-      "D": "The bond with the higher coupon is more marketable."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “The bond with the higher coupon is more marketable.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"The bonds will have equal coupon rates..\" Higher-coupon bonds are generally more marketable (more liquid) than lower-coupon comparables.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -598,21 +374,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "Television commercial"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Letter to a client”. This falls under <b>4 - Regulatory Framework</b>. Key principle: MSRB writes rules for municipal securities; FINRA enforces them.",
-    "source": "YouTube: Series 7 Guru (knop1)"
-  },
-  {
-    "id": "yt-knop1-79",
-    "section": "2 - Products & Risks",
-    "stem": "If a market maker has a quote of $10 - $10.25 X 15, it is obligated to:",
-    "choices": {
-      "A": "buy 10 round lots at $10 and sell 15 round lots at $10.25.",
-      "B": "sell 10 round lots at $10.25 and buy 15 round lots at $10.",
-      "C": "buy 10 shares at $10 and 15 shares at $10.25.",
-      "D": "sell 10 shares at $10 and buy 15 shares at $10.25."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “buy 10 round lots at $10 and sell 15 round lots at $10.25.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"buy 10 round lots at $10 and sell 15 round lots at $10.25..\" A quote of $10 - $10.25 with size 15 means the market maker will buy 10 round lots at $10 and sell 15 round lots at $10.25.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -626,7 +388,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "An investment manager is hired to actively manage the trust assets"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “An investment manager is hired to actively manage the trust assets”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"An investment manager is hired to actively manage the trust assets.\" A UIT has no investment manager; it holds a fixed portfolio selected at creation.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -640,7 +402,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "A steady income stream"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “An ownership interest in properties held within the portfolio”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"An ownership interest in properties held within the portfolio.\" Mortgage REITs lend on mortgages and do not give the investor an ownership interest in physical properties.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
   {
@@ -654,7 +416,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
       "D": "BBB"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “BB”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"BB.\" BB is below investment grade (speculative); Baa/BBB and above are investment grade.",
     "source": "YouTube: Series 7 Guru (knop1)"
   }
 ];

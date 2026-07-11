@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "Issue government bonds"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Facilitate the buying and selling of securities”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Facilitate the buying and selling of securities”. The primary function of the securities markets is to facilitate the buying and selling (liquidity) of securities between investors.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "FDIC"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “SEC”. This falls under <b>1 - Capital Markets</b>. Key principle: The SEC is the federal regulator of securities markets.",
+    "explanation": "The correct choice (A) is: “SEC”. The SEC is the federal agency that administers the federal securities laws and regulates the industry.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "Neutral"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Bullish”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Bullish”. This falls under the Regulatory Framework: SROs (FINRA/MSRB) and regulators (SEC/FINRA/state) set conduct, registration, and disclosure rules that must be followed.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "Supervises mutual fund pricing"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Protects customer accounts in case of broker-dealer insolvency”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "The correct choice (C) is: “Protects customer accounts in case of broker-dealer insolvency”. SIPC protects customers against the loss of securities and cash held at a failed broker-dealer; it does not protect against market losses.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "Corporate bond"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Treasury bill”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (C) is: “Treasury bill”. Treasury bills are short-term U.S. government debt securities issued at a discount and maturing in one year or less.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "An order to cancel a trade"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “An order to buy or sell at the current market price”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “An order to buy or sell at the current market price”. A market order executes immediately at the best available price but guarantees neither price nor full execution.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "A corporate earnings report"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “A disclosure document for investors in new securities”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
+    "explanation": "The correct choice (C) is: “A disclosure document for investors in new securities”. A prospectus is the disclosure document delivered to investors for a new securities offering, describing risks and terms.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "Common stock"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Fixed annuity”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "The correct choice (C) is: “Fixed annuity”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "License revocation only"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Up to 3x the profit gained or loss avoided”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
+    "explanation": "The correct choice (C) is: “Up to 3x the profit gained or loss avoided”. Civil penalties for insider trading can be up to three times the profit gained or loss avoided (treble damages).",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "Mutual fund purchase"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Government securities trade”. This falls under <b>2 - Products & Risks</b>. Key principle: Options and most debt (muni/GOV/corp) settle T+1; equities T+2.",
+    "explanation": "The correct choice (B) is: “Government securities trade”. Government securities (Treasuries) trade in the secondary market and are quoted on a yield basis.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "Unlimited"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “$500,000”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "The correct choice (C) is: “$500,000”. SIPC protects customers against the loss of securities and cash held at a failed broker-dealer; it does not protect against market losses.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "Interest payment only"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Return on investment”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (C) is: “Return on investment”. Return on investment (ROI) measures the gain or loss relative to the amount invested.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "Asset class"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Who receives the proceeds”. This falls under <b>4 - Regulatory Framework</b>. Key principle: The secondary market is where investors trade already-issued securities.",
+    "explanation": "The correct choice (C) is: “Who receives the proceeds”. The secondary market is where investors trade already-issued securities among themselves; the issuer receives no proceeds from these trades.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "Individual brokerage account"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Traditional IRA”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (B) is: “Traditional IRA”. A Traditional IRA provides tax-deferred growth; contributions may be deductible depending on income and plan coverage.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "Real estate investment trust"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Diversified investment vehicle”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Diversified investment vehicle”. Mutual funds and ETFs are diversified investment vehicles pooling many securities to spread risk.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "Dividend payout"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Ease of converting to cash”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "The correct choice (C) is: “Ease of converting to cash”. Liquidity is the ease with which an asset can be converted to cash without loss of value.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "Preferred stock"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Option contract”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (B) is: “Option contract”. An option contract gives the holder the right, but not the obligation, to buy (call) or sell (put) the underlying at a strike price.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "100%"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “25%”. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (B) is: “25%”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "Matures like a bond"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Fixed dividends”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Fixed dividends”. Preferred shares have a fixed/stated dividend and rank ahead of common equity in both dividends and liquidation.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "Nominal Account Value"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Net Asset Value”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Net Asset Value”. This falls under Trading, Accounts & Prohibited Practices: account opening, order handling, and conduct rules govern how trades are executed and accounts managed.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "Bond ratings"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Discount rates, reserve requirements, and open market operations”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Discount rates, reserve requirements, and open market operations”. To stimulate a weak economy, the Fed buys securities in the open market, injecting reserves and pushing interest rates down.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "Open-end fund"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Open-end fund”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “Open-end fund”. An open-end fund issues redeemable shares and stands ready to buy them back at NAV; it is the classic mutual fund structure.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "Guarantees execution at the lowest cost"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Converts to a market order once a certain price is reached”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Converts to a market order once a certain price is reached”. A market order executes immediately at the best available price but guarantees neither price nor full execution.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "FinCEN"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “FinCEN”. This falls under <b>4 - Regulatory Framework</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "The correct choice (D) is: “FinCEN”. FinCEN enforces the Bank Secrecy Act to safeguard the financial system from money laundering and terrorist financing.",
     "source": "YouTube: Series 7 Guru (guru41)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU41 = [
       "D": "Tender offer"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Initial public offering”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Initial public offering”. An IPO is a primary-market transaction where a private company first sells shares to the public.",
     "source": "YouTube: Series 7 Guru (guru41)"
   }
 ];

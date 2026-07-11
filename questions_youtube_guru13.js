@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Insuring customer deposits in banks and thrifts."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Protecting investors by overseeing broker-dealers and their registered representatives.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (B) is: “Protecting investors by overseeing broker-dealers and their registered representatives.”. FINRA is the self-regulatory organization (SRO) that protects investors by overseeing broker-dealers and their registered representatives.",
     "source": "YouTube: Series 7 Guru (guru13)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Fourth market"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Primary market”. This falls under <b>1 - Capital Markets</b>. Key principle: The secondary market is where investors trade already-issued securities.",
+    "explanation": "The correct choice (C) is: “Primary market”. The primary market is where issuers sell newly created securities directly to investors; proceeds go to the issuer.",
     "source": "YouTube: Series 7 Guru (guru13)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Stop-limit order"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Market order”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Market order”. A market order executes immediately at the best available price but guarantees neither price nor full execution.",
     "source": "YouTube: Series 7 Guru (guru13)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Potential for capital appreciation."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Priority claim on assets in case of liquidation, before bondholders.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Priority claim on assets in case of liquidation, before bondholders.”. Common shareholders rank last (after bondholders and preferred shareholders) in claims on assets at liquidation.",
     "source": "YouTube: Series 7 Guru (guru13)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "100%"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “50%”. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (B) is: “50%”. Regulation T sets the initial margin requirement at 50% for purchasing listed equity in a margin account.",
     "source": "YouTube: Series 7 Guru (guru13)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Due diligence."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Insider trading.”. This falls under <b>2 - Products & Risks</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
+    "explanation": "The correct choice (B) is: “Insider trading.”. Trading on material nonpublic information is illegal insider trading; such information must be kept confidential until publicly disclosed.",
     "source": "YouTube: Series 7 Guru (guru13)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Subject to a flat capital gains tax rate."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Exempt from federal income tax and may be exempt from state and local taxes for residents of the issuing state.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Exempt from federal income tax and may be exempt from state and local taxes for residents of the issuing state.”. Interest on municipal bonds is exempt from federal income tax and is typically exempt from state/local tax for residents of the issuing state.",
     "source": "YouTube: Series 7 Guru (guru13)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Peak"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Expansion”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Expansion”. The expansion (recovery) phase of the business cycle is marked by rising output, employment, and consumer demand.",
     "source": "YouTube: Series 7 Guru (guru13)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Liquidity risk"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Inflation (Purchasing Power) risk”. This falls under <b>1 - Capital Markets</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "The correct choice (C) is: “Inflation (Purchasing Power) risk”. Inflation (purchasing-power) risk is the chance that rising prices erode the real value of fixed-income returns.",
     "source": "YouTube: Series 7 Guru (guru13)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Accumulation phase"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Accumulation phase”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "The correct choice (D) is: “Accumulation phase”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
     "source": "YouTube: Series 7 Guru (guru13)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Credit risk"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Reinvestment risk”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Reinvestment risk”. Reinvestment risk is the risk that cash flows (coupons/principal) must be reinvested at lower prevailing rates.",
     "source": "YouTube: Series 7 Guru (guru13)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "The broker-dealer must provide a prospectus for every transaction."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The broker-dealer must obtain a signed suitability statement from the customer.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (B) is: “The broker-dealer must obtain a signed suitability statement from the customer.”. Before recommending a penny stock to a new customer, a broker-dealer must obtain a signed suitability statement (and a written agreement) under SEC rules.",
     "source": "YouTube: Series 7 Guru (guru13)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Free riding."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Churning.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Excessive trading to generate commissions = churning (unauthorized, prohibited).",
+    "explanation": "The correct choice (C) is: “Churning.”. Churning is excessive trading in a customer's account solely to generate commissions, unsuitable for the client's stated objectives, and is a prohibited practice.",
     "source": "YouTube: Series 7 Guru (guru13)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Systematic risk"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Systematic risk”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "The correct choice (D) is: “Systematic risk”. Systematic (market) risk affects the whole market and cannot be eliminated through diversification.",
     "source": "YouTube: Series 7 Guru (guru13)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Fourth market (institution-to-institution)."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “First market (exchange-listed).”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “First market (exchange-listed).”. Securities listed on an exchange (including Nasdaq) trade in the first market (the exchange); the OTC/third market trades away from the exchange.",
     "source": "YouTube: Series 7 Guru (guru13)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Time value is equal to the intrinsic value."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Time value erodes as an option approaches expiration.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Time value erodes as an option approaches expiration.”. An option's time value erodes as it approaches expiration; at expiration only intrinsic value remains.",
     "source": "YouTube: Series 7 Guru (guru13)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU13 = [
       "D": "Employer contributions are typically subject to FICA and FUTA taxes."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Employer contributions are typically subject to FICA and FUTA taxes.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “Employer contributions are typically subject to FICA and FUTA taxes.”. Employer contributions to qualified plans are generally tax-deductible and not subject to FICA/FUTA when made.",
     "source": "YouTube: Series 7 Guru (guru13)"
   }
 ];

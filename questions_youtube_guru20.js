@@ -10,21 +10,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "liquidity risk."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cpurchasing power risk.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
-    "source": "YouTube: Series 7 Guru (guru20)"
-  },
-  {
-    "id": "yt-guru20-6",
-    "section": "2 - Products & Risks",
-    "stem": "Which of the following would not require delivery of notice?",
-    "choices": {
-      "A": "A 2:1 stock split",
-      "B": "A rights offering",
-      "C": "Payment of a cash dividend",
-      "D": "An interest payment on a corporate bond"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cA 2:1 stock split\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Payment of a cash dividend.\" A stock split is automatic and requires no action or delivery of notice from the shareholder, unlike dividends, rights, or interest.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -38,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "the ex-date."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cthe record date.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"the record date..\" To receive a dividend the owner's name must be in the transfer agent's books as of the record date.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -52,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "Regulatory risk"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cPurchasing power risk\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"Purchasing power risk.\" Purchasing power (inflation) risk affects all securities and is a systematic risk.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -66,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "One year"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cTwo years\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Two years.\" A rep may reaffiliate with a prior firm without retesting within two years of termination.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -80,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "During the dissolution of corporate assets, common shareholders will be paid if there are any funds left after debtholders and preferred shareholders are paid."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cDuring the dissolution of corporate assets, common shareholders will be paid if there are any funds left after debtholders and preferred shareholders are paid.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"During the dissolution of corporate assets, common shareholders will be paid if there are any funds left after debtholders and preferred shareholders are paid..\" Common shareholders have a residual claim, paid only after debtholders and preferred shareholders in liquidation.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -94,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "buy 200 shares of Seabird."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cbuy 200 shares of Seabird.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"buy 200 shares of Seabird..\" To close a short stock position the customer must buy back the shares (here, 200 shares).",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -108,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "$10,000"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201c$8,500\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"$8,500.\" Shortfall = $5,000; the 25% penalty is $1,250 plus 20% tax on the $25,000 withdrawn ($5,000), totaling about $6,250 per the standard calculation.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -122,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "Income"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cIncome\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"Income.\" Real estate DPP types are new construction, existing properties, and raw land; 'income' is a characteristic, not a property type.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -136,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "A commission-based account"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cA fee-based account\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"A fee-based account.\" A fee-based account is usually better for moderate-to-active traders than per-trade commissions.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -150,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "structuring, and an SAR should be filed."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cstructuring, and an SAR should be filed.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"structuring, and an SAR should be filed..\" Depositing just over $11,000 in pieces to avoid the CTR threshold is structuring and warrants an SAR.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -164,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "A partnership account"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cJoint tenants in common (JTIC)\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Joint tenants in common (JTIC).\" Joint tenants in common (JTIC) lets each spouse direct their share to their own children while both have access during life.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -178,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "5%"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c6%\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"6%.\" Sales charge = (POP - NAV) / POP = ($30 - $28.20) / $30 = 6%.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -192,21 +178,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "one involving municipal bonds."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cone that is unsolicited.\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
-    "source": "YouTube: Series 7 Guru (guru20)"
-  },
-  {
-    "id": "yt-guru20-34",
-    "section": "2 - Products & Risks",
-    "stem": "An investor has asked a mutual fund company for a copy of its Statement of Additional Information (SAI). How long does the fund have to comply with the request?",
-    "choices": {
-      "A": "Three business days from the date of the request",
-      "B": "By end of week in which the request was received",
-      "C": "Five business days from the date of the request",
-      "D": "SAI must go into the mail on the same day"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cThree business days from the date of the request\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Five business days from the date of the request.\" A fund must deliver the Statement of Additional Information within three business days of a request.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -220,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "$2,000."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201c$1,200.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"$1,200..\" The initial Reg T margin requirement is 50%: 100 sh x $12 = $1,200.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -234,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "offering to sell a limited partnership interest in an oil and gas drilling program."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cpart-time work parking cars on the weekend at a local racetrack.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"part-time work parking cars on the weekend at a local racetrack..\" Minor outside work like weekend parking attends no securities interest and needs no prior notice; securities-related activities do.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -248,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "I and IV"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cII and III\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"II and III.\" Fiscal policy is set by the President and Congress and is not the most efficient short-term tool; the Fed handles money supply.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -262,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "the price of the bond move higher."
     },
     "answer": "D",
-    "explanation": "The correct choice (A) is: \u201cthe price of the bond be unchanged.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"the price of the bond be unchanged..\" A bond with a 4% coupon when market rates are 2.5% is attractive, so its price rises.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -276,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "lagging indicators."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201ccoincident indicators.\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"coincident indicators..\" GDP, industrial production, and unemployment change with the economy and are coincident indicators.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -290,35 +262,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "less than its current yield."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cequal to its current yield.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
-    "source": "YouTube: Series 7 Guru (guru20)"
-  },
-  {
-    "id": "yt-guru20-48",
-    "section": "1 - Capital Markets",
-    "stem": "In a proxy contest, which of the following must register with the Securities and Exchange Commission (SEC)?\n\nI. All shareholders who have been approached by solicitors\nII. All persons participating in proxy solicitation\nIII. The upper management of the corporation who are also shareholders\nIV. All persons providing shareholders with unsolicited advice",
-    "choices": {
-      "A": "I and IV",
-      "B": "II and IV",
-      "C": "II and III",
-      "D": "I and III"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cII and IV\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The SEC is the federal regulator of securities markets.",
-    "source": "YouTube: Series 7 Guru (guru20)"
-  },
-  {
-    "id": "yt-guru20-49",
-    "section": "1 - Capital Markets",
-    "stem": "A municipal securities dealer has just made a contribution to the mayor's reelection campaign. How long must the firm wait before it can enter competitive bids on proposed bond issues by the city?",
-    "choices": {
-      "A": "Can never underwrite a bond for the city again",
-      "B": "Two years",
-      "C": "No waiting period",
-      "D": "Six months"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cNo waiting period\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"No waiting period.\" MSRB pay-to-play bars negotiated underwriting for two years after a contribution, but there is no waiting period for competitive bids.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -332,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "I and II"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cIII and IV\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"III and IV.\" Improper use includes lending the customer's securities for a short sale without written consent (III) and borrowing customer funds without permission (IV).",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -346,21 +290,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "Conduct Rules"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cCode of Procedures\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (guru20)"
-  },
-  {
-    "id": "yt-guru20-62",
-    "section": "2 - Products & Risks",
-    "stem": "Which of the following for call option contracts is true?",
-    "choices": {
-      "A": "Maximum gain and loss are the same for both parties.",
-      "B": "Maximum gain is the same for both parties.",
-      "C": "Breakeven is the same for both parties.",
-      "D": "Maximum loss is the same for both parties."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cBreakeven is the same for both parties.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Maximum gain is the same for both parties..\" For a call, both buyer and writer share the same breakeven (strike + premium).",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -374,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "The firm lends the customer's securities without a consent agreement."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cThe firm lends the customer's securities without a consent agreement.\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"The firm lends the customer's securities without a consent agreement..\" A firm may not lend a customer's securities without a consent agreement; other lending arrangements may be permitted.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -388,21 +318,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "the currency market."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cthe capital market.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: The secondary market is where investors trade already-issued securities.",
-    "source": "YouTube: Series 7 Guru (guru20)"
-  },
-  {
-    "id": "yt-guru20-66",
-    "section": "2 - Products & Risks",
-    "stem": "An investor notices that a bond purchased several years ago at 95 is now priced at 90. The investor sells the bond for 90, then immediately repurchases it for 90. This action is known as",
-    "choices": {
-      "A": "marking the close.",
-      "B": "matched orders.",
-      "C": "a wash sale.",
-      "D": "pegging."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: \u201ca wash sale.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"a wash sale..\" Selling a security and immediately repurchasing it at the same price to create a fake loss is a wash sale.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -416,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "fully-disclosed account."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cprime account.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"prime account..\" A prime broker provides custody and back-office services while the customer uses other brokers for execution: a prime account.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -430,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "depletion applied when the equipment is sold."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cdepreciation over the life of the program.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"depreciation over the life of the program..\" Equipment used in an oil and gas DPP is deducted via depreciation over the program's life.",
     "source": "YouTube: Series 7 Guru (guru20)"
   },
   {
@@ -444,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
       "D": "$7"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c$10\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"$10.\" Intrinsic value of a 30 call with the stock at 40 is 40 - 30 = $10.",
     "source": "YouTube: Series 7 Guru (guru20)"
   }
 ];

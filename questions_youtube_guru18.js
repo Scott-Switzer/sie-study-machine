@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "$700 loss"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “$700 gain”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"$700 gain\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Series 7 Guru (guru18)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "130 and 150"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “154 and 126”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"154 and 126\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Series 7 Guru (guru18)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "BE to the strike price"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Unlimited”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"Unlimited\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Series 7 Guru (guru18)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "$14,300"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “$1,400”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"$1,400\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Series 7 Guru (guru18)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "145"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “145”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"145\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Series 7 Guru (guru18)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "$1,200"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “$600”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"$600\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Series 7 Guru (guru18)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "$500"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “$500”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"$500\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Series 7 Guru (guru18)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "Short put"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Short put”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"Short put\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Series 7 Guru (guru18)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "Short put"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Long call”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"Long call\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Series 7 Guru (guru18)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "$14,800"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Unlimited”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Unlimited\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Series 7 Guru (guru18)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "Cannot be determined"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Bullish”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"Bullish\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Series 7 Guru (guru18)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "122"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “122”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"122\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Series 7 Guru (guru18)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "The option contract may breakeven"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “The option contract may breakeven”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"The option contract may breakeven\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Series 7 Guru (guru18)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "$71 per share"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “$77 per share”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"$77 per share\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Series 7 Guru (guru18)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "Short 100 shares of Apple and buy 1 AAPL Dec 140 Call"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Short 100 shares of Apple and buy 1 AAPL Dec 140 Call”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"Short 100 shares of Apple and buy 1 AAPL Dec 140 Call\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Series 7 Guru (guru18)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "Closing Purchase"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Closing Sale”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Closing Sale\" This falls under 4 - Regulatory Framework.",
     "source": "YouTube: Series 7 Guru (guru18)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "6 months or 12 months or 18 months"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “More than a year, typically three years”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"More than a year, typically three years\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Series 7 Guru (guru18)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "$150,000"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “$28,000”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"$28,000\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Series 7 Guru (guru18)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "Below 55 or above 45"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Below 55 or above 45”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"Below 55 or above 45\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Series 7 Guru (guru18)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "Elect"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Randomly”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+    "explanation": "The correct choice (C) is: \u201cRandomly\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
     "source": "YouTube: Series 7 Guru (guru18)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "Short 1 BFD Dec 150 call"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Short 1 BFD Dec 140 call”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Short 1 BFD Dec 140 call\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Series 7 Guru (guru18)"
   }
 ];

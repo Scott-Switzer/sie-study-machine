@@ -53,21 +53,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "The options disclosure document (ODD)."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cThe options disclosure document (ODD).\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
-    "source": "YouTube: Series 7 Guru (guru30)"
-  },
-  {
-    "id": "yt-guru30-13",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "Why are the possible future higher educational needs of a customer's very young children classified as a nonfinancial consideration?",
-    "choices": {
-      "A": "The children may not wish to go to college, so there may be nothing to plan for.",
-      "B": "There is no information available about future scholarships or student loans.",
-      "C": "They cannot be expressed as a sum of money or a cash flow.",
-      "D": "With very young children, higher education is too far in the future to plan for financially."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cThey cannot be expressed as a sum of money or a cash flow.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"With very young children, higher education is too far in the future to plan for financially..\" Future education needs are a nonfinancial consideration because they cannot be expressed as a concrete dollar amount or cash flow.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -81,7 +67,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Growth. The whole point of investing is to grow your money, and it applies here as well."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cSpeculation. She can afford to take some flyers and wishes to do so.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Speculation. She can afford to take some flyers and wishes to do so..\" 'Fun' aggressive investing with money one can afford to lose is speculative in objective.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -109,7 +95,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Current employment stability"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cExpected retirement age\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Expected retirement age.\" For a young couple with children, expected retirement age is the least relevant near-term suitability factor versus education goals, values, and job stability.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -123,7 +109,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Yearly"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cMonthly\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Monthly.\" Preparing a personal income statement monthly is the most convenient and timely approach.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -137,35 +123,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "The account may be opened, but all recommendations must be suitable based on the customer's situation."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cThe account may be opened, but no recommendations may be made.\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: The SEC is the federal regulator of securities markets.",
-    "source": "YouTube: Series 7 Guru (guru30)"
-  },
-  {
-    "id": "yt-guru30-19",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "Which of the following statements regarding discretionary accounts is not true?",
-    "choices": {
-      "A": "The account may not be accepted unless approved, in writing, by a principal of the member firm.",
-      "B": "Each discretionary order must be reviewed promptly by a principal.",
-      "C": "The customer must grant written authorization to the broker-dealer or a designated individual to exercise discretion in the account.",
-      "D": "The customer must approve each order before or after it is executed."
-    },
-    "answer": "D",
-    "explanation": "conflicting on-screen selections: C/D",
-    "source": "YouTube: Series 7 Guru (guru30)"
-  },
-  {
-    "id": "yt-guru30-20",
-    "section": "2 - Products & Risks",
-    "stem": "A new client indicates the desire to invest in a highly speculative venture suitable only for those with significant net worth. The client assures you that he has the financial ability to sustain the loss of the entire investment. You believe it is necessary to verify that is the case. What documentation would help you?",
-    "choices": {
-      "A": "The client's membership card to an exclusive country club",
-      "B": "A note from the client's doctor attesting to his excellent health",
-      "C": "A letter from the client's best friend assuring you that the individual is a qualified risk taker",
-      "D": "The client's tax returns for the past three years"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cThe client's tax returns for the past three years\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"A letter from the client's best friend assuring you that the individual is a qualified risk taker.\" Three years of tax returns best document that a client has the net worth to sustain a total loss.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -179,21 +137,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Margin trading in a fiduciary account does not require any special documentation."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cMargin trading in a fiduciary account does not require any special documentation.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
-    "source": "YouTube: Series 7 Guru (guru30)"
-  },
-  {
-    "id": "yt-guru30-22",
-    "section": "4 - Regulatory Framework",
-    "stem": "When making recommendations to an advisory client, which of the following carry the most weight? I. The client's risk tolerance II. Past performance of the adviser representative's recommendations III. The client's investment needs and objectives IV. The client's previous investment experience with other advisers",
-    "choices": {
-      "A": "I and IV",
-      "B": "II and IV",
-      "C": "II and III",
-      "D": "I and III"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cI and III\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"I and III.\" The client's risk tolerance and investment needs/objectives carry the most weight in advisory recommendations.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -207,21 +151,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Capital appreciation"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cCapital appreciation\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
-    "source": "YouTube: Series 7 Guru (guru30)"
-  },
-  {
-    "id": "yt-guru30-24",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "An arrangement in which the registered representative has the authority, or power of attorney, to make trades from funds in the account without prior approval from the investor is known as",
-    "choices": {
-      "A": "a discretionary account.",
-      "B": "a stop-loss account.",
-      "C": "a power-of-attorney account.",
-      "D": "a nonapproval account."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: \u201ca discretionary account.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"a nonapproval account..\" An account where the rep may trade without prior approval is a discretionary account (via power of attorney).",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -235,21 +165,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Opening a margin account to go along with an existing cash account."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cChanging the asset allocation in an existing account.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
-    "source": "YouTube: Series 7 Guru (guru30)"
-  },
-  {
-    "id": "yt-guru30-26",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "In constructing a profile for your customer, you wish to assemble information on both financial and nonfinancial investment considerations that affect your customer. Which of the following qualify as financial investment considerations? I. Your customer's tolerance of various forms of risk II. Your customer's dependents and their ages III. Your customer's liquid net worth IV. Your customer's monthly credit card payments",
-    "choices": {
-      "A": "II and IV",
-      "B": "I and III",
-      "C": "I and II",
-      "D": "III and IV"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cIII and IV\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"I and III.\" Liquid net worth and monthly credit card payments are financial considerations; risk tolerance and dependents are nonfinancial.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -263,7 +179,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Investment goals."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cInvestment constraints.\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Investment constraints..\" Factors that constrain an investment plan are called investment constraints.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -277,7 +193,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Tax returns for the past two years."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cA letter from a duly licensed life insurance agent.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"A letter from a duly licensed life insurance agent..\" Accredited status may be verified by bank statements, CPA confirmation, or tax returns, but not by a life insurance agent's letter.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -291,21 +207,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "discuss and review suitability."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cdiscuss and review suitability.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
-    "source": "YouTube: Series 7 Guru (guru30)"
-  },
-  {
-    "id": "yt-guru30-37",
-    "section": "2 - Products & Risks",
-    "stem": "Which of the following oral orders can be accepted from a customer without additional documentation?",
-    "choices": {
-      "A": "Buy 100 shares of ABC when the price is right",
-      "B": "Buy $20,000 of quality bank stocks",
-      "C": "Buy 200 shares of computer stock",
-      "D": "Increase my position in ABC"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cBuy 100 shares of ABC when the price is right\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"Increase my position in ABC.\" A specific, non-discretionary oral order ('buy 100 ABC when the price is right') may be accepted without additional documentation.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -319,21 +221,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "reasonable-basis suitability analysis."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cqualitative suitability analysis.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
-    "source": "YouTube: Series 7 Guru (guru30)"
-  },
-  {
-    "id": "yt-guru30-42",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "A registered representative is trying to determine the total capital gains made by one of her customers over the last three years. Which of the following would not be helpful in the representative's research effort?",
-    "choices": {
-      "A": "W-2 forms",
-      "B": "Tax returns",
-      "C": "An interview with the customer",
-      "D": "Brokerage account reports"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cW-2 forms\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"W-2 forms.\" W-2 forms show wages, not capital gains, so they are unhelpful in computing a client's capital gains.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -347,35 +235,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Execute the trade only if the customer has previous trading experience in similar securities."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cExecute the trade specifically as the customer has directed you to do but mark it unsolicited.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (guru30)"
-  },
-  {
-    "id": "yt-guru30-44",
-    "section": "2 - Products & Risks",
-    "stem": "If a customer gives specific instructions to his registered representative to purchase a security that is clearly unsuitable in light of the customer's investment objectives, under FINRA rules, the registered representative",
-    "choices": {
-      "A": "cannot enter the order.",
-      "B": "can only enter the order with the prior approval of a principal.",
-      "C": "can only enter the order if the customer puts his verbal instructions into written form.",
-      "D": "can enter the order."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: \u201ccan enter the order.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (guru30)"
-  },
-  {
-    "id": "yt-guru30-45",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "You have just reviewed the balance sheet of one of your customers. Exclusive of his primary residence, the customer's net worth is slightly in excess of $1.54 million. This customer may be considered to be",
-    "choices": {
-      "A": "an entitled investor.",
-      "B": "a wealthy investor.",
-      "C": "an authorized investor.",
-      "D": "an accredited investor."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: \u201can accredited investor.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"an entitled investor..\" Net worth over $1 million (excluding primary residence) qualifies the client as an accredited investor.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -389,7 +249,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "calling the representative each time she wants to place an order."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cproviding a limited power of attorney giving discretionary powers.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"providing a limited power of attorney giving discretionary powers..\" Discretionary trading authority is granted by a limited power of attorney given to the registered representative.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -403,7 +263,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Preserving capital"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cPreserving capital\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"Preserving capital.\" Preserving capital is an investment objective; funding education or retirement are goals.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -431,7 +291,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "require documentation from the other party to the JTWROS account showing they agree with the proposed transactions."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cdiscuss with the customer why speculative stocks might not be appropriate, given the circumstances as you know them before entering any orders.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"discuss with the customer why speculative stocks might not be appropriate, given the circumstances as you know them before entering any orders..\" When a trade appears unsuitable, the rep should discuss the concerns with the customer before entering any orders rather than refusing outright or entering blindly.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -459,7 +319,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Level of risk tolerance."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cLevel of risk tolerance.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"Level of risk tolerance..\" A client's family history of Depression-era losses reflects their level of risk tolerance.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -473,21 +333,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "cannot open the account in this manner."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201ccan open the account with a written statement of ownership from the customer.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (guru30)"
-  },
-  {
-    "id": "yt-guru30-55",
-    "section": "4 - Regulatory Framework",
-    "stem": "Regulation BI contains four key component obligations. Which two of them apply to registered representatives?",
-    "choices": {
-      "A": "III and IV",
-      "B": "I and III",
-      "C": "I and II",
-      "D": "II and III"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cI and II\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"I and III.\" The two Reg BI component obligations that apply directly to registered representatives are Disclosure (I) and Care (II).",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -515,7 +361,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "execute the order and mark it unsolicited."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cexecute the order and mark it unsolicited.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"execute the order and mark it unsolicited..\" When a customer specifies a particular bond and gives no suitability info, the rep executes the order and marks it unsolicited.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -529,7 +375,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "You may only recommend securities that he specifically asks about."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cYou may not make any investment recommendations to him.\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"You may not make any investment recommendations to him..\" Without enough information to make a suitability determination, the rep may not make any investment recommendations.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -543,21 +389,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Lack of safety."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cLack of liquidity.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
-    "source": "YouTube: Series 7 Guru (guru30)"
-  },
-  {
-    "id": "yt-guru30-64",
-    "section": "2 - Products & Risks",
-    "stem": "A registered representative is discussing investment objectives with one of his clients. The client wants her young children to eventually have access to higher education; she has identified government bonds as the best investment to ensure that they will. Such bonds, she feels, are the only instrument safe enough to protect the portfolio from capital loss. The representative explains that",
-    "choices": {
-      "A": "Utility stocks may provide a higher level of income.",
-      "B": "Short-term bonds are the safest, so the portfolio should be confined to those.",
-      "C": "Government bonds are appropriate, but they must be long-term.",
-      "D": "The client's goal requires growth with some risk."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cThe client's goal requires growth with some risk.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Short-term bonds are the safest, so the portfolio should be confined to those..\" Funding a child's education requires growth with some risk; principal-protected government bonds alone likely will not keep pace.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {

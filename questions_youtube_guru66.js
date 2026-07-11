@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU66 = [
       "D": "not investing in the market is an appropriate strategy"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “buying puts on the S&P 500 index is an appropriate strategy.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “buying puts on the S&P 500 index is an appropriate strategy.”. Buying index puts is a bearish strategy that profits when the broad market falls.",
     "source": "YouTube: Series 7 Guru (guru66)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU66 = [
       "D": "IV. A minimum of at least quarterly"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “I. Monthly if there has been any activity in the account”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “I. Monthly if there has been any activity in the account”. Customers must receive account statements at least quarterly, and monthly if there was any activity in the account.",
     "source": "YouTube: Series 7 Guru (guru66)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU66 = [
       "D": "This is not a violation"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “It will be guilty of a manipulative and deceptive act”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “It will be guilty of a manipulative and deceptive act”. A market maker must honor its quoted two-sided market for at least one round lot or it commits a manipulative/deceptive act.",
     "source": "YouTube: Series 7 Guru (guru66)"
   }
 ];

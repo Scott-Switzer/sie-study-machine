@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "Interest rate risk"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Market risk”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Market risk”. The greatest risk in variable life insurance is investment (market) risk, because cash value is tied to separate-account performance.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "The amounts of the periodic payments to the annuitant are determined by the performance of the insurance company's investment returns."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The kind of annuity selected partly determines the payment amounts to the annuitant.”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "The correct choice (B) is: “The kind of annuity selected partly determines the payment amounts to the annuitant.”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "transaction takes place during the cooling-off period."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “registration is effective.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
+    "explanation": "The correct choice (A) is: “registration is effective.”. This falls under the Regulatory Framework: SROs (FINRA/MSRB) and regulators (SEC/FINRA/state) set conduct, registration, and disclosure rules that must be followed.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "a qualified institutional buyer (QIB)."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “an accredited investor.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “an accredited investor.”. An individual (or couple) meeting the income or net-worth thresholds is an accredited investor eligible for private placements.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "200 shares at $100 per share."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “50 shares at $100 per share.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “50 shares at $100 per share.”. A 1-for-2 reverse split halves the share count and doubles the per-share price (100 shares @ $50 becomes 50 @ $100).",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "A primary distribution involves a sale of newly issued shares by the issuer while a secondary distribution involves the sale of already issued and outstanding shares."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “A primary distribution involves a sale of newly issued shares by the issuer while a secondary distribution involves the sale of already issued and outstanding shares.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “A primary distribution involves a sale of newly issued shares by the issuer while a secondary distribution involves the sale of already issued and outstanding shares.”. The primary market is where issuers sell newly created securities directly to investors; proceeds go to the issuer.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "Profit unlimited and loss unlimited"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Profit limited and loss limited”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “Profit limited and loss limited”. A covered call writer's gain is limited (premium + upside to strike) and loss is limited (stock can only fall to zero).",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "Department of the Treasury"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “FDIC”. This falls under <b>1 - Capital Markets</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "The correct choice (A) is: “FDIC”. Bank savings accounts are insured by the FDIC (up to $250,000 per depositor, per bank), unlike securities which are not FDIC-insured.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "Actual/365"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “30/360”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “30/360”. Municipal bonds compute dollar prices and accrued interest on a 30-day-month/360-day-year (30/360) calendar basis.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "maturities of the debt securities are short."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “maturities of the debt securities are short.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “maturities of the debt securities are short.”. This falls under Capital Markets: securities are issued in the primary market and traded in the secondary market, with prices driven by interest rates, issuer credit, and supply/demand.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "A coworker informs the employee of a conversation he had with the administrative assistant to the company's general counsel regarding key developments in an ongoing class action lawsuit."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “An independent securities analyst explains to the employee why the earnings for the company next quarter could be markedly poorer than expected.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
+    "explanation": "The correct choice (A) is: “An independent securities analyst explains to the employee why the earnings for the company next quarter could be markedly poorer than expected.”. Trading is lawful when the information comes from public, independent analysis rather than from a breach of a fiduciary duty or misappropriation of material nonpublic information.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "$38"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “$38”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “$38”. A protective put (stock + long put) breaks even at stock price = cost of stock + put premium ($35 + $3 = $38).",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "Tenants in common is permitted for use only for married couples or family members."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The ownership of the decedent's assets is governed by their will or state law.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “The ownership of the decedent's assets is governed by their will or state law.”. In a TIC account, a deceased tenant's interest passes to their estate (not the survivors); the decedent's share goes by will/intestacy.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "Administrative claim holders"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Secured debt holders”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Secured debt holders”. In a Chapter 11 (or 7) liquidation, secured debt holders have the first claim, ahead of unsecured creditors and equity.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "the Investment Company Act of 1940."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “the Bank Secrecy Act.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: The SEC is the federal regulator of securities markets.",
+    "explanation": "The correct choice (B) is: “the Bank Secrecy Act.”. FinCEN enforces the Bank Secrecy Act to safeguard the financial system from money laundering and terrorist financing.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "permissible if the customers retain the right to sell the securities into the open market."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “prohibited as fraudulent and manipulative.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “prohibited as fraudulent and manipulative.”. Spreading false rumors to move a price is a prohibited manipulative practice under the securities laws.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "imminent financial liquidity problems."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “declared stock dividend.”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "The correct choice (B) is: “declared stock dividend.”. Trading on material nonpublic information is illegal insider trading; such information must be kept confidential until publicly disclosed.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "Selling nonproprietary investment company securities products through her firm"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Driving part time for a transportation network company on weekends”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (C) is: “Driving part time for a transportation network company on weekends”. Registered representatives must give written notice to their firm before engaging in certain outside business activities such as part-time driving/ride-share work.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "an opening purchase."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “a closing sale.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “a closing sale.”. A closing sale is when an option writer buys back the same option to close out the short position.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "Require banks to increase reserves"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Buy bonds in the open market”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Buy bonds in the open market”. To stimulate a weak economy, the Fed buys securities in the open market, injecting reserves and pushing interest rates down.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "The same stock in a cash account without paying for the stock in full"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “The same stock in a cash account without paying for the stock in full”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (D) is: “The same stock in a cash account without paying for the stock in full”. A 90-day cash-account restriction is imposed when a customer buys and sells the same stock without paying in full (freeriding).",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "fluctuating."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “rising.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “rising.”. Call protection is most valuable to a bondholder when rates are falling and prices are rising, because it prevents the issuer from calling away high-coupon bonds.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "Literature providing 10-year performance information to support predictions of future performance"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Literature providing 10-year performance information to support predictions of future performance”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “Literature providing 10-year performance information to support predictions of future performance”. Showing 10-year past performance to support predictions of future results is misleading; communications must not imply guaranteed future performance.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "They are general obligations of the federal government."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “They are exempt from registration under the Securities Act of 1933.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "The correct choice (B) is: “They are exempt from registration under the Securities Act of 1933.”. U.S. government agency securities (e.g., Ginnie Mae) are exempt from Securities Act of 1933 registration.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "It is authorized stock that has not been issued and is held in the corporation's treasury."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “It is issued stock that has been subsequently reacquired by the corporation.”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (C) is: “It is issued stock that has been subsequently reacquired by the corporation.”. Treasury stock is a corporation's own issued shares that it has reacquired; it pays no dividends and carries no voting rights.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "State securities regulators"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “State securities regulators”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (D) is: “State securities regulators”. Blue Sky Laws are state laws regulating the offer and sale of securities within each state; they are administered by state securities regulators.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "$250"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “$50”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “$50”. MSRB pay-to-play rules limit municipal finance professionals' political contributions; a contribution in their jurisdiction can trigger a 2-year ban.",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "Nonaccredited investors who have previously purchased restricted stock"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Qualified institutional buyers (QIBs)”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Qualified institutional buyers (QIBs)”. Rule 144A lets institutions resell restricted securities only to Qualified Institutional Buyers (QIBs).",
     "source": "YouTube: Series 7 Guru (guru43)"
   },
   {
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU43 = [
       "D": "opening and closing prices."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “bid and asked prices.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “bid and asked prices.”. In the OTC market the 'spread' is the difference between the dealer's bid (buy) and asked (sell) prices.",
     "source": "YouTube: Series 7 Guru (guru43)"
   }
 ];

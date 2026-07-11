@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_CA3 = [
       "D": "Build America bonds"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Treasury bonds”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (C) is: “Treasury bonds”. Treasury bonds are federal government securities, not municipal securities; munis are issued by states and localities (GO, revenue, etc.).",
     "source": "YouTube: Series 7 Guru (ca3)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_CA3 = [
       "D": "Written approval from FINRA is required for this action"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “The firm is required to keep the details of the transaction on record”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (A) is: “The firm is required to keep the details of the transaction on record”. A member firm must keep records of certain transactions (e.g., an associated person's outside business) as required by rules.",
     "source": "YouTube: Series 7 Guru (ca3)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_CA3 = [
       "D": "Interest rate changes"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Interest rate changes”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “Interest rate changes”. Bond prices fluctuate mainly because of changes in market interest rates; when rates rise, prices fall, and vice versa.",
     "source": "YouTube: Series 7 Guru (ca3)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_CA3 = [
       "D": "Conventional mortgages"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “FHA, VA and conventional mortgages”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “FHA, VA and conventional mortgages”. Freddie Mac purchases FHA, VA, and conventional mortgages from lenders, providing them with funds to make new loans.",
     "source": "YouTube: Series 7 Guru (ca3)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_CA3 = [
       "D": "Diversified"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Diversified”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “Diversified”. An investment company is 'diversified' if it invests at least 75% of assets with no more than 5% in any one issuer and no more than 10% of any issuer's voting stock.",
     "source": "YouTube: Series 7 Guru (ca3)"
   }
 ];

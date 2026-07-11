@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Domestic trading of foreign government securities"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “U.S. trading in foreign securities”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"U.S. trading in foreign securities.\" ADRs let U.S. investors buy and sell foreign-company shares in U.S. markets, facilitating U.S. trading in foreign securities.",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "The gain is taxable at the state level, but tax free federally"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “The gain is taxable at both the state and federal level”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"The gain is taxable at both the state and federal level.\" Capital gains from selling municipal bonds are taxable at both the federal and state level (only the interest is tax-exempt).",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Prepaid tuition plan"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “ESA”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"ESA.\" Only an ESA (Coverdell) is set up exclusively for a child; 529 plans and others may name older beneficiaries.",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -52,21 +52,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Stock issued by the United States government"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Outstanding shares repurchased by the issuer”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
-    "source": "YouTube: Series 7 Guru (guru44)"
-  },
-  {
-    "id": "yt-guru44-",
-    "section": "2 - Products & Risks",
-    "stem": "Which type of secured bond is backed by rolling stock, such as airplanes?",
-    "choices": {
-      "A": "Collateral trust bond",
-      "B": "Mortgage bond",
-      "C": "Debenture",
-      "D": "Equipment trust certificate"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “Equipment trust certificate”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Debenture.\" Equipment trust certificates are secured by rolling stock such as airplanes or railcars.",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -80,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Capital gains"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Dividends and capital gains”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Dividends and capital gains.\" Mutual fund shareholders receive income as dividends (from earnings) and capital gains distributions (from portfolio trades).",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -94,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Purchasing power risk"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Business risk”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Business risk.\" A single concentrated stock position like inherited Costco exposes Matt mainly to business (company-specific) risk.",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -108,21 +94,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "T-bills"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Treasury bonds”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
-    "source": "YouTube: Series 7 Guru (guru44)"
-  },
-  {
-    "id": "yt-guru44-",
-    "section": "2 - Products & Risks",
-    "stem": "Catherine has $250,000 in equities, and no other investments. She should be most concerned with which of the following types of risks?",
-    "choices": {
-      "A": "Regulatory",
-      "B": "Call",
-      "C": "Market",
-      "D": "Financial"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “Market”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Market.\" A portfolio of only equities is exposed primarily to overall market risk.",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -136,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Interests"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Interests”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"Interests.\" Ownership interests in a limited partnership are called interests (not shares or units in the corporate sense).",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -150,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "100 shares of ABC"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “100 shares of ABC”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"100 shares of ABC.\" To cover a short call the writer must deliver 100 shares of the underlying stock if assigned.",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -164,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Buy U.S. government bonds"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Sell the shares of the one company and invest in an S&P 500 index fund”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Sell the shares of the one company and invest in an S&P 500 index fund.\" Holding one company's stock concentrates business risk; diversifying into an S&P 500 index fund reduces it.",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -178,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "The bond must be from a state neighboring the investor's home state"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “The bond must be from the investor's home state”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"The bond must be from the investor's home state.\" Municipal bond interest is tax-free at the state level only if the bond is issued by the investor's home state.",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -192,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Expense risk fee"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The commission”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"The commission.\" A variable annuity separate account deducts mortality, investment management, and expense-risk fees, but not the sales commission (paid from the premium).",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -206,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "A money market mutual fund purchased at the bank"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “A money market mutual fund purchased at the bank”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"A money market mutual fund purchased at the bank.\" Money market mutual funds are not FDIC-insured; bank deposits and CDs are.",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -220,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "When paid"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “When the shares are sold”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"When the shares are sold.\" Stock dividends are generally not taxed until the shares are sold (they are a non-taxable distribution).",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -234,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "There must be one or more general partners"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “There must be one or more general partners”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \"There must be one or more general partners.\" DPPs are illiquid, limited partners have limited liability, and losses pass through to offset ordinary income.",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -248,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Straight"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Cumulative”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Cumulative.\" Cumulative preferred accumulates omitted dividends and must be paid before common dividends resume.",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -262,35 +234,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "A brokerage account"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “A cash account”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
-    "source": "YouTube: Series 7 Guru (guru44)"
-  },
-  {
-    "id": "yt-guru44-",
-    "section": "2 - Products & Risks",
-    "stem": "Which of the following would have an adverse effect on the return of an equity REIT?",
-    "choices": {
-      "A": "High occupancy rates",
-      "B": "High property values",
-      "C": "Low interest rates",
-      "D": "Overbuilding"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “Overbuilding”. This falls under <b>2 - Products & Risks</b>. Key principle: REITs let investors pool into income-producing real estate; dividends taxed as ordinary income.",
-    "source": "YouTube: Series 7 Guru (guru44)"
-  },
-  {
-    "id": "yt-guru44-",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "What is FALSE regarding UTMAs?",
-    "choices": {
-      "A": "Most states are not UTMA states",
-      "B": "They offer more investment flexibility than UGMA accounts",
-      "C": "When established, the account must have one custodian and one minor",
-      "D": "They allow the custodian to remain trustee longer than a UGMA, usually until age 25"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “Most states are not UTMA states”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"They offer more investment flexibility than UGMA accounts.\" Most states ARE UTMA states, so 'most states are not UTMA states' is the false statement.",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -304,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Alpha"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Beta”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"Beta.\" Beta measures a stock's market (systematic) risk relative to the overall market.",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -318,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Common and preferred stock"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Common stock”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"Common stock.\" Common stockholders have voting rights; preferred stockholders generally do not.",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -332,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Market"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Inflation”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \"Inflation.\" Bank CDs are exposed to inflation (purchasing power) risk eroding real returns.",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -346,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Face amount certificate company"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Management company”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Management company.\" A management company (open- or closed-end fund) has an investment adviser; UITs and face-amount certificate companies do not.",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -360,21 +304,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Upon maturity"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Semi-annually”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
-    "source": "YouTube: Series 7 Guru (guru44)"
-  },
-  {
-    "id": "yt-guru44-",
-    "section": "2 - Products & Risks",
-    "stem": "Ben buys 100 shares of stock at $80. He also buys a May 74 put @ 5. If the stock price should fall to zero, what is the most that Ben will lose?",
-    "choices": {
-      "A": "$1,100",
-      "B": "$7,400",
-      "C": "$8,000",
-      "D": "$6,900"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “$1,100”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \"$1,100.\" Max loss = cost ($80 + $5 premium = $85) minus put protection ($74) = $11 per share, or $1,100.",
     "source": "YouTube: Series 7 Guru (guru44)"
   },
   {
@@ -388,35 +318,7 @@ var SIE_QUESTIONS_YT_GURU44 = [
       "D": "Her beneficiary will receive the account balance of $219,000, but will owe taxes (at long-term capital gains rates) on the entire amount since it was a qualified annuity"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Her beneficiary will receive the account balance of $219,000, but will owe taxes (as ordinary income) on the entire amount since it was a qualified annuity”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
-    "source": "YouTube: Series 7 Guru (guru44)"
-  },
-  {
-    "id": "yt-guru44-",
-    "section": "2 - Products & Risks",
-    "stem": "Rights are options that are good for:",
-    "choices": {
-      "A": "30 years",
-      "B": "90 days",
-      "C": "9 months",
-      "D": "30 days"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “30 days”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
-    "source": "YouTube: Series 7 Guru (guru44)"
-  },
-  {
-    "id": "yt-guru44-",
-    "section": "2 - Products & Risks",
-    "stem": "Systematic risk is:",
-    "choices": {
-      "A": "Determined by current tax law",
-      "B": "Risk that cannot be diversified away",
-      "C": "Related to the financial health of the company",
-      "D": "Stock specific risk"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “Risk that cannot be diversified away”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \"Risk that cannot be diversified away.\" Systematic risk is market-wide risk that cannot be eliminated through diversification.",
     "source": "YouTube: Series 7 Guru (guru44)"
   }
 ];

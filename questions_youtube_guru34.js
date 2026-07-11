@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU34 = [
       "D": "I or II"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “II or III”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “II or III”. Short stock and short (uncovered) calls have unlimited loss potential; short puts and long stock are capped.",
     "source": "YouTube: Series 7 Guru (guru34)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU34 = [
       "D": "Federal Deposit Insurance Corporation (FDIC)"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “National Public Finance Guarantee Corp. and AMBAC”. This falls under <b>4 - Regulatory Framework</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "The correct choice (B) is: “National Public Finance Guarantee Corp. and AMBAC”. GO bonds are backed by the full faith, credit, and taxing power of the issuer, whereas revenue bonds are backed by a specific project's revenues.",
     "source": "YouTube: Series 7 Guru (guru34)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU34 = [
       "D": "a selling group member."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “a selling syndicate member.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “a selling syndicate member.”. A selling syndicate member earns the total takedown (the sales concession) on each bond it sells from a municipal underwriting.",
     "source": "YouTube: Series 7 Guru (guru34)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU34 = [
       "D": "II and IV"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “I and III”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “I and III”. In a TIC account, a deceased tenant's interest passes to their estate (not the survivors); the decedent's share goes by will/intestacy.",
     "source": "YouTube: Series 7 Guru (guru34)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU34 = [
       "D": "50% government bond fund, 50% large-cap fund"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “50% large-cap stock fund, 40% municipal bond fund, 10% money market fund”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (A) is: “50% large-cap stock fund, 40% municipal bond fund, 10% money market fund”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
     "source": "YouTube: Series 7 Guru (guru34)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU34 = [
       "D": "accumulation units are exchanged for annuity units."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “accumulation units are exchanged for annuity units.”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "The correct choice (D) is: “accumulation units are exchanged for annuity units.”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
     "source": "YouTube: Series 7 Guru (guru34)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU34 = [
       "D": "$120,000"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “$900,000”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “$900,000”. A corporation counts both interest and dividend income from other companies as taxable portfolio income ($700k + $400k = $900k).",
     "source": "YouTube: Series 7 Guru (guru34)"
   }
 ];

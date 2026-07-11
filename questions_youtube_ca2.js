@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_CA2 = [
       "D": "$999"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “$10,112”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “$10,112”. A bond quoted at 101 1/8 equals $1,011.25 per bond ($1,000 par x 1.01125); 10 bonds cost $10,112.50, rounded to $10,112.",
     "source": "YouTube: Series 7 Guru (ca2)"
   }
 ];

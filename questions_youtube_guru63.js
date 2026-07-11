@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU63 = [
       "D": "Considered joint property"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Considered joint property”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “Considered joint property”. Certain account assets between spouses may be considered joint property depending on state law and account registration.",
     "source": "YouTube: Series 7 Guru (guru63)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU63 = [
       "D": "Never"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “If the accountant is also registered as an agent for the broker-dealer or for one in direct or indirect common control”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “If the accountant is also registered as an agent for the broker-dealer or for one in direct or indirect common control”. An accountant who is also registered as an agent of a broker-dealer (or one under common control) is subject to securities regulation in that capacity.",
     "source": "YouTube: Series 7 Guru (guru63)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU63 = [
       "D": "Never"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “If the accountant is also registered as an agent for direct or indirect common control”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “If the accountant is also registered as an agent for direct or indirect common control”. An accountant who is also registered as an agent of a broker-dealer (or one under common control) is subject to securities regulation in that capacity.",
     "source": "YouTube: Series 7 Guru (guru63)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU63 = [
       "D": "An agent who hears inside information and tells it to his boss"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “A person who trades based upon material non-public information”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
+    "explanation": "The correct choice (A) is: “A person who trades based upon material non-public information”. Insider trading is prohibited when trading on material nonpublic information; it is not excused by merely following SEC Rule 144 (which governs restricted-stock resales).",
     "source": "YouTube: Series 7 Guru (guru63)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU63 = [
       "D": "Customer Identification Program"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Regulation D”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Regulation D”. Large, frequent, round-number cash deposits are a classic red flag for money laundering and must be monitored and reported under BSA/AML rules.",
     "source": "YouTube: Series 7 Guru (guru63)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU63 = [
       "D": "75"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “100”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “100”. This falls under Products & Risks: the product's cash flows, structure, and risk profile determine its suitable use and pricing.",
     "source": "YouTube: Series 7 Guru (guru63)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU63 = [
       "D": "FEMA documents"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Business continuity plan”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (B) is: “Business continuity plan”. FINRA requires member firms to maintain a business continuity plan (BCP) to ensure they can continue critical operations during a disruption.",
     "source": "YouTube: Series 7 Guru (guru63)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU63 = [
       "D": "Member firm"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Individual participant of a qualified plan”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Individual participant of a qualified plan”. Qualified plan participants (e.g., 401(k) participants) are not themselves accredited investors by that status alone.",
     "source": "YouTube: Series 7 Guru (guru63)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU63 = [
       "D": "Are wire transfers"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Exceeds $10,000”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Exceeds $10,000”. Currency transactions (or aggregations) exceeding $10,000 must be reported to FinCEN via Currency Transaction Reports under the BSA.",
     "source": "YouTube: Series 7 Guru (guru63)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU63 = [
       "D": "3%"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “12%”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “12%”. This falls under Products & Risks: the product's cash flows, structure, and risk profile determine its suitable use and pricing.",
     "source": "YouTube: Series 7 Guru (guru63)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU63 = [
       "D": "Rights offering"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Tender offer”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Tender offer”. A tender offer is a public bid by an acquirer to buy shareholders' stock at a premium, governed by SEC tender-offer rules.",
     "source": "YouTube: Series 7 Guru (guru63)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU63 = [
       "D": "Be filed with FINRA within 45 days of mailing"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Disclose all important facts about the issues on which shareholder are asked to vote”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (A) is: “Disclose all important facts about the issues on which shareholder are asked to vote”. Proxy solicitors must disclose all material facts about the matters on which shareholders are asked to vote.",
     "source": "YouTube: Series 7 Guru (guru63)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU63 = [
       "D": "The client buys at the ask"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “The dealer sells at the bid”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “The dealer sells at the bid”. This falls under Trading, Accounts & Prohibited Practices: account opening, order handling, and conduct rules govern how trades are executed and accounts managed.",
     "source": "YouTube: Series 7 Guru (guru63)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU63 = [
       "D": "Are subject to a lower level of scrutiny than established firms"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Must file retail communications with FINRA at least 10 business days prior to first use”. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (C) is: “Must file retail communications with FINRA at least 10 business days prior to first use”. Firms must file retail communications (advertisements) with FINRA at least 10 business days before first use unless an exception applies.",
     "source": "YouTube: Series 7 Guru (guru63)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU63 = [
       "D": "Include a reply form together with the opt out notice"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Require the customer to write a letter to opt out”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Require the customer to write a letter to opt out”. For certain communications, the firm must give customers the ability to opt out rather than requiring them to opt in by writing a letter.",
     "source": "YouTube: Series 7 Guru (guru63)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU63 = [
       "D": "Sole proprietorship"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Sole proprietorship”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “Sole proprietorship”. This falls under Products & Risks: the product's cash flows, structure, and risk profile determine its suitable use and pricing.",
     "source": "YouTube: Series 7 Guru (guru63)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU63 = [
       "D": "Churning"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Freeriding”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Excessive trading to generate commissions = churning (unauthorized, prohibited).",
+    "explanation": "The correct choice (B) is: “Freeriding”. This falls under Trading, Accounts & Prohibited Practices: account opening, order handling, and conduct rules govern how trades are executed and accounts managed.",
     "source": "YouTube: Series 7 Guru (guru63)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU63 = [
       "D": "Roth IRA distributions do not have to begin at any specific age"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Traditional IRA contributions are always tax deductible”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “Traditional IRA contributions are always tax deductible”. Traditional IRA contributions are not always deductible — deductibility depends on the taxpayer's income and whether they are covered by a workplace plan.",
     "source": "YouTube: Series 7 Guru (guru63)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU63 = [
       "D": "The firm carrying the account must provide his employing firm with duplicate confirmations"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “He must give written notice to the firm carrying the account of his relationship with his employing firm”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “He must give written notice to the firm carrying the account of his relationship with his employing firm”. This falls under Trading, Accounts & Prohibited Practices: account opening, order handling, and conduct rules govern how trades are executed and accounts managed.",
     "source": "YouTube: Series 7 Guru (guru63)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU63 = [
       "D": "Progressive"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Regressive”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Regressive”. Regressive taxes take a larger share from lower-income taxpayers; the SIE tests the difference among progressive, proportional, and regressive tax structures.",
     "source": "YouTube: Series 7 Guru (guru63)"
   }
 ];

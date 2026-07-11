@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU67 = [
       "D": "Outstanding stock"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Authorized stock”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (A) is: “Authorized stock”. Authorized stock is the maximum number of shares a corporation is permitted to issue under its charter.",
     "source": "YouTube: Series 7 Guru (guru67)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU67 = [
       "D": "Outstanding stock"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Treasury stock”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (C) is: “Treasury stock”. Treasury stock is a corporation's own issued shares that it has reacquired; it pays no dividends and carries no voting rights.",
     "source": "YouTube: Series 7 Guru (guru67)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU67 = [
       "D": "Warrants"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Preferred stock”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Preferred stock”. Preferred stock generally has no voting rights (unlike common) but carries a fixed dividend and priority over common in liquidation.",
     "source": "YouTube: Series 7 Guru (guru67)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU67 = [
       "D": "Warrants"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Preferred stock”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Preferred stock”. Preferred shares have a fixed/stated dividend and rank ahead of common equity in both dividends and liquidation.",
     "source": "YouTube: Series 7 Guru (guru67)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU67 = [
       "D": "Common stock"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Preferred stock”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Preferred stock”. Preferred shares have a fixed/stated dividend and rank ahead of common equity in both dividends and liquidation.",
     "source": "YouTube: Series 7 Guru (guru67)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU67 = [
       "D": "Control stock"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Control stock”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (D) is: “Control stock”. Control stock is held by officers, directors, or holders of 10%+ of voting stock and is subject to Rule 144 volume limits when sold.",
     "source": "YouTube: Series 7 Guru (guru67)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU67 = [
       "D": "Control stock"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Control stock”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (D) is: “Control stock”. Control stock is held by officers, directors, or holders of 10%+ of voting stock and is subject to Rule 144 volume limits when sold.",
     "source": "YouTube: Series 7 Guru (guru67)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU67 = [
       "D": "ADRs do not have foreign currency risk"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “ADRs do not have foreign currency risk”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “ADRs do not have foreign currency risk”. ADRs represent foreign shares held by a U.S. depositary and trade in dollars, so they DO carry foreign-currency risk; saying they do not is false.",
     "source": "YouTube: Series 7 Guru (guru67)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU67 = [
       "D": "Proxy voting"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Cumulative voting”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “Cumulative voting”. Cumulative voting lets minority shareholders concentrate all their votes on a single director candidate, protecting minority representation.",
     "source": "YouTube: Series 7 Guru (guru67)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU67 = [
       "D": "3.8%"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “2.8%”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (B) is: “2.8%”. Current yield = annual dividends / price; $0.22 quarterly is $0.88/year, and $0.88 / $30 ≈ 2.8%.",
     "source": "YouTube: Series 7 Guru (guru67)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU67 = [
       "D": "50 shares"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “100 shares”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “100 shares”. A 5-for-4 split gives 1 extra share per 4 owned, so 400 shares become 500 (100 additional).",
     "source": "YouTube: Series 7 Guru (guru67)"
   }
 ];

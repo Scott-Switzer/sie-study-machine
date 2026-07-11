@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU65 = [
       "D": "Underwriting of a new stock offering by an investment bank"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Trading of previously issued securities between investors”. This falls under <b>1 - Capital Markets</b>. Key principle: The secondary market is where investors trade already-issued securities.",
+    "explanation": "The correct choice (B) is: “Trading of previously issued securities between investors”. The secondary market is where investors trade already-issued securities among themselves; the issuer receives no proceeds from these trades.",
     "source": "YouTube: Series 7 Guru (guru65)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU65 = [
       "D": "Discretionary order"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Limit order”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Limit order”. A limit order specifies a maximum buy or minimum sell price; it is not guaranteed to execute but protects on price.",
     "source": "YouTube: Series 7 Guru (guru65)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU65 = [
       "D": "Common stock offers a guaranteed rate of return."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Common stockholders typically have voting rights.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Common stockholders typically have voting rights.”. Common stockholders typically have voting rights (e.g., electing the board) and a residual claim on assets.",
     "source": "YouTube: Series 7 Guru (guru65)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU65 = [
       "D": "FRB (Federal Reserve Board)"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “SEC (Securities and Exchange Commission)”. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (C) is: “SEC (Securities and Exchange Commission)”. This falls under Capital Markets: securities are issued in the primary market and traded in the secondary market, with prices driven by interest rates, issuer credit, and supply/demand.",
     "source": "YouTube: Series 7 Guru (guru65)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU65 = [
       "D": "Tenancy by the Entirety"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Joint Tenancy with Right of Survivorship (JTWROS)”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Joint Tenancy with Right of Survivorship (JTWROS)”. In a TIC account, a deceased tenant's interest passes to their estate (not the survivors); the decedent's share goes by will/intestacy.",
     "source": "YouTube: Series 7 Guru (guru65)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU65 = [
       "D": "Sharing aggregated, anonymized market data with clients."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Disclosing material, nonpublic information to a client who then trades on it.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
+    "explanation": "The correct choice (B) is: “Disclosing material, nonpublic information to a client who then trades on it.”. Tipping material nonpublic information to a client who trades on it is a form of illegal insider trading.",
     "source": "YouTube: Series 7 Guru (guru65)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU65 = [
       "D": "It is primarily used to finance industrial development projects."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “It is secured by the full faith and credit of the issuing municipality, backed by its taxing power.”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “It is secured by the full faith and credit of the issuing municipality, backed by its taxing power.”. Interest on municipal bonds is exempt from federal income tax and is typically exempt from state/local tax for residents of the issuing state.",
     "source": "YouTube: Series 7 Guru (guru65)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU65 = [
       "D": "They are primarily involved in the municipal securities market."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “They can buy and sell a broad range of securities, including stocks, bonds, options, and investment company products.”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+    "explanation": "The correct choice (C) is: “They can buy and sell a broad range of securities, including stocks, bonds, options, and investment company products.”. A broker-dealer can facilitate trading in a broad range of securities for customers, acting as agent or principal.",
     "source": "YouTube: Series 7 Guru (guru65)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU65 = [
       "D": "The customer's investment adviser"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The carrying firm”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “The carrying firm”. The carrying (clearing) firm holds customer accounts and securities and is responsible for clearance and settlement.",
     "source": "YouTube: Series 7 Guru (guru65)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU65 = [
       "D": "Form U4"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Margin Disclosure Statement”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (C) is: “Margin Disclosure Statement”. Before opening a margin account, the firm must provide a Margin Disclosure Statement describing the risks of margin trading.",
     "source": "YouTube: Series 7 Guru (guru65)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU65 = [
       "D": "Liquidity risk"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Credit risk”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "The correct choice (C) is: “Credit risk”. Credit (default) risk is the risk the issuer fails to make promised payments; lower-rated bonds carry more of it.",
     "source": "YouTube: Series 7 Guru (guru65)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU65 = [
       "D": "To ensure that all customer communications are approved by a principal."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “To detect and deter money laundering and terrorist financing.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
+    "explanation": "The correct choice (B) is: “To detect and deter money laundering and terrorist financing.”. Large, frequent, round-number cash deposits are a classic red flag for money laundering and must be monitored and reported under BSA/AML rules.",
     "source": "YouTube: Series 7 Guru (guru65)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU65 = [
       "D": "Municipal bonds are guaranteed by the U.S. government."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “The interest earned on municipal bonds may be exempt from federal, state, and local taxes for residents of the issuing state.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “The interest earned on municipal bonds may be exempt from federal, state, and local taxes for residents of the issuing state.”. Interest on municipal bonds is exempt from federal income tax and is typically exempt from state/local tax for residents of the issuing state.",
     "source": "YouTube: Series 7 Guru (guru65)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU65 = [
       "D": "To provide investment advice to institutional clients."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “To maintain records of stock and bond owners and handle dividend and interest payments.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “To maintain records of stock and bond owners and handle dividend and interest payments.”. The transfer agent maintains the shareholder records and handles the issuance of split shares and dividend payments.",
     "source": "YouTube: Series 7 Guru (guru65)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU65 = [
       "D": "Covered"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Short”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Short”. This falls under Products & Risks: the product's cash flows, structure, and risk profile determine its suitable use and pricing.",
     "source": "YouTube: Series 7 Guru (guru65)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU65 = [
       "D": "When a registered representative changes their address."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “When a transaction or series of transactions raises suspicion of money laundering or other illegal activity.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “When a transaction or series of transactions raises suspicion of money laundering or other illegal activity.”. Large, frequent, round-number cash deposits are a classic red flag for money laundering and must be monitored and reported under BSA/AML rules.",
     "source": "YouTube: Series 7 Guru (guru65)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU65 = [
       "D": "Provides investors with tax-exempt income from municipal bonds."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Seeks to maintain a stable Net Asset Value (NAV) of $1.00 per share.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Seeks to maintain a stable Net Asset Value (NAV) of $1.00 per share.”. Money market funds seek to maintain a stable $1.00 NAV by investing in short-term, high-quality debt.",
     "source": "YouTube: Series 7 Guru (guru65)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU65 = [
       "D": "To supervise the conduct of registered representatives."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “To facilitate the efficient clearing and settlement of securities transactions.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Know the settlement clock: equities T+2, options and most bonds T+1.",
+    "explanation": "The correct choice (C) is: “To facilitate the efficient clearing and settlement of securities transactions.”. Clearing agencies (e.g., NSCC) facilitate the efficient, guaranteed clearance and settlement of securities transactions.",
     "source": "YouTube: Series 7 Guru (guru65)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU65 = [
       "D": "Increasing the overall leverage in the portfolio."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Selling equities and buying fixed income to return to the original allocation.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Selling equities and buying fixed income to return to the original allocation.”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
     "source": "YouTube: Series 7 Guru (guru65)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU65 = [
       "D": "Follow-on offering"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Secondary offering”. This falls under <b>1 - Capital Markets</b>. Key principle: An IPO is the first public sale of a company's stock (primary market).",
+    "explanation": "The correct choice (B) is: “Secondary offering”. A secondary offering/secondary market transaction involves outstanding shares and the issuer receives no proceeds.",
     "source": "YouTube: Series 7 Guru (guru65)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU65 = [
       "D": "Private commercial banks"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Government National Mortgage Association (Ginnie Mae)”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Government National Mortgage Association (Ginnie Mae)”. Ginnie Mae (GNMA) is a government agency whose securities are backed by the full faith and credit of the U.S. government.",
     "source": "YouTube: Series 7 Guru (guru65)"
   }
 ];

@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT = [
       "D": "political risk"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "The correct choice (D) is: \"political risk\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT = [
       "D": "a prime broker"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "The correct choice (B) is: \"clearing firm\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT = [
       "D": "6 years"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "The correct choice (A) is: \"A shelf registration is good for 2 years\" This falls under 2 - Products & Risks.",
     "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
   },
   {
@@ -174,7 +174,7 @@ var SIE_QUESTIONS_YT = [
       "D": "as initial public offerings"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "The correct choice (B) is: \"through private placements\" This falls under 1 - Capital Markets.",
     "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
   },
   {

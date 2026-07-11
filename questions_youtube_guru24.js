@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Fixed interest rate exposure"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Increased market volatility and uncertain earnings”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Increased market volatility and uncertain earnings”. A newly public/early-stage company carries the highest risk from market volatility and uncertain earnings relative to established issuers.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Open-market stabilization"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Unauthorized discretionary trading”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
+    "explanation": "The correct choice (A) is: “Unauthorized discretionary trading”. Executing trades in a discretionary account without the customer's written authorization is unauthorized discretion, a prohibited practice.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "They cannot fluctuate in market value"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “They are considered lower credit-risk investments”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (A) is: “They are considered lower credit-risk investments”. Treasuries are backed by the full faith and credit of the U.S. government and are considered among the lowest credit-risk investments.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "To convert shares into bonds"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “To trigger a sale if the stock declines significantly”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “To trigger a sale if the stock declines significantly”. A stop-loss (sell-stop) order is placed below the market to automatically sell if the price falls, limiting downside.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Mandatory early redemption benefits"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Increased credit risk associated with repayment”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “Increased credit risk associated with repayment”. When an issuer's financial condition deteriorates, the credit (default) risk on its bonds rises.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Preventing all market declines simultaneously"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Reducing concentrated portfolio risk”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Diversification reduces unsystematic (company-specific) risk.",
+    "explanation": "The correct choice (A) is: “Reducing concentrated portfolio risk”. Investing across multiple industries/sectors is diversification, which reduces unsystematic (concentration) risk.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Suitability review"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Insider trading”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
+    "explanation": "The correct choice (C) is: “Insider trading”. Trading on confidential, material nonpublic information about a merger is illegal insider trading.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Preferred shareholders are paid after common shareholders in liquidation"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Preferred shareholders generally receive dividend priority”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “Preferred shareholders generally receive dividend priority”. Common shareholders rank last (after bondholders and preferred shareholders) in claims on assets at liquidation.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Restricted private placement exposure"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Securities that can be bought or sold easily”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "The correct choice (B) is: “Securities that can be bought or sold easily”. Liquidity is the ability to buy or sell a security quickly without a significant change in its price.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Retirement account"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Margin account”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (C) is: “Margin account”. Using borrowed funds from the firm to buy securities requires a margin account, which is governed by Reg T.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Coupon payments stop temporarily"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Existing bond prices may decline”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “Existing bond prices may decline”. Bond prices move inversely to interest rates, so when rates rise, the prices of existing bonds fall.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Reduced market capitalization"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Lack of liquidity suitability”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
+    "explanation": "The correct choice (B) is: “Lack of liquidity suitability”. Recommending an illiquid investment to a client who needs near-term cash access is unsuitable — liquidity needs must be matched to the investment.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Guaranteeing investment profits for customers"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Regulating broker-dealers and industry conduct”. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (C) is: “Regulating broker-dealers and industry conduct”. FINRA's primary role is to regulate broker-dealers and their registered representatives and oversee industry conduct.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Short sale order"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Market order”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Market order”. A market order executes immediately at the best available price but guarantees neither price nor full execution.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Defensive sectors automatically outperform every asset class"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Defensive sectors may experience relatively lower volatility”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “Defensive sectors may experience relatively lower volatility”. Defensive sectors (utilities, staples) tend to have lower volatility and hold up better in downturns than cyclical sectors.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Prospectus delivery rule"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Wash sale rule”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (C) is: “Wash sale rule”. The wash-sale rule disallows a loss if substantially identical securities are repurchased within 30 days before or after the sale.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Immediate suspension of interest payments"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Reduced purchasing power of future payments”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “Reduced purchasing power of future payments”. Inflation (purchasing-power) risk is the chance that rising prices erode the real value of fixed-income returns.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Employees after common shareholders only"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Bondholders before common shareholders”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Bondholders before common shareholders”. In bankruptcy, creditors (bondholders) are paid before equity holders (common shareholders), who are last in line.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Eliminating diversification completely"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Hedging against potential losses”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+    "explanation": "The correct choice (C) is: “Hedging against potential losses”. Using options to limit downside in an existing position is hedging — reducing risk rather than speculating.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Authorized advertising exemption"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Misrepresentation of investment risks”. This falls under <b>2 - Products & Risks</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
+    "explanation": "The correct choice (A) is: “Misrepresentation of investment risks”. Guaranteeing investment results or exaggerating returns is misrepresentation, a prohibited sales practice.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "To calculate Treasury auction pricing"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “To evaluate financial performance and profitability”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (A) is: “To evaluate financial performance and profitability”. Investors review earnings reports to assess a company's financial performance, profitability, and outlook.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Minimal capital appreciation potential"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Greater short-term price volatility”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Greater short-term price volatility”. Aggressive-growth investors seek higher returns and typically accept greater short-term price volatility to pursue them.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Permanent reduction in portfolio volatility"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Increased exposure to sector-specific downturns”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "The correct choice (A) is: “Increased exposure to sector-specific downturns”. Concentrating in one sector raises unsystematic risk — a sector-specific downturn can hurt the whole portfolio.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Short-term momentum trades"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Income-focused securities”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Income-focused securities”. Investments that pay periodic fixed amounts (bonds, preferreds, annuities) serve investors seeking current income.",
     "source": "YouTube: Series 7 Guru (guru24)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU24 = [
       "D": "Elimination of all management fees"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Broad exposure to large U.S. companies”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “Broad exposure to large U.S. companies”. An S&P 500 ETF gives broad, diversified exposure to large U.S. companies in a single low-cost vehicle.",
     "source": "YouTube: Series 7 Guru (guru24)"
   }
 ];

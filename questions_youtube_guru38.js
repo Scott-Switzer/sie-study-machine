@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "Same day"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “T+2”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Equity trades settle T+2 business days; options T+1; municipal/GOV corp bonds T+1.",
+    "explanation": "The correct choice (B) is: “T+2”. Most securities transactions settle on a T+2 (trade date plus two business days) basis.",
     "source": "YouTube: Series 7 Guru (guru38)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "The registered representative may accept the gift, but must report it to FINRA immediately."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “The registered representative may accept the gift, provided their firm's policies allow it and it is not conditional on future business.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (C) is: “The registered representative may accept the gift, provided their firm's policies allow it and it is not conditional on future business.”. FINRA limits gifts to $100 per person per year; a $150 gift may be accepted only if the firm's policies allow it and it is not conditioned on future business.",
     "source": "YouTube: Series 7 Guru (guru38)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "Commodities"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Fixed-income securities”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Fixed-income securities”. During deflation (falling prices), fixed-income securities preserve purchasing power and typically outperform.",
     "source": "YouTube: Series 7 Guru (guru38)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "Dividing the fund's net investment income by the number of shares outstanding."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Subtracting the fund's liabilities from its assets and dividing by the number of outstanding shares.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Subtracting the fund's liabilities from its assets and dividing by the number of outstanding shares.”. NAV equals the fund's total assets minus liabilities divided by shares outstanding, computed at the end of each trading day.",
     "source": "YouTube: Series 7 Guru (guru38)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "It can be callable by the issuer."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “It typically has voting rights.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “It typically has voting rights.”. Preferred stock generally has no voting rights (unlike common) but carries a fixed dividend and priority over common in liquidation.",
     "source": "YouTube: Series 7 Guru (guru38)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "Liquidity risk"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Prepayment risk”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "The correct choice (C) is: “Prepayment risk”. CMOs are exposed to prepayment risk — borrowers may refinance when rates fall, returning principal sooner than expected.",
     "source": "YouTube: Series 7 Guru (guru38)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "Municipal bond"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Commercial paper”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (C) is: “Commercial paper”. Commercial paper is short-term corporate debt (under 270 days) and is a classic money-market instrument.",
     "source": "YouTube: Series 7 Guru (guru38)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "High-yield (junk) bond"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “High-yield (junk) bond”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (D) is: “High-yield (junk) bond”. High-yield (junk) bonds carry the highest default risk and therefore the highest yields among bonds.",
     "source": "YouTube: Series 7 Guru (guru38)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "Increasing unemployment"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Rising inflation”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Rising inflation”. Rising inflation leads the Fed to raise short-term interest rates to cool the economy.",
     "source": "YouTube: Series 7 Guru (guru38)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "Federal Reserve Board (FRB)"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Municipal Securities Rulemaking Board (MSRB)”. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (C) is: “Municipal Securities Rulemaking Board (MSRB)”. The SEC is the federal agency that administers the federal securities laws and regulates the industry.",
     "source": "YouTube: Series 7 Guru (guru38)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "Exchange-Traded Fund (ETF)"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Closed-end fund”. This falls under <b>2 - Products & Risks</b>. Key principle: UITs are fixed, unmanaged portfolios with a stated termination date.",
+    "explanation": "The correct choice (C) is: “Closed-end fund”. A closed-end fund issues a fixed number of shares that trade on an exchange at market-determined prices that can differ from NAV.",
     "source": "YouTube: Series 7 Guru (guru38)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "The day before the offering."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The settlement date.”. This falls under <b>1 - Capital Markets</b>. Key principle: Know the settlement clock: equities T+2, options and most bonds T+1.",
+    "explanation": "The correct choice (B) is: “The settlement date.”. A prospectus must be delivered no later than the confirmation of sale (or settlement) for a new issue of securities.",
     "source": "YouTube: Series 7 Guru (guru38)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "Call premium"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Dealer spread”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (C) is: “Dealer spread”. The dealer spread is the difference between a bond's bid and ask prices, representing the dealer's markup.",
     "source": "YouTube: Series 7 Guru (guru38)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "Executing a large block trade that impacts the stock price."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Spreading false rumors about a company to drive its stock price down.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Spreading false rumors about a company to drive its stock price down.”. Spreading false rumors to move a price is a prohibited manipulative practice under the securities laws.",
     "source": "YouTube: Series 7 Guru (guru38)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU38 = [
       "D": "The YTM cannot be determined without knowing the bond's maturity."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “The YTM is lower than the coupon rate.”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (C) is: “The YTM is lower than the coupon rate.”. YTM is the total return an investor earns if the bond is held to maturity, incorporating coupon, price, par, and time to maturity.",
     "source": "YouTube: Series 7 Guru (guru38)"
   }
 ];

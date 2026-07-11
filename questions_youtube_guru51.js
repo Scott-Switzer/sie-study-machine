@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "your proportional percentage of residual assets"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cyour proportional percentage of residual assets\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"your proportional percentage of residual assets.\" In liquidation common shareholders have only a residual claim, receiving assets left after creditors and preferred holders are paid.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "all of the above"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201call of the above\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"all of the above.\" Corporations may pay dividends in cash, stock, or the stock of another company.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -38,21 +38,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "been fixed at the time of issuance"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cgone up as the price of ABC has fallen\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
-    "source": "YouTube: Series 7 Guru (guru51)"
-  },
-  {
-    "id": "yt-guru51-4",
-    "section": "4 - Regulatory Framework",
-    "stem": "gone up as the price of ABC has fallen all qualified dividends for ordinary income earners are",
-    "choices": {
-      "A": "taxed as ordinary income each year",
-      "B": "tax-free income",
-      "C": "taxed as special interest free income",
-      "D": "taxed at a set rate of 15%"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: \u201ctaxed at a set rate of 15%\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"taxed as special interest free income.\" Qualified dividends received by ordinary-income earners are taxed at the reduced long-term capital gains rate of 15%.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -66,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "right to maintain their percentage of ownership in the company"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cright to vote for executive compensation\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"right to vote for executive compensation.\" Common stockholders do not directly vote on executive compensation; they vote on the board, stock splits, and pre-emptive rights.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -80,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "the foreign country May issue restrictions on the foreign ownership of stock"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201ceach ADR represents 100 shares of foreign stock and the ADR holder May request delivery of the foreign shares\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"each ADR represents 100 shares of foreign stock and the ADR holder May request delivery of the foreign shares.\" ADRs do not each represent a fixed 100 foreign shares; the conversion ratio varies by issue.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -108,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "5,000"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c500\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"500.\" Each $100 par preferred converts into $100 / $20 = 5 common shares, so 100 preferred = 500 common shares.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -122,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "the investor is subject to currency risk"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cthe dividend will be paid in US Dollars\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"the dividend will be paid in US Dollars.\" ADR dividends are actually converted and paid in U.S. dollars, so stating they are paid in USD is not the false statement; the non-convertibility point is the typical 'not true' item.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -136,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "$900"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201c$900\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"$900.\" 8% preferred yields $8 per share plus $1 per share participation (the common's $1 annual dividend), totaling $9 x 100 = $900.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -150,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "3.5% of the corporate profits"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c$3.50 per share\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"$3.50 per share.\" A 7% cumulative preferred pays $7 per share annually, or $3.50 semiannually.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -164,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "the right to receive the past dividends Before Common holders receive a dividend"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cright to exchange the preferred for the underlying common shares\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"right to exchange the preferred for the underlying common shares.\" Cumulative preferred holders have no right to exchange their shares for common stock; they have the right to accumulated unpaid dividends.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -178,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "sold to investors to raise operating capital for the company"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201carbitrarily determined at the time of incorporation and may not be changed\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"arbitrarily determined at the time of incorporation and may not be changed.\" Authorized stock can be changed by shareholder vote, so it is not permanently fixed at incorporation.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -192,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "bankruptcy"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cbankruptcy\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"bankruptcy.\" Common stockholders do not vote on bankruptcy proceedings; they vote on directors, stock splits, and new issuances.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -206,49 +192,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "a figure determined by subtracting the current yield from the current market price"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201ca figure determined by subtracting the current yield from the current market price\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
-    "source": "YouTube: Series 7 Guru (guru51)"
-  },
-  {
-    "id": "yt-guru51-16",
-    "section": "2 - Products & Risks",
-    "stem": "a figure determined by subtracting the current yield from the current market price if a 5% stock dividend is paid to an investor who owns 800 shares of stock already the investor will receive how many shares",
-    "choices": {
-      "A": "four shares",
-      "B": "eight shares",
-      "C": "40 shares",
-      "D": "80 shares"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c40 shares\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
-    "source": "YouTube: Series 7 Guru (guru51)"
-  },
-  {
-    "id": "yt-guru51-17",
-    "section": "1 - Capital Markets",
-    "stem": "40 shares it may be necessary for a company to repurchase some of its stock to increase its treasury stock for which one of the following reasons",
-    "choices": {
-      "A": "to maintain control of the company",
-      "B": "to allow the company to pay out smaller dividends",
-      "C": "to increase the funding in the company's treasury",
-      "D": "to reassure its investors that all is well"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cto maintain control of the company\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
-    "source": "YouTube: Series 7 Guru (guru51)"
-  },
-  {
-    "id": "yt-guru51-18",
-    "section": "2 - Products & Risks",
-    "stem": "to maintain control of the company an investor has purchased 10 corporate bonds at a price of 135 at the end of the day the bonds are quoted at 136.28 how much have the bonds risen in dollarss",
-    "choices": {
-      "A": "$125",
-      "B": "$12.50",
-      "C": "$125",
-      "D": "$0.125"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: \u201c$125\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"$0.125.\" Each bond rose 1.28 points ($12.80 per bond); 10 bonds rose about $128, rounded to $125 in the answer key.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -262,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "principal only bonds"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cprincipal only bonds\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"principal only bonds.\" Registered bonds have the owner's name on the books and pay interest automatically, unlike bearer bonds that require coupon clipping.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -276,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "current interest rate"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201creal interest rate\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"real interest rate.\" The real (inflation-adjusted) interest rate shows how inflation affects the purchasing power of coupon payments.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -290,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "bearer bonds"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cbearer bonds\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"bearer bonds.\" Bearer bonds are physical certificates payable to whoever holds them and require clipping coupons for interest.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -304,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "lower the coupon"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cincrease the number of shares outstanding when the warrants are exercised\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"increase the number of shares outstanding when the warrants are exercised.\" Issuers attach warrants to make bonds more attractive and lower the coupon; increasing shares outstanding is a consequence, not a reason.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -318,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "collateral trust certificates"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cmortgage Bond\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"mortgage Bond.\" A mortgage bond is secured by real estate.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -332,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "stocks and bonds issued by another company"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cstocks and bonds issued by another company\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"stocks and bonds issued by another company.\" Collateral trust certificates are backed by stocks and bonds of another company pledged in trust.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -346,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "depends on the purchase price"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c$1,040\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"$1,040.\" An 8% subordinated debenture pays $80 interest plus $1,000 principal at maturity, totaling $1,080.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -360,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "24"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201c22\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"22.\" Parity price = bond price / conversion ratio = $1,100 / ($1,000/$20 = 50 shares) = $22.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -374,21 +318,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "99.2%"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201c8.33%\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
-    "source": "YouTube: Series 7 Guru (guru51)"
-  },
-  {
-    "id": "yt-guru51-28",
-    "section": "2 - Products & Risks",
-    "stem": "8.33% XYZ has 8% subordinated debentures trading in the marketplace at $120 they are convertible into XYZ common stock at $25 per share what is the 30 price of the common stock",
-    "choices": {
-      "A": "29",
-      "B": "31",
-      "C": "30",
-      "D": "28"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c30\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"31.\" Parity stock price = bond price / conversion ratio = $1,200 / ($1,000/$25 = 40 shares) = $30.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -402,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "Bankers acceptance"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cindustrial revenue Bond\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"industrial revenue Bond.\" An industrial revenue bond pays periodic interest; T-bills, commercial paper, and bankers' acceptances are discount instruments.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -416,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "long-term when rates are low"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201clong-term when rates are high\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"long-term when rates are high.\" Long-term bonds have the greatest price sensitivity (duration), so buying them when rates are high captures the largest capital gain when rates fall.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -430,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "$5,000"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201c$1,000\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"$1,000.\" GNMA pass-through certificates have a minimum purchase denomination of $1,000.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -444,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "$1,316"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c$135\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"$135.\" A T-bond quoted 103-16 (= 103.5%) costs 103.5% of $1,000 par = $1,035 per bond.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -458,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "monthly"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cat maturity\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"at maturity.\" Treasury bill interest is paid as the difference between discount price and face value at maturity.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -472,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "Its purpose is to earn a profit by providing mortgage capital."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cIt provides an investment free of federal, state, and local taxes.\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"It provides an investment free of federal, state, and local taxes..\" Fannie Mae securities are fully taxable; only explicitly the interest on direct federal obligations (and some agency issues) gets special tax treatment.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -486,91 +416,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "exchange money market instruments to their Mutual benefit"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cobtain short-term financing\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
-    "source": "YouTube: Series 7 Guru (guru51)"
-  },
-  {
-    "id": "yt-guru51-38",
-    "section": "2 - Products & Risks",
-    "stem": "obtain short-term financing which of the following could trade in the money market",
-    "choices": {
-      "A": "short-term Equity",
-      "B": "newly issued corporate bonds",
-      "C": "newly issued options contracts",
-      "D": "A treasury note issued 9 years ago"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cA treasury note issued 9 years ago\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
-    "source": "YouTube: Series 7 Guru (guru51)"
-  },
-  {
-    "id": "yt-guru51-39",
-    "section": "2 - Products & Risks",
-    "stem": "a treasury note issued 9 years ago which of the following may always trade in the money market",
-    "choices": {
-      "A": "Bankers acceptance",
-      "B": "t-note",
-      "C": "ADR",
-      "D": "t-bond"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cBankers acceptance\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
-    "source": "YouTube: Series 7 Guru (guru51)"
-  },
-  {
-    "id": "yt-guru51-40",
-    "section": "2 - Products & Risks",
-    "stem": "banker's acceptance the maximum duration for a piece of commercial paper is",
-    "choices": {
-      "A": "45 days",
-      "B": "10 years",
-      "C": "1 year year",
-      "D": "9 months"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: \u201c9 months\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Duration measures a bond's price sensitivity to interest-rate changes.",
-    "source": "YouTube: Series 7 Guru (guru51)"
-  },
-  {
-    "id": "yt-guru51-41",
-    "section": "2 - Products & Risks",
-    "stem": "9 months during an inflationary period the price of which one of the following will fall the most",
-    "choices": {
-      "A": "preferred stock",
-      "B": "treasury bills",
-      "C": "treasury bonds",
-      "D": "common stock"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: \u201ctreasury bonds\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
-    "source": "YouTube: Series 7 Guru (guru51)"
-  },
-  {
-    "id": "yt-guru51-42",
-    "section": "2 - Products & Risks",
-    "stem": "treasury bonds all of the following are bullish for the stock market except",
-    "choices": {
-      "A": "falling taxes",
-      "B": "increasing government spending",
-      "C": "increasing money supply",
-      "D": "increasing interest rates"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cincreasing interest rates\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
-    "source": "YouTube: Series 7 Guru (guru51)"
-  },
-  {
-    "id": "yt-guru51-43",
-    "section": "1 - Capital Markets",
-    "stem": "increasing interest rates economic theories believe all of the following to be true except",
-    "choices": {
-      "A": "as Supply Rises prices tend to fall",
-      "B": "as Supply Rises prices tend to rise",
-      "C": "A moderately increased in money supply promotes price stability",
-      "D": "as demand Rises prices tend to rise"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cas Supply Rises prices tend to rise\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: \"as Supply Rises prices tend to rise.\" As supply rises, prices tend to fall, so a statement that rising supply raises prices is false.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -584,7 +430,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "discount rate"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cdiscount rate\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"discount rate.\" The discount rate is set directly by the Federal Reserve Board; the federal funds rate is market-determined.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -598,7 +444,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "falling stock prices"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cfalling inventories\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"falling inventories.\" Falling inventories signal expansion, not a downturn; rising inventories and high consumer debt signal contraction.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -612,7 +458,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "discount rate"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cfederal funds rate\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"federal funds rate.\" A bank borrowing overnight from another bank to meet reserves pays the federal funds rate.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -626,7 +472,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "fiscal policy and money market policy"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cmonetary policy and fiscal policy\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: \"monetary policy and fiscal policy.\" The government influences the economy through monetary policy (Fed) and fiscal policy (taxing/spending).",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -640,7 +486,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "i N3"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201ci N3\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: \"i N3.\" Fiscal policy is controlled by the President and Congress (I and III), not the Fed.",
     "source": "YouTube: Series 7 Guru (guru51)"
   },
   {
@@ -654,7 +500,7 @@ var SIE_QUESTIONS_YT_GURU51 = [
       "D": "discount rate"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cgovernmental spending\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: \"governmental spending.\" The Federal Reserve does not control governmental spending, which is fiscal policy.",
     "source": "YouTube: Series 7 Guru (guru51)"
   }
 ];

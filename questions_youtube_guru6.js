@@ -10,13 +10,13 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "A qualified institutional buyer (QIB)"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “An accredited investor”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cAn accredited investor.\u201d An accredited investor includes individuals with income over $200,000 ($300,000 joint) in each of the prior two years and a reasonable expectation of the same this year.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
     "id": "yt-guru6-2",
     "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "ABC Corporation's Quarterly Dividend — Dividend: $0.15, Declaration Date: 3rd, Ex-dividend Date: 28th, Record Date: 28th, Payment Date: 31st. Based on the information above, if a customer purchased 1,000 shares on the 28th, what's the cash amount of dividends she receives?",
+    "stem": "ABC Corporation's Quarterly Dividend \u2014 Dividend: $0.15, Declaration Date: 3rd, Ex-dividend Date: 28th, Record Date: 28th, Payment Date: 31st. Based on the information above, if a customer purchased 1,000 shares on the 28th, what's the cash amount of dividends she receives?",
     "choices": {
       "A": "$15,000",
       "B": "$1,500",
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "$0"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “$0”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201c$0.\u201d Buying on the ex-dividend date means the buyer is not entitled to the dividend; she receives $0.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "May concentrate assets in a few positions"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Must register under the Investment Company Act of 1940 if offered to U.S. residents”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cMust register under the Investment Company Act of 1940 if offered to U.S. residents.\u201d Hedge funds are exempt from the Investment Company Act of 1940 (they rely on private-offering exemptions), so they need not register.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Default risk"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Political risk”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "The correct choice (C) is: \u201cPolitical risk.\u201d New regulations raising a company's costs reflect political/regulatory risk, not credit or default risk.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Liquidity"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Non-systematic”. This falls under <b>1 - Capital Markets</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "The correct choice (A) is: \u201cNon-systematic.\u201d The portfolio's risk comes from company/industry concentration (oil, pharma), which is diversifiable non-systematic risk.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Limited to mutual funds"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Determined by the investor”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cDetermined by the investor.\u201d A Coverdell ESA's investments are chosen by the account owner; the contributor decides how the funds are invested.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "A 10-year zero coupon bond"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “A 30-year zero coupon bond”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cA 30-year zero coupon bond.\u201d Zero-coupon bonds have the longest duration; a 30-year zero has the greatest interest-rate (duration) risk of the choices.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "At expiration"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “T + 1”. This falls under <b>2 - Products & Risks</b>. Key principle: U.S. trades do NOT settle same-day; equities settle T+2 (business days), debt/options T+1.",
+    "explanation": "The correct choice (A) is: \u201cT + 1.\u201d Listed equity option trades settle on the next business day, T+1.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Wide trading range for the price of its stock"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “High dividend payout ratio”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cHigh dividend payout ratio.\u201d Growth companies retain earnings to fund expansion, so they have low (not high) dividend payout ratios.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "A growth fund"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “An asset allocation fund”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cAn asset allocation fund.\u201d An asset allocation fund shifts its percentages among asset classes as market conditions change, managed by the adviser.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "A person who is a minor"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “A person who has a significant disability”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cA person who has a significant disability.\u201d An ABLE account is for individuals with significant disabilities; a 529 plan is for education savings.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Playing basketball in a city-wide tournament."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Serving as a director for a profit-based firm.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cServing as a director for a profit-based firm.\u201d Registered persons must disclose outside business activities such as serving as a director of a for-profit firm to their employer.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "A face-amount certificate company"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “A closed-end fund”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cA closed-end fund.\u201d Closed-end funds make a fixed offering and provide no ongoing redemption mechanism; the investor must sell in the market.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "8.3%"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “8.3%”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (D) is: \u201c8.3%.\u201d Current yield is annual interest divided by price: (8% x $1,000) / ($960) = $80 / $960 = 8.33%.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "If 90% of the income is distributed, only the shareholders pay taxes, thereby avoiding corporate taxes."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “If 90% of the income is distributed, only the shareholders pay taxes, thereby avoiding corporate taxes.”. This falls under <b>2 - Products & Risks</b>. Key principle: REITs let investors pool into income-producing real estate; dividends taxed as ordinary income.",
+    "explanation": "The correct choice (D) is: \u201cIf 90% of the income is distributed, only the shareholders pay taxes, thereby avoiding corporate taxes.\u201d REITs avoid double taxation by distributing at least 90% of income; shareholders pay tax, the REIT is not taxed at the entity level.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "$1,057.50"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “$1,057.50”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (D) is: \u201c$1,057.50.\u201d A customer buying pays the ask; 105.24 equals 105 and 24/32 = $1,057.50 per $1,000 face.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Register in all five states"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Register in all five states”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (D) is: \u201cRegister in all five states.\u201d An agent must register (be licensed) in every state where she has an office and conducts business - here all five states.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Interest-rate risk"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Political risk”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "The correct choice (A) is: \u201cPolitical risk.\u201d Foreign equities add exposure to foreign governments and currencies, i.e., political risk not present in domestic corporates.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "The number of shares being issued"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “The number of shares being issued”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
+    "explanation": "The correct choice (D) is: \u201cThe number of shares being issued.\u201d The preliminary prospectus (red herring) states the number of shares to be issued but not the final POP or effective date.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "$4,000"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “$0”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201c$0.\u201d A partial tender below the minimum fails; if fewer than the 100,000 minimum are tendered, no shares are purchased, so the investor gets $0.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "FINRA"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The OCC”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (B) is: \u201cThe OCC.\u201d The Options Clearing Corporation (OCC) issues the Options Disclosure Document (ODD).",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Only if the transaction takes place during the cooling-off period."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “When the registration is declared effective.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
+    "explanation": "The correct choice (A) is: \u201cWhen the registration is declared effective.\u201d Payment for a new issue may be accepted only after the registration statement is declared effective by the SEC.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "On the declaration date"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “On the payment date”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cOn the payment date.\u201d Dividends are actually paid on the payment date, distinct from the record, ex-dividend, and declaration dates.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Buy 1,500 shares at $50.00 and sell 2,000 shares at $50.05"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Buy 1,500 shares at $50.00 and sell 2,000 shares at $50.05”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cBuy 1,500 shares at $50.00 and sell 2,000 shares at $50.05.\u201d In a quote, the market maker buys at the bid (50.00) and sells at the ask (50.05); (15x20) means 15x100=1,500 to buy and 20x100=2,000 to sell.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Close the customer's account for a specified period"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Sell out the securities and freeze the account”. This falls under <b>1 - Capital Markets</b>. Key principle: The SEC is the federal regulator of securities markets.",
+    "explanation": "The correct choice (A) is: \u201cSell out the securities and freeze the account.\u201d If a customer fails to pay, the firm sells out the position and freezes the account for 90 days.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Determine their share prices once per day"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Offer a fixed number of shares”. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (B) is: \u201cOffer a fixed number of shares.\u201d Closed-end funds issue a fixed number of shares in a one-time IPO and then trade on an exchange; open-end funds continually issue/redeem.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Prohibited, fraudulent, and manipulative"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Prohibited, fraudulent, and manipulative”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cProhibited, fraudulent, and manipulative.\u201d Pledging to repurchase shares above the POP is a prohibited, fraudulent, and manipulative practice (a form of market manipulation).",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "One for each proxy that's filed by the board of directors"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “One vote for each share that the stockholder owns”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cOne vote for each share that the stockholder owns.\u201d Under statutory voting, each share gets one vote per director seat, so the shareholder votes one vote per share for each vacancy.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "$958.75"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “$958.75”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201c$958.75.\u201d Government bonds are quoted in 32nds; 95.28 = 95 + 28/32 = 95.875% of $1,000 = $958.75.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "$90"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “$25”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201c$25.\u201d Each semiannual interest payment is (5% x $1,000)/2 = $25.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -430,7 +430,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Behind-the-money"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Out-of-the-money”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cOut-of-the-money.\u201d A call is out-of-the-money when the stock price is below the strike price.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -444,7 +444,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "It must be offered to shareholders on a monthly basis."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “It must be filed at the end of an issuer's fiscal year.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cIt must be filed at the end of an issuer's fiscal year.\u201d Form 10-K is the annual (fiscal year-end) report; Form 10-Q is the quarterly report.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -458,7 +458,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Will typically assess a back-end load"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Represents an undivided interest in a fixed account”. This falls under <b>2 - Products & Risks</b>. Key principle: UITs are fixed, unmanaged portfolios with a stated termination date.",
+    "explanation": "The correct choice (B) is: \u201cRepresents an undivided interest in a fixed account.\u201d A UIT represents an undivided interest in a fixed, unmanaged portfolio of securities.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -472,7 +472,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "An RR discusses the offering with a customer over the phone"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “An RR accepts a cash deposit for the offering from an interested customer”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "The correct choice (C) is: \u201cAn RR accepts a cash deposit for the offering from an interested customer.\u201d During the waiting/cooling-off period, an RR may not accept money or orders; tombstones, red herrings, and discussions are permitted.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -486,13 +486,13 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Unlimited"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Unlimited”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cUnlimited.\u201d The buyer of a call has unlimited upside as the underlying can rise without limit; loss is limited to the premium paid.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
     "id": "yt-guru6-38",
     "section": "2 - Products & Risks",
-    "stem": "The main disadvantage of §529 Prepaid Tuition Plans compared to §529 Savings Plans is that:",
+    "stem": "The main disadvantage of \u00a7529 Prepaid Tuition Plans compared to \u00a7529 Savings Plans is that:",
     "choices": {
       "A": "Distributions that are not used to pay for educational expenses are subject to a 10% tax penalty",
       "B": "Qualified distributions may be used to pay for tuition, books, room and board, and other expenses",
@@ -500,7 +500,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "The account owner can lock-in the beneficiary's tuition at a state college at a reduced rate"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “The account owner may lose financially if the student does not attend a public school in that state”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cThe account owner may lose financially if the student does not attend a public school in that state.\u201d Prepaid tuition plans lock in in-state public tuition, so the owner loses if the beneficiary attends a private or out-of-state school.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -514,7 +514,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "The number of market makers for the security"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “The number of market makers for the security”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cThe number of market makers for the security.\u201d Best execution factors include price, volatility, size/type, and market character; the number of market makers is not a listed factor.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -528,7 +528,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "The growth above cost is not taxable if the beneficiary rolls it over into a retirement plan."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Proceeds in excess of cost are taxable as ordinary income to the beneficiary.”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "The correct choice (C) is: \u201cProceeds in excess of cost are taxable as ordinary income to the beneficiary.\u201d On death during accumulation, the beneficiary receives the contract value; amounts above cost basis are taxed as ordinary income.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -542,7 +542,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Investment banking and trading"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Investment banking and trading”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cInvestment banking and trading.\u201d Information barriers (Chinese walls) separate investment banking from the trading desk to prevent misuse of material nonpublic information.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -556,7 +556,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Long-term securities are quoted as a percentage of par"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “All are government guaranteed”. This falls under <b>1 - Capital Markets</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (B) is: \u201cAll are government guaranteed.\u201d GSE securities (Fannie, Freddie) are NOT direct U.S. government obligations and are not guaranteed by the U.S. government.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -570,7 +570,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "5.75%"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “5.30%”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (A) is: \u201c5.30%.\u201d At issuance the coupon equals the YTM; since the bond sells at par, YTM = 5.30%.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -584,7 +584,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "It covers securities that are held at the brokerage firm as well as those in transit."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “It protects customers in the event their broker-dealer goes bankrupt.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (A) is: \u201cIt protects customers in the event their broker-dealer goes bankrupt.\u201d A fidelity bond protects the firm against employee dishonesty, not customers against the firm's bankruptcy (that is SIPC).",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -598,7 +598,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "This doesn't require the approval of a principal of the firm."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “If the registered person did not attend the game and gave one of the tickets to the client, it is a violation.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (B) is: \u201cIf the registered person did not attend the game and gave one of the tickets to the client, it is a violation.\u201d Entertainment (e.g., sports tickets) under $100 per person need not be pre-approved; giving tickets the RR does not use is not a violation.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -612,7 +612,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "The withdrawals may result in a reduction of capital."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “The withdrawals may result in a reduction of capital.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cThe withdrawals may result in a reduction of capital.\u201d Systematic withdrawals can exceed income/distributions and erode the investor's principal over time.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -626,7 +626,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Once for 10 days if the customer is still at risk of being exploited"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Once for 10 days if the customer is still at risk of being exploited”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cOnce for 10 days if the customer is still at risk of being exploited.\u201d A temporary hold on a suspect account may be extended once for 10 business days if the customer is still at risk of financial exploitation.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -640,7 +640,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Life of the firm"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “First two years”. This falls under <b>4 - Regulatory Framework</b>. Key principle: The SEC is the federal regulator of securities markets.",
+    "explanation": "The correct choice (A) is: \u201cFirst two years.\u201d SEC records-retention rules require books and records be kept readily accessible for the first two years.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -654,7 +654,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "4.50%"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “4.26%”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (B) is: \u201c4.26%.\u201d Current yield = annual coupon ($45) / price ($1,055) = 4.26%.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -668,7 +668,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Stop limit order"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Market order”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cMarket order.\u201d A market order seeks immediate execution at the best available price; limit/stop orders are not guaranteed to fill immediately.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -682,7 +682,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "He may be hired to provide financial advice, but will not be permitted to become registered"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “He may be hired as a registered representative”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cHe may be hired as a registered representative.\u201d A felony conviction more than 10 years old does not bar registration, so the person may be hired as a registered representative.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -696,7 +696,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Peak"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Expansion”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cExpansion.\u201d Rising interest rates typically occur during the expansion (growth) phase of the business cycle as demand for credit increases.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -710,7 +710,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "They are designed to deliver a multiple of the opposite performance of an index or other benchmark"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “They are designed to deliver a multiple of the performance of an index or other benchmark”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cThey are designed to deliver a multiple of the performance of an index or other benchmark.\u201d Leveraged ETFs seek to deliver a multiple (e.g., 2x or 3x) of the daily return of their benchmark index.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -724,7 +724,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "A prohibited practice that's referred to as marking-the-close"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “A prohibited practice that's referred to as marking-the-close”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cA prohibited practice that's referred to as marking-the-close.\u201d Buying at the close to push the price up is marking-the-close, a prohibited manipulative practice.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -738,7 +738,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Not permitted"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Not permitted”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cNot permitted.\u201d A representative may not guarantee against loss or promise to make up declines in a customer's account - it is prohibited.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -752,7 +752,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Bond prices will fall, but bond fund prices will rise."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Both bond and bond fund prices will fall.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cBoth bond and bond fund prices will fall.\u201d Bond and bond-fund prices both fall when interest rates rise, since their values move inversely to rates.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -766,7 +766,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "U.S. corporations moving their headquarters to Europe"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “The government of China buying U.S. Treasury securities”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (A) is: \u201cThe government of China buying U.S. Treasury securities.\u201d Foreign purchases of U.S. Treasury securities bring capital into the U.S., improving the U.S. balance of payments.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -780,7 +780,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "An increase in the value of equities"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “A decrease in interest rates”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cA decrease in interest rates.\u201d Persistent deflation (falling prices) leads the central bank to lower interest rates to stimulate demand.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -794,7 +794,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "It is considered retail communication and subject to pre-approval by a principal."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “It is considered correspondence and subject to review by a principal.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cIt is considered correspondence and subject to review by a principal.\u201d Email to five or fewer retail customers is correspondence, subject to post-use review by a principal (not prior approval).",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -808,7 +808,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "A spousal IRA."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “An account shared between two brothers.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cAn account shared between two brothers.\u201d A joint account is owned by two or more individuals, such as two brothers; UGMA and IRAs are not joint accounts.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -822,7 +822,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Variable annuities"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Limited partnerships”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cLimited partnerships.\u201d Limited partnerships (DPPs) are highly sensitive to regulatory and legislative risk affecting tax treatment and programs.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -836,7 +836,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "They can be used by clients who don't want to use a broker-dealer."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “They can be used by investors who want to trade anonymously.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cThey can be used by investors who want to trade anonymously.\u201d ECNs let investors trade anonymously by matching orders electronically without revealing identity to the other side.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -850,7 +850,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "ETNs are equity securities that represent ownership of a securities exchange"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “ETNs are debt instruments linked to the performance of a commodity, currency, or index”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cETNs are debt instruments linked to the performance of a commodity, currency, or index.\u201d ETNs are unsecured debt obligations whose return tracks a commodity, currency, or index; they are not equity.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -864,7 +864,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Agent"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Agent”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cAgent.\u201d When a broker-dealer charges a commission, it acts as an agent on the customer's behalf, not as a principal.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -878,7 +878,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "$200"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “$100”. This falls under <b>4 - Regulatory Framework</b>. Key principle: MSRB writes rules for municipal securities; FINRA enforces them.",
+    "explanation": "The correct choice (C) is: \u201c$100.\u201d MSRB limits gifts to $100 per person per year in connection with municipal securities business.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -892,7 +892,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Value stock"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Cyclical stock”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cCyclical stock.\u201d Cyclical stocks rise and fall with the business/economic cycle; defensive stocks are less sensitive.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -906,7 +906,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Whether the client was a retail or institutional customer"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Whether the client was a retail or institutional customer”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cWhether the client was a retail or institutional customer.\u201d Markup fairness depends on security type, availability, and the firm's markups, not on whether the client is retail or institutional.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -920,7 +920,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Form BD"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Form U6”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cForm U6.\u201d Final arbitration awards are reported on Form U6; Forms U4/U5 cover registration and termination, Form BD is for the firm.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -934,7 +934,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "An RR selling securities in private transactions without the supervision and prior written consent of her employing broker-dealer"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “An RR selling securities in private transactions without the supervision and prior written consent of her employing broker-dealer”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (D) is: \u201cAn RR selling securities in private transactions without the supervision and prior written consent of her employing broker-dealer.\u201d Selling securities in private transactions without written notice and approval of the employing firm violates the private-securities-transactions rule.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -948,7 +948,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "The monthly payout is fixed by the inflation index"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “A client's number of annuity units never changes”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "The correct choice (A) is: \u201cA client's number of annuity units never changes.\u201d In a periodic-payment variable annuity, accumulation units convert to a fixed number of annuity units at annuitization; those units never change.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -962,7 +962,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "American Depositary Receipts"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “American Depositary Receipts”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+    "explanation": "The correct choice (D) is: \u201cAmerican Depositary Receipts.\u201d A foreign company lists in the U.S. via American Depositary Receipts (ADRs), created by a U.S. bank.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -976,7 +976,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Requires the firm to deliver a prospectus for 90 days"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Does not require the firm to deliver a prospectus”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
+    "explanation": "The correct choice (A) is: \u201cDoes not require the firm to deliver a prospectus.\u201d Once a security is listed (NYSE), follow-on offerings are exempt from the prospectus delivery requirement for secondary-market trades.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -990,7 +990,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Convertible"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Convertible”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cConvertible.\u201d Convertible preferred tracks the underlying common stock once in-the-money, making it the most volatile in a stable-rate environment.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -1004,7 +1004,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "A friend"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “A law firm”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cA law firm.\u201d A trusted contact person may be a family member, friend, or business associate, but not a law firm representing the customer.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -1018,7 +1018,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "The customer is a general creditor"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “The customer is a general creditor”. This falls under <b>4 - Regulatory Framework</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "The correct choice (D) is: \u201cThe customer is a general creditor.\u201d SIPC covers up to its limits; amounts above SIPC protection make the customer a general (unsecured) creditor of the firm.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -1032,7 +1032,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "The underwriter"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The transfer agent”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cThe transfer agent.\u201d The transfer agent maintains the record of mutual fund shareholders (ownership, account balances).",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -1046,7 +1046,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "If the firm's compliance department signed the Form U4, then no changes are required."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The registered representative has filed a statement with false or misleading statements.”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cThe registered representative has filed a statement with false or misleading statements.\u201d Omitting a required disclosure (the proprietorship/bankruptcy) makes the Form U4 statement false or misleading.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -1060,7 +1060,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Selling stock short"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Selling stock short”. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (D) is: \u201cSelling stock short.\u201d An inverse (bear) ETF profits when the market falls, functioning like a short stock position.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -1074,7 +1074,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Bond counsel for the underwriting syndicate"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “The issuer”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: \u201cThe issuer.\u201d The municipal issuer prepares the official statement; bond counsel provides the legal opinion.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -1088,7 +1088,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "3,000"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “3,000”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201c3,000.\u201d With no minimum and 4.9M tendered against a 5M max, the offer is prorated (98%), so the 3,000 shares tender at 2,940 shares bought.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -1102,7 +1102,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "A company with which the RR has a business relationship"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “An institution that's in the business of borrowing or lending funds”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cAn institution that's in the business of borrowing or lending funds.\u201d An RR may borrow from or lend to a bank or other institution in the business of lending without notifying the employer; loans to individuals require notice.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -1116,7 +1116,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Payment date"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Ex-date”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: \u201cEx-date.\u201d The stock price is reduced on the ex-dividend date to reflect the dividend no longer attached.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -1130,7 +1130,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Daily"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Annually”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: \u201cAnnually.\u201d FINRA requires broker-dealers to test their AML program at least annually.",
     "source": "YouTube: Series 7 Guru (guru6)"
   },
   {
@@ -1144,7 +1144,7 @@ var SIE_QUESTIONS_YT_GURU6 = [
       "D": "Control stock acquired through an open-market purchase"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Control stock acquired through an open-market purchase”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: \u201cControl stock acquired through an open-market purchase.\u201d Control stock bought in the open market has no Rule 144 holding-period requirement; restricted and privately placed control stock do.",
     "source": "YouTube: Series 7 Guru (guru6)"
   }
 ];

@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "permission in writing."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “authorization by a principal.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “authorization by a principal.”. An associated person may not be employed by or participate in outside business without the employing member firm's prior written authorization by a principal.",
     "source": "YouTube: Series 7 Guru (guru14)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "the name of the investment advisor."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “the share class or classes offered by the fund.”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
+    "explanation": "The correct choice (A) is: “the share class or classes offered by the fund.”. A summary prospectus must show the fund's share classes and key data; listing each offered share class on the cover is not required.",
     "source": "YouTube: Series 7 Guru (guru14)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "II and III"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “I and III”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (C) is: “I and III”. Margin is permitted only in corporate and partnership accounts; it is prohibited in IRAs, fiduciary, and custodial accounts.",
     "source": "YouTube: Series 7 Guru (guru14)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "Yield to call (YTC) is the same as yield to maturity (YTM)."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Yield to call (YTC) is the same as yield to maturity (YTM).”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (D) is: “Yield to call (YTC) is the same as yield to maturity (YTM).”. YTM is the total return an investor earns if the bond is held to maturity, incorporating coupon, price, par, and time to maturity.",
     "source": "YouTube: Series 7 Guru (guru14)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "$225,000 for the savings account, $100,000 for the custodial account, and nothing for the checking account."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “the entire $565,000.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “the entire $565,000.”. Bank savings accounts are insured by the FDIC (up to $250,000 per depositor, per bank), unlike securities which are not FDIC-insured.",
     "source": "YouTube: Series 7 Guru (guru14)"
   },
   {
@@ -80,10 +80,10 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "The next price below 39 after the market falls to 39"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “The next price below 39 after the market falls to 39”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “The next price below 39 after the market falls to 39”. A sell-stop order is triggered when the market falls to the stop price, then fills at the next price below 39 after the market hits 39.",
     "source": "YouTube: Series 7 Guru (guru14)"
   },
-    {
+  {
     "id": "yt-guru14-26",
     "section": "2 - Products & Risks",
     "stem": "Which of the following are considered tools used to implement fiscal policy (as opposed to monetary policy)?\nI. Government spending.\nII. Taxation.\nIII. Open market operations.\nIV. The Federal Reserve's discount rate.",
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "earnings from referred business from existing clients would be eligible for payment."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “earnings from referred business from existing clients would be eligible for payment.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “earnings from referred business from existing clients would be eligible for payment.”. A departing rep may receive trailing commissions only if a contract with the firm specified those payments before termination; new-business referrals generally are not payable.",
     "source": "YouTube: Series 7 Guru (guru14)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "Sell the company's stock short"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Purchase a put option”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Purchase a put option”. Buying a put profits when the underlying falls, making it the direct bearish/hedging strategy for an anticipated decline.",
     "source": "YouTube: Series 7 Guru (guru14)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "30 days"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “No stated time limit”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “No stated time limit”. The Form U5 terminates a registered person's association with a firm; if inaccurate, the firm may amend it with no stated time limit.",
     "source": "YouTube: Series 7 Guru (guru14)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "Initial public offering"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Private (nonpublic) securities offering”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "The correct choice (B) is: “Private (nonpublic) securities offering”. A private (nonpublic) offering to a limited number of accredited investors can be exempt from Securities Act of 1933 registration under Regulation D.",
     "source": "YouTube: Series 7 Guru (guru14)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "6%"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “3%”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (C) is: “3%”. Sales charge % = (POP - NAV) / POP; with POP $120 and NAV $116.40, SC = 3.60/120 = 3%.",
     "source": "YouTube: Series 7 Guru (guru14)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "must all be convertible shares."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “all have preference over the issuer's common shares.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “all have preference over the issuer's common shares.”. All classes of preferred stock rank ahead of (have preference over) the issuer's common shares for dividends and liquidation.",
     "source": "YouTube: Series 7 Guru (guru14)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "must receive a total of 9% in any year the board declares the 6% participating be paid."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “could receive an additional 3% over the stated 3% dividend if the board declares it.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “could receive an additional 3% over the stated 3% dividend if the board declares it.”. Participating preferred can receive extra dividends (above the stated rate) if the board declares them, sharing in excess profits.",
     "source": "YouTube: Series 7 Guru (guru14)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "a description of how the proceeds raised from the sale will be used must be disclosed."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “the names and addresses of company officers and directors, their salaries, and a five-year business history of each must be shown.”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "The correct choice (B) is: “the names and addresses of company officers and directors, their salaries, and a five-year business history of each must be shown.”. The registration statement must disclose executive background, but not every officer's full salary and five-year personal history in that form.",
     "source": "YouTube: Series 7 Guru (guru14)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "the exchanges where the shares will trade."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “the SEC.”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "The correct choice (C) is: “the SEC.”. The SEC has the responsibility to review the accuracy and adequacy of a registration statement; it does not guarantee the investment.",
     "source": "YouTube: Series 7 Guru (guru14)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU14 = [
       "D": "Sale of $10 million of U.S. Treasury bonds by a broker-dealer acting as a market maker"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Sale of $10 million of corporate bond by a broker-dealer acting as an underwriter”. This falls under <b>1 - Capital Markets</b>. Key principle: The primary market is where issuers sell new securities to investors.",
+    "explanation": "The correct choice (A) is: “Sale of $10 million of corporate bond by a broker-dealer acting as an underwriter”. Primary-market transactions are those where an issuer sells new securities (e.g., a broker-dealer underwriting a new bond issue).",
     "source": "YouTube: Series 7 Guru (guru14)"
   }
 ];

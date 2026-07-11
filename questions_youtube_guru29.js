@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "MSRB"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “SEC”. This falls under <b>4 - Regulatory Framework</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "The correct choice (C) is: “SEC”. The SEC is the federal agency charged with enforcing the federal securities laws and regulating the securities industry.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "The account is automatically covered by SIPC for up to $1,000,000."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The customer must pay for all purchases in full by the settlement date.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Know the settlement clock: equities T+2, options and most bonds T+1.",
+    "explanation": "The correct choice (B) is: “The customer must pay for all purchases in full by the settlement date.”. In a cash account the customer must pay in full for purchases by settlement (T+2) — buying power cannot exceed cash.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "The coupon rate will adjust upward."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “The price will increase.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “The price will increase.”. Bond prices move inversely to interest rates, so when rates fall, the prices of outstanding bonds rise.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Stop-limit order"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Market order”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Market order”. A market order executes immediately at the best available price but guarantees neither price nor full execution.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Extremely bearish, anticipating a sharp decline in the stock."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Bullish, expecting the stock price to rise or remain stable.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Bullish, expecting the stock price to rise or remain stable.”. Writing a put is a bullish strategy — the writer profits if the stock stays at/above strike and the put expires worthless.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Preemptive rights to maintain ownership percentage."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Guaranteed dividend payments.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Guaranteed dividend payments.”. Common stock pays dividends only at the board's discretion — there is no guaranteed dividend, unlike preferred stock.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "A closed-end fund specializing in infrastructure projects."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “A limited partnership investing in real estate.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “A limited partnership investing in real estate.”. A DPP (e.g., a real-estate limited partnership) is a flow-through vehicle letting investors share in income, losses, and tax benefits directly.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Exempt from federal, and possibly state and local taxes."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Exempt from federal, and possibly state and local taxes.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “Exempt from federal, and possibly state and local taxes.”. Interest on municipal bonds is exempt from federal income tax and is typically exempt from state/local tax for residents of the issuing state.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Customer Suitability Form."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Margin Agreement (or Hypothecation Agreement).”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (C) is: “Margin Agreement (or Hypothecation Agreement).”. Before margin trading, the customer must sign a margin (hypothecation) agreement and the firm must approve the account.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "A customer places a large order for a well-known, liquid stock."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “A customer frequently makes large, round-number cash deposits.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “A customer frequently makes large, round-number cash deposits.”. Large, frequent, round-number cash deposits are a classic red flag for money laundering and must be monitored and reported under BSA/AML rules.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "The firm meets its Know Your Customer (KYC) obligations."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “The client can make an informed decision free from undisclosed biases.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Know Your Customer: firms must verify identity and suitability profile.",
+    "explanation": "The correct choice (C) is: “The client can make an informed decision free from undisclosed biases.”. Disclosing conflicts lets the client make an informed decision free of undisclosed biases — central to fiduciary conduct.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "If the underlying stock is delisted from the exchange."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “If the underlying stock price remains below the strike price at expiration.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “If the underlying stock price remains below the strike price at expiration.”. A long call's max loss is the premium paid; if the stock stays below strike at expiration the option expires worthless (e.g., 1 contract @ $3 = $300).",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Phantom income risk"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Phantom income risk”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “Phantom income risk”. Zero-coupon bonds accrue 'phantom income' (imputed interest taxable annually) even though no cash interest is paid until maturity.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "This is a stop-limit order to buy, which becomes a limit order once XYZ stock trades at or above $50."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “This is a stop order to buy, which becomes a market order once XYZ stock trades at or above $50.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “This is a stop order to buy, which becomes a market order once XYZ stock trades at or above $50.”. A market order executes immediately at the best available price but guarantees neither price nor full execution.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Exchange-traded fund (ETF)"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Closed-end fund”. This falls under <b>2 - Products & Risks</b>. Key principle: UITs are fixed, unmanaged portfolios with a stated termination date.",
+    "explanation": "The correct choice (C) is: “Closed-end fund”. A closed-end fund issues a fixed number of shares that trade on an exchange at market-determined prices that can differ from NAV.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "High-grade municipal bonds"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Treasury Inflation-Protected Securities (TIPS)”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (C) is: “Treasury Inflation-Protected Securities (TIPS)”. Using options to limit downside in an existing position is hedging — reducing risk rather than speculating.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Annually, along with other account reviews."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Before the customer's first order can be executed.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (A) is: “Before the customer's first order can be executed.”. A principal (registered supervisor) must approve a new account form before the customer's first order is executed.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "A unit investment trust (UIT)"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “An Exchange-Traded Fund (ETF)”. This falls under <b>2 - Products & Risks</b>. Key principle: UITs are fixed, unmanaged portfolios with a stated termination date.",
+    "explanation": "The correct choice (C) is: “An Exchange-Traded Fund (ETF)”. ETFs trade on exchanges throughout the day at market prices and can be bought/sold intraday, unlike open-end mutual fund shares.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "The gift is acceptable because it came from a client, not another firm."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The gift is acceptable if approved by the firm's compliance department.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (B) is: “The gift is acceptable if approved by the firm's compliance department.”. FINRA limits gifts to $100 per person per year; a $150 gift may be accepted only if the firm's policies allow it and it is not conditioned on future business.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "The yield an investor would receive if they held the bond for one year."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The actual return an investor receives if they hold the bond until maturity, accounting for its current market price, par value, coupon interest, and time to maturity.”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (B) is: “The actual return an investor receives if they hold the bond until maturity, accounting for its current market price, par value, coupon interest, and time to maturity.”. YTM is the total return an investor earns if the bond is held to maturity, incorporating coupon, price, par, and time to maturity.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "The strike price of $50 per share"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “$300”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “$300”. Max loss on a long call equals the premium paid; 1 contract (100 shares) at $3 costs $300.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "The fund manager buys additional securities for the portfolio."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The fund pays out a distribution to shareholders.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “The fund pays out a distribution to shareholders.”. Paying a distribution (dividend/capital gain) reduces a fund's NAV by the amount distributed to shareholders.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Broker-dealer's legal department."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Trustee, acting in the best interest of the beneficiary.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Trustee, acting in the best interest of the beneficiary.”. In a trust account the trustee (not the beneficiary) makes investment decisions, acting in the beneficiary's best interest.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "They are approved by FINRA before distribution to investors."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “They are generally considered the primary disclosure document for municipal bonds.”. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (C) is: “They are generally considered the primary disclosure document for municipal bonds.”. The official statement is the primary disclosure document for a municipal bond issue, analogous to a prospectus for corporate issues.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "The customer must qualify as an accredited investor."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “A suitability determination must be made for each customer.”. This falls under <b>2 - Products & Risks</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
+    "explanation": "The correct choice (A) is: “A suitability determination must be made for each customer.”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "To govern the process for handling customer complaints."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “To standardize the procedures for handling securities transactions and settlements.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (C) is: “To standardize the procedures for handling securities transactions and settlements.”. FINRA's primary role is to regulate broker-dealers and their registered representatives and oversee industry conduct.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "A small-cap biotechnology firm with an unproven drug."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “A utility company that provides essential services.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “A utility company that provides essential services.”. Defensive stocks (e.g., utilities providing essential services) tend to maintain stable earnings and dividends regardless of the business cycle.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Interest rate risk."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Unlimited loss potential.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Unlimited loss potential.”. Short stock and short (uncovered) calls have unlimited loss potential; short puts and long stock are capped.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Exchange-traded fund (ETF) specializing in municipal bonds"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Unit investment trust (UIT) specializing in municipal bonds”. This falls under <b>2 - Products & Risks</b>. Key principle: UITs are fixed, unmanaged portfolios with a stated termination date.",
+    "explanation": "The correct choice (C) is: “Unit investment trust (UIT) specializing in municipal bonds”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Solely for government-issued debt."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Greater than one year.”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Greater than one year.”. Capital markets deal with long-term securities (maturities greater than one year), while money markets deal with short-term debt (one year or less).",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -430,7 +430,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Priority claim on assets in case of liquidation over common stockholders."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Potential for significant capital appreciation.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Potential for significant capital appreciation.”. Preferred stock pays a fixed dividend and ranks ahead of common, but offers little potential for capital appreciation — that is a common-stock benefit.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -444,7 +444,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "The registered representative, after obtaining written authorization from the customer and approval from a principal."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “The registered representative, after obtaining written authorization from the customer and approval from a principal.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “The registered representative, after obtaining written authorization from the customer and approval from a principal.”. In a discretionary account the rep may make decisions, but only after the customer grants written authorization and a principal approves.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -458,7 +458,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "The price at which an order will be executed immediately."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The highest price a buyer is willing to pay.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “The highest price a buyer is willing to pay.”. The bid is the highest price a buyer (or dealer) is willing to pay; the ask/offer is what a seller wants.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -472,7 +472,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "To mimic the performance of a specific market index."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “To invest in companies with high earnings potential and above-average growth.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “To invest in companies with high earnings potential and above-average growth.”. A growth fund invests in companies with above-average earnings growth potential, aiming for capital appreciation rather than income.",
     "source": "YouTube: Series 7 Guru (guru29)"
   },
   {
@@ -486,7 +486,7 @@ var SIE_QUESTIONS_YT_GURU29 = [
       "D": "Business risk."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Interest rate risk.”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "The correct choice (C) is: “Interest rate risk.”. Even U.S. government bonds are exposed to interest-rate risk — their market prices fall when rates rise.",
     "source": "YouTube: Series 7 Guru (guru29)"
   }
 ];

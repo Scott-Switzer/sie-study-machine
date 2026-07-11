@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "T+3 business days"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cT+2 business days\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Equity trades settle T+2 business days; options T+1; municipal/GOV corp bonds T+1.",
+    "explanation": "The correct choice (C) is: “T+2 business days”. Most securities transactions settle on a T+2 (trade date plus two business days) basis.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Federal Reserve Board (FRB)"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cSecurities and Exchange Commission (SEC)\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (B) is: “Securities and Exchange Commission (SEC)”. The SEC is the federal agency charged with enforcing the federal securities laws and regulating the securities industry.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "100%"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201c100%\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: “100%”. A zero-coupon bond pays no periodic interest (0% current yield) and returns principal at maturity.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Hedge funds"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cHedge funds\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: “Hedge funds”. Hedge funds are lightly regulated private pooled investments; saying they are 'highly regulated' is false.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Non-systematic risk"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cNon-systematic risk\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Diversification reduces unsystematic (company-specific) risk.",
+    "explanation": "The correct choice (D) is: “Non-systematic risk”. Systematic (market) risk affects the whole market and cannot be eliminated through diversification.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Report the customer to regulatory authorities for placing an unsuitable order"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cExecute the order but document that it was unsolicited and the representative's concerns.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: “Execute the order but document that it was unsolicited and the representative's concerns.”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "6 years"
     },
     "answer": "D",
-    "explanation": "The correct choice (C) is: \u201c4 years\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (D) is: “6 years”. Broker-dealers must file summaries of customer complaints with FINRA no later than the 15th of the month following the calendar quarter in which they occurred.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "A market where investors are primarily selling short."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cA period of sustained growth and rising security prices.\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: “A period of sustained growth and rising security prices.”. A bull market is a period of sustained rising prices and investor optimism, opposite of a bear market.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Liquidity risk only"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cCurrency risk\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "The correct choice (C) is: “Currency risk”. Currency (exchange-rate) risk is the risk that adverse movements in foreign exchange rates will reduce the value of an investment.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "The midpoint between the highest bid and lowest ask."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cThe highest price a buyer is willing to pay for a security.\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: “The highest price a buyer is willing to pay for a security.”. The bid is the highest price a buyer (or dealer) is willing to pay; the ask/offer is what a seller wants.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "To enforce insider trading laws."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cTo protect customers against losses resulting from the bankruptcy or insolvency of a broker-dealer.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
+    "explanation": "The correct choice (B) is: “To protect customers against losses resulting from the bankruptcy or insolvency of a broker-dealer.”. SIPC protects customers against the loss of securities and cash held at a failed broker-dealer; it does not protect against market losses.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "A third-party vendor providing IT support with no access to trading data."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cA compliance officer who has access to nonpublic information regarding client transactions.\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: “A compliance officer who has access to nonpublic information regarding client transactions.”. A compliance officer or other employee with access to material nonpublic information is an 'insider' subject to trading restrictions.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "A situation where a customer has discretionary trading authority over their account."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cA situation where the municipal bond dealer, or an officer or employee of the dealer, is in a position to influence the issuer of the municipal bond.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: “A situation where the municipal bond dealer, or an officer or employee of the dealer, is in a position to influence the issuer of the municipal bond.”. An MFP (municipal finance professional) is someone able to influence a municipal issuer; pay-to-play rules then limit political contributions.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "The difference between the strike price and the market price"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cThe premium received\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: “The premium received”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Processing customer cash and security movements."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cExecuting trades on behalf of clients.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: “Executing trades on behalf of clients.”. Executing client trades for compensation is the core function of a broker-dealer; it must be done in the customer's best interest.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Stop-limit order"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cMarket order\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: “Market order”. A market order executes immediately at the best available price but guarantees neither price nor full execution.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Annually, along with other account statements."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cWithin 30 days of opening the account.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: “Within 30 days of opening the account.”. FINRA requires a new account to be approved (by a principal) within a reasonable time, often cited as by the first trade; some documents reference 30 days for specific approvals.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Day trading"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cShort sale\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (C) is: “Short sale”. A short sale is selling borrowed shares to profit from an anticipated price decline; it carries unlimited loss potential.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "It is trading above its par value."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cIts yield to maturity is higher than its coupon rate.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (C) is: “Its yield to maturity is higher than its coupon rate.”. YTM is the total return an investor earns if the bond is held to maturity, incorporating coupon, price, par, and time to maturity.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "To buy and sell municipal bonds in the secondary market."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cTo write rules for municipal securities firms and professionals.\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: MSRB writes rules for municipal securities; FINRA enforces them.",
+    "explanation": "The correct choice (C) is: “To write rules for municipal securities firms and professionals.”. The MSRB writes rules for municipal securities firms and professionals; it has no enforcement authority (FINRA/SEC enforce).",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Liquidity risk"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cPurchasing power risk (inflation risk)\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "The correct choice (C) is: “Purchasing power risk (inflation risk)”. Inflation (purchasing-power) risk is the chance that rising prices erode the real value of fixed-income returns.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "The customer pays an additional fee for electronic delivery."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cThe customer provides written consent to receive electronic delivery.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: “The customer provides written consent to receive electronic delivery.”. A customer must consent (in writing or electronically) to receive documents such as confirmations and statements electronically.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "Common stock has a fixed maturity date, while preferred stock is perpetual."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cCommon stock has voting rights, while preferred stock typically does not.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: “Common stock has voting rights, while preferred stock typically does not.”. Preferred stock generally has no voting rights (unlike common) but carries a fixed dividend and priority over common in liquidation.",
     "source": "YouTube: Series 7 Guru (guru26)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU26 = [
       "D": "FINRA"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cThe issuer of the securities\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
+    "explanation": "The correct choice (C) is: “The issuer of the securities”. In a primary-market (new-issue) transaction, the issuer receives the proceeds from the sale of its securities.",
     "source": "YouTube: Series 7 Guru (guru26)"
   }
 ];

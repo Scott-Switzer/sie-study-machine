@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU16 = [
       "D": "neither an owner nor a debtor of the company"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “an owner of the company”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+    "explanation": "The correct choice (A) is: “an owner of the company”. Note for review: trading options is a derivative strategy giving the right (not obligation) to buy/sell the underlying; it does not by itself make the investor an owner of the company.",
     "source": "YouTube: Series 7 Guru (guru16)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU16 = [
       "D": "I and IV"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “II and III”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “II and III”. MSRB pay-to-play rules limit municipal finance professionals' political contributions; a contribution in their jurisdiction can trigger a 2-year ban.",
     "source": "YouTube: Series 7 Guru (guru16)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU16 = [
       "D": "A long-term U.S. Government Bond Mutual Fund"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “A money market mutual fund investing in short-term corporate debt”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (A) is: “A money market mutual fund investing in short-term corporate debt”. Money market funds invest in short-term, high-quality debt and seek capital stability with liquidity, suiting risk-averse investors.",
     "source": "YouTube: Series 7 Guru (guru16)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU16 = [
       "D": "II and IV"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “I and III”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “I and III”. The bid is the highest price a buyer (or dealer) is willing to pay; the ask/offer is what a seller wants.",
     "source": "YouTube: Series 7 Guru (guru16)"
   },
   {
@@ -66,10 +66,10 @@ var SIE_QUESTIONS_YT_GURU16 = [
       "D": "Member firms may never incorporate proprietary trading into their business model."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Member firms must always accommodate dealing with retail investors and not limit business to that done with other industry professionals.”. This falls under <b>2 - Products & Risks</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (A) is: “Member firms must always accommodate dealing with retail investors and not limit business to that done with other industry professionals.”. FINRA is the self-regulatory organization (SRO) that protects investors by overseeing broker-dealers and their registered representatives.",
     "source": "YouTube: Series 7 Guru (guru16)"
   },
-    {
+  {
     "id": "yt-guru16-27",
     "section": "3 - Trading, Accounts & Prohibited",
     "stem": "A buy stop order at $30 could be filled at which of the following prices?\nI. $29.95\nII. $30.00\nIII. $30.10\nIV. $30.50",
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU16 = [
       "D": "II and IV"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “I and II”. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "The correct choice (B) is: “I and II”. The Form U4 is the uniform application for securities-industry registration; it collects the applicant's identity, residences, employment, and disciplinary history.",
     "source": "YouTube: Series 7 Guru (guru16)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU16 = [
       "D": "The member firm may vote the shares as it wishes on minor matters."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “The member firm may vote the shares as it wishes on minor matters.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “The member firm may vote the shares as it wishes on minor matters.”. Proxy solicitors must disclose all material facts about the matters on which shareholders are asked to vote.",
     "source": "YouTube: Series 7 Guru (guru16)"
   },
   {
@@ -122,10 +122,10 @@ var SIE_QUESTIONS_YT_GURU16 = [
       "D": "high-end load shares"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “front-end load shares”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “front-end load shares”. Class A shares carry a front-end sales load (paid at purchase) but lower ongoing expenses than other share classes.",
     "source": "YouTube: Series 7 Guru (guru16)"
   },
-    {
+  {
     "id": "yt-guru16-36",
     "section": "2 - Products & Risks",
     "stem": "Which of the following is an example of an unsecured debt security?\nI. A debenture.\nII. A mortgage bond.\nIII. A collateral trust bond.\nIV. An unsecured note.",
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU16 = [
       "D": "The person may only receive commissions from current trades done by those who were the person's customers during employment at the firm."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “A contract must have been signed by the registered person and the firm specifying what commissions are still to be paid.”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “A contract must have been signed by the registered person and the firm specifying what commissions are still to be paid.”. A departing rep may receive trailing commissions only if a contract with the firm specified those payments before termination; new-business referrals generally are not payable.",
     "source": "YouTube: Series 7 Guru (guru16)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU16 = [
       "D": "A person who has been registered more than 25 years is grandfathered in and no filings need to be made."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “In no circumstances can a registration be transferred from one firm to another.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "The correct choice (C) is: “In no circumstances can a registration be transferred from one firm to another.”. A securities registration is held by the employing firm and can never be transferred to another broker-dealer; the rep must re-register at the new firm.",
     "source": "YouTube: Series 7 Guru (guru16)"
   }
 ];

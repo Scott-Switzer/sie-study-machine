@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "MSRB"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “SEC”. This falls under <b>4 - Regulatory Framework</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "The correct choice (B) is: “SEC”. The SEC is the federal agency charged with enforcing the federal securities laws and regulating the securities industry.",
     "source": "YouTube: Series 7 Guru (guru25)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "Market maker"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Market maker”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “Market maker”. A market maker (or proprietary) firm trades for its own account and need not carry customer accounts.",
     "source": "YouTube: Series 7 Guru (guru25)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "Interest-rate fluctuations"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Bankruptcy of a broker-dealer”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "The correct choice (B) is: “Bankruptcy of a broker-dealer”. SIPC protects customers against the loss of securities and cash held at a failed broker-dealer; it does not protect against market losses.",
     "source": "YouTube: Series 7 Guru (guru25)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "Reverse split"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Private placement”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Private placement”. A private (nonpublic) offering to a limited number of accredited investors can be exempt from Securities Act of 1933 registration under Regulation D.",
     "source": "YouTube: Series 7 Guru (guru25)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "Correspondent trading"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Discretion”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
+    "explanation": "The correct choice (A) is: “Discretion”. Discretion (a discretionary account) lets the rep make trades without prior call, but only after the customer's written authorization.",
     "source": "YouTube: Series 7 Guru (guru25)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "To allow time for SEC review"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “To allow time for SEC review”. This falls under <b>1 - Capital Markets</b>. Key principle: The SEC is the federal regulator of securities markets.",
+    "explanation": "The correct choice (D) is: “To allow time for SEC review”. The cooling-off period follows the filing of a registration statement and gives the SEC time to review the disclosure before the security may be sold.",
     "source": "YouTube: Series 7 Guru (guru25)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "Intraday trading"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Intraday trading”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “Intraday trading”. ETFs trade on exchanges throughout the day at market prices and can be bought/sold intraday, unlike open-end mutual fund shares.",
     "source": "YouTube: Series 7 Guru (guru25)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "Trading after market hours"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Trading based on material nonpublic information”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
+    "explanation": "The correct choice (C) is: “Trading based on material nonpublic information”. Insider trading is prohibited when trading on material nonpublic information; it is not excused by merely following SEC Rule 144 (which governs restricted-stock resales).",
     "source": "YouTube: Series 7 Guru (guru25)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "Increase leverage"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Reduce risk exposure”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Diversification reduces unsystematic (company-specific) risk.",
+    "explanation": "The correct choice (B) is: “Reduce risk exposure”. Diversification spreads investments to reduce unsystematic (company-specific) risk without necessarily lowering expected return.",
     "source": "YouTube: Series 7 Guru (guru25)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "They offer the highest interest rates"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “They carry low default risk”. This falls under <b>1 - Capital Markets</b>. Key principle: SIPC protects customers of failed broker-dealers up to $500k (incl. $250k cash).",
+    "explanation": "The correct choice (B) is: “They carry low default risk”. Credit (default) risk is the risk the issuer fails to make promised payments; lower-rated bonds carry more of it.",
     "source": "YouTube: Series 7 Guru (guru25)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "The stock is risk-free"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “The stock is more volatile than the market”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “The stock is more volatile than the market”. A beta above 1 (e.g., 1.5) means the stock is more volatile than the market; below 1 means less volatile.",
     "source": "YouTube: Series 7 Guru (guru25)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU25 = [
       "D": "Unregistered private placements"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Previously issued stocks”. This falls under <b>1 - Capital Markets</b>. Key principle: An IPO is the first public sale of a company's stock (primary market).",
+    "explanation": "The correct choice (C) is: “Previously issued stocks”. The secondary market is where investors trade already-issued securities among themselves; the issuer receives no proceeds from these trades.",
     "source": "YouTube: Series 7 Guru (guru25)"
   }
 ];

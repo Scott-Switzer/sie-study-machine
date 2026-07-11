@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "I and III"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cI and III\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: “I and III”. This falls under Trading, Accounts & Prohibited Practices: account opening, order handling, and conduct rules govern how trades are executed and accounts managed.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "I and III"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cI, II, III, and IV\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: “I, II, III, and IV”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "Aggressive growth fund"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cBond fund\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Diversification reduces unsystematic (company-specific) risk.",
+    "explanation": "The correct choice (C) is: “Bond fund”. Diversification spreads investments to reduce unsystematic (company-specific) risk without necessarily lowering expected return.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "a gain of $1,000."
     },
     "answer": "D",
-    "explanation": "The correct choice (A) is: \u201ca gain of $7,500.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: “a gain of $1,000.”. Option profit/loss is the difference between the proceeds and the premium paid; here the net gain is $1,000.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "the purchase of securities."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cthe purchase of securities.\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: “the purchase of securities.”. Buying securities on credit in a margin account creates a debit balance the customer must pay interest on.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "II and III"
     },
     "answer": "B",
-    "explanation": "The correct choice (A) is: \u201cI and IV\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (B) is: “II and IV”. Systematic (market) risk affects the whole market and cannot be eliminated through diversification.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "ten ABC 6s of 2045 convertible into 20 shares plus forty additional shares."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cten ABC 6s of 2045 with a conversion price of $41.67.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: “ten ABC 6s of 2045 with a conversion price of $41.67.”. A zero-coupon bond pays no periodic interest (0% current yield) and returns principal at maturity.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "an elected official of a municipality having some decision-making authority regarding new municipal bond issues."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201can employee of a broker-dealer engaged in municipal security representative activities other than retail sales or who solicits municipal securities business for the broker-dealer.\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: MSRB writes rules for municipal securities; FINRA enforces them.",
+    "explanation": "The correct choice (A) is: “an employee of a broker-dealer engaged in municipal security representative activities other than retail sales or who solicits municipal securities business for the broker-dealer.”. A municipal securities representative (Series 52) engages in municipal activities other than retail sales or solicitation for the firm.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "II and III"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cI and III\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: “I and III”. This falls under Products & Risks: the product's cash flows, structure, and risk profile determine its suitable use and pricing.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "consolidation."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cconsolidation.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (D) is: “consolidation.”. This falls under Products & Risks: the product's cash flows, structure, and risk profile determine its suitable use and pricing.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "$10,000."
     },
     "answer": "A",
-    "explanation": "The correct choice (D) is: \u201c$10,000.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (A) is: “$20,000.”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "Form D must be filed."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cit is not necessary for J.B. to file a Form 144.\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: The secondary market is where investors trade already-issued securities.",
+    "explanation": "The correct choice (A) is: “it is not necessary for J.B. to file a Form 144.”. The secondary market is where investors trade already-issued securities among themselves; the issuer receives no proceeds from these trades.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "9% of the net asset value."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201c8.5% of the net asset value.\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: “8.5% of the net asset value.”. Sales charge % = (POP - NAV) / POP; with POP $120 and NAV $116.40, SC = 3.60/120 = 3%.",
     "source": "YouTube: Series 7 Guru (guru19)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU19 = [
       "D": "arbitrage"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cmoney laundering\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+    "explanation": "The correct choice (A) is: “money laundering”. Large, frequent, round-number cash deposits are a classic red flag for money laundering and must be monitored and reported under BSA/AML rules.",
     "source": "YouTube: Series 7 Guru (guru19)"
   }
 ];

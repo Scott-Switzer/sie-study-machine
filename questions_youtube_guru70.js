@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU70 = [
       "D": "Their coupon rate will adjust upwards."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Their market value will decrease.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Their market value will decrease.”. When market interest rates rise, the value of existing fixed-rate bonds falls because new issues offer higher yields.",
     "source": "YouTube: Series 7 Guru (guru70)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU70 = [
       "D": "The fund's current offering price, including any sales charges."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “The total assets of the fund divided by the number of outstanding shares.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “The total assets of the fund divided by the number of outstanding shares.”. NAV equals the fund's total assets minus liabilities divided by shares outstanding, computed at the end of each trading day.",
     "source": "YouTube: Series 7 Guru (guru70)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU70 = [
       "D": "The popularity of the investment among other clients."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The client's financial situation, investment objectives, and risk tolerance.”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “The client's financial situation, investment objectives, and risk tolerance.”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
     "source": "YouTube: Series 7 Guru (guru70)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU70 = [
       "D": "Limited profit potential, unlimited loss."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Unlimited profit potential, limited loss.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “Unlimited profit potential, limited loss.”. An option contract gives the holder the right, but not the obligation, to buy (call) or sell (put) the underlying at a strike price.",
     "source": "YouTube: Series 7 Guru (guru70)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU70 = [
       "D": "They are generally redeemed directly by the issuer."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “They can be bought and sold throughout the trading day at market prices.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “They can be bought and sold throughout the trading day at market prices.”. ETFs trade on exchanges throughout the day at market prices and can be bought/sold intraday, unlike open-end mutual fund shares.",
     "source": "YouTube: Series 7 Guru (guru70)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU70 = [
       "D": "SEC Acts."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Blue Sky Laws.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (C) is: “Blue Sky Laws.”. Blue Sky Laws are state laws regulating the offer and sale of securities within each state; they are administered by state securities regulators.",
     "source": "YouTube: Series 7 Guru (guru70)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU70 = [
       "D": "Federal Reserve Board"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Municipal Securities Rulemaking Board (MSRB)”. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (C) is: “Municipal Securities Rulemaking Board (MSRB)”. The MSRB writes rules for municipal securities dealers and advisors but has no enforcement power; FINRA and the SEC enforce them.",
     "source": "YouTube: Series 7 Guru (guru70)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU70 = [
       "D": "Free riding notification."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Maintenance margin call.”. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (C) is: “Maintenance margin call.”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
     "source": "YouTube: Series 7 Guru (guru70)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU70 = [
       "D": "6 months"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “3 months”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (C) is: “3 months”. FINRA permits a firm to hold a customer's mail for up to 3 months without a special reason; beyond that, a valid reason and documentation are required.",
     "source": "YouTube: Series 7 Guru (guru70)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU70 = [
       "D": "Dedicated sales taxes from a specific retail activity."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “The full faith and credit and taxing power of the issuer.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “The full faith and credit and taxing power of the issuer.”. GO bonds are backed by the full faith, credit, and taxing power of the issuer, whereas revenue bonds are backed by a specific project's revenues.",
     "source": "YouTube: Series 7 Guru (guru70)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU70 = [
       "D": "After-tax dollars, and earnings are taxed annually."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “After-tax dollars, and earnings grow tax-deferred.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “After-tax dollars, and earnings grow tax-deferred.”. Employer contributions to qualified plans are generally tax-deductible and not subject to FICA/FUTA when made.",
     "source": "YouTube: Series 7 Guru (guru70)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU70 = [
       "D": "Nominal Yield = Current Yield = Yield to Maturity."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Nominal Yield < Current Yield < Yield to Maturity.”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (A) is: “Nominal Yield < Current Yield < Yield to Maturity.”. Current yield = annual dollar interest / market price; a 12% coupon bond at 120 ($1,200) yields $120/$1,200 = 10%.",
     "source": "YouTube: Series 7 Guru (guru70)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU70 = [
       "D": "An individual whose primary residence value is $1,000,000."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “An individual who is an officer or director of the issuer.”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “An individual who is an officer or director of the issuer.”. Regulation D defines accredited investors (e.g., officers/directors of the issuer, or individuals meeting income/net-worth thresholds) who may buy private placements.",
     "source": "YouTube: Series 7 Guru (guru70)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU70 = [
       "D": "Segregation."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Rehypothecation.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (A) is: “Rehypothecation.”. Before margin trading, the customer must sign a margin (hypothecation) agreement and the firm must approve the account.",
     "source": "YouTube: Series 7 Guru (guru70)"
   }
 ];

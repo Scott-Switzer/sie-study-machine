@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "The individual is statutorily disqualified and would need to seek a waiver from FINRA."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The individual is eligible because more than 10 years have passed since the conviction.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "The correct choice (B) is: “The individual is eligible because more than 10 years have passed since the conviction.”. A felony conviction related to securities or a serious crime is a statutory disqualification unless more than 10 years have passed since the sentence ended.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Yield-to-call."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Tax-free equivalent yield.”. This falls under <b>1 - Capital Markets</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "explanation": "The correct choice (A) is: “Tax-free equivalent yield.”. Interest on municipal bonds is exempt from federal income tax and is typically exempt from state/local tax for residents of the issuing state.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Distributes shares of an initial public offering (IPO) under a best efforts underwriting."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Charges a markup or markdown on a security it is selling from or buying into its own inventory.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: An IPO is the first public sale of a company's stock (primary market).",
+    "explanation": "The correct choice (B) is: “Charges a markup or markdown on a security it is selling from or buying into its own inventory.”. A dealer acting from its own inventory charges a markup (selling) or markdown (buying); this is principal, not agency, trading.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "The wife is immediately limited to trading only liquidation transactions until the account is retitled."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “The entire account automatically transfers to the surviving wife's sole ownership.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “The entire account automatically transfers to the surviving wife's sole ownership.”. In JTWROS/TBE, a decedent's share passes to the surviving tenant(s), not to the estate.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "They stand ready to redeem their shares at the current Net Asset Value (NAV)."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “They stand ready to redeem their shares at the current Net Asset Value (NAV).”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “They stand ready to redeem their shares at the current Net Asset Value (NAV).”. Open-end (mutual) funds stand ready to redeem shares at the current NAV; closed-end and UIT shares trade in the market instead.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "The offering amount must not exceed $75 million, and all purchasers must be accredited investors."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “All purchasers must reside in the state, and the securities cannot be resold to non-residents for six months from the date of the sale by the issuer.”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “All purchasers must reside in the state, and the securities cannot be resold to non-residents for six months from the date of the sale by the issuer.”. An intrastate (Section 3(a)(11)) offering must be sold only to residents of one state and may not be resold to out-of-state buyers for six months.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "American Depositary Receipt (ADR)."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Warrant.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Warrant.”. A warrant is a long-term equity option issued by the company that gives the holder the right to buy stock at a fixed price.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Personal bankruptcy filed more than 10 years ago."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Any charge or conviction related to a felony.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "The correct choice (C) is: “Any charge or conviction related to a felony.”. Any felony conviction (or certain misdemeanors) must be disclosed on the Form U4 as a statutory disqualification if within 10 years.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Buying a call option."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Selling a covered call option.”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+    "explanation": "The correct choice (B) is: “Selling a covered call option.”. Selling a covered call generates premium income and is a mildly bullish/neutral strategy; the stock covers the obligation.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "The market for derivative products, such as options and futures, is transacted."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Exchange-listed securities trade between two institutional investors without the use of a broker-dealer.”. This falls under <b>1 - Capital Markets</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+    "explanation": "The correct choice (C) is: “Exchange-listed securities trade between two institutional investors without the use of a broker-dealer.”. Exchange-listed securities are traded through broker-dealers on the exchange; a trade 'between two institutions without a broker' does not occur on-exchange.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "12%."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “0%.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “0%.”. A zero-coupon bond pays no periodic interest (0% current yield) and returns principal at maturity.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "State Securities Administrators (Blue Sky Laws)."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA).”. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (B) is: “The Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA).”. The SEC and FINRA are the primary regulators of securities markets and broker-dealers in the United States.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "The SEC focuses on disclosures to the investing public, while FINRA solely focuses on the conduct of corporate issuers."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The SEC writes federal securities laws, while FINRA acts as a primary SRO responsible for rule enforcement and broker-dealer examinations.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (B) is: “The SEC writes federal securities laws, while FINRA acts as a primary SRO responsible for rule enforcement and broker-dealer examinations.”. The SEC is the federal agency charged with enforcing the federal securities laws and regulating the securities industry.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Call risk, due to the potential for the issuing bank to redeem the ADR."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Currency risk, due to the value of the underlying foreign shares being denominated in a foreign currency.”. This falls under <b>2 - Products & Risks</b>. Key principle: The secondary market is where investors trade already-issued securities.",
+    "explanation": "The correct choice (C) is: “Currency risk, due to the value of the underlying foreign shares being denominated in a foreign currency.”. ADRs represent foreign shares held by a U.S. depositary and trade in dollars, so they DO carry foreign-currency risk; saying they do not is false.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "The donor may restrict the use of the funds until the minor reaches age 25."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Contributions are considered an irrevocable gift, and the minor is the account's legal owner.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (C) is: “Contributions are considered an irrevocable gift, and the minor is the account's legal owner.”. A custodial/UGMA account holds an irrevocable gift for a minor, who is the beneficial owner; the custodian manages it until the minor reaches adulthood.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "A phantom income gain."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “An ordinary income gain.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “An ordinary income gain.”. Certain gains (e.g., from retirement-plan distributions or short-term trading) are taxed as ordinary income, not capital gains.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "A firm's website or social media post promoting its investment services to the general public."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “A firm's website or social media post promoting its investment services to the general public.”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
+    "explanation": "The correct choice (D) is: “A firm's website or social media post promoting its investment services to the general public.”. A firm's website or social media post promoting its services to the general public is a retail communication subject to FINRA rules.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "The minimum price fluctuation for the security."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “The number of round lots (100 shares) the market maker is willing to sell at $15.25.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “The number of round lots (100 shares) the market maker is willing to sell at $15.25.”. A market maker must honor its quoted two-sided market for at least one round lot or it commits a manipulative/deceptive act.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "It can only be purchased by large institutional investors."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “It is highly liquid and has a short-term maturity of one year or less.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “It is highly liquid and has a short-term maturity of one year or less.”. Money market funds invest in short-term, high-quality debt and seek capital stability with liquidity, suiting risk-averse investors.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "The Sarbanes-Oxley Act of 2002."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “The Securities Exchange Act of 1934.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
+    "explanation": "The correct choice (C) is: “The Securities Exchange Act of 1934.”. Trading on material nonpublic information is illegal insider trading; such information must be kept confidential until publicly disclosed.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Compliance Obligation."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Care Obligation.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Regulation Best Interest requires brokers to act in retail customers' best interest.",
+    "explanation": "The correct choice (B) is: “Care Obligation.”. Under Reg BI, broker-dealers must give retail customers a short (Form CRS) relationship summary describing services, fees, conflicts, and standard of conduct — not the names of individual reps.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Index Mutual Fund."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Inverse and Leveraged ETF.”. This falls under <b>2 - Products & Risks</b>. Key principle: REITs let investors pool into income-producing real estate; dividends taxed as ordinary income.",
+    "explanation": "The correct choice (B) is: “Inverse and Leveraged ETF.”. ETFs trade on exchanges throughout the day at market prices and can be bought/sold intraday, unlike open-end mutual fund shares.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "BDs manage discretionary accounts, while IAs are strictly prohibited from holding customer funds."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “BDs charge commissions for effecting transactions, while IAs charge fees for investment advice.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: The SEC is the federal regulator of securities markets.",
+    "explanation": "The correct choice (A) is: “BDs charge commissions for effecting transactions, while IAs charge fees for investment advice.”. Broker-dealers earn commissions on transactions, while investment advisers typically charge fees for advice (or AUM fees).",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "As a percentage of par in 100ths of a point."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “As a percentage of par in 32nds of a point.”. This falls under <b>2 - Products & Risks</b>. Key principle: The secondary market is where investors trade already-issued securities.",
+    "explanation": "The correct choice (A) is: “As a percentage of par in 32nds of a point.”. The secondary market is where investors trade already-issued securities among themselves; the issuer receives no proceeds from these trades.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Is a corporate entity with assets exceeding $5 million, regardless of the type of investment."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Has a gross income of at least $200,000 in each of the two most recent years (or $300,000 with a spouse) with a reasonable expectation of reaching the same level in the current year.”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Has a gross income of at least $200,000 in each of the two most recent years (or $300,000 with a spouse) with a reasonable expectation of reaching the same level in the current year.”. Regulation D defines accredited investors (e.g., officers/directors of the issuer, or individuals meeting income/net-worth thresholds) who may buy private placements.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Total annual income and net worth."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Name, physical address, and date of birth.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “Name, physical address, and date of birth.”. Large, frequent, round-number cash deposits are a classic red flag for money laundering and must be monitored and reported under BSA/AML rules.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "State Securities Administrator."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “National Adjudicatory Council (NAC).”. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (B) is: “National Adjudicatory Council (NAC).”. The National Adjudicatory Council (NAC) is FINRA's appellate body that reviews disciplinary decisions.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Quiet period."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Cooling-off period.”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "The correct choice (B) is: “Cooling-off period.”. A broker-dealer may accept payment for a new issue only once the registration statement is effective (cleared by the SEC); payment before effectiveness is prohibited.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "An escrow account containing U.S. government securities."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “The full faith and credit of the issuing municipality, backed by its taxing power.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (B) is: “The full faith and credit of the issuing municipality, backed by its taxing power.”. Interest on municipal bonds is exempt from federal income tax and is typically exempt from state/local tax for residents of the issuing state.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Within a reasonable time after the initial transaction."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Within a reasonable time after the initial transaction.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Know the settlement clock: equities T+2, options and most bonds T+1.",
+    "explanation": "The correct choice (D) is: “Within a reasonable time after the initial transaction.”. Confirms and other account documents must be delivered within a reasonable time after the initial transaction.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -430,7 +430,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "The premium paid, which is $300."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “The premium paid, which is $300.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “The premium paid, which is $300.”. A long call's max loss is the premium paid; if the stock stays below strike at expiration the option expires worthless (e.g., 1 contract @ $3 = $300).",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -444,7 +444,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Unauthorized trading (executing trades without customer permission)."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Selling Away.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Excessive trading to generate commissions = churning (unauthorized, prohibited).",
+    "explanation": "The correct choice (A) is: “Selling Away.”. A private (nonpublic) offering to a limited number of accredited investors can be exempt from Securities Act of 1933 registration under Regulation D.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -458,7 +458,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Set the minimum equity required in the customer's account before a margin call is issued."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: “Authorize the broker-dealer to rehypothecate (pledge) the customer's margin securities as collateral for a bank loan.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (C) is: “Authorize the broker-dealer to rehypothecate (pledge) the customer's margin securities as collateral for a bank loan.”. Before margin trading, the customer must sign a margin (hypothecation) agreement and the firm must approve the account.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -472,7 +472,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "Ensure the corporation complies with all federal and state securities laws."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Handle the issuance, cancellation, and exchange of stock certificates and maintain the list of registered shareholders.”. This falls under <b>1 - Capital Markets</b>. Key principle: The secondary market is where investors trade already-issued securities.",
+    "explanation": "The correct choice (A) is: “Handle the issuance, cancellation, and exchange of stock certificates and maintain the list of registered shareholders.”. The transfer agent maintains the shareholder records and handles the issuance of split shares and dividend payments.",
     "source": "YouTube: Series 7 Guru (guru37)"
   },
   {
@@ -486,7 +486,7 @@ var SIE_QUESTIONS_YT_GURU37 = [
       "D": "To distribute a statutory prospectus to the public."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “To solicit indications of interest from potential investors.”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
+    "explanation": "The correct choice (A) is: “To solicit indications of interest from potential investors.”. The cooling-off period follows the filing of a registration statement and gives the SEC time to review the disclosure before the security may be sold.",
     "source": "YouTube: Series 7 Guru (guru37)"
   }
 ];

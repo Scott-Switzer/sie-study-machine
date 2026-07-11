@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "II and IV"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “II and IV”. This falls under <b>2 - Products & Risks</b>. Key principle: The primary market is where issuers sell new securities to investors.",
+    "explanation": "The correct choice (D) is: “II and IV”. When new issues of the same quality offer a higher yield (9.5%), the older lower-coupon bond's price falls below par and its current yield also falls.",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "Corporate pension plan"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “401(k) plan”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “401(k) plan”. Employer contributions to qualified plans are generally tax-deductible and not subject to FICA/FUTA when made.",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "A 5 year Treasury note"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “A 30 year zero coupon bond”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (A) is: “A 30 year zero coupon bond”. Zero-coupon bonds make no periodic coupon payments, so there are no cash flows to reinvest and reinvestment risk is avoided.",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "regulations regarding frontrunning of customer orders."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Insider trading laws.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
+    "explanation": "The correct choice (A) is: “Insider trading laws.”. Insider-trading laws prohibit trading on material nonpublic information and apply to corporate insiders and tippees.",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "Collateralized by mortgages"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Are pass-through securities”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (A) is: “Are pass-through securities”. CMOs are exposed to prepayment risk — borrowers may refinance when rates fall, returning principal sooner than expected.",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "hedging a long stock position against falling prices"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “diversifying holdings”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “diversifying holdings”. Diversifying holdings across asset classes and issuers reduces unsystematic (company-specific) risk.",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "$0 because contributions to IRAs are no longer allowed"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “$5,000 per individual”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “$5,000 per individual”. A Traditional IRA provides tax-deferred growth; contributions may be deductible depending on income and plan coverage.",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "$5,000"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “$2,500”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “$2,500”. A zero-coupon bond pays no periodic interest (0% current yield) and returns principal at maturity.",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "Buying puts"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Uncovered call writing”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+    "explanation": "The correct choice (A) is: “Uncovered call writing”. Short stock and short (uncovered) calls have unlimited loss potential; short puts and long stock are capped.",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "Interpositioning a customer order to achieve a better execution for that customer order"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “Interpositioning a customer order to achieve a better execution for that customer order”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “Interpositioning a customer order to achieve a better execution for that customer order”. Interpositioning (inserting an unnecessary third party to the customer's disadvantage) is a prohibited practice; doing it to get better execution is permissible only if it benefits the customer.",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "within 120 days of their second anniversary of being registered and every three years thereafter"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “within 120 days of their second anniversary of being registered and every three years thereafter”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “within 120 days of their second anniversary of being registered and every three years thereafter”. Registered persons must complete continuing-education (Regulatory Element) within 120 days of their second registration anniversary and every three years after.",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "May only participate if his net short position is less than 100 shares."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Must get permission from MNO's board of directors in order to participate”. This falls under <b>4 - Regulatory Framework</b>. Key principle: The SEC is the federal regulator of securities markets.",
+    "explanation": "The correct choice (B) is: “Must get permission from MNO's board of directors in order to participate”. A tender offer is a public bid by an acquirer to buy shareholders' stock at a premium, governed by SEC tender-offer rules.",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {
@@ -178,10 +178,10 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "The fund stands ready to issue and redeem shares as necessary"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Their net asset value must be determined at least once each business day”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “Their net asset value must be determined at least once each business day”. Open-end fund shares are priced at NAV (plus any sales charge) and redeemed directly with the fund.",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
-    {
+  {
     "id": "yt-knop2-51",
     "section": "2 - Products & Risks",
     "stem": "Which two of the following are characteristics of Real Estate Investment Trusts (REITs)?\nI. REITs are partnerships that pass through all income and losses to shareholders.\nII. REITs must distribute at least 90% of their taxable income to shareholders to avoid corporate tax.\nIII. REITs are exempt from federal corporate income tax if they meet the distribution requirement.\nIV. REIT shareholders have unlimited liability for the REIT's debts.",
@@ -206,10 +206,10 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "the business day following the day of the contract"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “within the time specified, but not less than four business days or more than 60 calendar days”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “within the time specified, but not less than four business days or more than 60 calendar days”. Customer complaints/responses must be provided within the time specified, but no less than 4 business days nor more than 60 calendar days.",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
-    {
+  {
     "id": "yt-knop2-56",
     "section": "3 - Trading, Accounts & Prohibited",
     "stem": "Which of the following statements are true regarding Treasury bills (T-bills)?\nI. T-bills are issued at a discount to face value.\nII. T-bills pay no periodic interest.\nIII. T-bills are long-term securities maturing in more than 10 years.\nIV. T-bills are backed by the full faith and credit of the U.S. government.",
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "Markit letters"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Offering circulars”. This falls under <b>4 - Regulatory Framework</b>. Key principle: MSRB writes rules for municipal securities; FINRA enforces them.",
+    "explanation": "The correct choice (A) is: “Offering circulars”. Under MSRB rules, an official statement/offering circular is an exempt disclosure document, not an 'advertisement' subject to advertising rules.",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "85"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “85”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “85”. Accrued interest on a semi-annual T-bond is counted from the last coupon date to settlement; for the given trade it is 85 days.",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_KNOP2 = [
       "D": "not be taxed in the year received"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “be treated as a return of capital”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+    "explanation": "The correct choice (A) is: “be treated as a return of capital”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
     "source": "YouTube: Series 7 Guru (knop2)"
   }
 ];

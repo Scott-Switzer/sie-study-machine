@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU62 = [
       "D": "April 15"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “At the end of that December”. This falls under <b>1 - Capital Markets</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "The correct choice (A) is: “At the end of that December”. New agent registrations are effective for the remainder of the year and renew at the end of December, so a mid-December registration renews at year-end.",
     "source": "youtube:guru62:dM3JI9ldcog"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU62 = [
       "D": "Taking a part-time job working as a bartender"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “Investing as a limited partner in a limited partnership”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (A) is: “Investing as a limited partner in a limited partnership”. Registered representatives must give written notice to their firm before engaging in certain outside business activities such as part-time driving/ride-share work.",
     "source": "youtube:guru62:dM3JI9ldcog"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU62 = [
       "D": "They must notify the Administrator that Tim is no longer employed by the firm"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “They must notify the Administrator that Tim is no longer employed by the firm”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "The correct choice (D) is: “They must notify the Administrator that Tim is no longer employed by the firm”. When a registered person leaves a firm, the employing broker-dealer must promptly notify the state Administrator (and file a Form U5).",
     "source": "youtube:guru62:dM3JI9ldcog"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU62 = [
       "D": "FINRA may make a registration effective pending receipt of the fingerprint information"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Fingerprints are required by the state securities Administrator for registration as an agent”. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "The correct choice (B) is: “Fingerprints are required by the state securities Administrator for registration as an agent”. Fingerprints are required by FINRA (not state Administrators) for registration; a member must submit them within 30 days of the Form U4 or registration is deemed inactive.",
     "source": "youtube:guru62:dM3JI9ldcog"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU62 = [
       "D": "FINRA may make a registration effective pending receipt of the fingerprint information"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: “Fingerprints are required by the state securities Administrator for registration as an agent”. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "explanation": "The correct choice (B) is: “Fingerprints are required by the state securities Administrator for registration as an agent”. Fingerprints are required by FINRA (not state Administrators) for registration; a member must submit them within 30 days of the Form U4 or registration is deemed inactive.",
     "source": "youtube:guru62:dM3JI9ldcog"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU62 = [
       "D": "No later than the end of the month following the calendar quarter being reported"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: “No later than the 15th of the month following the calendar quarter being reported”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (A) is: “No later than the 15th of the month following the calendar quarter being reported”. Broker-dealers must file summaries of customer complaints with FINRA no later than the 15th of the month following the calendar quarter in which they occurred.",
     "source": "youtube:guru62:dM3JI9ldcog"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU62 = [
       "D": "10 years"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “10 years”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "explanation": "The correct choice (D) is: “10 years”. BrokerCheck discloses registration, disciplinary, and employment history for current and former registered representatives going back 10 years.",
     "source": "youtube:guru62:dM3JI9ldcog"
   }
 ];

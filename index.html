@@ -380,8 +380,12 @@
 <script src="questions_youtube_guru70.js"></script>
 <script src="questions_web_oep.js"></script>
 <script src="questions_web_passmasters.js"></script>
+<script src="questions_web_knopman.js"></script>
 <script>
 /* Concatenate all banks */
+if (typeof SIE_QUESTIONS_WEB_KNOPMAN !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_WEB_KNOPMAN);
+}
 if (typeof SIE_QUESTIONS_WEB_PASSMASTERS !== "undefined") {
   SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_WEB_PASSMASTERS);
 }

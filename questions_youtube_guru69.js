@@ -1,6 +1,6 @@
-var SIE_QUESTIONS_YT_GURU26 = [
+var SIE_QUESTIONS_YT_GURU69 = [
  {
-  "id": "yt-guru26-1",
+  "id": "yt-guru69-1",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "An investor sells 100 shares of stock at $50 per share. What is the settlement date for this transaction?",
   "choices": {
@@ -11,10 +11,10 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \u201cT+2 business days\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Equity trades settle T+2 business days; options T+1; municipal/GOV corp bonds T+1.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-2",
+  "id": "yt-guru69-2",
   "section": "1 - Capital Markets",
   "stem": "Which of the following regulatory bodies is primarily responsible for enforcing federal securities laws and regulating the securities industry?",
   "choices": {
@@ -25,10 +25,10 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \u201cSecurities and Exchange Commission (SEC)\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-3",
+  "id": "yt-guru69-3",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "A customer opens a cash account and wants to purchase mutual fund shares. What is the maximum percentage of the purchase price that the customer must pay?",
   "choices": {
@@ -39,10 +39,10 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \u201c100%\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-4",
+  "id": "yt-guru69-4",
   "section": "2 - Products & Risks",
   "stem": "All of the following are typically considered investment companies EXCEPT:",
   "choices": {
@@ -53,10 +53,10 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \u201cHedge funds\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-5",
+  "id": "yt-guru69-5",
   "section": "2 - Products & Risks",
   "stem": "Which type of risk is unique to a specific company or industry and can be mitigated through diversification?",
   "choices": {
@@ -67,24 +67,24 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \u201cNon-systematic risk\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Diversification reduces unsystematic (company-specific) risk.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-6",
+  "id": "yt-guru69-6",
   "section": "2 - Products & Risks",
   "stem": "A registered representative receives an unsolicited order from a customer to purchase shares of a highly speculative stock that the representative believes is unsuitable. Which of the following actions is MOST appropriate for the representative?",
   "choices": {
-   "A": "Refuse to execute the order because the stock is unsuitable",
+   "A": "Refuse the order",
    "B": "Execute the order but document that it was unsolicited and the representative's concerns.",
-   "C": "Advise the customer against purchasing the stock as it is unsuitable",
-   "D": "Report the customer to regulatory authorities for placing an unsuitable order"
+   "C": "Give advice",
+   "D": "Reporting the customer"
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \u201cExecute the order but document that it was unsolicited and the representative's concerns.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-7",
+  "id": "yt-guru69-7",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "Under FINRA rules, how long must most customer complaints be retained by a broker-dealer?",
   "choices": {
@@ -95,10 +95,10 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \u201c4 years\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-8",
+  "id": "yt-guru69-8",
   "section": "4 - Regulatory Framework",
   "stem": "Which of the following describes a \"bull market\"?",
   "choices": {
@@ -109,10 +109,10 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \u201cA period of sustained growth and rising security prices.\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-9",
+  "id": "yt-guru69-9",
   "section": "1 - Capital Markets",
   "stem": "An investor holding an American Depositary Receipt (ADR) is exposed to which of the following risks?",
   "choices": {
@@ -123,10 +123,10 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \u201cCurrency risk\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-10",
+  "id": "yt-guru69-10",
   "section": "4 - Regulatory Framework",
   "stem": "Which of the following best defines the term \"bid price\" in a securities quote?",
   "choices": {
@@ -137,24 +137,10 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \u201cThe highest price a buyer is willing to pay for a security.\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-11",
-  "section": "1 - Capital Markets",
-  "stem": "Which of the following statements is TRUE regarding the taxation of municipal bonds?",
-  "choices": {
-   "A": "Interest income is taxable at the federal level but exempt at the state level.",
-   "B": "Interest income is taxable at both the federal and state levels.",
-   "C": "Interest income is generally tax-exempt at the federal level and may be tax-exempt at the state and local levels if the investor resides in the issuing state.",
-   "D": "Capital gains on municipal bonds are tax-exempt at the federal level."
-  },
-  "answer": "C",
-  "explanation": "Distractors A/B/D reconstructed; only choice C was readable on screen.",
-  "source": "YouTube: Series 7 Guru (guru26)"
- },
- {
-  "id": "yt-guru26-12",
+  "id": "yt-guru69-12",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "What is the primary purpose of the Securities Investor Protection Corporation (SIPC)?",
   "choices": {
@@ -165,10 +151,10 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \u201cTo protect customers against losses resulting from the bankruptcy or insolvency of a broker-dealer.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-13",
+  "id": "yt-guru69-13",
   "section": "4 - Regulatory Framework",
   "stem": "Which of the following would be considered an \"access person\" under the Investment Advisers Act of 1940 and be subject to reporting personal securities transactions?",
   "choices": {
@@ -179,10 +165,10 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \u201cA compliance officer who has access to nonpublic information regarding client transactions.\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-14",
+  "id": "yt-guru69-14",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "What is the definition of a \"control relationship\" in the context of securities transactions?",
   "choices": {
@@ -193,10 +179,10 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \u201cA situation where the municipal bond dealer, or an officer or employee of the dealer, is in a position to influence the issuer of the municipal bond.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-15",
+  "id": "yt-guru69-15",
   "section": "2 - Products & Risks",
   "stem": "A customer writes an equity call option. This investor's maximum potential gain is:",
   "choices": {
@@ -207,10 +193,10 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \u201cThe premium received\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-16",
+  "id": "yt-guru69-16",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "All of the following are primary functions of a broker-dealer's operations department EXCEPT:",
   "choices": {
@@ -221,10 +207,10 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \u201cExecuting trades on behalf of clients.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-17",
+  "id": "yt-guru69-17",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "Which of the following types of orders is executed immediately at the best available price?",
   "choices": {
@@ -235,10 +221,10 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \u201cMarket order\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-18",
+  "id": "yt-guru69-18",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "Under normal circumstances, when must a customer receive a new account form from a broker-dealer for signature?",
   "choices": {
@@ -249,10 +235,10 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \u201cWithin 30 days of opening the account.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-19",
+  "id": "yt-guru69-19",
   "section": "2 - Products & Risks",
   "stem": "An investor who sells shares of stock that they do not own, hoping to buy them back later at a lower price, is engaging in which of the following?",
   "choices": {
@@ -263,10 +249,10 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \u201cShort sale\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-20",
+  "id": "yt-guru69-20",
   "section": "2 - Products & Risks",
   "stem": "Which of the following statements is true regarding a bond trading at a discount?",
   "choices": {
@@ -277,10 +263,10 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \u201cIts yield to maturity is higher than its coupon rate.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-21",
+  "id": "yt-guru69-21",
   "section": "1 - Capital Markets",
   "stem": "Which of the following is a primary role of the Municipal Securities Rulemaking Board (MSRB)?",
   "choices": {
@@ -291,10 +277,10 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \u201cTo write rules for municipal securities firms and professionals.\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: MSRB writes rules for municipal securities; FINRA enforces them.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-22",
+  "id": "yt-guru69-22",
   "section": "2 - Products & Risks",
   "stem": "What is the primary risk associated with a fixed annuity during the accumulation phase?",
   "choices": {
@@ -305,10 +291,10 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \u201cPurchasing power risk (inflation risk)\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-23",
+  "id": "yt-guru69-23",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "A customer opens a new account and wants to receive all communications electronically. What must the broker-dealer ensure to fulfill this request?",
   "choices": {
@@ -319,10 +305,10 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \u201cThe customer provides written consent to receive electronic delivery.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-24",
+  "id": "yt-guru69-24",
   "section": "2 - Products & Risks",
   "stem": "What is the main characteristic of a common stock that distinguishes it from preferred stock?",
   "choices": {
@@ -333,10 +319,10 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \u201cCommon stock has voting rights, while preferred stock typically does not.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  },
  {
-  "id": "yt-guru26-25",
+  "id": "yt-guru69-25",
   "section": "1 - Capital Markets",
   "stem": "Which of the following entities issues a prospectus?",
   "choices": {
@@ -347,6 +333,6 @@ var SIE_QUESTIONS_YT_GURU26 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \u201cThe issuer of the securities\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru69)"
  }
 ];

@@ -1,1584 +1,1612 @@
 var SIE_QUESTIONS_YT_GURU8 = [
-  {
-    "id": "yt-GURU8-1",
-    "section": "2 - Products & Risks",
-    "stem": "A respected analyst reports that last week's T-bill rate at 1% is lower than the rate for the preceding week and lower than the average for the past month. Which of the following is true?",
-    "choices": {
-      "A": "Investors are paying less for T-bills.",
-      "B": "Investors are paying more for T-bills.",
-      "C": "The general level of interest rates is increasing.",
-      "D": "Prices are descending."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “Investors are paying more for T-bills.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-2",
-    "section": "2 - Products & Risks",
-    "stem": "A collateralized mortgage obligation (CMO) makes an interest-only payment to an investor. This payment will be",
-    "choices": {
-      "A": "treated partly as ordinary income and partly as a tax-free return of principal.",
-      "B": "taxed as ordinary income.",
-      "C": "taxed as a capital gain if the underlying mortgage is prepaid.",
-      "D": "tax free."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “treated partly as ordinary income and partly as a tax-free return of principal.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-3",
-    "section": "2 - Products & Risks",
-    "stem": "Minority stockholders are more likely to be able to elect directors through which form of voting?",
-    "choices": {
-      "A": "Progressive",
-      "B": "Regular",
-      "C": "Cumulative",
-      "D": "Statutory"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “Cumulative”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-4",
-    "section": "2 - Products & Risks",
-    "stem": "An investor purchases a zero-coupon bond at a price of $64. The bond matures in nine years. Five years later, the investor sells the bond at a price of $80. This would result in",
-    "choices": {
-      "A": "a long-term capital gain of $160.",
-      "B": "a long-term capital loss of $40.",
-      "C": "a long-term capital loss of $200.",
-      "D": "no gain and no loss."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “a long-term capital loss of $40.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-6",
-    "section": "4 - Regulatory Framework",
-    "stem": "Which of the following is a required disclosure on the Form U4?",
-    "choices": {
-      "A": "Residency for the previous 3 years",
-      "B": "Employment history for the previous 3 years",
-      "C": "Residency for the previous 10 years",
-      "D": "Employment history for the previous 10 years"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “Employment history for the previous 10 years”. This falls under <b>4 - Regulatory Framework</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-7",
-    "section": "2 - Products & Risks",
-    "stem": "A married couple both hoping to retire within the next five to seven years have expressed having a low-risk tolerance regarding the stock market. They have a combined income of $350,000. Given this information, which of the following portfolio mixes would be most suitable?",
-    "choices": {
-      "A": "Treasury bills, corporate bonds, preferred stock",
-      "B": "Treasury bills, common stock, options",
-      "C": "Treasury notes, municipal bonds, GNMAs",
-      "D": "Direct participation programs, real estate investment trusts, preferred stock"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “Treasury notes, municipal bonds, GNMAs”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-8",
-    "section": "2 - Products & Risks",
-    "stem": "Working capital is",
-    "choices": {
-      "A": "current assets minus inventory.",
-      "B": "current assets minus current liabilities.",
-      "C": "only the cash and equivalents.",
-      "D": "total assets minus total liabilities."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “current assets minus current liabilities.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-9",
-    "section": "2 - Products & Risks",
-    "stem": "When a bond is selling at a premium:",
-    "choices": {
-      "A": "The current yield will always be higher than the yield to maturity.",
-      "B": "The nominal yield will always be lower than the yield to call.",
-      "C": "The current yield will always be higher than the nominal yield.",
-      "D": "The yield maturity will always be higher than the nominal yield."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “The current yield will always be higher than the yield to maturity.”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-10",
-    "section": "1 - Capital Markets",
-    "stem": "Information found in The Bond Buyer would include all of the following EXCEPT",
-    "choices": {
-      "A": "the placement ratio.",
-      "B": "the 30-day visible supply.",
-      "C": "Reviews.",
-      "D": "secondary market volume."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “Reviews.”. This falls under <b>1 - Capital Markets</b>. Key principle: The secondary market is where investors trade already-issued securities.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-11",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "A registered representative of a FINRA member broker-dealer is gathering information from a prospective customer. When the representative uses the information to prepare a financial profile, which of the following would not be included?",
-    "choices": {
-      "A": "Current value of any IRAs",
-      "B": "The individual's risk tolerance",
-      "C": "Cash value in life insurance policies",
-      "D": "Outstanding credit card balances"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “The individual's risk tolerance”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-12",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "A customer has $12,000 of capital gains, $15,000 of capital losses, and $50,000 adjusted gross income. How much unused loss is carried forward to the following tax year?",
-    "choices": {
-      "A": "$3,000",
-      "B": "$12,000",
-      "C": "$0",
-      "D": "$15,000"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “$0”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-13",
-    "section": "1 - Capital Markets",
-    "stem": "A customer who buys 1 CDE Oct 60 call at 4 and sells 1 CDE Dec 60 call at 6 has created",
-    "choices": {
-      "A": "a long straddle.",
-      "B": "a price spread.",
-      "C": "a calendar spread.",
-      "D": "a combination."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “a calendar spread.”. This falls under <b>1 - Capital Markets</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-14",
-    "section": "2 - Products & Risks",
-    "stem": "An investor purchasing long-term AAA-rated bonds should be concerned most with",
-    "choices": {
-      "A": "No risk.",
-      "B": "Marketability risk.",
-      "C": "Reinvestment risk.",
-      "D": "Inflation risk."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “Inflation risk.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-15",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "If a customer's margin account shows a long market value of $6,000 and a debit balance of $5,000, the maintenance margin call will be for",
-    "choices": {
-      "A": "$500.",
-      "B": "$1,000.",
-      "C": "$3,000.",
-      "D": "$2,000."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “$500.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-16",
-    "section": "2 - Products & Risks",
-    "stem": "A large national grocery chain owns several smaller regional supermarkets. The regional chain that operates in Chicago is experiencing some economic hardship, and the chain gets its debt downgraded by Standard & Poor's. The chain is desperate to raise capital to deal with a lack of cash flow. What method would be the best for raising capital?",
-    "choices": {
-      "A": "The regional chain should issue high-yield corporate bonds to attract investors because they are safer than issuing stock to the company if the company defaults.",
-      "B": "The regional chain should issue preferred stock to the investors letting them know that preferred shareholders have a preference in liquidation above general creditors.",
-      "C": "The regional chain should issue secured mortgage bonds to investors because the investors would be guaranteed to get their money back even if the regional chain defaults.",
-      "D": "The regional chain should seek to get their parent company to support them through the issuance of guaranteed bonds which although unsecured would be safer than direct debenture of the struggling chain."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “The regional chain should seek to get their parent company to support them through the issuance of guaranteed bonds which although unsecured would be safer than direct debenture of the struggling chain.”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-17",
-    "section": "4 - Regulatory Framework",
-    "stem": "A FINRA member firm sends a promotional piece to 35 individuals over a three-day period. Twenty of these individuals are current customers of the firm. The other 15 are prospects whose names came from a commercially available mailing list service. Under the FINRA rule on communications with the public, this promotional piece would be considered",
-    "choices": {
-      "A": "retail communication.",
-      "B": "direct mail.",
-      "C": "correspondence.",
-      "D": "correspondence to the existing customers, retail communication to the prospects."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “retail communication.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-18",
-    "section": "2 - Products & Risks",
-    "stem": "Advantages of oil and gas direct participation programs (DPP) do not generally include which of the following?",
-    "choices": {
-      "A": "Potential alternative minimum tax",
-      "B": "Intangible drilling costs (IDC)",
-      "C": "Potential cash flow and/or income",
-      "D": "Depletion"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “Potential alternative minimum tax”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-19",
-    "section": "2 - Products & Risks",
-    "stem": "Your customer in her early 30s received a modest inheritance from a relative. Listing tax-deferred growth as an objective for retirement income, which of the following investments is most suitable?",
-    "choices": {
-      "A": "A variable annuity",
-      "B": "Growth mutual funds",
-      "C": "Tax-free municipal bonds",
-      "D": "Corporate debt securities"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “A variable annuity”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-20",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "Which of the following orders is reduced on the order book on the ex-dividend date for a cash dividend?",
-    "choices": {
-      "A": "Buy stop limit order",
-      "B": "Buy stop order",
-      "C": "Sell limit order",
-      "D": "Limit order to buy"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “Limit order to buy”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-21",
-    "section": "2 - Products & Risks",
-    "stem": "A customer who sold a bond at a loss must wait how long before she can buy back a substantially identical bond and not have the sale classified as a wash sale?",
-    "choices": {
-      "A": "5 days.",
-      "B": "No waiting period",
-      "C": "30 days",
-      "D": "20 days"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “30 days”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-22",
-    "section": "2 - Products & Risks",
-    "stem": "A client, age 27, is new to investing. With $20,000 saved thus far and $400 to allocate toward investing monthly, his goal is to purchase a home in three to five years. Which is the most suitable recommendation?",
-    "choices": {
-      "A": "Open a long margin account to take advantage of the leverage that margin purchases can create using small amounts of money.",
-      "B": "Use leveraged index funds (2 or 3x) to maximize gains potential for the small investment amounts.",
-      "C": "Invest in both equity and corporate debt mutual funds so that a portfolio of stocks and bonds is established.",
-      "D": "Invest in a money market mutual fund to build up more cash reserves."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “Invest in a money market mutual fund to build up more cash reserves.”. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-23",
-    "section": "2 - Products & Risks",
-    "stem": "In which of the following markets would an investor expect to find closed-end investment company shares traded?",
-    "choices": {
-      "A": "III and IV",
-      "B": "I and III",
-      "C": "II and IV",
-      "D": "I and II"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “II and IV”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-24",
-    "section": "2 - Products & Risks",
-    "stem": "Which of the following regarding a Roth IRA are true? I. The contributions are nondeductible. II. Contributions must cease at age 72. III. Withdrawals must begin at age 72. IV. Withdrawals after age 59 1/2 can be tax free.",
-    "choices": {
-      "A": "I and III",
-      "B": "II and III",
-      "C": "II and IV",
-      "D": "I and IV"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “I and IV”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-25",
-    "section": "2 - Products & Risks",
-    "stem": "Guarantees on insurance products",
-    "choices": {
-      "A": "are not allowed.",
-      "B": "are permissible for principal values in the separate account.",
-      "C": "must be specific to the insurance contract and not associated investments.",
-      "D": "are only permissible for companies with an A+ rating from A.M. Best."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “are not allowed.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-26",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "An agent is permitted to open all of the following customer accounts except",
-    "choices": {
-      "A": "a corporate account opened by the designated officer.",
-      "B": "a minor's account opened by a custodian.",
-      "C": "a partnership account opened by the designated partner.",
-      "D": "an account in the name of Mrs. Jones opened by Mr. Jones."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “an account in the name of Mrs. Jones opened by Mr. Jones.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-27",
-    "section": "2 - Products & Risks",
-    "stem": "An analyst comparing revenues with expenses is most likely analyzing",
-    "choices": {
-      "A": "working capital.",
-      "B": "cash flow.",
-      "C": "liquidity.",
-      "D": "capitalization."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “capitalization.”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-28",
-    "section": "2 - Products & Risks",
-    "stem": "A new offering has a green shoe option. This means",
-    "choices": {
-      "A": "The syndicate can oversell by up to 15% of the offering.",
-      "B": "The syndicate is obligated to purchase up to 15% of the offering.",
-      "C": "The issuer has purchased put options to protect itself against a decline in the price of the stock.",
-      "D": "The syndicate members have purchased put options to protect against a decline in the price of the stock."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “The syndicate can oversell by up to 15% of the offering.”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-29",
-    "section": "4 - Regulatory Framework",
-    "stem": "The KPL Corporation is considering having its stock listed on the New York Stock Exchange (NYSE). Who will make the final decision as to whether it will be listed?",
-    "choices": {
-      "A": "The NYSE",
-      "B": "The SEC",
-      "C": "The Board of Directors of KPL",
-      "D": "FINRA"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “The NYSE”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-30",
-    "section": "2 - Products & Risks",
-    "stem": "A 38-year-old investor places $25,000 into a single premium qualified deferred variable annuity. Twenty years later, with the account valued at $72,000, the investor withdraws $50,000. If the investor is in the 25% marginal income tax bracket, the total tax liability is",
-    "choices": {
-      "A": "$17,500",
-      "B": "$12,500",
-      "C": "$11,750",
-      "D": "$16,450"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “$17,500”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-31",
-    "section": "2 - Products & Risks",
-    "stem": "The price of which of the following securities is determined based on supply and demand?",
-    "choices": {
-      "A": "Interval funds",
-      "B": "Closed-end management investment companies",
-      "C": "Open-end management investment companies",
-      "D": "Unit investment trusts"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “Closed-end management investment companies”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-32",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "Peyton has been a client of Turing Technical Analytics (TTA), a FINRA member broker-dealer, for 10 years. Peyton decided that it is time to move the account to a new firm, Ernigma Mathematical Portfolio Modeling (EMPM). Which of the following statements accurately reflects the requirements when using the ACATS system?",
-    "choices": {
-      "A": "EMPM has one business day to validate or take exception to the positions listed on the transfer initiation form.",
-      "B": "TTA has three business days to validate or take exception to the positions listed on the transfer initiation form.",
-      "C": "EMPM has three business days to validate or take exception to the positions listed on the transfer initiation form.",
-      "D": "TTA has one business day to validate or take exception to the positions listed on the transfer initiation form."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “EMPM has one business day to validate or take exception to the positions listed on the transfer initiation form.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-33",
-    "section": "1 - Capital Markets",
-    "stem": "All of the following items of information must be included in a municipal securities confirmation except",
-    "choices": {
-      "A": "the date of maturity that has been fixed by a call notice.",
-      "B": "an extraordinary call provision.",
-      "C": "the capacity in which the broker-dealer acted.",
-      "D": "whether the securities are fully registered or book entry."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “whether the securities are fully registered or book entry.”. This falls under <b>1 - Capital Markets</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-34",
-    "section": "2 - Products & Risks",
-    "stem": "Royal Duck Manufacturing Company (RDMC), located in the United States, exports about 25% of its high-quality down overcoats to distributors in Canada. To protect against currency risk, RDMC should",
-    "choices": {
-      "A": "purchase call options on the U.S. currency.",
-      "B": "purchase call options on the Canadian currency.",
-      "C": "purchase put options on the Canadian currency.",
-      "D": "sell put options on the Canadian currency."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “purchase put options on the Canadian currency.”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-35",
-    "section": "2 - Products & Risks",
-    "stem": "The common stock of Porcine Meat Products, Inc., is currently selling at $60 per share. It has a P/E ratio of 12:1 and pays an annual dividend of $3 per share. That would make Porcine's EPS equal to",
-    "choices": {
-      "A": "$5.00",
-      "B": "$5.",
-      "C": "$12.",
-      "D": "$3."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “$5.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-36",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "Which of the following accounts is billed a single fee annually for a group of services?",
-    "choices": {
-      "A": "Cash account",
-      "B": "Wrap account",
-      "C": "Margin account",
-      "D": "Option account"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “Wrap account”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-37",
-    "section": "1 - Capital Markets",
-    "stem": "Which of the following governmental bodies receives the least amount of their revenues from property taxes?",
-    "choices": {
-      "A": "State governments",
-      "B": "Municipalities",
-      "C": "School districts",
-      "D": "County governments"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “State governments”. This falls under <b>1 - Capital Markets</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-38",
-    "section": "1 - Capital Markets",
-    "stem": "All of the following may occur during the mandatory 20-day cooling-off period except",
-    "choices": {
-      "A": "soliciting transactions for the security.",
-      "B": "publishing a tombstone ad.",
-      "C": "underwriters performing due diligence.",
-      "D": "forwarding a preliminary prospectus to a customer."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “soliciting transactions for the security.”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-39",
-    "section": "2 - Products & Risks",
-    "stem": "Which of the following securities cannot pay a dividend?",
-    "choices": {
-      "A": "American depositary receipt",
-      "B": "Convertible preferred stock",
-      "C": "Warrant",
-      "D": "Class B common stock"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “Warrant”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-40",
-    "section": "2 - Products & Risks",
-    "stem": "As a requirement of making a particular business investment, your customer just signed a statement attesting to her annual income and net worth, and affirming that the risks associated with the investment are understood. The signed statement, once submitted with the intended investment amount, will either be approved or disapproved. Approval allows the investor to subscribe to the investment. Which of the following investments would have such a requirement?",
-    "choices": {
-      "A": "A special situation fund",
-      "B": "A direct participation program",
-      "C": "A collateralized mortgage obligation",
-      "D": "A variable annuity"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “A direct participation program”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-42",
-    "section": "2 - Products & Risks",
-    "stem": "A registered representative (RR) is recommending to his client a newly issued debt security backed by the U.S. government with a maturity of seven years. This security is most likely",
-    "choices": {
-      "A": "A guaranteed note.",
-      "B": "A Treasury note.",
-      "C": "A Treasury bond.",
-      "D": "A GNMA pass-through security."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “A Treasury note.”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-43",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "A customer of a FINRA member firm submits an order to sell 100 shares of a stock at a price of $43 per share. The customer receives a trade report indicating that all 100 shares were sold at $42.95 per share. What should the registered representative handling the account do?",
-    "choices": {
-      "A": "Wait for the customer to file an official complaint.",
-      "B": "Remedy the problem by crediting $5 to the customer's account.",
-      "C": "Explain to the customer that you were able to obtain a five cent per share improvement.",
-      "D": "Report the error immediately to the designated principal."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “Report the error immediately to the designated principal.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-44",
-    "section": "2 - Products & Risks",
-    "stem": "Your client, Mr. Brown, owns 400 shares of Acme Shoelace common stock. He returns your many calls on March 24. General Shoelaces, Inc. made a tender offer on March 4, of $75 per share, which is $5 above the prevailing price. Given that your client is likely interested in the offer but missed the initial communication, what question might he ask you now?",
-    "choices": {
-      "A": "Is General Shoelaces, Inc., a good company?",
-      "B": "Why didn't you call me?",
-      "C": "Is Acme Shoelace in reasonable shape financially?",
-      "D": "Has General Shoelaces' tender offer expired?"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “Has General Shoelaces' tender offer expired?”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-45",
-    "section": "2 - Products & Risks",
-    "stem": "If the ABCD Mutual Fund has a $25,000 breakpoint on its Class A shares where the sales charge decreases from 5% to 4%, which of the following purchases would likely represent a breakpoint sale?",
-    "choices": {
-      "A": "$26,000",
-      "B": "$32,000",
-      "C": "$24,000",
-      "D": "$18,000"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “$24,000”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-46",
-    "section": "2 - Products & Risks",
-    "stem": "A quote of 2.20 bid 2.18 offered would most likely be a quote on",
-    "choices": {
-      "A": "a general obligation bond.",
-      "B": "a Ginnie Mae bond.",
-      "C": "a T-bond.",
-      "D": "a T-bill."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “a Ginnie Mae bond.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-47",
-    "section": "2 - Products & Risks",
-    "stem": "An investor's portfolio has a beta coefficient of 0.85. If the overall market declined by 10% over the course of a year, the portfolio's value has likely",
-    "choices": {
-      "A": "decreased by 11.76%.",
-      "B": "decreased by 8.5%.",
-      "C": "increased by 8.5%.",
-      "D": "increased by 10.85%."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “decreased by 8.5%.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-48",
-    "section": "2 - Products & Risks",
-    "stem": "An investor purchased 200 shares of Hightown National Bank (HNB) common stock at $120.06 per share. Thirteen months later, HNB pays a 15% stock dividend. Three months after that, the investor sells the shares received from the stock dividend at $112.57 per share. The tax consequence to the investor is",
-    "choices": {
-      "A": "$245.10 long-term capital gain.",
-      "B": "$122.55 short-term capital gain.",
-      "C": "$1,879.10 long-term capital gain.",
-      "D": "$245.10 short-term capital gain."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “$245.10 long-term capital gain.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-49",
-    "section": "2 - Products & Risks",
-    "stem": "One of your customers has become nervous about current stock market conditions and calls to discuss the matter with you. Which of the following would not meet Regulation BI's definition of a recommendation?",
-    "choices": {
-      "A": "You need to reallocate some of the equity portion of the portfolio to cash.",
-      "B": "Our top analysts tell us that the market is about to strengthen.",
-      "C": "Liquidate some of the losers for the tax benefit.",
-      "D": "This is not the time to sell. Hold what you have."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “Our top analysts tell us that the market is about to strengthen.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-50",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "One of your clients has a margin account with the following balances: long market value $50,000, debit balance $24,000, short market value $40,000, and credit balance $65,000. The account will be at the minimum maintenance level when",
-    "choices": {
-      "A": "The long market value is $37,500 and the short market value is $50,000.",
-      "B": "The long market value is $37,500 and the short market value is $52,000.",
-      "C": "The long market value is $32,000 and the short market value is $52,000.",
-      "D": "The long market value is $32,000 and the short market value is $50,000."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “The long market value is $32,000 and the short market value is $50,000.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-51",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "A significant increase in which of the following types of orders may cause a bull market to accelerate?",
-    "choices": {
-      "A": "Buy limits",
-      "B": "Short sales",
-      "C": "Sell stops",
-      "D": "Buy stops"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “Buy stops”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-52",
-    "section": "4 - Regulatory Framework",
-    "stem": "The Securities Act of 1933 applies to all of the following except",
-    "choices": {
-      "A": "the registration of new issues.",
-      "B": "the regulation of insider trading.",
-      "C": "prospectus preparation.",
-      "D": "full and fair disclosure."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “the regulation of insider trading.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-53",
-    "section": "2 - Products & Risks",
-    "stem": "Tax preference items are used for the purpose of computing the alternative minimum tax. They include I. excess intangible drilling costs. II. accelerated depreciation. III. percentage depletion in excess of basis.",
-    "choices": {
-      "A": "II and III",
-      "B": "I, II, and III",
-      "C": "I and II",
-      "D": "I and III"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “I, II, and III”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-55",
-    "section": "1 - Capital Markets",
-    "stem": "An investor in the 28% income tax bracket is considering purchasing either a 4% municipal bond or a 5% corporate bond. Which of the following statements regarding the two bonds' after-tax yields is true?",
-    "choices": {
-      "A": "The two bonds' yields are equivalent.",
-      "B": "The yield difference cannot be determined.",
-      "C": "The municipal bond's yield is higher than the corporate bond's yield.",
-      "D": "The corporate bond's yield is higher than the municipal bond's yield."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “The municipal bond's yield is higher than the corporate bond's yield.”. This falls under <b>1 - Capital Markets</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-56",
-    "section": "2 - Products & Risks",
-    "stem": "An economist is comparing the yields on 20-year U.S. Treasury bonds and AAA-rated corporate bonds with the same maturity. The economist is analyzing",
-    "choices": {
-      "A": "The credit spread.",
-      "B": "The value spread.",
-      "C": "The duration spread.",
-      "D": "The risk spread."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “The credit spread.”. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-58",
-    "section": "1 - Capital Markets",
-    "stem": "Which of the following statements regarding the Government National Mortgage Association (GNMA) is true?",
-    "choices": {
-      "A": "Private lending institutions approved by GNMA originate eligible loans and sell the mortgage-backed securities to investors.",
-      "B": "GNMA approves residential mortgages for home buyers.",
-      "C": "Lending institutions apply to GNMA for funds to lend to residential home buyers.",
-      "D": "GNMA originates loans to home buyers and sells the mortgage-backed securities to private lending institutions."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “Private lending institutions approved by GNMA originate eligible loans and sell the mortgage-backed securities to investors.”. This falls under <b>1 - Capital Markets</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-59",
-    "section": "2 - Products & Risks",
-    "stem": "A municipality has prefunded its bond issue maturing in five years. This would mean all of the following except",
-    "choices": {
-      "A": "a higher rating.",
-      "B": "a reduction to the coupon rate.",
-      "C": "the bonds will be called in more than 90 days.",
-      "D": "greater marketability."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “a reduction to the coupon rate.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-60",
-    "section": "1 - Capital Markets",
-    "stem": "Interest income from all of the following are exempt from state and local taxation except",
-    "choices": {
-      "A": "Treasury bills.",
-      "B": "Series EE savings bonds.",
-      "C": "Treasury bonds.",
-      "D": "FNMA mortgage-backed issues."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “FNMA mortgage-backed issues.”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-61",
-    "section": "2 - Products & Risks",
-    "stem": "If a stock undergoes a 1-for-5 reverse split, which of the following increases? I. Market price per share II. Number of shares outstanding III. Earnings per share IV. Market capitalization of the company",
-    "choices": {
-      "A": "III and IV",
-      "B": "I and III",
-      "C": "II and III",
-      "D": "I and II"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “I and III”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-62",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "Customer account records (such as the new account form) must be maintained for not less than",
-    "choices": {
-      "A": "3 years commencing from the date the account is closed.",
-      "B": "6 years commencing from the date the account is closed.",
-      "C": "3 years commencing from the date the account is opened.",
-      "D": "6 years commencing from the date the account is opened."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “6 years commencing from the date the account is closed.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-63",
-    "section": "2 - Products & Risks",
-    "stem": "A customer wishes to buy 1 XYZ Jan 40 call and write 1 XYZ Jan 45 call. At the time the order is placed, the options are trading as follows: Jan. 40 calls - 4.30 bid, 4.35 ask. Jan. 45 calls - 2.25 bid, 2.30 ask. If the transaction is effected at the market, the spread will be established at",
-    "choices": {
-      "A": "a 1.85 debit",
-      "B": "a 1.50 debit",
-      "C": "a 2.10 debit",
-      "D": "a 1.75 debit"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “a 2.10 debit”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-64",
-    "section": "2 - Products & Risks",
-    "stem": "Unless instructed otherwise, when customers purchase common stock in a cash account, your firm holds securities in street name. One of your customers requests that you use the DRS program for registration of their ownership. This means",
-    "choices": {
-      "A": "The stock is registered in the customer's name but the broker-dealer that holds the account is the one that holds the security in book-entry form.",
-      "B": "The stock is registered in the customer's name but the company that issued the stock (or its transfer agent) is the one that holds the security in book-entry form.",
-      "C": "The stock is registered in the customer's name but the mutual fund's custodian bank holds the security in book-entry form.",
-      "D": "The stock is registered in the customer's name but the broker-dealer that holds the account is the one that holds the security in street name."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “The stock is registered in the customer's name but the broker-dealer that holds the account is the one that holds the security in book-entry form.”. This falls under <b>2 - Products & Risks</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-65",
-    "section": "2 - Products & Risks",
-    "stem": "In most cases, a mutual fund is structured as a corporation. Because of certain tax regulations, it is important for the fund to compute its net investment income. That computation is",
-    "choices": {
-      "A": "Interest minus dividends received on portfolio securities, minus the operating expenses of the fund.",
-      "B": "Interest plus dividends received on portfolio securities, plus realized capital gains, minus the operating expenses of the fund.",
-      "C": "Dividends minus interest received on portfolio securities, minus the operating expenses of the fund.",
-      "D": "Interest plus dividends received on portfolio securities, minus the operating expenses of the fund."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “Interest plus dividends received on portfolio securities, minus the operating expenses of the fund.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-66",
-    "section": "2 - Products & Risks",
-    "stem": "When an issuer of a preferred stock exercises the call, it is usually at a price somewhat above the stock's par value. This excess over par is",
-    "choices": {
-      "A": "the call premium.",
-      "B": "the call price.",
-      "C": "the call privilege.",
-      "D": "the yield to call."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “the call premium.”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-67",
-    "section": "2 - Products & Risks",
-    "stem": "A customer purchased 10 ABC 9% of 2045 convertible debentures at 99. The debentures are callable at 101. The conversion ratio is 40. Some time later, the debentures are called while the common is trading at $24 and the debenture is trading at 98. Which of the following options would be most beneficial to the customer?",
-    "choices": {
-      "A": "Tender the bonds to the corporation",
-      "B": "Convert the bonds and sell the common stock",
-      "C": "Wait for a better offer from the corporation",
-      "D": "Sell the bonds"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “Tender the bonds to the corporation”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-68",
-    "section": "2 - Products & Risks",
-    "stem": "All of the following would be considered nonpublic arbitrators except",
-    "choices": {
-      "A": "Susan, a corporate vice president working for a tech company listed on the NYSE.",
-      "B": "Joel, an attorney who frequently represents and solicits clients in disputes concerning investment accounts.",
-      "C": "Daniel, who was a mutual fund portfolio advisor for several years before he retired last month.",
-      "D": "Grace, a banking executive overseeing lending services."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “Susan, a corporate vice president working for a tech company listed on the NYSE.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-69",
-    "section": "2 - Products & Risks",
-    "stem": "An investor purchased a zero-coupon corporate bond on the initial offering. The price was 50. The bond's maturity date is in 10 years. At maturity, this investor will have",
-    "choices": {
-      "A": "$500 in taxable income and no capital gain.",
-      "B": "No taxable income and a $500 long-term capital gain.",
-      "C": "No taxable capital gain.",
-      "D": "A combination of taxable income and capital gain based on IRS tables."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “No taxable capital gain.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-71",
-    "section": "2 - Products & Risks",
-    "stem": "Which of the following callable municipal bonds trading on a 7% basis is most likely to be called?",
-    "choices": {
-      "A": "7.5% coupon, callable at 105 in 2030",
-      "B": "7.5% coupon, callable at 100 in 2030",
-      "C": "6.5% coupon, callable at 100 in 2030",
-      "D": "6.5% coupon, callable at 105 in 2030"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “7.5% coupon, callable at 100 in 2030”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-72",
-    "section": "2 - Products & Risks",
-    "stem": "The phrase 'not prime' would apply to a bond with a Moody's rating of",
-    "choices": {
-      "A": "Baa1",
-      "B": "Baa3",
-      "C": "BBB",
-      "D": "BB"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “Baa1”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-73",
-    "section": "2 - Products & Risks",
-    "stem": "The Investment Company Act of 1940 has two types of management investment companies: the closed-end and the open-end. Which of the following is a significant difference between the two?",
-    "choices": {
-      "A": "Closed-end companies will never sell below net asset value per share, while open-end companies might if there are net redemptions.",
-      "B": "The closed-end investment company's portfolio can contain common stock, preferred stock, and bonds, while the open-end is limited to common stock only.",
-      "C": "The closed-end investment company is generally more attractive for those investing small amounts.",
-      "D": "The closed-end company generally has a one-time offer of shares, while the open-end company's offer of shares is continuous."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “The closed-end company generally has a one-time offer of shares, while the open-end company's offer of shares is continuous.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-74",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "A schoolteacher has a 403(b) tax-qualified deferred retirement plan into which she has deposited $100,000 over a 12-year period. At retirement, if the teacher withdraws the total value of the account (now $220,000), how much of the withdrawal will be subject to taxation as ordinary income?",
-    "choices": {
-      "A": "$0",
-      "B": "$120,000",
-      "C": "$220,000",
-      "D": "$100,000"
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “$220,000”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-75",
-    "section": "1 - Capital Markets",
-    "stem": "In reviewing prospectuses and registration statements, the SEC",
-    "choices": {
-      "A": "guarantees the adequacy of the disclosures made in a prospectus.",
-      "B": "certifies the accuracy of the disclosures made in a prospectus.",
-      "C": "passes on the merits of a particular security covered by a registration statement.",
-      "D": "does not approve or disapprove of the issue."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “does not approve or disapprove of the issue.”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-76",
-    "section": "4 - Regulatory Framework",
-    "stem": "In light of the many cases involving variable annuities where there was failure to supervise egregious unethical behavior, FINRA's Rule 2330, Members' Responsibilities Regarding Deferred Variable Annuities, evolved. One of the specific concerns that the regulators have with deferred variable annuities is sales personnel recommending that an investor switch from an existing contract to a new one. In the case of variable annuities, these exchanges are typically done under the provisions of IRS Section 1035. One of the factors in determining if the exchange is suitable is whether the customer has had another deferred annuity exchange within the preceding:",
-    "choices": {
-      "A": "24 months.",
-      "B": "36 months.",
-      "C": "30 months.",
-      "D": "12 months."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “36 months.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-77",
-    "section": "2 - Products & Risks",
-    "stem": "A bond dealer that quotes a concession of 'half' to another dealer means",
-    "choices": {
-      "A": "$5 per $1,000 of par.",
-      "B": "0.5% of the dealer's price.",
-      "C": "a 50% commission split.",
-      "D": "0.5% of the market price."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “$5 per $1,000 of par.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-78",
-    "section": "2 - Products & Risks",
-    "stem": "All of the following statements regarding collateralized mortgage obligations (CMOs) are true except",
-    "choices": {
-      "A": "principal repayments are applied to earlier tranches first.",
-      "B": "Interest payments are distributed pro rata when received.",
-      "C": "Interest is paid semiannually.",
-      "D": "CMOs are a derivative security."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “principal repayments are applied to earlier tranches first.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-79",
-    "section": "2 - Products & Risks",
-    "stem": "Your client invests $50,000 into an equipment-leasing DPP. The program raises $1 million for the sale of units and borrows an additional $4 million on a nonrecourse basis. Unfortunately, the equipment is leased to a company that files for bankruptcy, and due to the poor maintenance on the equipment, only $1.5 million is realized at foreclosure. Your client would be able to claim a loss of",
-    "choices": {
-      "A": "$112,500.",
-      "B": "$50,000.",
-      "C": "$30,000.",
-      "D": "$175,000."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “$50,000.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-81",
-    "section": "1 - Capital Markets",
-    "stem": "Institutional communication is not filed with FINRA as would be required of retail communication. Nonetheless, the member producing such content should still",
-    "choices": {
-      "A": "not require any principal approval, but it should require post review within a reasonable period of time after dissemination of the material.",
-      "B": "not require prior approval, but it should require approval of the material by the principal within 10 days of first use.",
-      "C": "have written procedures for the education and training of representatives on institutional communications if there is no required preview.",
-      "D": "always require preview by a registered principal but not prior approval before dissemination to the institutional investor."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “have written procedures for the education and training of representatives on institutional communications if there is no required preview.”. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-83",
-    "section": "1 - Capital Markets",
-    "stem": "An investor purchases an original issue discount general obligation municipal bond (OID) on the offering and holds it to maturity. The IRS treats the accretion of the discount as",
-    "choices": {
-      "A": "tax free interest income.",
-      "B": "short-term capital gain.",
-      "C": "taxable interest income.",
-      "D": "long-term capital gain."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “tax free interest income.”. This falls under <b>1 - Capital Markets</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-84",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "A wealthy individual has established a trust and named you as the trustee. If you wish to establish an account that permits the trust to engage in margin transactions, which of the following statements regarding margin trading is true?",
-    "choices": {
-      "A": "It is permitted if the fiduciary shares in the profits or losses.",
-      "B": "It is not permitted.",
-      "C": "It is permitted if the fiduciary observes the prudent investor rule.",
-      "D": "It is permitted if provided for in the underlying documentation."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “It is permitted if provided for in the underlying documentation.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-86",
-    "section": "2 - Products & Risks",
-    "stem": "Regarding convertible debentures, one characteristic of which your clients should be aware of is that",
-    "choices": {
-      "A": "The conversion feature protects against an early call.",
-      "B": "They generally pay a higher interest rate than nonconvertible debentures.",
-      "C": "They trade in line with the issuer's common stock once the conversion price is reached.",
-      "D": "It is generally best to convert when the common stock is selling below its parity price."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “They trade in line with the issuer's common stock once the conversion price is reached.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-88",
-    "section": "2 - Products & Risks",
-    "stem": "The main purpose of dividend reinvestment in a mutual fund accumulation plan is to",
-    "choices": {
-      "A": "avoid taxes.",
-      "B": "compound the growth of a mutual fund investment.",
-      "C": "protect against capital loss.",
-      "D": "avoid commissions or sales charges."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “compound the growth of a mutual fund investment.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-89",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "A customer of a broker-dealer has opted to use share identification for tax reporting when selling shares of her mutual funds. With this method of tax reporting, she would want to identify the shares to be sold as those that have",
-    "choices": {
-      "A": "the highest cost basis generating the greatest gain.",
-      "B": "the lowest cost basis generating the greatest gain.",
-      "C": "the highest cost basis generating the least gain.",
-      "D": "the lowest cost basis generating the least gain."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “the lowest cost basis generating the greatest gain.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-92",
-    "section": "1 - Capital Markets",
-    "stem": "A blind pool offering",
-    "choices": {
-      "A": "Is connected with oil and gas leases.",
-      "B": "Is one in which the properties are purchased on a lottery basis.",
-      "C": "Is one in which 25% or more of the properties are not specified.",
-      "D": "generates nonallocated income."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “generates nonallocated income.”. This falls under <b>1 - Capital Markets</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-93",
-    "section": "2 - Products & Risks",
-    "stem": "Aenical Corporation issued $100 million of $100 par value preferred stock a number of years ago. The stock pays quarterly dividends of $1.25. Recent issues of comparable preferred stock carry a dividend yield of 4%. One could expect the market price of the Aenical preferred stock to be closest to",
-    "choices": {
-      "A": "$80.",
-      "B": "$75.",
-      "C": "$120.",
-      "D": "$125."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “$120.”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-94",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "Which of the following must be in a readily available location for two years?",
-    "choices": {
-      "A": "Customer complaints",
-      "B": "All of these",
-      "C": "Customer ledgers",
-      "D": "Blotters"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “All of these”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-95",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "An investor closed a brokerage account with a FINRA member firm on May 12, 2017. Almost four years later, on May 5, 2021, the same investor has a financial plan developed by a registered representative of a different member firm. While examining the old accounts, the representative discovers a transaction where the individual handling the account, as well as the member itself, were negligent resulting in a loss of over $100,000 to the customer. That transaction occurred on April 30, 2015. If the investor wished to make an arbitration claim,",
-    "choices": {
-      "A": "It is barely within the statute of limitations of four years from the discovery of the event.",
-      "B": "It is past the statute of limitations of three years from the discovery of the event.",
-      "C": "It is past the statute of limitations of six years from the date of the event.",
-      "D": "A claim may be made only if the customer signed a pre-dispute arbitration agreement."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “It is past the statute of limitations of six years from the date of the event.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-96",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "One of your customers passed away recently. The customer had an IRA with you and had his sister listed as the beneficiary. Other assets included the home and furnishings and a brokerage account at another firm. The titling on that brokerage account was the customer and his son, JTWROS. The customer's will specified that 100% of his assets should pass to his daughter. Based on this information, the estate settlement will have",
-    "choices": {
-      "A": "The daughter getting the home and furnishings and the IRA, with the son getting the brokerage account.",
-      "B": "The daughter getting the home and furnishings, the son the brokerage account, and the sister the IRA.",
-      "C": "The daughter getting the home and furnishings and the brokerage account, with the sister getting the IRA.",
-      "D": "The daughter receiving everything as stated in the will."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “The daughter getting the home and furnishings, the son the brokerage account, and the sister the IRA.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Know the settlement clock: equities T+2, options and most bonds T+1.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-97",
-    "section": "2 - Products & Risks",
-    "stem": "One of your customers wants to alter her investment objectives. She has said she wants to move her portfolio from its current objectives to one of 'concerted growth.' When you ask what she means by that, she has trouble explaining. You want both of you to understand one another clearly, so you explain that growth in an investment portfolio is commonly described as any of the following except",
-    "choices": {
-      "A": "directed growth.",
-      "B": "conservative growth.",
-      "C": "moderate growth.",
-      "D": "aggressive growth."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “directed growth.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-98",
-    "section": "2 - Products & Risks",
-    "stem": "If a customer buys 300 ABC at $53 and writes 3 ABC Jun 55 calls at 4, and the contracts expire unexercised, the customer's cost basis in ABC stock at expiration is",
-    "choices": {
-      "A": "$49.",
-      "B": "$53.",
-      "C": "$57.",
-      "D": "$51."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “$53.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-99",
-    "section": "2 - Products & Risks",
-    "stem": "Which of the following are characteristics of both stock rights and warrants?",
-    "choices": {
-      "A": "They are frequently used as a sweetener to attract purchasers to another security.",
-      "B": "They offer the holder an opportunity to purchase stock at a fixed price.",
-      "C": "When initially offered, neither one has intrinsic value.",
-      "D": "One must be a current stockholder to receive them."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “They offer the holder an opportunity to purchase stock at a fixed price.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-100",
-    "section": "2 - Products & Risks",
-    "stem": "A 38-year-old investor places $25,000 into a qualified single premium deferred variable annuity. Twenty years later, with the account valued at $72,000, the investor surrenders the policy. If the investor is in the 25% marginal income tax bracket, the total tax liability is",
-    "choices": {
-      "A": "$11,750.",
-      "B": "$25,200.",
-      "C": "$18,000.",
-      "D": "$16,450."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “$25,200.”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-101",
-    "section": "2 - Products & Risks",
-    "stem": "Which of the following are spreads? I. Long 1 FLB May 40 call, short 1 FLB May 50 call. II. Long 1 FLB May 40 call, long 1 FLB May 50 call. III. Long 1 FLB Aug 40 call, short 1 FLB May 40 call. IV. Long 1 FLB Aug 40 call, short 1 FLB Aug 50 put.",
-    "choices": {
-      "A": "I and II",
-      "B": "I and III",
-      "C": "II and III",
-      "D": "II and IV"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “I and II”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-104",
-    "section": "2 - Products & Risks",
-    "stem": "Libby sees a tombstone advertisement for a new issue of Southwest Barge subordinated convertible debentures. The bonds will carry a 7% coupon, are convertible into common stock at $10.50, and are being issued to the public at 100. The proceeds of the issue will be used specifically for purchasing new Southwest barges. Libby's concerns about the issue could include which of the following?",
-    "choices": {
-      "A": "She should not be concerned, as the bonds will rank first in liquidation.",
-      "B": "The issue may have a junior claim to another security issue.",
-      "C": "The new barges might sink, and the collateral would be gone.",
-      "D": "The company might demand that she accept common stock for her bond."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “The issue may have a junior claim to another security issue.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-105",
-    "section": "4 - Regulatory Framework",
-    "stem": "A registered representative has a client who wants to save for college for her child. The child will be entering college in five years. This would be an example of",
-    "choices": {
-      "A": "An investment objective.",
-      "B": "An investment constraint.",
-      "C": "Tactical asset allocation.",
-      "D": "Planning too late."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “An investment constraint.”. This falls under <b>4 - Regulatory Framework</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-106",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "Under FINRA rules, if a member wants to have the terms of a clearly erroneous trade adjusted, it must notify Nasdaq Market Operations",
-    "choices": {
-      "A": "before 4:00 pm ET on settlement date.",
-      "B": "before 4:00 pm ET on trade date.",
-      "C": "within 1 hour of the execution.",
-      "D": "within 30 minutes of the execution."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “within 30 minutes of the execution.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Know the settlement clock: equities T+2, options and most bonds T+1.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-107",
-    "section": "2 - Products & Risks",
-    "stem": "An investor writes 1 IBS 280 put for 16.60. The position is closed, and the put is bought for its intrinsic value when IBS is trading at 265.25. The investor realizes",
-    "choices": {
-      "A": "a $185 profit.",
-      "B": "a $235 loss.",
-      "C": "a $145 profit.",
-      "D": "a $185 loss."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “a $185 profit.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-108",
-    "section": "2 - Products & Risks",
-    "stem": "When a limited partnership terminates, a limited partner's gain or loss is determined by comparing",
-    "choices": {
-      "A": "the passive income to the passive losses.",
-      "B": "the final proceeds to the original cost basis.",
-      "C": "the total losses to the total income.",
-      "D": "the final proceeds to the adjusted cost basis."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “the final proceeds to the adjusted cost basis.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-109",
-    "section": "1 - Capital Markets",
-    "stem": "Under Municipal Securities Rulemaking Board (MSRB) rules, a broker-dealer must disclose control relationships",
-    "choices": {
-      "A": "never.",
-      "B": "only for new issues.",
-      "C": "in all customer transactions.",
-      "D": "only for secondary market transactions."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “in all customer transactions.”. This falls under <b>1 - Capital Markets</b>. Key principle: MSRB writes rules for municipal securities; FINRA enforces them.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-110",
-    "section": "1 - Capital Markets",
-    "stem": "Securities traders would consider which of the following to be the most relevant indicator of expected market volatility?",
-    "choices": {
-      "A": "The VIX Index",
-      "B": "The S&P 500 Index",
-      "C": "The market's beta",
-      "D": "The advance/decline ratio"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “The VIX Index”. This falls under <b>1 - Capital Markets</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-111",
-    "section": "2 - Products & Risks",
-    "stem": "A tool used by investment banking firms to combine several unsuccessful limited partnership programs into one new entity is",
-    "choices": {
-      "A": "a DPP rescue.",
-      "B": "a DPP rollup.",
-      "C": "a merger.",
-      "D": "a multiprogram partnership."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “a merger.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-112",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "An investor has an established margin account with a long market value of $6,500 and a debit balance of $3,750, with Regulation T at 50%. A maintenance call would be triggered if the long market value decreased below",
-    "choices": {
-      "A": "$2,812.50.",
-      "B": "$6,666.67.",
-      "C": "$4,875.00.",
-      "D": "$5,000.00."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “$5,000.00.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-113",
-    "section": "1 - Capital Markets",
-    "stem": "The Municipal Securities Rulemaking Board (MSRB) has rules regarding quotations on callable municipal bonds. For which of the following would the customer confirmation be required to show the yield to call?",
-    "choices": {
-      "A": "7s of 35 with a basis quote of 9.5%",
-      "B": "9s of 25 with a basis quote of 7.0%",
-      "C": "8s of 38 with a basis quote of 8.0%",
-      "D": "6s of 37 with a basis quote of 7.5%"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “9s of 25 with a basis quote of 7.0%”. This falls under <b>1 - Capital Markets</b>. Key principle: MSRB writes rules for municipal securities; FINRA enforces them.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-114",
-    "section": "2 - Products & Risks",
-    "stem": "A customer purchases $50,000 of bonds at a discount in the secondary market. The bonds mature in 10 years and are callable in five years at par. Under industry rules, the customer's confirmation will show",
-    "choices": {
-      "A": "YTC.",
-      "B": "either the YTM or YTC.",
-      "C": "both the YTM and YTC.",
-      "D": "YTM."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “YTM.”. This falls under <b>2 - Products & Risks</b>. Key principle: The secondary market is where investors trade already-issued securities.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-115",
-    "section": "1 - Capital Markets",
-    "stem": "If a customer opens a spread on Canadian dollars (10,000 units) by purchasing 1 Dec 74 call for 2.30 and selling 1 Dec 77 call for 1.50, what is the total cost of this debit spread?",
-    "choices": {
-      "A": "$700",
-      "B": "$80",
-      "C": "$4,970",
-      "D": "$800"
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “$80”. This falls under <b>1 - Capital Markets</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-116",
-    "section": "1 - Capital Markets",
-    "stem": "An investor would sell a put",
-    "choices": {
-      "A": "as an inflation hedge.",
-      "B": "because he is bearish.",
-      "C": "because he is bullish.",
-      "D": "as a substitute for a short sale."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “because he is bullish.”. This falls under <b>1 - Capital Markets</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-120",
-    "section": "2 - Products & Risks",
-    "stem": "If ABC Corporation reports a loss for the year, it is obligated to pay interest on all of the following except",
-    "choices": {
-      "A": "convertible bonds.",
-      "B": "nonconvertible bonds.",
-      "C": "adjustment bonds.",
-      "D": "variable-rate bonds."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “adjustment bonds.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-121",
-    "section": "3 - Trading, Accounts & Prohibited",
-    "stem": "An order designated fill-or-kill (FOK) means that the order must be executed",
-    "choices": {
-      "A": "immediately but not necessarily entirely.",
-      "B": "in its entirety but not immediately.",
-      "C": "immediately and in its entirety.",
-      "D": "at the opening of trading."
-    },
-    "answer": "C",
-    "explanation": "The correct choice (C) is: “immediately and in its entirety.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-122",
-    "section": "1 - Capital Markets",
-    "stem": "Underwriters that reserve the right to stabilize the price of securities distributed to the public under an SEC registration statement may do so",
-    "choices": {
-      "A": "under no circumstances.",
-      "B": "only if notice is given in the prospectus.",
-      "C": "without restriction.",
-      "D": "only if the securities being distributed will be immediately listed for trading on the NYSE or other exchange."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “only if notice is given in the prospectus.”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-124",
-    "section": "2 - Products & Risks",
-    "stem": "Most exchange-traded funds (ETFs) are structured as open-end investment companies. However, they should not be confused with mutual funds. Among the differences between the two is that ETFs",
-    "choices": {
-      "A": "can issue preferred stock.",
-      "B": "compute their NAV hourly.",
-      "C": "are traded in the secondary markets.",
-      "D": "track indexes."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “track indexes.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-125",
-    "section": "4 - Regulatory Framework",
-    "stem": "One of the forms of communications with the public described in FINRA Rule 2210 is correspondence. One of the ways in which correspondence differs from retail communications is that",
-    "choices": {
-      "A": "principal review may take place before or after the sending of the correspondence.",
-      "B": "principal approval must take place within 10 days of the sending of the correspondence.",
-      "C": "correspondence is subject to prefiling with FINRA only when the member is a new firm.",
-      "D": "principal approval may take place before or after the sending of the correspondence."
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “principal approval may take place before or after the sending of the correspondence.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-126",
-    "section": "2 - Products & Risks",
-    "stem": "Interest and principal on a Eurodollar bond issued in Germany are paid",
-    "choices": {
-      "A": "In U.S. dollars.",
-      "B": "In German deutsche marks.",
-      "C": "In German euros.",
-      "D": "In European Union euros."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “In U.S. dollars.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-131",
-    "section": "2 - Products & Risks",
-    "stem": "An agent recommended investments in the XYZ Fund family to her customers for 10 years. She is referred by one of her customers to a prospect who inherited $500,000 as the beneficiary of a life insurance policy. The prospect tells the agent he has never invested in the market before, is risk averse, and wants safety of principal to be the first priority, with liquidity second. The agent recommends the following investments: XYZ government bond fund, B shares $200,000; XYZ large-cap growth and income B shares $150,000; XYZ liquid reserve money market $150,000. The recommendation is",
-    "choices": {
-      "A": "Suitable because it addresses the customer's liquidity objective.",
-      "B": "Suitable because she recommended conservative investments.",
-      "C": "Suitable because it addresses the customer's safety objective.",
-      "D": "Unsuitable because it does not address the customer's two primary objectives."
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “Suitable because it addresses the customer's liquidity objective.”. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-132",
-    "section": "2 - Products & Risks",
-    "stem": "An investor owning an option contract liquidates the position. The liquidation is",
-    "choices": {
-      "A": "an opening purchase.",
-      "B": "a closing sale.",
-      "C": "an opening sale.",
-      "D": "a closing purchase."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “a closing sale.”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-134",
-    "section": "2 - Products & Risks",
-    "stem": "An aggressive investor buys ABC stock with a beta of 1.7. The S&P 500 has a 10% rate of return for the year, and ABC's return is 12%. What is the alpha for ABC?",
-    "choices": {
-      "A": "-3%",
-      "B": "+5%",
-      "C": "+3%",
-      "D": "-5%"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “-5%”. This falls under <b>2 - Products & Risks</b>.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-135",
-    "section": "2 - Products & Risks",
-    "stem": "If a 42-year-old customer has been depositing money in a variable annuity for five years, and he plans to stop investing but has no intention of withdrawing any funds for at least 20 years, he is holding",
-    "choices": {
-      "A": "accumulation shares.",
-      "B": "accumulation units.",
-      "C": "annuity units.",
-      "D": "mutual fund units."
-    },
-    "answer": "B",
-    "explanation": "The correct choice (B) is: “accumulation units.”. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  }
+ {
+  "id": "yt-guru8-1",
+  "section": "2 - Products & Risks",
+  "stem": "A respected analyst reports that last week's T-bill rate at 1% is lower than the rate for the preceding week and lower than the average for the past month. Which of the following is true?",
+  "choices": {
+   "A": "Investors are paying less for T-bills.",
+   "B": "Investors are paying more for T-bills.",
+   "C": "The general level of interest rates is increasing.",
+   "D": "Prices are descending."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201cInvestors are paying more for T-bills.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-2",
+  "section": "2 - Products & Risks",
+  "stem": "A collateralized mortgage obligation (CMO) makes an interest-only payment to an investor. This payment will be",
+  "choices": {
+   "A": "treated partly as ordinary income and partly as a tax-free return of principal.",
+   "B": "taxed as ordinary income.",
+   "C": "taxed as a capital gain if the underlying mortgage is prepaid.",
+   "D": "tax free."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201ctreated partly as ordinary income and partly as a tax-free return of principal.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-3",
+  "section": "2 - Products & Risks",
+  "stem": "Minority stockholders are more likely to be able to elect directors through which form of voting?",
+  "choices": {
+   "A": "Progressive",
+   "B": "Regular",
+   "C": "Cumulative",
+   "D": "Statutory"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201cCumulative\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-4",
+  "section": "2 - Products & Risks",
+  "stem": "An investor purchases a zero-coupon bond at a price of $64. The bond matures in nine years. Five years later, the investor sells the bond at a price of $80. This would result in",
+  "choices": {
+   "A": "a long-term capital gain of $160.",
+   "B": "a long-term capital loss of $40.",
+   "C": "a long-term capital loss of $200.",
+   "D": "no gain and no loss."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201ca long-term capital loss of $40.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-6",
+  "section": "4 - Regulatory Framework",
+  "stem": "Which of the following is a required disclosure on the Form U4?",
+  "choices": {
+   "A": "Residency for the previous 3 years",
+   "B": "Employment history for the previous 3 years",
+   "C": "Residency for the previous 10 years",
+   "D": "Employment history for the previous 10 years"
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201cEmployment history for the previous 10 years\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-7",
+  "section": "2 - Products & Risks",
+  "stem": "A married couple both hoping to retire within the next five to seven years have expressed having a low-risk tolerance regarding the stock market. They have a combined income of $350,000. Given this information, which of the following portfolio mixes would be most suitable?",
+  "choices": {
+   "A": "Treasury bills, corporate bonds, preferred stock",
+   "B": "Treasury bills, common stock, options",
+   "C": "Treasury notes, municipal bonds, GNMAs",
+   "D": "Direct participation programs, real estate investment trusts, preferred stock"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201cTreasury notes, municipal bonds, GNMAs\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-8",
+  "section": "2 - Products & Risks",
+  "stem": "Working capital is",
+  "choices": {
+   "A": "current assets minus inventory.",
+   "B": "current assets minus current liabilities.",
+   "C": "only the cash and equivalents.",
+   "D": "total assets minus total liabilities."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201ccurrent assets minus current liabilities.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-9",
+  "section": "2 - Products & Risks",
+  "stem": "When a bond is selling at a premium:",
+  "choices": {
+   "A": "The current yield will always be higher than the yield to maturity.",
+   "B": "The nominal yield will always be lower than the yield to call.",
+   "C": "The current yield will always be higher than the nominal yield.",
+   "D": "The yield maturity will always be higher than the nominal yield."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201cThe current yield will always be higher than the yield to maturity.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-10",
+  "section": "1 - Capital Markets",
+  "stem": "Information found in The Bond Buyer would include all of the following EXCEPT",
+  "choices": {
+   "A": "the placement ratio.",
+   "B": "the 30-day visible supply.",
+   "C": "Reviews.",
+   "D": "secondary market volume."
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201cReviews.\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The secondary market is where investors trade already-issued securities.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-11",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "A registered representative of a FINRA member broker-dealer is gathering information from a prospective customer. When the representative uses the information to prepare a financial profile, which of the following would not be included?",
+  "choices": {
+   "A": "Current value of any IRAs",
+   "B": "The individual's risk tolerance",
+   "C": "Cash value in life insurance policies",
+   "D": "Outstanding credit card balances"
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201cThe individual's risk tolerance\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-12",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "A customer has $12,000 of capital gains, $15,000 of capital losses, and $50,000 adjusted gross income. How much unused loss is carried forward to the following tax year?",
+  "choices": {
+   "A": "$3,000",
+   "B": "$12,000",
+   "C": "$0",
+   "D": "$15,000"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201c$0\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-13",
+  "section": "1 - Capital Markets",
+  "stem": "A customer who buys 1 CDE Oct 60 call at 4 and sells 1 CDE Dec 60 call at 6 has created",
+  "choices": {
+   "A": "a long straddle.",
+   "B": "a price spread.",
+   "C": "a calendar spread.",
+   "D": "a combination."
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201ca calendar spread.\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-14",
+  "section": "2 - Products & Risks",
+  "stem": "An investor purchasing long-term AAA-rated bonds should be concerned most with",
+  "choices": {
+   "A": "No risk.",
+   "B": "Marketability risk.",
+   "C": "Reinvestment risk.",
+   "D": "Inflation risk."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201cInflation risk.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-15",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "If a customer's margin account shows a long market value of $6,000 and a debit balance of $5,000, the maintenance margin call will be for",
+  "choices": {
+   "A": "$500.",
+   "B": "$1,000.",
+   "C": "$3,000.",
+   "D": "$2,000."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201c$500.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-16",
+  "section": "2 - Products & Risks",
+  "stem": "A large national grocery chain owns several smaller regional supermarkets. The regional chain that operates in Chicago is experiencing some economic hardship, and the chain gets its debt downgraded by Standard & Poor's. The chain is desperate to raise capital to deal with a lack of cash flow. What method would be the best for raising capital?",
+  "choices": {
+   "A": "The regional chain should issue high-yield corporate bonds to attract investors because they are safer than issuing stock to the company if the company defaults.",
+   "B": "The regional chain should issue preferred stock to the investors letting them know that preferred shareholders have a preference in liquidation above general creditors.",
+   "C": "The regional chain should issue secured mortgage bonds to investors because the investors would be guaranteed to get their money back even if the regional chain defaults.",
+   "D": "The regional chain should seek to get their parent company to support them through the issuance of guaranteed bonds which although unsecured would be safer than direct debenture of the struggling chain."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201cThe regional chain should seek to get their parent company to support them through the issuance of guaranteed bonds which although unsecured would be safer than direct debenture of the struggling chain.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-17",
+  "section": "4 - Regulatory Framework",
+  "stem": "A FINRA member firm sends a promotional piece to 35 individuals over a three-day period. Twenty of these individuals are current customers of the firm. The other 15 are prospects whose names came from a commercially available mailing list service. Under the FINRA rule on communications with the public, this promotional piece would be considered",
+  "choices": {
+   "A": "retail communication.",
+   "B": "direct mail.",
+   "C": "correspondence.",
+   "D": "correspondence to the existing customers, retail communication to the prospects."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201cretail communication.\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-18",
+  "section": "2 - Products & Risks",
+  "stem": "Advantages of oil and gas direct participation programs (DPP) do not generally include which of the following?",
+  "choices": {
+   "A": "Potential alternative minimum tax",
+   "B": "Intangible drilling costs (IDC)",
+   "C": "Potential cash flow and/or income",
+   "D": "Depletion"
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201cPotential alternative minimum tax\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-19",
+  "section": "2 - Products & Risks",
+  "stem": "Your customer in her early 30s received a modest inheritance from a relative. Listing tax-deferred growth as an objective for retirement income, which of the following investments is most suitable?",
+  "choices": {
+   "A": "A variable annuity",
+   "B": "Growth mutual funds",
+   "C": "Tax-free municipal bonds",
+   "D": "Corporate debt securities"
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201cA variable annuity\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-20",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "Which of the following orders is reduced on the order book on the ex-dividend date for a cash dividend?",
+  "choices": {
+   "A": "Buy stop limit order",
+   "B": "Buy stop order",
+   "C": "Sell limit order",
+   "D": "Limit order to buy"
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201cLimit order to buy\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-21",
+  "section": "2 - Products & Risks",
+  "stem": "A customer who sold a bond at a loss must wait how long before she can buy back a substantially identical bond and not have the sale classified as a wash sale?",
+  "choices": {
+   "A": "5 days.",
+   "B": "No waiting period",
+   "C": "30 days",
+   "D": "20 days"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201c30 days\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-22",
+  "section": "2 - Products & Risks",
+  "stem": "A client, age 27, is new to investing. With $20,000 saved thus far and $400 to allocate toward investing monthly, his goal is to purchase a home in three to five years. Which is the most suitable recommendation?",
+  "choices": {
+   "A": "Open a long margin account to take advantage of the leverage that margin purchases can create using small amounts of money.",
+   "B": "Use leveraged index funds (2 or 3x) to maximize gains potential for the small investment amounts.",
+   "C": "Invest in both equity and corporate debt mutual funds so that a portfolio of stocks and bonds is established.",
+   "D": "Invest in a money market mutual fund to build up more cash reserves."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201cInvest in a money market mutual fund to build up more cash reserves.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-23",
+  "section": "2 - Products & Risks",
+  "stem": "In which of the following markets would an investor expect to find closed-end investment company shares traded?",
+  "choices": {
+   "A": "III and IV",
+   "B": "I and III",
+   "C": "II and IV",
+   "D": "I and II"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201cII and IV\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-24",
+  "section": "2 - Products & Risks",
+  "stem": "Which of the following regarding a Roth IRA are true? I. The contributions are nondeductible. II. Contributions must cease at age 72. III. Withdrawals must begin at age 72. IV. Withdrawals after age 59 1/2 can be tax free.",
+  "choices": {
+   "A": "I and III",
+   "B": "II and III",
+   "C": "II and IV",
+   "D": "I and IV"
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201cI and IV\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-25",
+  "section": "2 - Products & Risks",
+  "stem": "Guarantees on insurance products",
+  "choices": {
+   "A": "are not allowed.",
+   "B": "are permissible for principal values in the separate account.",
+   "C": "must be specific to the insurance contract and not associated investments.",
+   "D": "are only permissible for companies with an A+ rating from A.M. Best."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201care not allowed.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-26",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "An agent is permitted to open all of the following customer accounts except",
+  "choices": {
+   "A": "a corporate account opened by the designated officer.",
+   "B": "a minor's account opened by a custodian.",
+   "C": "a partnership account opened by the designated partner.",
+   "D": "an account in the name of Mrs. Jones opened by Mr. Jones."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201can account in the name of Mrs. Jones opened by Mr. Jones.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-27",
+  "section": "2 - Products & Risks",
+  "stem": "An analyst comparing revenues with expenses is most likely analyzing",
+  "choices": {
+   "A": "working capital.",
+   "B": "cash flow.",
+   "C": "liquidity.",
+   "D": "capitalization."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201ccapitalization.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-28",
+  "section": "2 - Products & Risks",
+  "stem": "A new offering has a green shoe option. This means",
+  "choices": {
+   "A": "The syndicate can oversell by up to 15% of the offering.",
+   "B": "The syndicate is obligated to purchase up to 15% of the offering.",
+   "C": "The issuer has purchased put options to protect itself against a decline in the price of the stock.",
+   "D": "The syndicate members have purchased put options to protect against a decline in the price of the stock."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201cThe syndicate can oversell by up to 15% of the offering.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-29",
+  "section": "4 - Regulatory Framework",
+  "stem": "The KPL Corporation is considering having its stock listed on the New York Stock Exchange (NYSE). Who will make the final decision as to whether it will be listed?",
+  "choices": {
+   "A": "The NYSE",
+   "B": "The SEC",
+   "C": "The Board of Directors of KPL",
+   "D": "FINRA"
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201cThe NYSE\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-30",
+  "section": "2 - Products & Risks",
+  "stem": "A 38-year-old investor places $25,000 into a single premium qualified deferred variable annuity. Twenty years later, with the account valued at $72,000, the investor withdraws $50,000. If the investor is in the 25% marginal income tax bracket, the total tax liability is",
+  "choices": {
+   "A": "$17,500",
+   "B": "$12,500",
+   "C": "$11,750",
+   "D": "$16,450"
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201c$17,500\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-31",
+  "section": "2 - Products & Risks",
+  "stem": "The price of which of the following securities is determined based on supply and demand?",
+  "choices": {
+   "A": "Interval funds",
+   "B": "Closed-end management investment companies",
+   "C": "Open-end management investment companies",
+   "D": "Unit investment trusts"
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201cClosed-end management investment companies\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-32",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "Peyton has been a client of Turing Technical Analytics (TTA), a FINRA member broker-dealer, for 10 years. Peyton decided that it is time to move the account to a new firm, Ernigma Mathematical Portfolio Modeling (EMPM). Which of the following statements accurately reflects the requirements when using the ACATS system?",
+  "choices": {
+   "A": "EMPM has one business day to validate or take exception to the positions listed on the transfer initiation form.",
+   "B": "TTA has three business days to validate or take exception to the positions listed on the transfer initiation form.",
+   "C": "EMPM has three business days to validate or take exception to the positions listed on the transfer initiation form.",
+   "D": "TTA has one business day to validate or take exception to the positions listed on the transfer initiation form."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201cEMPM has one business day to validate or take exception to the positions listed on the transfer initiation form.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-33",
+  "section": "1 - Capital Markets",
+  "stem": "All of the following items of information must be included in a municipal securities confirmation except",
+  "choices": {
+   "A": "the date of maturity that has been fixed by a call notice.",
+   "B": "an extraordinary call provision.",
+   "C": "the capacity in which the broker-dealer acted.",
+   "D": "whether the securities are fully registered or book entry."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201cwhether the securities are fully registered or book entry.\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-34",
+  "section": "2 - Products & Risks",
+  "stem": "Royal Duck Manufacturing Company (RDMC), located in the United States, exports about 25% of its high-quality down overcoats to distributors in Canada. To protect against currency risk, RDMC should",
+  "choices": {
+   "A": "purchase call options on the U.S. currency.",
+   "B": "purchase call options on the Canadian currency.",
+   "C": "purchase put options on the Canadian currency.",
+   "D": "sell put options on the Canadian currency."
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201cpurchase put options on the Canadian currency.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-35",
+  "section": "2 - Products & Risks",
+  "stem": "The common stock of Porcine Meat Products, Inc., is currently selling at $60 per share. It has a P/E ratio of 12:1 and pays an annual dividend of $3 per share. That would make Porcine's EPS equal to",
+  "choices": {
+   "A": "$5.00",
+   "B": "$5.",
+   "C": "$12.",
+   "D": "$3."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201c$5.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-36",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "Which of the following accounts is billed a single fee annually for a group of services?",
+  "choices": {
+   "A": "Cash account",
+   "B": "Wrap account",
+   "C": "Margin account",
+   "D": "Option account"
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201cWrap account\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-37",
+  "section": "1 - Capital Markets",
+  "stem": "Which of the following governmental bodies receives the least amount of their revenues from property taxes?",
+  "choices": {
+   "A": "State governments",
+   "B": "Municipalities",
+   "C": "School districts",
+   "D": "County governments"
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201cState governments\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-38",
+  "section": "1 - Capital Markets",
+  "stem": "All of the following may occur during the mandatory 20-day cooling-off period except",
+  "choices": {
+   "A": "soliciting transactions for the security.",
+   "B": "publishing a tombstone ad.",
+   "C": "underwriters performing due diligence.",
+   "D": "forwarding a preliminary prospectus to a customer."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201csoliciting transactions for the security.\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-39",
+  "section": "2 - Products & Risks",
+  "stem": "Which of the following securities cannot pay a dividend?",
+  "choices": {
+   "A": "American depositary receipt",
+   "B": "Convertible preferred stock",
+   "C": "Warrant",
+   "D": "Class B common stock"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201cWarrant\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-40",
+  "section": "2 - Products & Risks",
+  "stem": "As a requirement of making a particular business investment, your customer just signed a statement attesting to her annual income and net worth, and affirming that the risks associated with the investment are understood. The signed statement, once submitted with the intended investment amount, will either be approved or disapproved. Approval allows the investor to subscribe to the investment. Which of the following investments would have such a requirement?",
+  "choices": {
+   "A": "A special situation fund",
+   "B": "A direct participation program",
+   "C": "A collateralized mortgage obligation",
+   "D": "A variable annuity"
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201cA direct participation program\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-42",
+  "section": "2 - Products & Risks",
+  "stem": "A registered representative (RR) is recommending to his client a newly issued debt security backed by the U.S. government with a maturity of seven years. This security is most likely",
+  "choices": {
+   "A": "A guaranteed note.",
+   "B": "A Treasury note.",
+   "C": "A Treasury bond.",
+   "D": "A GNMA pass-through security."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201cA Treasury note.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-43",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "A customer of a FINRA member firm submits an order to sell 100 shares of a stock at a price of $43 per share. The customer receives a trade report indicating that all 100 shares were sold at $42.95 per share. What should the registered representative handling the account do?",
+  "choices": {
+   "A": "Wait for the customer to file an official complaint.",
+   "B": "Remedy the problem by crediting $5 to the customer's account.",
+   "C": "Explain to the customer that you were able to obtain a five cent per share improvement.",
+   "D": "Report the error immediately to the designated principal."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201cReport the error immediately to the designated principal.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-44",
+  "section": "2 - Products & Risks",
+  "stem": "Your client, Mr. Brown, owns 400 shares of Acme Shoelace common stock. He returns your many calls on March 24. General Shoelaces, Inc. made a tender offer on March 4, of $75 per share, which is $5 above the prevailing price. Given that your client is likely interested in the offer but missed the initial communication, what question might he ask you now?",
+  "choices": {
+   "A": "Is General Shoelaces, Inc., a good company?",
+   "B": "Why didn't you call me?",
+   "C": "Is Acme Shoelace in reasonable shape financially?",
+   "D": "Has General Shoelaces' tender offer expired?"
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201cHas General Shoelaces' tender offer expired?\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-45",
+  "section": "2 - Products & Risks",
+  "stem": "If the ABCD Mutual Fund has a $25,000 breakpoint on its Class A shares where the sales charge decreases from 5% to 4%, which of the following purchases would likely represent a breakpoint sale?",
+  "choices": {
+   "A": "$26,000",
+   "B": "$32,000",
+   "C": "$24,000",
+   "D": "$18,000"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201c$24,000\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-46",
+  "section": "2 - Products & Risks",
+  "stem": "A quote of 2.20 bid 2.18 offered would most likely be a quote on",
+  "choices": {
+   "A": "a general obligation bond.",
+   "B": "a Ginnie Mae bond.",
+   "C": "a T-bond.",
+   "D": "a T-bill."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201ca Ginnie Mae bond.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-47",
+  "section": "2 - Products & Risks",
+  "stem": "An investor's portfolio has a beta coefficient of 0.85. If the overall market declined by 10% over the course of a year, the portfolio's value has likely",
+  "choices": {
+   "A": "decreased by 11.76%.",
+   "B": "decreased by 8.5%.",
+   "C": "increased by 8.5%.",
+   "D": "increased by 10.85%."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201cdecreased by 8.5%.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-48",
+  "section": "2 - Products & Risks",
+  "stem": "An investor purchased 200 shares of Hightown National Bank (HNB) common stock at $120.06 per share. Thirteen months later, HNB pays a 15% stock dividend. Three months after that, the investor sells the shares received from the stock dividend at $112.57 per share. The tax consequence to the investor is",
+  "choices": {
+   "A": "$245.10 long-term capital gain.",
+   "B": "$122.55 short-term capital gain.",
+   "C": "$1,879.10 long-term capital gain.",
+   "D": "$245.10 short-term capital gain."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201c$245.10 long-term capital gain.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-49",
+  "section": "2 - Products & Risks",
+  "stem": "One of your customers has become nervous about current stock market conditions and calls to discuss the matter with you. Which of the following would not meet Regulation BI's definition of a recommendation?",
+  "choices": {
+   "A": "You need to reallocate some of the equity portion of the portfolio to cash.",
+   "B": "Our top analysts tell us that the market is about to strengthen.",
+   "C": "Liquidate some of the losers for the tax benefit.",
+   "D": "This is not the time to sell. Hold what you have."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201cOur top analysts tell us that the market is about to strengthen.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-50",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "One of your clients has a margin account with the following balances: long market value $50,000, debit balance $24,000, short market value $40,000, and credit balance $65,000. The account will be at the minimum maintenance level when",
+  "choices": {
+   "A": "The long market value is $37,500 and the short market value is $50,000.",
+   "B": "The long market value is $37,500 and the short market value is $52,000.",
+   "C": "The long market value is $32,000 and the short market value is $52,000.",
+   "D": "The long market value is $32,000 and the short market value is $50,000."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201cThe long market value is $32,000 and the short market value is $50,000.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-51",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "A significant increase in which of the following types of orders may cause a bull market to accelerate?",
+  "choices": {
+   "A": "Buy limits",
+   "B": "Short sales",
+   "C": "Sell stops",
+   "D": "Buy stops"
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201cBuy stops\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-52",
+  "section": "4 - Regulatory Framework",
+  "stem": "The Securities Act of 1933 applies to all of the following except",
+  "choices": {
+   "A": "the registration of new issues.",
+   "B": "the regulation of insider trading.",
+   "C": "prospectus preparation.",
+   "D": "full and fair disclosure."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201cthe regulation of insider trading.\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-53",
+  "section": "2 - Products & Risks",
+  "stem": "Tax preference items are used for the purpose of computing the alternative minimum tax. They include I. excess intangible drilling costs. II. accelerated depreciation. III. percentage depletion in excess of basis.",
+  "choices": {
+   "A": "II and III",
+   "B": "I, II, and III",
+   "C": "I and II",
+   "D": "I and III"
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201cI, II, and III\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-55",
+  "section": "1 - Capital Markets",
+  "stem": "An investor in the 28% income tax bracket is considering purchasing either a 4% municipal bond or a 5% corporate bond. Which of the following statements regarding the two bonds' after-tax yields is true?",
+  "choices": {
+   "A": "The two bonds' yields are equivalent.",
+   "B": "The yield difference cannot be determined.",
+   "C": "The municipal bond's yield is higher than the corporate bond's yield.",
+   "D": "The corporate bond's yield is higher than the municipal bond's yield."
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201cThe municipal bond's yield is higher than the corporate bond's yield.\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-56",
+  "section": "2 - Products & Risks",
+  "stem": "An economist is comparing the yields on 20-year U.S. Treasury bonds and AAA-rated corporate bonds with the same maturity. The economist is analyzing",
+  "choices": {
+   "A": "The credit spread.",
+   "B": "The value spread.",
+   "C": "The duration spread.",
+   "D": "The risk spread."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201cThe credit spread.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-58",
+  "section": "1 - Capital Markets",
+  "stem": "Which of the following statements regarding the Government National Mortgage Association (GNMA) is true?",
+  "choices": {
+   "A": "Private lending institutions approved by GNMA originate eligible loans and sell the mortgage-backed securities to investors.",
+   "B": "GNMA approves residential mortgages for home buyers.",
+   "C": "Lending institutions apply to GNMA for funds to lend to residential home buyers.",
+   "D": "GNMA originates loans to home buyers and sells the mortgage-backed securities to private lending institutions."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201cPrivate lending institutions approved by GNMA originate eligible loans and sell the mortgage-backed securities to investors.\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-59",
+  "section": "2 - Products & Risks",
+  "stem": "A municipality has prefunded its bond issue maturing in five years. This would mean all of the following except",
+  "choices": {
+   "A": "a higher rating.",
+   "B": "a reduction to the coupon rate.",
+   "C": "the bonds will be called in more than 90 days.",
+   "D": "greater marketability."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201ca reduction to the coupon rate.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-60",
+  "section": "1 - Capital Markets",
+  "stem": "Interest income from all of the following are exempt from state and local taxation except",
+  "choices": {
+   "A": "Treasury bills.",
+   "B": "Series EE savings bonds.",
+   "C": "Treasury bonds.",
+   "D": "FNMA mortgage-backed issues."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201cFNMA mortgage-backed issues.\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-61",
+  "section": "2 - Products & Risks",
+  "stem": "If a stock undergoes a 1-for-5 reverse split, which of the following increases? I. Market price per share II. Number of shares outstanding III. Earnings per share IV. Market capitalization of the company",
+  "choices": {
+   "A": "III and IV",
+   "B": "I and III",
+   "C": "II and III",
+   "D": "I and II"
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201cI and III\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-62",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "Customer account records (such as the new account form) must be maintained for not less than",
+  "choices": {
+   "A": "3 years commencing from the date the account is closed.",
+   "B": "6 years commencing from the date the account is closed.",
+   "C": "3 years commencing from the date the account is opened.",
+   "D": "6 years commencing from the date the account is opened."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201c6 years commencing from the date the account is closed.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-63",
+  "section": "2 - Products & Risks",
+  "stem": "A customer wishes to buy 1 XYZ Jan 40 call and write 1 XYZ Jan 45 call. At the time the order is placed, the options are trading as follows: Jan. 40 calls - 4.30 bid, 4.35 ask. Jan. 45 calls - 2.25 bid, 2.30 ask. If the transaction is effected at the market, the spread will be established at",
+  "choices": {
+   "A": "a 1.85 debit",
+   "B": "a 1.50 debit",
+   "C": "a 2.10 debit",
+   "D": "a 1.75 debit"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201ca 2.10 debit\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-64",
+  "section": "2 - Products & Risks",
+  "stem": "Unless instructed otherwise, when customers purchase common stock in a cash account, your firm holds securities in street name. One of your customers requests that you use the DRS program for registration of their ownership. This means",
+  "choices": {
+   "A": "The stock is registered in the customer's name but the broker-dealer that holds the account is the one that holds the security in book-entry form.",
+   "B": "The stock is registered in the customer's name but the company that issued the stock (or its transfer agent) is the one that holds the security in book-entry form.",
+   "C": "The stock is registered in the customer's name but the mutual fund's custodian bank holds the security in book-entry form.",
+   "D": "The stock is registered in the customer's name but the broker-dealer that holds the account is the one that holds the security in street name."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201cThe stock is registered in the customer's name but the broker-dealer that holds the account is the one that holds the security in book-entry form.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-65",
+  "section": "2 - Products & Risks",
+  "stem": "In most cases, a mutual fund is structured as a corporation. Because of certain tax regulations, it is important for the fund to compute its net investment income. That computation is",
+  "choices": {
+   "A": "Interest minus dividends received on portfolio securities, minus the operating expenses of the fund.",
+   "B": "Interest plus dividends received on portfolio securities, plus realized capital gains, minus the operating expenses of the fund.",
+   "C": "Dividends minus interest received on portfolio securities, minus the operating expenses of the fund.",
+   "D": "Interest plus dividends received on portfolio securities, minus the operating expenses of the fund."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201cInterest plus dividends received on portfolio securities, minus the operating expenses of the fund.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-66",
+  "section": "2 - Products & Risks",
+  "stem": "When an issuer of a preferred stock exercises the call, it is usually at a price somewhat above the stock's par value. This excess over par is",
+  "choices": {
+   "A": "the call premium.",
+   "B": "the call price.",
+   "C": "the call privilege.",
+   "D": "the yield to call."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201cthe call premium.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-67",
+  "section": "2 - Products & Risks",
+  "stem": "A customer purchased 10 ABC 9% of 2045 convertible debentures at 99. The debentures are callable at 101. The conversion ratio is 40. Some time later, the debentures are called while the common is trading at $24 and the debenture is trading at 98. Which of the following options would be most beneficial to the customer?",
+  "choices": {
+   "A": "Tender the bonds to the corporation",
+   "B": "Convert the bonds and sell the common stock",
+   "C": "Wait for a better offer from the corporation",
+   "D": "Sell the bonds"
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201cTender the bonds to the corporation\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-68",
+  "section": "2 - Products & Risks",
+  "stem": "All of the following would be considered nonpublic arbitrators except",
+  "choices": {
+   "A": "Susan, a corporate vice president working for a tech company listed on the NYSE.",
+   "B": "Joel, an attorney who frequently represents and solicits clients in disputes concerning investment accounts.",
+   "C": "Daniel, who was a mutual fund portfolio advisor for several years before he retired last month.",
+   "D": "Grace, a banking executive overseeing lending services."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201cSusan, a corporate vice president working for a tech company listed on the NYSE.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-69",
+  "section": "2 - Products & Risks",
+  "stem": "An investor purchased a zero-coupon corporate bond on the initial offering. The price was 50. The bond's maturity date is in 10 years. At maturity, this investor will have",
+  "choices": {
+   "A": "$500 in taxable income and no capital gain.",
+   "B": "No taxable income and a $500 long-term capital gain.",
+   "C": "No taxable capital gain.",
+   "D": "A combination of taxable income and capital gain based on IRS tables."
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201cNo taxable capital gain.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-71",
+  "section": "2 - Products & Risks",
+  "stem": "Which of the following callable municipal bonds trading on a 7% basis is most likely to be called?",
+  "choices": {
+   "A": "7.5% coupon, callable at 105 in 2030",
+   "B": "7.5% coupon, callable at 100 in 2030",
+   "C": "6.5% coupon, callable at 100 in 2030",
+   "D": "6.5% coupon, callable at 105 in 2030"
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201c7.5% coupon, callable at 100 in 2030\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-72",
+  "section": "2 - Products & Risks",
+  "stem": "The phrase 'not prime' would apply to a bond with a Moody's rating of",
+  "choices": {
+   "A": "Baa1",
+   "B": "Baa3",
+   "C": "BBB",
+   "D": "BB"
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201cBaa1\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-73",
+  "section": "2 - Products & Risks",
+  "stem": "The Investment Company Act of 1940 has two types of management investment companies: the closed-end and the open-end. Which of the following is a significant difference between the two?",
+  "choices": {
+   "A": "Closed-end companies will never sell below net asset value per share, while open-end companies might if there are net redemptions.",
+   "B": "The closed-end investment company's portfolio can contain common stock, preferred stock, and bonds, while the open-end is limited to common stock only.",
+   "C": "The closed-end investment company is generally more attractive for those investing small amounts.",
+   "D": "The closed-end company generally has a one-time offer of shares, while the open-end company's offer of shares is continuous."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201cThe closed-end company generally has a one-time offer of shares, while the open-end company's offer of shares is continuous.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-74",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "A schoolteacher has a 403(b) tax-qualified deferred retirement plan into which she has deposited $100,000 over a 12-year period. At retirement, if the teacher withdraws the total value of the account (now $220,000), how much of the withdrawal will be subject to taxation as ordinary income?",
+  "choices": {
+   "A": "$0",
+   "B": "$120,000",
+   "C": "$220,000",
+   "D": "$100,000"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201c$220,000\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-75",
+  "section": "1 - Capital Markets",
+  "stem": "In reviewing prospectuses and registration statements, the SEC",
+  "choices": {
+   "A": "guarantees the adequacy of the disclosures made in a prospectus.",
+   "B": "certifies the accuracy of the disclosures made in a prospectus.",
+   "C": "passes on the merits of a particular security covered by a registration statement.",
+   "D": "does not approve or disapprove of the issue."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201cdoes not approve or disapprove of the issue.\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-76",
+  "section": "4 - Regulatory Framework",
+  "stem": "In light of the many cases involving variable annuities where there was failure to supervise egregious unethical behavior, FINRA's Rule 2330, Members' Responsibilities Regarding Deferred Variable Annuities, evolved. One of the specific concerns that the regulators have with deferred variable annuities is sales personnel recommending that an investor switch from an existing contract to a new one. In the case of variable annuities, these exchanges are typically done under the provisions of IRS Section 1035. One of the factors in determining if the exchange is suitable is whether the customer has had another deferred annuity exchange within the preceding:",
+  "choices": {
+   "A": "24 months.",
+   "B": "36 months.",
+   "C": "30 months.",
+   "D": "12 months."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201c36 months.\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-77",
+  "section": "2 - Products & Risks",
+  "stem": "A bond dealer that quotes a concession of 'half' to another dealer means",
+  "choices": {
+   "A": "$5 per $1,000 of par.",
+   "B": "0.5% of the dealer's price.",
+   "C": "a 50% commission split.",
+   "D": "0.5% of the market price."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201c$5 per $1,000 of par.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-78",
+  "section": "2 - Products & Risks",
+  "stem": "All of the following statements regarding collateralized mortgage obligations (CMOs) are true except",
+  "choices": {
+   "A": "principal repayments are applied to earlier tranches first.",
+   "B": "Interest payments are distributed pro rata when received.",
+   "C": "Interest is paid semiannually.",
+   "D": "CMOs are a derivative security."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201cprincipal repayments are applied to earlier tranches first.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-79",
+  "section": "2 - Products & Risks",
+  "stem": "Your client invests $50,000 into an equipment-leasing DPP. The program raises $1 million for the sale of units and borrows an additional $4 million on a nonrecourse basis. Unfortunately, the equipment is leased to a company that files for bankruptcy, and due to the poor maintenance on the equipment, only $1.5 million is realized at foreclosure. Your client would be able to claim a loss of",
+  "choices": {
+   "A": "$112,500.",
+   "B": "$50,000.",
+   "C": "$30,000.",
+   "D": "$175,000."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201c$50,000.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-81",
+  "section": "1 - Capital Markets",
+  "stem": "Institutional communication is not filed with FINRA as would be required of retail communication. Nonetheless, the member producing such content should still",
+  "choices": {
+   "A": "not require any principal approval, but it should require post review within a reasonable period of time after dissemination of the material.",
+   "B": "not require prior approval, but it should require approval of the material by the principal within 10 days of first use.",
+   "C": "have written procedures for the education and training of representatives on institutional communications if there is no required preview.",
+   "D": "always require preview by a registered principal but not prior approval before dissemination to the institutional investor."
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201chave written procedures for the education and training of representatives on institutional communications if there is no required preview.\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-83",
+  "section": "1 - Capital Markets",
+  "stem": "An investor purchases an original issue discount general obligation municipal bond (OID) on the offering and holds it to maturity. The IRS treats the accretion of the discount as",
+  "choices": {
+   "A": "tax free interest income.",
+   "B": "short-term capital gain.",
+   "C": "taxable interest income.",
+   "D": "long-term capital gain."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201ctax free interest income.\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-84",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "A wealthy individual has established a trust and named you as the trustee. If you wish to establish an account that permits the trust to engage in margin transactions, which of the following statements regarding margin trading is true?",
+  "choices": {
+   "A": "It is permitted if the fiduciary shares in the profits or losses.",
+   "B": "It is not permitted.",
+   "C": "It is permitted if the fiduciary observes the prudent investor rule.",
+   "D": "It is permitted if provided for in the underlying documentation."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201cIt is permitted if provided for in the underlying documentation.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-86",
+  "section": "2 - Products & Risks",
+  "stem": "Regarding convertible debentures, one characteristic of which your clients should be aware of is that",
+  "choices": {
+   "A": "The conversion feature protects against an early call.",
+   "B": "They generally pay a higher interest rate than nonconvertible debentures.",
+   "C": "They trade in line with the issuer's common stock once the conversion price is reached.",
+   "D": "It is generally best to convert when the common stock is selling below its parity price."
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201cThey trade in line with the issuer's common stock once the conversion price is reached.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-88",
+  "section": "2 - Products & Risks",
+  "stem": "The main purpose of dividend reinvestment in a mutual fund accumulation plan is to",
+  "choices": {
+   "A": "avoid taxes.",
+   "B": "compound the growth of a mutual fund investment.",
+   "C": "protect against capital loss.",
+   "D": "avoid commissions or sales charges."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201ccompound the growth of a mutual fund investment.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-89",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "A customer of a broker-dealer has opted to use share identification for tax reporting when selling shares of her mutual funds. With this method of tax reporting, she would want to identify the shares to be sold as those that have",
+  "choices": {
+   "A": "the highest cost basis generating the greatest gain.",
+   "B": "the lowest cost basis generating the greatest gain.",
+   "C": "the highest cost basis generating the least gain.",
+   "D": "the lowest cost basis generating the least gain."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201cthe lowest cost basis generating the greatest gain.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-90",
+  "section": "2 - Products & Risks",
+  "stem": "If a customer wants to place an order for a specific municipal bond and provides the bond's issuer, coupon, maturity date, and CUSIP number, but she has not disclosed her financial objectives or tax status, the representative must",
+  "choices": {
+   "A": "refuse the order.",
+   "B": "execute the order and mark it unsolicited.",
+   "C": "recommend a different bond of the same issuer with a higher rating.",
+   "D": "determine whether the transaction is suitable."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201cexecute the order and mark it unsolicited.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-92",
+  "section": "1 - Capital Markets",
+  "stem": "A blind pool offering",
+  "choices": {
+   "A": "Is connected with oil and gas leases.",
+   "B": "Is one in which the properties are purchased on a lottery basis.",
+   "C": "Is one in which 25% or more of the properties are not specified.",
+   "D": "generates nonallocated income."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201cgenerates nonallocated income.\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-93",
+  "section": "2 - Products & Risks",
+  "stem": "Aenical Corporation issued $100 million of $100 par value preferred stock a number of years ago. The stock pays quarterly dividends of $1.25. Recent issues of comparable preferred stock carry a dividend yield of 4%. One could expect the market price of the Aenical preferred stock to be closest to",
+  "choices": {
+   "A": "$80.",
+   "B": "$75.",
+   "C": "$120.",
+   "D": "$125."
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201c$120.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-94",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "Which of the following must be in a readily available location for two years?",
+  "choices": {
+   "A": "Customer complaints",
+   "B": "All of these",
+   "C": "Customer ledgers",
+   "D": "Blotters"
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201cAll of these\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-95",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "An investor closed a brokerage account with a FINRA member firm on May 12, 2017. Almost four years later, on May 5, 2021, the same investor has a financial plan developed by a registered representative of a different member firm. While examining the old accounts, the representative discovers a transaction where the individual handling the account, as well as the member itself, were negligent resulting in a loss of over $100,000 to the customer. That transaction occurred on April 30, 2015. If the investor wished to make an arbitration claim,",
+  "choices": {
+   "A": "It is barely within the statute of limitations of four years from the discovery of the event.",
+   "B": "It is past the statute of limitations of three years from the discovery of the event.",
+   "C": "It is past the statute of limitations of six years from the date of the event.",
+   "D": "A claim may be made only if the customer signed a pre-dispute arbitration agreement."
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201cIt is past the statute of limitations of six years from the date of the event.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-96",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "One of your customers passed away recently. The customer had an IRA with you and had his sister listed as the beneficiary. Other assets included the home and furnishings and a brokerage account at another firm. The titling on that brokerage account was the customer and his son, JTWROS. The customer's will specified that 100% of his assets should pass to his daughter. Based on this information, the estate settlement will have",
+  "choices": {
+   "A": "The daughter getting the home and furnishings and the IRA, with the son getting the brokerage account.",
+   "B": "The daughter getting the home and furnishings, the son the brokerage account, and the sister the IRA.",
+   "C": "The daughter getting the home and furnishings and the brokerage account, with the sister getting the IRA.",
+   "D": "The daughter receiving everything as stated in the will."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201cThe daughter getting the home and furnishings, the son the brokerage account, and the sister the IRA.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Know the settlement clock: equities T+2, options and most bonds T+1.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-97",
+  "section": "2 - Products & Risks",
+  "stem": "One of your customers wants to alter her investment objectives. She has said she wants to move her portfolio from its current objectives to one of 'concerted growth.' When you ask what she means by that, she has trouble explaining. You want both of you to understand one another clearly, so you explain that growth in an investment portfolio is commonly described as any of the following except",
+  "choices": {
+   "A": "directed growth.",
+   "B": "conservative growth.",
+   "C": "moderate growth.",
+   "D": "aggressive growth."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201cdirected growth.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-98",
+  "section": "2 - Products & Risks",
+  "stem": "If a customer buys 300 ABC at $53 and writes 3 ABC Jun 55 calls at 4, and the contracts expire unexercised, the customer's cost basis in ABC stock at expiration is",
+  "choices": {
+   "A": "$49.",
+   "B": "$53.",
+   "C": "$57.",
+   "D": "$51."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201c$53.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-99",
+  "section": "2 - Products & Risks",
+  "stem": "Which of the following are characteristics of both stock rights and warrants?",
+  "choices": {
+   "A": "They are frequently used as a sweetener to attract purchasers to another security.",
+   "B": "They offer the holder an opportunity to purchase stock at a fixed price.",
+   "C": "When initially offered, neither one has intrinsic value.",
+   "D": "One must be a current stockholder to receive them."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201cThey offer the holder an opportunity to purchase stock at a fixed price.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-100",
+  "section": "2 - Products & Risks",
+  "stem": "A 38-year-old investor places $25,000 into a qualified single premium deferred variable annuity. Twenty years later, with the account valued at $72,000, the investor surrenders the policy. If the investor is in the 25% marginal income tax bracket, the total tax liability is",
+  "choices": {
+   "A": "$11,750.",
+   "B": "$25,200.",
+   "C": "$18,000.",
+   "D": "$16,450."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201c$25,200.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-101",
+  "section": "2 - Products & Risks",
+  "stem": "Which of the following are spreads? I. Long 1 FLB May 40 call, short 1 FLB May 50 call. II. Long 1 FLB May 40 call, long 1 FLB May 50 call. III. Long 1 FLB Aug 40 call, short 1 FLB May 40 call. IV. Long 1 FLB Aug 40 call, short 1 FLB Aug 50 put.",
+  "choices": {
+   "A": "I and II",
+   "B": "I and III",
+   "C": "II and III",
+   "D": "II and IV"
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201cI and II\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-104",
+  "section": "2 - Products & Risks",
+  "stem": "Libby sees a tombstone advertisement for a new issue of Southwest Barge subordinated convertible debentures. The bonds will carry a 7% coupon, are convertible into common stock at $10.50, and are being issued to the public at 100. The proceeds of the issue will be used specifically for purchasing new Southwest barges. Libby's concerns about the issue could include which of the following?",
+  "choices": {
+   "A": "She should not be concerned, as the bonds will rank first in liquidation.",
+   "B": "The issue may have a junior claim to another security issue.",
+   "C": "The new barges might sink, and the collateral would be gone.",
+   "D": "The company might demand that she accept common stock for her bond."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201cThe issue may have a junior claim to another security issue.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-105",
+  "section": "4 - Regulatory Framework",
+  "stem": "A registered representative has a client who wants to save for college for her child. The child will be entering college in five years. This would be an example of",
+  "choices": {
+   "A": "An investment objective.",
+   "B": "An investment constraint.",
+   "C": "Tactical asset allocation.",
+   "D": "Planning too late."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201cAn investment constraint.\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-106",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "Under FINRA rules, if a member wants to have the terms of a clearly erroneous trade adjusted, it must notify Nasdaq Market Operations",
+  "choices": {
+   "A": "before 4:00 pm ET on settlement date.",
+   "B": "before 4:00 pm ET on trade date.",
+   "C": "within 1 hour of the execution.",
+   "D": "within 30 minutes of the execution."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201cwithin 30 minutes of the execution.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Know the settlement clock: equities T+2, options and most bonds T+1.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-107",
+  "section": "2 - Products & Risks",
+  "stem": "An investor writes 1 IBS 280 put for 16.60. The position is closed, and the put is bought for its intrinsic value when IBS is trading at 265.25. The investor realizes",
+  "choices": {
+   "A": "a $185 profit.",
+   "B": "a $235 loss.",
+   "C": "a $145 profit.",
+   "D": "a $185 loss."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201ca $185 profit.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-108",
+  "section": "2 - Products & Risks",
+  "stem": "When a limited partnership terminates, a limited partner's gain or loss is determined by comparing",
+  "choices": {
+   "A": "the passive income to the passive losses.",
+   "B": "the final proceeds to the original cost basis.",
+   "C": "the total losses to the total income.",
+   "D": "the final proceeds to the adjusted cost basis."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201cthe final proceeds to the adjusted cost basis.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-109",
+  "section": "1 - Capital Markets",
+  "stem": "Under Municipal Securities Rulemaking Board (MSRB) rules, a broker-dealer must disclose control relationships",
+  "choices": {
+   "A": "never.",
+   "B": "only for new issues.",
+   "C": "in all customer transactions.",
+   "D": "only for secondary market transactions."
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201cin all customer transactions.\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: MSRB writes rules for municipal securities; FINRA enforces them.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-110",
+  "section": "1 - Capital Markets",
+  "stem": "Securities traders would consider which of the following to be the most relevant indicator of expected market volatility?",
+  "choices": {
+   "A": "The VIX Index",
+   "B": "The S&P 500 Index",
+   "C": "The market's beta",
+   "D": "The advance/decline ratio"
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201cThe VIX Index\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-111",
+  "section": "2 - Products & Risks",
+  "stem": "A tool used by investment banking firms to combine several unsuccessful limited partnership programs into one new entity is",
+  "choices": {
+   "A": "a DPP rescue.",
+   "B": "a DPP rollup.",
+   "C": "a merger.",
+   "D": "a multiprogram partnership."
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201ca merger.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-112",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "An investor has an established margin account with a long market value of $6,500 and a debit balance of $3,750, with Regulation T at 50%. A maintenance call would be triggered if the long market value decreased below",
+  "choices": {
+   "A": "$2,812.50.",
+   "B": "$6,666.67.",
+   "C": "$4,875.00.",
+   "D": "$5,000.00."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201c$5,000.00.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-113",
+  "section": "1 - Capital Markets",
+  "stem": "The Municipal Securities Rulemaking Board (MSRB) has rules regarding quotations on callable municipal bonds. For which of the following would the customer confirmation be required to show the yield to call?",
+  "choices": {
+   "A": "7s of 35 with a basis quote of 9.5%",
+   "B": "9s of 25 with a basis quote of 7.0%",
+   "C": "8s of 38 with a basis quote of 8.0%",
+   "D": "6s of 37 with a basis quote of 7.5%"
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201c9s of 25 with a basis quote of 7.0%\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: MSRB writes rules for municipal securities; FINRA enforces them.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-114",
+  "section": "2 - Products & Risks",
+  "stem": "A customer purchases $50,000 of bonds at a discount in the secondary market. The bonds mature in 10 years and are callable in five years at par. Under industry rules, the customer's confirmation will show",
+  "choices": {
+   "A": "YTC.",
+   "B": "either the YTM or YTC.",
+   "C": "both the YTM and YTC.",
+   "D": "YTM."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201cYTM.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: The secondary market is where investors trade already-issued securities.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-115",
+  "section": "1 - Capital Markets",
+  "stem": "If a customer opens a spread on Canadian dollars (10,000 units) by purchasing 1 Dec 74 call for 2.30 and selling 1 Dec 77 call for 1.50, what is the total cost of this debit spread?",
+  "choices": {
+   "A": "$700",
+   "B": "$80",
+   "C": "$4,970",
+   "D": "$800"
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201c$80\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-116",
+  "section": "1 - Capital Markets",
+  "stem": "An investor would sell a put",
+  "choices": {
+   "A": "as an inflation hedge.",
+   "B": "because he is bearish.",
+   "C": "because he is bullish.",
+   "D": "as a substitute for a short sale."
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201cbecause he is bullish.\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-119",
+  "section": "2 - Products & Risks",
+  "stem": "A new client indicates the desire to invest in a highly speculative venture suitable only for those with significant net worth. The client assures you that he has the financial ability to sustain the loss of the entire investment. You believe it is necessary to verify that is the case. What documentation would help you?",
+  "choices": {
+   "A": "A note from the client's doctor attesting to his excellent health",
+   "B": "The client's membership card to an exclusive country club",
+   "C": "The client's tax returns for the past three years",
+   "D": "A letter from the client's best friend assuring you that the individual is a qualified risk taker"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201cThe client's tax returns for the past three years\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-120",
+  "section": "2 - Products & Risks",
+  "stem": "If ABC Corporation reports a loss for the year, it is obligated to pay interest on all of the following except",
+  "choices": {
+   "A": "convertible bonds.",
+   "B": "nonconvertible bonds.",
+   "C": "adjustment bonds.",
+   "D": "variable-rate bonds."
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201cadjustment bonds.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-121",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "An order designated fill-or-kill (FOK) means that the order must be executed",
+  "choices": {
+   "A": "immediately but not necessarily entirely.",
+   "B": "in its entirety but not immediately.",
+   "C": "immediately and in its entirety.",
+   "D": "at the opening of trading."
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \u201cimmediately and in its entirety.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-122",
+  "section": "1 - Capital Markets",
+  "stem": "Underwriters that reserve the right to stabilize the price of securities distributed to the public under an SEC registration statement may do so",
+  "choices": {
+   "A": "under no circumstances.",
+   "B": "only if notice is given in the prospectus.",
+   "C": "without restriction.",
+   "D": "only if the securities being distributed will be immediately listed for trading on the NYSE or other exchange."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201conly if notice is given in the prospectus.\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-124",
+  "section": "2 - Products & Risks",
+  "stem": "Most exchange-traded funds (ETFs) are structured as open-end investment companies. However, they should not be confused with mutual funds. Among the differences between the two is that ETFs",
+  "choices": {
+   "A": "can issue preferred stock.",
+   "B": "compute their NAV hourly.",
+   "C": "are traded in the secondary markets.",
+   "D": "track indexes."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201ctrack indexes.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-125",
+  "section": "4 - Regulatory Framework",
+  "stem": "One of the forms of communications with the public described in FINRA Rule 2210 is correspondence. One of the ways in which correspondence differs from retail communications is that",
+  "choices": {
+   "A": "principal review may take place before or after the sending of the correspondence.",
+   "B": "principal approval must take place within 10 days of the sending of the correspondence.",
+   "C": "correspondence is subject to prefiling with FINRA only when the member is a new firm.",
+   "D": "principal approval may take place before or after the sending of the correspondence."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201cprincipal approval may take place before or after the sending of the correspondence.\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-126",
+  "section": "2 - Products & Risks",
+  "stem": "Interest and principal on a Eurodollar bond issued in Germany are paid",
+  "choices": {
+   "A": "In U.S. dollars.",
+   "B": "In German deutsche marks.",
+   "C": "In German euros.",
+   "D": "In European Union euros."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201cIn U.S. dollars.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-131",
+  "section": "2 - Products & Risks",
+  "stem": "An agent recommended investments in the XYZ Fund family to her customers for 10 years. She is referred by one of her customers to a prospect who inherited $500,000 as the beneficiary of a life insurance policy. The prospect tells the agent he has never invested in the market before, is risk averse, and wants safety of principal to be the first priority, with liquidity second. The agent recommends the following investments: XYZ government bond fund, B shares $200,000; XYZ large-cap growth and income B shares $150,000; XYZ liquid reserve money market $150,000. The recommendation is",
+  "choices": {
+   "A": "Suitable because it addresses the customer's liquidity objective.",
+   "B": "Suitable because she recommended conservative investments.",
+   "C": "Suitable because it addresses the customer's safety objective.",
+   "D": "Unsuitable because it does not address the customer's two primary objectives."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \u201cSuitable because it addresses the customer's liquidity objective.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-132",
+  "section": "2 - Products & Risks",
+  "stem": "An investor owning an option contract liquidates the position. The liquidation is",
+  "choices": {
+   "A": "an opening purchase.",
+   "B": "a closing sale.",
+   "C": "an opening sale.",
+   "D": "a closing purchase."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201ca closing sale.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-134",
+  "section": "2 - Products & Risks",
+  "stem": "An aggressive investor buys ABC stock with a beta of 1.7. The S&P 500 has a 10% rate of return for the year, and ABC's return is 12%. What is the alpha for ABC?",
+  "choices": {
+   "A": "-3%",
+   "B": "+5%",
+   "C": "+3%",
+   "D": "-5%"
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \u201c-5%\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ },
+ {
+  "id": "yt-guru8-135",
+  "section": "2 - Products & Risks",
+  "stem": "If a 42-year-old customer has been depositing money in a variable annuity for five years, and he plans to stop investing but has no intention of withdrawing any funds for at least 20 years, he is holding",
+  "choices": {
+   "A": "accumulation shares.",
+   "B": "accumulation units.",
+   "C": "annuity units.",
+   "D": "mutual fund units."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \u201caccumulation units.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
+  "source": "YouTube: Series 7 Guru (guru8)"
+ }
 ];

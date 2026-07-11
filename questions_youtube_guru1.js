@@ -1,6 +1,6 @@
 var SIE_QUESTIONS_YT_GURU1 = [
  {
-  "id": "yt-GURU1-15",
+  "id": "yt-guru1-15",
   "section": "2 - Products & Risks",
   "stem": "A customer purchased 100 shares of BOB common stock for a total of $3,000. After one year, they sell the position for $3,200. BOB paid $1 per share in dividends over the year. What is the total return?",
   "choices": {
@@ -10,11 +10,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "15%"
   },
   "answer": "A",
-  "explanation": "The correct choice (A) is: \u201c20%\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (A) is: \u201c20%\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-16",
+  "id": "yt-guru1-16",
   "section": "4 - Regulatory Framework",
   "stem": "Yukon Gold, Inc., has secured rights to develop a rich vein of precious metals in a foreign country. Shortly after the facility begins production, the government of that nation collapses and the new government is insisting on renegotiating the contract with the company. This is an example of",
   "choices": {
@@ -24,11 +24,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "Business risk."
   },
   "answer": "C",
-  "explanation": "The correct choice (C) is: \u201cPolitical risk.\u201d. This falls under <b>4 - Regulatory Framework</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (C) is: \u201cPolitical risk.\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-17",
+  "id": "yt-guru1-17",
   "section": "2 - Products & Risks",
   "stem": "Of the following strategies, which is considered most risky in a strong bull market?",
   "choices": {
@@ -38,11 +38,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "Buying calls"
   },
   "answer": "A",
-  "explanation": "The correct choice (A) is: \u201cWriting calls\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (A) is: \u201cWriting calls\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-18",
+  "id": "yt-guru1-18",
   "section": "2 - Products & Risks",
   "stem": "While an associated person may work for an entity other than the member firm, the employing member firm's permission is",
   "choices": {
@@ -52,11 +52,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "Requested."
   },
   "answer": "C",
-  "explanation": "The correct choice (C) is: \u201cRequired.\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (C) is: \u201cRequired.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-19",
+  "id": "yt-guru1-19",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "If a 40-year-old customer earns $85,000 a year and his 38-year-old spouse earns $140,000 a year, how much may they contribute to individual retirement accounts (IRAs)?",
   "choices": {
@@ -66,11 +66,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "They may each contribute 100% of earned income or the maximum annual allowable dollar limit, whichever is less."
   },
   "answer": "D",
-  "explanation": "The correct choice (D) is: \u201cThey may each contribute 100% of earned income or the maximum annual allowable dollar limit, whichever is less.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (D) is: \u201cThey may each contribute 100% of earned income or the maximum annual allowable dollar limit, whichever is less.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-20",
+  "id": "yt-guru1-20",
   "section": "4 - Regulatory Framework",
   "stem": "The Windmill Growth Fund has breakpoints at $10,000, $25,000, and $50,000. Your customer places an unsolicited purchase through you for $47,000. You place the trade as requested without question or comment. This action is",
   "choices": {
@@ -80,11 +80,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "unsolicited trade are not allowed in mutual funds."
   },
   "answer": "B",
-  "explanation": "The correct choice (B) is: \u201ca rules violation.\u201d. This falls under <b>4 - Regulatory Framework</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (B) is: \u201ca rules violation.\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-21",
+  "id": "yt-guru1-21",
   "section": "1 - Capital Markets",
   "stem": "For the primary market, which of the following is true?",
   "choices": {
@@ -95,10 +95,10 @@ var SIE_QUESTIONS_YT_GURU1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \u201cIssuer transactions occur in the primary market, and securities are offered at a public offering price.\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The primary market is where issuers sell new securities to investors.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-22",
+  "id": "yt-guru1-22",
   "section": "2 - Products & Risks",
   "stem": "Which of the following is not part of a mutual fund's expense ratio?",
   "choices": {
@@ -108,11 +108,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "Manager's fee"
   },
   "answer": "B",
-  "explanation": "The correct choice (B) is: \u201cSales load\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (B) is: \u201cSales load\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-23",
+  "id": "yt-guru1-23",
   "section": "2 - Products & Risks",
   "stem": "Which of the following rights are specific to holders of American depositary receipts and are not available to owners of domestic common stock?",
   "choices": {
@@ -122,11 +122,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "The right to transfer the shares"
   },
   "answer": "A",
-  "explanation": "The correct choice (A) is: \u201cThe right to convert to the underlying asset\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (A) is: \u201cThe right to convert to the underlying asset\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-24",
+  "id": "yt-guru1-24",
   "section": "2 - Products & Risks",
   "stem": "An accredited investor is one who meets which of the following criteria?",
   "choices": {
@@ -136,11 +136,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "Both income and net worth"
   },
   "answer": "C",
-  "explanation": "The correct choice (C) is: \u201cIncome, net worth, or professional designation\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (C) is: \u201cIncome, net worth, or professional designation\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-25",
+  "id": "yt-guru1-25",
   "section": "2 - Products & Risks",
   "stem": "All of the following are considered control persons (owning control stock) except",
   "choices": {
@@ -150,11 +150,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "a director on the board of directors (BOD) owning 2% of the outstanding shares."
   },
   "answer": "A",
-  "explanation": "The correct choice (A) is: \u201can unaffiliated shareholder owning 8% of the outstanding shares.\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (A) is: \u201can unaffiliated shareholder owning 8% of the outstanding shares.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-26",
+  "id": "yt-guru1-26",
   "section": "1 - Capital Markets",
   "stem": "All of the following are considered to be major credit rating agencies except",
   "choices": {
@@ -165,10 +165,10 @@ var SIE_QUESTIONS_YT_GURU1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \u201cThe U.S. Treasury Credit Agency\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-27",
+  "id": "yt-guru1-27",
   "section": "1 - Capital Markets",
   "stem": "What is the purpose of Rule 5130 regarding restricted persons and initial public offerings?",
   "choices": {
@@ -178,11 +178,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "To require certain disclosures in initial public offerings"
   },
   "answer": "A",
-  "explanation": "The correct choice (A) is: \u201cTo protect the integrity of the public offering process and to protect public investors\u201d. This falls under <b>1 - Capital Markets</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (A) is: \u201cTo protect the integrity of the public offering process and to protect public investors\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-28",
+  "id": "yt-guru1-28",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "In which of the following accounts would the use of margin always be prohibited?",
   "choices": {
@@ -193,10 +193,10 @@ var SIE_QUESTIONS_YT_GURU1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \u201cIndividual retirement accounts\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-29",
+  "id": "yt-guru1-29",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "A customer of a broker-dealer purchases 100 shares of XYZ stock at $50 per share on Monday. Later that week, a confirmation arrives electronically indicating that the total cost of the transaction was $5,000. The client is puzzled that there is no additional charge for commission. The most likely reason for that is that",
   "choices": {
@@ -206,11 +206,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "XYZ stock probably dropped significantly between the trade date and the sending of the confirmation so the broker/dealer waived the commission."
   },
   "answer": "C",
-  "explanation": "The correct choice (C) is: \u201cthe broker-dealer acted as an agent in the trade.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (C) is: \u201cthe broker-dealer acted as an agent in the trade.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-30",
+  "id": "yt-guru1-30",
   "section": "2 - Products & Risks",
   "stem": "When the supply for money exceeds the demand,",
   "choices": {
@@ -220,11 +220,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "Interest rates rise, making consumer borrowing easier."
   },
   "answer": "C",
-  "explanation": "The correct choice (C) is: \u201cInterest rates fall, making consumer borrowing easier.\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (C) is: \u201cInterest rates fall, making consumer borrowing easier.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-31",
+  "id": "yt-guru1-31",
   "section": "2 - Products & Risks",
   "stem": "Your client has $250,000 to invest. His objective is a life-time monthly income that he can receive after he retires. Part of his customer profile stresses that he has had uncomfortable experiences in the past with the stock market and is not inclined to invest in anything that is subject to market fluctuations. Based on the client's profile, which of the following would be the best recommendation?",
   "choices": {
@@ -235,10 +235,10 @@ var SIE_QUESTIONS_YT_GURU1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \u201cFixed annuity\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Annuities are insurance products paying periodic income; variable annuities have market risk.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-32",
+  "id": "yt-guru1-32",
   "section": "1 - Capital Markets",
   "stem": "The maximum gain on a long call is",
   "choices": {
@@ -248,11 +248,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "Strike price + premium."
   },
   "answer": "B",
-  "explanation": "The correct choice (B) is: \u201cUnlimited.\u201d. This falls under <b>1 - Capital Markets</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (B) is: \u201cUnlimited.\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-34",
+  "id": "yt-guru1-34",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "Opening a margin account for a client requires the client to do all of the following except",
   "choices": {
@@ -263,10 +263,10 @@ var SIE_QUESTIONS_YT_GURU1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \u201creceive a risk disclosure document.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-36",
+  "id": "yt-guru1-36",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "Your customer purchases 5 JPM 50 calls at 3. Funds must be deposited in the account to pay for the trade no later than",
   "choices": {
@@ -276,11 +276,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "The same day."
   },
   "answer": "B",
-  "explanation": "The correct choice (B) is: \u201cThe next business day.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (B) is: \u201cThe next business day.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-37",
+  "id": "yt-guru1-37",
   "section": "1 - Capital Markets",
   "stem": "DEF Income Fund has a public offering price (POP) of $75 per share and a net asset value (NAV) of $72.75. What is the fund's sales charge (SC)?",
   "choices": {
@@ -290,11 +290,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "5%"
   },
   "answer": "A",
-  "explanation": "The correct choice (A) is: \u201c3%\u201d. This falls under <b>1 - Capital Markets</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (A) is: \u201c3%\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-38",
+  "id": "yt-guru1-38",
   "section": "2 - Products & Risks",
   "stem": "An investor owns 4% preferred stock participating to 6%. This means the investor",
   "choices": {
@@ -304,11 +304,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "must receive an additional 4% in any year the board declares the 6% participating be paid."
   },
   "answer": "C",
-  "explanation": "The correct choice (C) is: \u201ccould receive an additional 2% over the stated 4% dividend if the board declares it.\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (C) is: \u201ccould receive an additional 2% over the stated 4% dividend if the board declares it.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-40",
+  "id": "yt-guru1-40",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "A broker-dealer's business continuity plan (BCP) to be enacted in the event of a significant business disruption requires all of the following except",
   "choices": {
@@ -318,11 +318,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "Prompt customer access to funds and securities."
   },
   "answer": "B",
-  "explanation": "The correct choice (B) is: \u201cNotification to regulators within one hour of the event.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (B) is: \u201cNotification to regulators within one hour of the event.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-41",
+  "id": "yt-guru1-41",
   "section": "2 - Products & Risks",
   "stem": "Which of the following pairs of options contracts is not in the money if the strike price is 40 and the market price is 30?",
   "choices": {
@@ -333,10 +333,10 @@ var SIE_QUESTIONS_YT_GURU1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \u201cShort call and long put\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-42",
+  "id": "yt-guru1-42",
   "section": "2 - Products & Risks",
   "stem": "Which of the following retirement plans does not require minimum distributions once the participant has reached age 72?",
   "choices": {
@@ -346,11 +346,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "Traditional IRA"
   },
   "answer": "B",
-  "explanation": "The correct choice (B) is: \u201cRoth IRA\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (B) is: \u201cRoth IRA\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-43",
+  "id": "yt-guru1-43",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "On Tuesday, December 10, your customer Bought 5 OEX (S&P 100 Index) 230 March calls at four. On Tuesday, March 10 the calls are in-the-money and your customer issues exercise instructions. On what days did the trade and the exercise settle?",
   "choices": {
@@ -360,11 +360,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "December 11 and March 12"
   },
   "answer": "A",
-  "explanation": "The correct choice (A) is: \u201cDecember 11 and March 11\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (A) is: \u201cDecember 11 and March 11\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: U.S. trades do NOT settle same-day; equities settle T+2 (business days), debt/options T+1.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-44",
+  "id": "yt-guru1-44",
   "section": "2 - Products & Risks",
   "stem": "An investor has purchased Class A mutual fund shares. The net asset value (NAV) per share of the fund is the price the investor",
   "choices": {
@@ -374,11 +374,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "has paid for the shares when purchased."
   },
   "answer": "A",
-  "explanation": "The correct choice (A) is: \u201cwill receive upon redemption of the shares.\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (A) is: \u201cwill receive upon redemption of the shares.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-45",
+  "id": "yt-guru1-45",
   "section": "2 - Products & Risks",
   "stem": "In a defined contribution plan: I. The benefit amount is fixed. II. The benefit amount is variable. III. The contribution amount is fixed. IV. The contribution amount can vary.",
   "choices": {
@@ -388,11 +388,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "I and III"
   },
   "answer": "B",
-  "explanation": "The correct choice (B) is: \u201cII and III\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (B) is: \u201cII and III\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-46",
+  "id": "yt-guru1-46",
   "section": "1 - Capital Markets",
   "stem": "The primary regulatory body for the securities industry would be which of the following?",
   "choices": {
@@ -403,10 +403,10 @@ var SIE_QUESTIONS_YT_GURU1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \u201cSecurities and Exchange Commission (SEC)\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-47",
+  "id": "yt-guru1-47",
   "section": "1 - Capital Markets",
   "stem": "An official statement is a disclosure document that would be used in connection with an offering of which of the following securities?",
   "choices": {
@@ -417,10 +417,10 @@ var SIE_QUESTIONS_YT_GURU1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \u201cMunicipal bonds\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-48",
+  "id": "yt-guru1-48",
   "section": "4 - Regulatory Framework",
   "stem": "An amended Form U5 must be filed and a copy sent to the former employee within how many days of discovery of the inaccuracy?",
   "choices": {
@@ -430,11 +430,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "30"
   },
   "answer": "D",
-  "explanation": "The correct choice (D) is: \u201c30\u201d. This falls under <b>4 - Regulatory Framework</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (D) is: \u201c30\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-49",
+  "id": "yt-guru1-49",
   "section": "2 - Products & Risks",
   "stem": "The principles of demand-side theory were laid out in the 1936 book, The General Theory of Employment, Interest, and Money written by who?",
   "choices": {
@@ -444,11 +444,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "Arthur Laffer"
   },
   "answer": "B",
-  "explanation": "The correct choice (B) is: \u201cJohn Keynes\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (B) is: \u201cJohn Keynes\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-52",
+  "id": "yt-guru1-52",
   "section": "2 - Products & Risks",
   "stem": "The Sierra Verde Coffee Company recently developed a new flavor, jasmine chili salted mocha. Unfortunately, the coffee has a horrible taste, and the company discontinues the flavor. The costs involved in bringing the new product to market combined with the drop in sales and a reputational hit have translated into a significant drop in the price of the stock. This is an example of what type of risk?",
   "choices": {
@@ -458,11 +458,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "Default risk"
   },
   "answer": "C",
-  "explanation": "The correct choice (C) is: \u201cBusiness risk\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (C) is: \u201cBusiness risk\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-54",
+  "id": "yt-guru1-54",
   "section": "2 - Products & Risks",
   "stem": "Under the Investment Company Act of 1940, which of the following is not considered an investment company?",
   "choices": {
@@ -472,11 +472,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "Management company"
   },
   "answer": "A",
-  "explanation": "The correct choice (A) is: \u201cHedge fund\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (A) is: \u201cHedge fund\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-56",
+  "id": "yt-guru1-56",
   "section": "1 - Capital Markets",
   "stem": "Which of the following is the highest bond rating?",
   "choices": {
@@ -486,11 +486,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "BBB"
   },
   "answer": "B",
-  "explanation": "The correct choice (B) is: \u201cAaa\u201d. This falls under <b>1 - Capital Markets</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (B) is: \u201cAaa\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-57",
+  "id": "yt-guru1-57",
   "section": "2 - Products & Risks",
   "stem": "Which of the following is part of the expense ratio of a mutual fund?",
   "choices": {
@@ -500,11 +500,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "Deferred sales charges"
   },
   "answer": "C",
-  "explanation": "The correct choice (C) is: \u201cCosts incurred by the board of directors\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (C) is: \u201cCosts incurred by the board of directors\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-58",
+  "id": "yt-guru1-58",
   "section": "2 - Products & Risks",
   "stem": "All of the following are benefits of a traditional IRA except",
   "choices": {
@@ -514,11 +514,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "Earnings accumulate on a tax-deferred basis."
   },
   "answer": "B",
-  "explanation": "The correct choice (B) is: \u201cNo penalty is charged for failing to withdraw funds after age 73.\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (B) is: \u201cNo penalty is charged for failing to withdraw funds after age 73.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-59",
+  "id": "yt-guru1-59",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "Which of the following is a lagging indicator?",
   "choices": {
@@ -528,11 +528,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "Increase in hours worked"
   },
   "answer": "C",
-  "explanation": "The correct choice (C) is: \u201cIncrease in the consumer loans to personal income ratio\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (C) is: \u201cIncrease in the consumer loans to personal income ratio\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-60",
+  "id": "yt-guru1-60",
   "section": "2 - Products & Risks",
   "stem": "ABC Corporation's stock is trading at $35. A client has purchased a 50 call. The option's current value is made up of",
   "choices": {
@@ -542,11 +542,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "intrinsic value only."
   },
   "answer": "A",
-  "explanation": "The correct choice (A) is: \u201ctime value only.\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (A) is: \u201ctime value only.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-61",
+  "id": "yt-guru1-61",
   "section": "2 - Products & Risks",
   "stem": "An August 15 call is written at 4. The call expires without being exercised by the owner. The writer of the call",
   "choices": {
@@ -556,11 +556,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "Loses the $400 paid when the call was written."
   },
   "answer": "A",
-  "explanation": "The correct choice (A) is: \u201cKeeps the $400 received when the call was written.\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (A) is: \u201cKeeps the $400 received when the call was written.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-67",
+  "id": "yt-guru1-67",
   "section": "2 - Products & Risks",
   "stem": "A customer purchased 100 shares of MNO common stock two years ago for $20 per share. They now sell the shares for $23 per share. Over the last two years, MNO has paid a $0.25 quarterly dividend. What is the result of this closing transaction?",
   "choices": {
@@ -570,11 +570,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "$300 short-term loss"
   },
   "answer": "C",
-  "explanation": "The correct choice (C) is: \u201c$300 long-term gain\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (C) is: \u201c$300 long-term gain\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-68",
+  "id": "yt-guru1-68",
   "section": "1 - Capital Markets",
   "stem": "The ABC Growth Fund has a public offering price (POP) of $15 per share and a net asset value (NAV) of $14.25. What is the fund's sales charge (SC)?",
   "choices": {
@@ -584,11 +584,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "4%"
   },
   "answer": "A",
-  "explanation": "The correct choice (A) is: \u201c5%\u201d. This falls under <b>1 - Capital Markets</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (A) is: \u201c5%\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-69",
+  "id": "yt-guru1-69",
   "section": "1 - Capital Markets",
   "stem": "Six days into the cooling-off period, an issuer receives a deficiency letter from the Securities and Exchange Commission (SEC) requesting clarification and corrections. Once the issuer submits these, and assuming that they satisfy the deficiency, the cooling-off period will resume. With no other deficiencies arising, the issue should become effective in",
   "choices": {
@@ -599,10 +599,10 @@ var SIE_QUESTIONS_YT_GURU1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \u201c15 days.\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The SEC is the federal regulator of securities markets.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-70",
+  "id": "yt-guru1-70",
   "section": "2 - Products & Risks",
   "stem": "A convertible feature for a corporate bond allows",
   "choices": {
@@ -612,11 +612,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "an issuer to convert its debt securities to those offered by another issuer."
   },
   "answer": "A",
-  "explanation": "The correct choice (A) is: \u201ca bondholder to convert a debt instrument into securities that give the investor ownership rights.\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (A) is: \u201ca bondholder to convert a debt instrument into securities that give the investor ownership rights.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-72",
+  "id": "yt-guru1-72",
   "section": "2 - Products & Risks",
   "stem": "Which of the following securities is the underlying asset used to create an American depositary receipt (ADR)?",
   "choices": {
@@ -626,11 +626,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "Common shares"
   },
   "answer": "D",
-  "explanation": "The correct choice (D) is: \u201cCommon shares\u201d. This falls under <b>2 - Products & Risks</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (D) is: \u201cCommon shares\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-73",
+  "id": "yt-guru1-73",
   "section": "2 - Products & Risks",
   "stem": "Debt instruments put up for auction by the U.S. Treasury Department that offer intermediate maturities best describes",
   "choices": {
@@ -641,10 +641,10 @@ var SIE_QUESTIONS_YT_GURU1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \u201cTreasury notes.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-74",
+  "id": "yt-guru1-74",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "In order for a gain to be taxed as a long-term capital gain, the position must be held for how long?",
   "choices": {
@@ -654,11 +654,11 @@ var SIE_QUESTIONS_YT_GURU1 = [
    "D": "One year or more"
   },
   "answer": "A",
-  "explanation": "The correct choice (A) is: \u201cMore than one year\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "explanation": "The correct choice (A) is: \u201cMore than one year\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
+  "source": "YouTube: Series 7 Guru (guru1)"
  },
  {
-  "id": "yt-GURU1-75",
+  "id": "yt-guru1-75",
   "section": "1 - Capital Markets",
   "stem": "Which of these statements is true regarding shelf offerings?",
   "choices": {
@@ -669,6 +669,6 @@ var SIE_QUESTIONS_YT_GURU1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \u201cFor securities offered via a shelf registration, a supplemental prospectus must be filed with the SEC before each sale.\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
-  "source": "YouTube: Series 7 Guru (GURU1)"
+  "source": "YouTube: Series 7 Guru (guru1)"
  }
 ];

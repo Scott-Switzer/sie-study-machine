@@ -1,6 +1,6 @@
-var SIE_QUESTIONS_WEB_PM = [
+var SIE_QUESTIONS_WEB_PASSMASTERS = [
  {
-  "id": "web-PM-1",
+  "id": "web-PASSMASTERS-1",
   "section": "1 - Capital Markets",
   "stem": "When selling new issues of stock in the primary market the issuer must deliver a document that summarizes the SEC registration statement known as a(n):",
   "choices": {
@@ -14,7 +14,7 @@ var SIE_QUESTIONS_WEB_PM = [
   "source": "passmasters.com"
  },
  {
-  "id": "web-PM-2",
+  "id": "web-PASSMASTERS-2",
   "section": "2 - Products & Risks",
   "stem": "If a public utility wants to raise capital so they can bury the power lines in a new residential subdivision they will most likely issue which of the following?",
   "choices": {
@@ -28,7 +28,7 @@ var SIE_QUESTIONS_WEB_PM = [
   "source": "passmasters.com"
  },
  {
-  "id": "web-PM-3",
+  "id": "web-PASSMASTERS-3",
   "section": "1 - Capital Markets",
   "stem": "An issuer has had its share unlisted from an exchange. Which of the following is true?",
   "choices": {
@@ -42,7 +42,7 @@ var SIE_QUESTIONS_WEB_PM = [
   "source": "passmasters.com"
  },
  {
-  "id": "web-PM-4",
+  "id": "web-PASSMASTERS-4",
   "section": "2 - Products & Risks",
   "stem": "The most common type of management company is a(n):",
   "choices": {
@@ -56,7 +56,7 @@ var SIE_QUESTIONS_WEB_PM = [
   "source": "passmasters.com"
  },
  {
-  "id": "web-PM-5",
+  "id": "web-PASSMASTERS-5",
   "section": "2 - Products & Risks",
   "stem": "Earnings in a variable annuity:",
   "choices": {
@@ -70,7 +70,7 @@ var SIE_QUESTIONS_WEB_PM = [
   "source": "passmasters.com"
  },
  {
-  "id": "web-PM-6",
+  "id": "web-PASSMASTERS-6",
   "section": "2 - Products & Risks",
   "stem": "Which type of risk is associated with an issuer not being able to make interest and principal payments timely?",
   "choices": {
@@ -84,7 +84,7 @@ var SIE_QUESTIONS_WEB_PM = [
   "source": "passmasters.com"
  },
  {
-  "id": "web-PM-7",
+  "id": "web-PASSMASTERS-7",
   "section": "2 - Products & Risks",
   "stem": "The issuer declares a 4 to 1 stock split. The investor owned 250 shares before the split, at $40 a share. After the split what is the investor\u2019s position?",
   "choices": {
@@ -98,7 +98,7 @@ var SIE_QUESTIONS_WEB_PM = [
   "source": "passmasters.com"
  },
  {
-  "id": "web-PM-8",
+  "id": "web-PASSMASTERS-8",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "As part of a brokerage firm\u2019s Customer Identification Program (CIP) all the following information must be collected related to the customer before opening an account EXCEPT:",
   "choices": {
@@ -112,7 +112,7 @@ var SIE_QUESTIONS_WEB_PM = [
   "source": "passmasters.com"
  },
  {
-  "id": "web-PM-9",
+  "id": "web-PASSMASTERS-9",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "A broker-dealer shall preserve for a period of not less than ______ years after the closing of any customer\u2019s account any account cards or records which relate to the terms and conditions with respect to the opening and maintenance of the account.",
   "choices": {
@@ -126,7 +126,7 @@ var SIE_QUESTIONS_WEB_PM = [
   "source": "passmasters.com"
  },
  {
-  "id": "web-PM-10",
+  "id": "web-PASSMASTERS-10",
   "section": "4 - Regulatory Framework",
   "stem": "SEC\u2019s statutory disqualification means:",
   "choices": {

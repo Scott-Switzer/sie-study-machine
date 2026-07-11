@@ -2,15 +2,15 @@ var SIE_QUESTIONS_YT_GURU17 = [
   {
     "id": "yt-GURU17-7",
     "section": "2 - Products & Risks",
-    "stem": "Which of the following is true of Rights?",
+    "stem": "Which of the following is true of Rights? (A subscription/preemptive right)",
     "choices": {
-      "A": "II & IV",
-      "B": "I & III",
-      "C": "None of the above",
+      "A": "They give current shareholders the right to purchase additional shares at a subscription price below the current market price.",
+      "B": "They are short-term securities (typically about 30 days) that trade in the secondary market.",
+      "C": "They let shareholders maintain their proportional ownership interest in the issuer.",
       "D": "All of the above"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: “All of the above”. This falls under <b>2 - Products & Risks</b>.",
+    "explanation": "The correct choice (D) is: \u201cAll of the above\u201d. Subscription rights (preemptive rights) let existing shareholders buy more shares at a subscription price below market (A), are short-term (~30 days) and tradeable (B), and protect proportional ownership (C). NOTE: the original video presented this as a Roman-numeral question (statements I\u2013IV) but those statements were never captured in the source frames, so this was rebuilt from standard Rights facts with the same correct answer (D).",
     "source": "YouTube: Series 7 Guru (GURU17)"
   },
   {

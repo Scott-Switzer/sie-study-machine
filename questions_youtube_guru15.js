@@ -1,310 +1,310 @@
 var SIE_QUESTIONS_YT_GURU15 = [
- {
-  "id": "yt-guru15-3",
-  "section": "2 - Products & Risks",
-  "stem": "Fiscal policy includes",
-  "choices": {
-   "A": "I and III",
-   "B": "I and IV",
-   "C": "II and III",
-   "D": "II and IV"
+  {
+    "id": "yt-guru15-3",
+    "section": "2 - Products & Risks",
+    "stem": "Fiscal policy includes",
+    "choices": {
+      "A": "I and III",
+      "B": "I and IV",
+      "C": "II and III",
+      "D": "II and IV"
+    },
+    "answer": "A",
+    "explanation": "The correct choice (A) is: “I and III”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "source": "YouTube: Series 7 Guru (guru15)"
   },
-  "answer": "A",
-  "explanation": "The correct choice (A) is: \u201cI and III\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru15)"
- },
- {
-  "id": "yt-guru15-5",
-  "section": "2 - Products & Risks",
-  "stem": "Which of the following may purchase an IPO of common stock?",
-  "choices": {
-   "A": "A broker-dealer if purchasing for its own investment account",
-   "B": "An aunt of a registered representative",
-   "C": "A mutual fund manager",
-   "D": "An accountant for the underwriter of the issuer"
+  {
+    "id": "yt-guru15-5",
+    "section": "2 - Products & Risks",
+    "stem": "Which of the following may purchase an IPO of common stock?",
+    "choices": {
+      "A": "A broker-dealer if purchasing for its own investment account",
+      "B": "An aunt of a registered representative",
+      "C": "A mutual fund manager",
+      "D": "An accountant for the underwriter of the issuer"
+    },
+    "answer": "B",
+    "explanation": "The correct choice (B) is: “An aunt of a registered representative”. This falls under <b>2 - Products & Risks</b>. Key principle: An IPO is the first public sale of a company's stock (primary market).",
+    "source": "YouTube: Series 7 Guru (guru15)"
   },
-  "answer": "B",
-  "explanation": "The correct choice (B) is: \u201cAn aunt of a registered representative\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: An IPO is the first public sale of a company's stock (primary market).",
-  "source": "YouTube: Series 7 Guru (guru15)"
- },
- {
-  "id": "yt-guru15-6",
-  "section": "3 - Trading, Accounts & Prohibited",
-  "stem": "Which of the following statements best describes the term churning?",
-  "choices": {
-   "A": "Purchasing the same security in more than one customer account at a time",
-   "B": "Trading in a customer's account considered excessive, and for which no discernible investment purpose is detected",
-   "C": "Manipulation of market prices by a firm",
-   "D": "Making false or misleading statements to a customer for the purpose of inducing the customer to purchase or sell a security"
+  {
+    "id": "yt-guru15-6",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "Which of the following statements best describes the term churning?",
+    "choices": {
+      "A": "Purchasing the same security in more than one customer account at a time",
+      "B": "Trading in a customer's account considered excessive, and for which no discernible investment purpose is detected",
+      "C": "Manipulation of market prices by a firm",
+      "D": "Making false or misleading statements to a customer for the purpose of inducing the customer to purchase or sell a security"
+    },
+    "answer": "B",
+    "explanation": "The correct choice (B) is: “Trading in a customer's account considered excessive, and for which no discernible investment purpose is detected”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Excessive trading to generate commissions = churning (unauthorized, prohibited).",
+    "source": "YouTube: Series 7 Guru (guru15)"
   },
-  "answer": "B",
-  "explanation": "The correct choice (B) is: \u201cTrading in a customer's account considered excessive, and for which no discernible investment purpose is detected\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Excessive trading to generate commissions = churning (unauthorized, prohibited).",
-  "source": "YouTube: Series 7 Guru (guru15)"
- },
- {
-  "id": "yt-guru15-8",
-  "section": "4 - Regulatory Framework",
-  "stem": "An individual would most likely be statutorily disqualified from working in the securities industry for which of the following reasons?",
-  "choices": {
-   "A": "Willful failure to disclose personal bankruptcy or unsatisfied liens",
-   "B": "Conviction for misdemeanor assault",
-   "C": "Charged with driving under the influence of alcohol resulting in personal injury\u2014a felony",
-   "D": "Willful failure to disclose motor vehicle fines in excess of $1,000"
+  {
+    "id": "yt-guru15-8",
+    "section": "4 - Regulatory Framework",
+    "stem": "An individual would most likely be statutorily disqualified from working in the securities industry for which of the following reasons?",
+    "choices": {
+      "A": "Willful failure to disclose personal bankruptcy or unsatisfied liens",
+      "B": "Conviction for misdemeanor assault",
+      "C": "Charged with driving under the influence of alcohol resulting in personal injury—a felony",
+      "D": "Willful failure to disclose motor vehicle fines in excess of $1,000"
+    },
+    "answer": "A",
+    "explanation": "The correct choice (A) is: “Willful failure to disclose personal bankruptcy or unsatisfied liens”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "source": "YouTube: Series 7 Guru (guru15)"
   },
-  "answer": "A",
-  "explanation": "The correct choice (A) is: \u201cWillful failure to disclose personal bankruptcy or unsatisfied liens\u201d. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru15)"
- },
- {
-  "id": "yt-guru15-9",
-  "section": "4 - Regulatory Framework",
-  "stem": "After receiving a written complaint letter from a client, a registered representative should",
-  "choices": {
-   "A": "forward copies immediately to Financial Industry Regulatory Authority (FINRA) or the appropriate self-regulatory organization (SRO).",
-   "B": "turn the complaint over to the appropriate supervisor or principal.",
-   "C": "contact the client immediately to attempt reaching a resolution to the issue.",
-   "D": "employ a thorough investigation and provide a report to the Securities and Exchange Commission (SEC)."
+  {
+    "id": "yt-guru15-9",
+    "section": "4 - Regulatory Framework",
+    "stem": "After receiving a written complaint letter from a client, a registered representative should",
+    "choices": {
+      "A": "forward copies immediately to Financial Industry Regulatory Authority (FINRA) or the appropriate self-regulatory organization (SRO).",
+      "B": "turn the complaint over to the appropriate supervisor or principal.",
+      "C": "contact the client immediately to attempt reaching a resolution to the issue.",
+      "D": "employ a thorough investigation and provide a report to the Securities and Exchange Commission (SEC)."
+    },
+    "answer": "B",
+    "explanation": "The correct choice (B) is: “turn the complaint over to the appropriate supervisor or principal.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "source": "YouTube: Series 7 Guru (guru15)"
   },
-  "answer": "B",
-  "explanation": "The correct choice (B) is: \u201cturn the complaint over to the appropriate supervisor or principal.\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
-  "source": "YouTube: Series 7 Guru (guru15)"
- },
- {
-  "id": "yt-guru15-11",
-  "section": "4 - Regulatory Framework",
-  "stem": "Failure to complete the regulatory element continuing education (CE) requirement within the allotted time period will result in",
-  "choices": {
-   "A": "the registration being deactivated until the requirements are met.",
-   "B": "an automatic extension request, which Financial Industry Regulatory Authority (FINRA) will normally grant.",
-   "C": "suspension of the individual until all CE requirements are met.",
-   "D": "an automatic bar from the industry for three years."
+  {
+    "id": "yt-guru15-11",
+    "section": "4 - Regulatory Framework",
+    "stem": "Failure to complete the regulatory element continuing education (CE) requirement within the allotted time period will result in",
+    "choices": {
+      "A": "the registration being deactivated until the requirements are met.",
+      "B": "an automatic extension request, which Financial Industry Regulatory Authority (FINRA) will normally grant.",
+      "C": "suspension of the individual until all CE requirements are met.",
+      "D": "an automatic bar from the industry for three years."
+    },
+    "answer": "A",
+    "explanation": "The correct choice (A) is: “the registration being deactivated until the requirements are met.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
+    "source": "YouTube: Series 7 Guru (guru15)"
   },
-  "answer": "A",
-  "explanation": "The correct choice (A) is: \u201cthe registration being deactivated until the requirements are met.\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: New issues register with the SEC via registration; exempt securities (e.g. munis) do not require it.",
-  "source": "YouTube: Series 7 Guru (guru15)"
- },
- {
-  "id": "yt-guru15-13",
-  "section": "1 - Capital Markets",
-  "stem": "What is the breakeven for a 35 put contract with a premium of 3?",
-  "choices": {
-   "A": "32",
-   "B": "35",
-   "C": "38",
-   "D": "41"
+  {
+    "id": "yt-guru15-13",
+    "section": "1 - Capital Markets",
+    "stem": "What is the breakeven for a 35 put contract with a premium of 3?",
+    "choices": {
+      "A": "32",
+      "B": "35",
+      "C": "38",
+      "D": "41"
+    },
+    "answer": "A",
+    "explanation": "The correct choice (A) is: “32”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "source": "YouTube: Series 7 Guru (guru15)"
   },
-  "answer": "A",
-  "explanation": "The correct choice (A) is: \u201c32\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru15)"
- },
- {
-  "id": "yt-guru15-14",
-  "section": "1 - Capital Markets",
-  "stem": "All of the following associated persons engaged in the investment banking and securities business are considered registered representatives, except",
-  "choices": {
-   "A": "someone who solicits or otherwise conducts securities business.",
-   "B": "someone who supervises, solicits, or conducts business in securities.",
-   "C": "someone who serves on the board of directors.",
-   "D": "someone who trains others to supervise, solicit, or conduct business in securities."
+  {
+    "id": "yt-guru15-14",
+    "section": "1 - Capital Markets",
+    "stem": "All of the following associated persons engaged in the investment banking and securities business are considered registered representatives, except",
+    "choices": {
+      "A": "someone who solicits or otherwise conducts securities business.",
+      "B": "someone who supervises, solicits, or conducts business in securities.",
+      "C": "someone who serves on the board of directors.",
+      "D": "someone who trains others to supervise, solicit, or conduct business in securities."
+    },
+    "answer": "C",
+    "explanation": "The correct choice (C) is: “someone who serves on the board of directors.”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "source": "YouTube: Series 7 Guru (guru15)"
   },
-  "answer": "C",
-  "explanation": "The correct choice (C) is: \u201csomeone who serves on the board of directors.\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru15)"
- },
- {
-  "id": "yt-guru15-16",
-  "section": "3 - Trading, Accounts & Prohibited",
-  "stem": "When is the option agreement completed?",
-  "choices": {
-   "A": "Prior to the account approval",
-   "B": "Prior to the first trade",
-   "C": "Within 15 days after the account approval",
-   "D": "Within 15 days of the first trade"
+  {
+    "id": "yt-guru15-16",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "When is the option agreement completed?",
+    "choices": {
+      "A": "Prior to the account approval",
+      "B": "Prior to the first trade",
+      "C": "Within 15 days after the account approval",
+      "D": "Within 15 days of the first trade"
+    },
+    "answer": "C",
+    "explanation": "The correct choice (C) is: “Within 15 days after the account approval”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "source": "YouTube: Series 7 Guru (guru15)"
   },
-  "answer": "C",
-  "explanation": "The correct choice (C) is: \u201cWithin 15 days after the account approval\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru15)"
- },
- {
-  "id": "yt-guru15-24",
-  "section": "1 - Capital Markets",
-  "stem": "Al and Sarah just want one diversified investment that will invest in several different classes of securities including hard assets such as precious metals.",
-  "choices": {
-   "A": "Asset allocation fund",
-   "B": "Balanced fund",
-   "C": "Blend/core fund",
-   "D": "None of the above"
+  {
+    "id": "yt-guru15-24",
+    "section": "1 - Capital Markets",
+    "stem": "Al and Sarah just want one diversified investment that will invest in several different classes of securities including hard assets such as precious metals.",
+    "choices": {
+      "A": "Asset allocation fund",
+      "B": "Balanced fund",
+      "C": "Blend/core fund",
+      "D": "None of the above"
+    },
+    "answer": "A",
+    "explanation": "The correct choice (A) is: “Asset allocation fund”. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "source": "YouTube: Series 7 Guru (guru15)"
   },
-  "answer": "A",
-  "explanation": "The correct choice (A) is: \u201cAsset allocation fund\u201d. This falls under <b>1 - Capital Markets</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru15)"
- },
- {
-  "id": "yt-guru15-27",
-  "section": "2 - Products & Risks",
-  "stem": "Which of the following is a systematic risk?",
-  "choices": {
-   "A": "Business risk",
-   "B": "Default risk",
-   "C": "Interest Rate risk",
-   "D": "Legislative risk"
+  {
+    "id": "yt-guru15-27",
+    "section": "2 - Products & Risks",
+    "stem": "Which of the following is a systematic risk?",
+    "choices": {
+      "A": "Business risk",
+      "B": "Default risk",
+      "C": "Interest Rate risk",
+      "D": "Legislative risk"
+    },
+    "answer": "C",
+    "explanation": "The correct choice (C) is: “Interest Rate risk”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "source": "YouTube: Series 7 Guru (guru15)"
   },
-  "answer": "C",
-  "explanation": "The correct choice (C) is: \u201cInterest Rate risk\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru15)"
- },
- {
-  "id": "yt-guru15-31",
-  "section": "3 - Trading, Accounts & Prohibited",
-  "stem": "Which of the following is a financial consideration?",
-  "choices": {
-   "A": "Retirement account balance",
-   "B": "Date of retirement",
-   "C": "Comfort with risk",
-   "D": "Legislative risk"
+  {
+    "id": "yt-guru15-31",
+    "section": "3 - Trading, Accounts & Prohibited",
+    "stem": "Which of the following is a financial consideration?",
+    "choices": {
+      "A": "Retirement account balance",
+      "B": "Date of retirement",
+      "C": "Comfort with risk",
+      "D": "Legislative risk"
+    },
+    "answer": "A",
+    "explanation": "The correct choice (A) is: “Retirement account balance”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "source": "YouTube: Series 7 Guru (guru15)"
   },
-  "answer": "A",
-  "explanation": "The correct choice (A) is: \u201cRetirement account balance\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru15)"
- },
- {
-  "id": "yt-guru15-32",
-  "section": "2 - Products & Risks",
-  "stem": "Current yield (CY) equals",
-  "choices": {
-   "A": "annual income divided by the market price.",
-   "B": "the market priced divided by the annual income.",
-   "C": "par value divided by the stated rate.",
-   "D": "the stated rate divided by par value."
+  {
+    "id": "yt-guru15-32",
+    "section": "2 - Products & Risks",
+    "stem": "Current yield (CY) equals",
+    "choices": {
+      "A": "annual income divided by the market price.",
+      "B": "the market priced divided by the annual income.",
+      "C": "par value divided by the stated rate.",
+      "D": "the stated rate divided by par value."
+    },
+    "answer": "A",
+    "explanation": "The correct choice (A) is: “annual income divided by the market price.”. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
+    "source": "YouTube: Series 7 Guru (guru15)"
   },
-  "answer": "A",
-  "explanation": "The correct choice (A) is: \u201cannual income divided by the market price.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Yield is the return on a security; price and yield move inversely for bonds.",
-  "source": "YouTube: Series 7 Guru (guru15)"
- },
- {
-  "id": "yt-guru15-35",
-  "section": "2 - Products & Risks",
-  "stem": "Which of the following is true of long-term or short-term gains or losses?",
-  "choices": {
-   "A": "Holding a stock and selling above its cost basis for more than 12 months would be a long-term gain.",
-   "B": "Holding a stock and selling below its cost basis if held for one year would be a long-term loss.",
-   "C": "Holding a stock and selling below its cost basis if held for over a year would be a short-term loss.",
-   "D": "Holding a stock and selling it above its cost basis if held for one year would be a long-term gain."
+  {
+    "id": "yt-guru15-35",
+    "section": "2 - Products & Risks",
+    "stem": "Which of the following is true of long-term or short-term gains or losses?",
+    "choices": {
+      "A": "Holding a stock and selling above its cost basis for more than 12 months would be a long-term gain.",
+      "B": "Holding a stock and selling below its cost basis if held for one year would be a long-term loss.",
+      "C": "Holding a stock and selling below its cost basis if held for over a year would be a short-term loss.",
+      "D": "Holding a stock and selling it above its cost basis if held for one year would be a long-term gain."
+    },
+    "answer": "A",
+    "explanation": "The correct choice (A) is: “Holding a stock and selling above its cost basis for more than 12 months would be a long-term gain.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "source": "YouTube: Series 7 Guru (guru15)"
   },
-  "answer": "A",
-  "explanation": "The correct choice (A) is: \u201cHolding a stock and selling above its cost basis for more than 12 months would be a long-term gain.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru15)"
- },
- {
-  "id": "yt-guru15-38",
-  "section": "2 - Products & Risks",
-  "stem": "Which of the following statements is not true?",
-  "choices": {
-   "A": "Common stock is an equity security that represents ownership in the issuer.",
-   "B": "Convertible preferred stock can be converted to the issuer's common stock at any time.",
-   "C": "Preemptive rights obligate the stockholder to maintain his percentage of ownership when additional shares are issued.",
-   "D": "Preferred stock dividends must be satisfied before common dividends can be paid."
+  {
+    "id": "yt-guru15-38",
+    "section": "2 - Products & Risks",
+    "stem": "Which of the following statements is not true?",
+    "choices": {
+      "A": "Common stock is an equity security that represents ownership in the issuer.",
+      "B": "Convertible preferred stock can be converted to the issuer's common stock at any time.",
+      "C": "Preemptive rights obligate the stockholder to maintain his percentage of ownership when additional shares are issued.",
+      "D": "Preferred stock dividends must be satisfied before common dividends can be paid."
+    },
+    "answer": "C",
+    "explanation": "The correct choice (C) is: “Preemptive rights obligate the stockholder to maintain his percentage of ownership when additional shares are issued.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "source": "YouTube: Series 7 Guru (guru15)"
   },
-  "answer": "C",
-  "explanation": "The correct choice (C) is: \u201cPreemptive rights obligate the stockholder to maintain his percentage of ownership when additional shares are issued.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru15)"
- },
- {
-  "id": "yt-guru15-40",
-  "section": "2 - Products & Risks",
-  "stem": "The board of directors of the ABC Corporation declares a $0.25 dividend on Monday, May 20. The dividend will be paid on Friday, August 5, to holders of the common stock as of Tuesday, July 5. What is the most likely ex-dividend day?",
-  "choices": {
-   "A": "July 4th",
-   "B": "July 3rd",
-   "C": "July 2nd",
-   "D": "July 1st"
+  {
+    "id": "yt-guru15-40",
+    "section": "2 - Products & Risks",
+    "stem": "The board of directors of the ABC Corporation declares a $0.25 dividend on Monday, May 20. The dividend will be paid on Friday, August 5, to holders of the common stock as of Tuesday, July 5. What is the most likely ex-dividend day?",
+    "choices": {
+      "A": "July 4th",
+      "B": "July 3rd",
+      "C": "July 2nd",
+      "D": "July 1st"
+    },
+    "answer": "D",
+    "explanation": "The correct choice (D) is: “July 1st”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "source": "YouTube: Series 7 Guru (guru15)"
   },
-  "answer": "D",
-  "explanation": "The correct choice (D) is: \u201cJuly 1st\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru15)"
- },
- {
-  "id": "yt-guru15-41",
-  "section": "2 - Products & Risks",
-  "stem": "Which of the following is not a right reserved for the holders of a corporations common stock?",
-  "choices": {
-   "A": "Right to vote for members of the board of directors",
-   "B": "Right to vote for the Chief Executive Officer (CEO)",
-   "C": "Right to transfer shares",
-   "D": "Right to maintain their percentage of ownership in a stock rights offering"
+  {
+    "id": "yt-guru15-41",
+    "section": "2 - Products & Risks",
+    "stem": "Which of the following is not a right reserved for the holders of a corporations common stock?",
+    "choices": {
+      "A": "Right to vote for members of the board of directors",
+      "B": "Right to vote for the Chief Executive Officer (CEO)",
+      "C": "Right to transfer shares",
+      "D": "Right to maintain their percentage of ownership in a stock rights offering"
+    },
+    "answer": "B",
+    "explanation": "The correct choice (B) is: “Right to vote for the Chief Executive Officer (CEO)”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "source": "YouTube: Series 7 Guru (guru15)"
   },
-  "answer": "B",
-  "explanation": "The correct choice (B) is: \u201cRight to vote for the Chief Executive Officer (CEO)\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru15)"
- },
- {
-  "id": "yt-guru15-42",
-  "section": "2 - Products & Risks",
-  "stem": "All of the following are features associated with preferred stock except?",
-  "choices": {
-   "A": "Preference over common shares in receiving dividends",
-   "B": "Right to vote for members of the board of directors",
-   "C": "Preference over common shares in liquidation",
-   "D": "The possibility of receiving dividends in arrears"
+  {
+    "id": "yt-guru15-42",
+    "section": "2 - Products & Risks",
+    "stem": "All of the following are features associated with preferred stock except?",
+    "choices": {
+      "A": "Preference over common shares in receiving dividends",
+      "B": "Right to vote for members of the board of directors",
+      "C": "Preference over common shares in liquidation",
+      "D": "The possibility of receiving dividends in arrears"
+    },
+    "answer": "B",
+    "explanation": "The correct choice (B) is: “Right to vote for members of the board of directors”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "source": "YouTube: Series 7 Guru (guru15)"
   },
-  "answer": "B",
-  "explanation": "The correct choice (B) is: \u201cRight to vote for members of the board of directors\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru15)"
- },
- {
-  "id": "yt-guru15-43",
-  "section": "2 - Products & Risks",
-  "stem": "Which of the following is true of both stock rights and warrants?",
-  "choices": {
-   "A": "Both have extended expirations, often more than five years",
-   "B": "Both expire in four to six weeks from issue",
-   "C": "Both may be exercised to purchase common stock",
-   "D": "Both are usually attached to a debt security at issue"
+  {
+    "id": "yt-guru15-43",
+    "section": "2 - Products & Risks",
+    "stem": "Which of the following is true of both stock rights and warrants?",
+    "choices": {
+      "A": "Both have extended expirations, often more than five years",
+      "B": "Both expire in four to six weeks from issue",
+      "C": "Both may be exercised to purchase common stock",
+      "D": "Both are usually attached to a debt security at issue"
+    },
+    "answer": "C",
+    "explanation": "The correct choice (C) is: “Both may be exercised to purchase common stock”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "source": "YouTube: Series 7 Guru (guru15)"
   },
-  "answer": "C",
-  "explanation": "The correct choice (C) is: \u201cBoth may be exercised to purchase common stock\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru15)"
- },
- {
-  "id": "yt-guru15-45",
-  "section": "1 - Capital Markets",
-  "stem": "Which of the following is true for a 6% bond priced at $960 in the secondary market?",
-  "choices": {
-   "A": "I and III",
-   "B": "I and IV",
-   "C": "II and III",
-   "D": "II and IV"
+  {
+    "id": "yt-guru15-45",
+    "section": "1 - Capital Markets",
+    "stem": "Which of the following is true for a 6% bond priced at $960 in the secondary market?",
+    "choices": {
+      "A": "I and III",
+      "B": "I and IV",
+      "C": "II and III",
+      "D": "II and IV"
+    },
+    "answer": "B",
+    "explanation": "The correct choice (B) is: “I and IV”. This falls under <b>1 - Capital Markets</b>. Key principle: The secondary market is where investors trade already-issued securities.",
+    "source": "YouTube: Series 7 Guru (guru15)"
   },
-  "answer": "B",
-  "explanation": "The correct choice (B) is: \u201cI and IV\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The secondary market is where investors trade already-issued securities.",
-  "source": "YouTube: Series 7 Guru (guru15)"
- },
- {
-  "id": "yt-guru15-48",
-  "section": "2 - Products & Risks",
-  "stem": "Which of the following investment company securities is not redeemable?",
-  "choices": {
-   "A": "FAC",
-   "B": "UIT",
-   "C": "Open-end fund",
-   "D": "Closed-end fund"
+  {
+    "id": "yt-guru15-48",
+    "section": "2 - Products & Risks",
+    "stem": "Which of the following investment company securities is not redeemable?",
+    "choices": {
+      "A": "FAC",
+      "B": "UIT",
+      "C": "Open-end fund",
+      "D": "Closed-end fund"
+    },
+    "answer": "C",
+    "explanation": "The correct choice (C) is: “Open-end fund”. This falls under <b>2 - Products & Risks</b>. Key principle: UITs are fixed, unmanaged portfolios with a stated termination date.",
+    "source": "YouTube: Series 7 Guru (guru15)"
   },
-  "answer": "C",
-  "explanation": "The correct choice (C) is: \u201cOpen-end fund\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: UITs are fixed, unmanaged portfolios with a stated termination date.",
-  "source": "YouTube: Series 7 Guru (guru15)"
- },
- {
-  "id": "yt-guru15-49",
-  "section": "2 - Products & Risks",
-  "stem": "Mutual funds have all of the following characteristics except",
-  "choices": {
-   "A": "they only issue common stock.",
-   "B": "they issue a set number of shares to the public.",
-   "C": "they have a maximum sales charge of 8.5% of POP.",
-   "D": "they have forward pricing."
-  },
-  "answer": "B",
-  "explanation": "The correct choice (B) is: \u201cthey issue a set number of shares to the public.\u201d. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic \u2014 review it before the exam.",
-  "source": "YouTube: Series 7 Guru (guru15)"
- }
+  {
+    "id": "yt-guru15-49",
+    "section": "2 - Products & Risks",
+    "stem": "Mutual funds have all of the following characteristics except",
+    "choices": {
+      "A": "they only issue common stock.",
+      "B": "they issue a set number of shares to the public.",
+      "C": "they have a maximum sales charge of 8.5% of POP.",
+      "D": "they have forward pricing."
+    },
+    "answer": "B",
+    "explanation": "The correct choice (B) is: “they issue a set number of shares to the public.”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.",
+    "source": "YouTube: Series 7 Guru (guru15)"
+  }
 ];

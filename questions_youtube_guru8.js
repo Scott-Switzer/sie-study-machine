@@ -1120,20 +1120,6 @@ var SIE_QUESTIONS_YT_GURU8 = [
     "source": "YouTube: Series 7 Guru (GURU8)"
   },
   {
-    "id": "yt-GURU8-90",
-    "section": "2 - Products & Risks",
-    "stem": "If a customer wants to place an order for a specific municipal bond and provides the bond's issuer, coupon, maturity date, and CUSIP number, but she has not disclosed her financial objectives or tax status, the representative must",
-    "choices": {
-      "A": "refuse the order.",
-      "B": "execute the order and mark it unsolicited.",
-      "C": "recommend a different bond of the same issuer with a higher rating.",
-      "D": "determine whether the transaction is suitable."
-    },
-    "answer": "B",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
     "id": "yt-GURU8-92",
     "section": "1 - Capital Markets",
     "stem": "A blind pool offering",
@@ -1450,20 +1436,6 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "B": "because he is bearish.",
       "C": "because he is bullish.",
       "D": "as a substitute for a short sale."
-    },
-    "answer": "C",
-    "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",
-    "source": "YouTube: Series 7 Guru (GURU8)"
-  },
-  {
-    "id": "yt-GURU8-119",
-    "section": "2 - Products & Risks",
-    "stem": "A new client indicates the desire to invest in a highly speculative venture suitable only for those with significant net worth. The client assures you that he has the financial ability to sustain the loss of the entire investment. You believe it is necessary to verify that is the case. What documentation would help you?",
-    "choices": {
-      "A": "A note from the client's doctor attesting to his excellent health",
-      "B": "The client's membership card to an exclusive country club",
-      "C": "The client's tax returns for the past three years",
-      "D": "A letter from the client's best friend assuring you that the individual is a qualified risk taker"
     },
     "answer": "C",
     "explanation": "Correct answer per Series 7 Guru walkthrough (Kaplan shared-screen practice test).",

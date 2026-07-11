@@ -829,7 +829,7 @@ function resetProgress(){
 function toggleFlag(){
   if(!quiz.length) return;
   const q=quiz[qi];
-  if(!state[q.id]) state[q.id]={seen:0,correct:0,wrong:0};
+  if(!state[q.id]) state[q.id]={seen:0,correct:0,wrong:0,flagged:false};
   state[q.id].flagged = !state[q.id].flagged;
   saveState();
   const fb=document.getElementById('btn-flag');

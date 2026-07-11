@@ -8,6 +8,19 @@ import os, glob, sys, subprocess
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 HTML = os.path.join(BASE, "index.html")
+# The project dir holds the authoritative copy of EVERY questions_*.js (incl web_*).
+# The deploy dir (/tmp/sie_deploy) may have had web_* banks pruned by the cron,
+# so sync them back from the project before rewiring. Make this self-healing.
+PROJECT = os.path.expanduser("~/Desktop/SIE_prep")
+if os.path.isdir(PROJECT) and PROJECT != BASE:
+    for f in glob.glob(os.path.join(PROJECT, "questions*.js")):
+        dst = os.path.join(BASE, os.path.basename(f))
+        if not os.path.exists(dst) or os.path.getsize(dst) != os.path.getsize(f):
+            try:
+                import shutil
+                shutil.copy(f, dst)
+            except Exception as e:
+                print("warn: could not copy", os.path.basename(f), e)
 
 def rewire(html):
     files = sorted(set(os.path.basename(f) for f in glob.glob(os.path.join(BASE, "questions*.js"))

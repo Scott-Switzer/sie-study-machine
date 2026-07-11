@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU18 = [
       "D": "Elect"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cRandomly\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+    "explanation": "The correct choice (C) is: “Randomly”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
     "source": "YouTube: Series 7 Guru (guru18)"
   },
   {

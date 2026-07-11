@@ -27,7 +27,6 @@ var SIE_QUESTIONS_YT_GURU30 = [
     "explanation": "FINRA's suitability rule requires a reasonable-basis suitability analysis (the recommendation is suitable for at least some investors, II) and a customer-specific suitability analysis (suitable for the particular customer's objectives and profile, III). Firms cannot guarantee profits (I is false), and there is no once-per-year-only monitoring rule (IV is false). Therefore B (II and III) is correct.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
-
   {
     "id": "yt-guru30-11",
     "section": "3 - Trading, Accounts & Prohibited",
@@ -403,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "has a reasonable basis for believing that the security will outperform others in its industry."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cis suitable for at least some investors.\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
+    "explanation": "The correct choice (A) is: “is suitable for at least some investors.”. This falls under <b>4 - Regulatory Framework</b>. Key principle: Recommend only investments fitting the customer's objectives, risk, and profile.",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -417,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "It is permitted if the fiduciary observes the prudent investor rule."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cIt is permitted if provided for in the underlying documentation.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
+    "explanation": "The correct choice (A) is: “It is permitted if provided for in the underlying documentation.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Initial margin 50%; maintenance 25% (FINRA Reg T / FINRA 4210).",
     "source": "YouTube: Series 7 Guru (guru30)"
   },
   {
@@ -459,7 +458,7 @@ var SIE_QUESTIONS_YT_GURU30 = [
       "D": "Safety."
     },
     "answer": "B",
-    "explanation": "The correct choice (C) is: \u201cLiquidity.\u201d. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
+    "explanation": "The correct choice (C) is: “Liquidity.”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. Key principle: Liquidity is how quickly an asset converts to cash without loss of value.",
     "source": "YouTube: Series 7 Guru (guru30)"
   }
 ];

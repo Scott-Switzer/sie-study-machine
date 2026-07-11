@@ -181,7 +181,7 @@ var SIE_QUESTIONS_YT_KNOP1 = [
     "explanation": "The correct choice (D) is: \"Interest rates.\" Interest rates are the single most impactful factor on a bond's price.",
     "source": "YouTube: Series 7 Guru (knop1)"
   },
-    {
+  {
     "id": "yt-knop1-36",
     "section": "3 - Trading, Accounts & Prohibited",
     "stem": "A customer places a SELL stop order for 250 shares of ABC stock with a stop price of $53.70. The order is entered when ABC is trading at $56.00. Which of the following statements is TRUE?",

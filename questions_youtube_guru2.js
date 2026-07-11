@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Face-amount certificates"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cCommon shares of a closed-end investment company.\u201d Closed-end fund shares trade in the secondary market like stocks; open-end shares and UITs/fixed certificates are bought/sold with the issuer.",
+    "explanation": "The correct choice (C) is: “Common shares of a closed-end investment company.” Closed-end fund shares trade in the secondary market like stocks; open-end shares and UITs/fixed certificates are bought/sold with the issuer.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Employer contributions"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cEmployer contributions.\u201d A defined benefit plan is funded by employer contributions; the employer bears the investment risk and promises a set benefit.",
+    "explanation": "The correct choice (D) is: “Employer contributions.” A defined benefit plan is funded by employer contributions; the employer bears the investment risk and promises a set benefit.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Sell 100 ABC to open"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cSell 100 ABC to open.\u201d Selling short (selling to open) creates a short position that must be held in a margin account as collateral.",
+    "explanation": "The correct choice (D) is: “Sell 100 ABC to open.” Selling short (selling to open) creates a short position that must be held in a margin account as collateral.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Investment Company Act of 1940"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cInvestment Advisers Act of 1940.\u201d Firms that advise on securities for a fee are regulated under the Investment Advisers Act of 1940.",
+    "explanation": "The correct choice (B) is: “Investment Advisers Act of 1940.” Firms that advise on securities for a fee are regulated under the Investment Advisers Act of 1940.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "type of security."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201can offer to sell the securities.\u201d A tombstone ad is a factual notice only; it may not be an offer to sell or contain sales language.",
+    "explanation": "The correct choice (A) is: “an offer to sell the securities.” A tombstone ad is a factual notice only; it may not be an offer to sell or contain sales language.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "A conviction eight years ago for misdemeanor larceny for selling her classmates an interest in the Bay Bridge"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cA conviction eight years ago for misdemeanor larceny for selling her classmates an interest in the Bay Bridge.\u201d A conviction for larceny/theft (misdemeanor) within ten years is a statutory disqualification; the eight-year-old larceny conviction disqualifies her.",
+    "explanation": "The correct choice (D) is: “A conviction eight years ago for misdemeanor larceny for selling her classmates an interest in the Bay Bridge.” A conviction for larceny/theft (misdemeanor) within ten years is a statutory disqualification; the eight-year-old larceny conviction disqualifies her.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "They won't buy anything; the order will be canceled and nothing will be done."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cThey won't buy anything; the order will be canceled and nothing will be done.\u201d A fill-or-kill order must be executed immediately and in full; with only 250 of 300 available, none is filled and the order is cancelled.",
+    "explanation": "The correct choice (D) is: “They won't buy anything; the order will be canceled and nothing will be done.” A fill-or-kill order must be executed immediately and in full; with only 250 of 300 available, none is filled and the order is cancelled.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Fewer dollars are flowing into the United States than out of the United States."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cFewer dollars are flowing into the United States than out of the United States.\u201d A balance-of-payments surplus means more dollars flow in than out (exports exceed imports); saying fewer dollars flow in is the least accurate statement.",
+    "explanation": "The correct choice (D) is: “Fewer dollars are flowing into the United States than out of the United States.” A balance-of-payments surplus means more dollars flow in than out (exports exceed imports); saying fewer dollars flow in is the least accurate statement.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "The Department of Defense"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cThe Treasury Department.\u201d The U.S. Treasury Department (through FinCEN) leads anti-money-laundering efforts.",
+    "explanation": "The correct choice (C) is: “The Treasury Department.” The U.S. Treasury Department (through FinCEN) leads anti-money-laundering efforts.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "investors may never purchase shares in these trusts on an exchange or over-the-counter (OTC)."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cinvestors may never purchase shares in these trusts on an exchange or over-the-counter (OTC).\u201d Real estate investment trusts (REITs) trade on exchanges and OTC, so the statement that investors may never buy their shares there is the exception.",
+    "explanation": "The correct choice (D) is: “investors may never purchase shares in these trusts on an exchange or over-the-counter (OTC).” Real estate investment trusts (REITs) trade on exchanges and OTC, so the statement that investors may never buy their shares there is the exception.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Margin purchases"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cDiversification.\u201d Diversification across many issuances reduces non-systematic (company-specific) risk.",
+    "explanation": "The correct choice (C) is: “Diversification.” Diversification across many issuances reduces non-systematic (company-specific) risk.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Financial Industry Regulatory Authority (FINRA)"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cSecurities and Exchange Commission (SEC).\u201d The SEC is a government agency, not an SRO; FINRA, NYSE, and MSRB are self-regulatory organizations.",
+    "explanation": "The correct choice (B) is: “Securities and Exchange Commission (SEC).” The SEC is a government agency, not an SRO; FINRA, NYSE, and MSRB are self-regulatory organizations.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "A lower coupon than similar bonds without the feature."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cA higher coupon than similar bonds without the feature.\u201d Callable bonds carry a higher coupon to compensate investors for the issuer's right to call them away early.",
+    "explanation": "The correct choice (A) is: “A higher coupon than similar bonds without the feature.” Callable bonds carry a higher coupon to compensate investors for the issuer's right to call them away early.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "A buy back is a company that buys a company that it previously spun off, and a tender offer is when the company offers a very low price to buy the stock of another company."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cA buy back is when a company buys back its own stock in the marketplace, and a tender offer is when a company offers to purchase a certain number of its shares at a certain price.\u201d A buyback is open-market repurchase of the firm's own stock; a tender offer is a public offer to buy a set number of shares at a stated price.",
+    "explanation": "The correct choice (A) is: “A buy back is when a company buys back its own stock in the marketplace, and a tender offer is when a company offers to purchase a certain number of its shares at a certain price.” A buyback is open-market repurchase of the firm's own stock; a tender offer is a public offer to buy a set number of shares at a stated price.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "A $1,500 long-term gain"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cA $1,500 short-term gain.\u201d Holding nine months is a short-term holding; gain = ($75 - $72) x 500 = $1,500 short-term capital gain.",
+    "explanation": "The correct choice (C) is: “A $1,500 short-term gain.” Holding nine months is a short-term holding; gain = ($75 - $72) x 500 = $1,500 short-term capital gain.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "opening a new position in the security."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cselling the security.\u201d A long position is closed by selling the security.",
+    "explanation": "The correct choice (A) is: “selling the security.” A long position is closed by selling the security.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "III and IV"
     },
     "answer": "C",
-    "explanation": "An 'established customer' (generally one who has kept an account for at least a year, or made three qualifying penny-stock trades in the prior 12 months) is exempt from the special penny-stock rules\u2014both the suitability determination (I) and the risk disclosure document (IV). The written agreement and delivery requirements (II, III) therefore do not apply.",
+    "explanation": "An 'established customer' (generally one who has kept an account for at least a year, or made three qualifying penny-stock trades in the prior 12 months) is exempt from the special penny-stock rules—both the suitability determination (I) and the risk disclosure document (IV). The written agreement and delivery requirements (II, III) therefore do not apply.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Decreased dividend risk."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cPurchasing power risk.\u201d Inflation eroding the purchasing power of fixed dividends is purchasing-power (inflation) risk.",
+    "explanation": "The correct choice (C) is: “Purchasing power risk.” Inflation eroding the purchasing power of fixed dividends is purchasing-power (inflation) risk.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "An open-end fund"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cAn exchange-traded fund (ETF).\u201d An ETF gives low-cost pooled market exposure with no active management and trades like a stock, fitting a cost-conscious, benchmark-oriented investor.",
+    "explanation": "The correct choice (B) is: “An exchange-traded fund (ETF).” An ETF gives low-cost pooled market exposure with no active management and trades like a stock, fitting a cost-conscious, benchmark-oriented investor.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "III and IV"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cIII and IV.\u201d Preferred and common stock represent ownership (equity) in the corporation; bonds and debentures are debt (creditors).",
+    "explanation": "The correct choice (D) is: “III and IV.” Preferred and common stock represent ownership (equity) in the corporation; bonds and debentures are debt (creditors).",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "II and IV"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cI and IV.\u201d Stockholders benefit from share-price appreciation and from distributed profits (dividends); debt metrics are unrelated to equity ownership.",
+    "explanation": "The correct choice (A) is: “I and IV.” Stockholders benefit from share-price appreciation and from distributed profits (dividends); debt metrics are unrelated to equity ownership.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "The range of prices the stock has shown over the course of one trading day"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cThe difference between the bid price and the ask price or offer.\u201d The spread is the difference between the bid (buy) and ask (sell) prices.",
+    "explanation": "The correct choice (C) is: “The difference between the bid price and the ask price or offer.” The spread is the difference between the bid (buy) and ask (sell) prices.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Summary prospectus"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cStatutory prospectus.\u201d The full statutory prospectus must be delivered no later than the confirmation of sale.",
+    "explanation": "The correct choice (A) is: “Statutory prospectus.” The full statutory prospectus must be delivered no later than the confirmation of sale.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "25"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c90.\u201d After an IPO, secondary-market buyers need not receive a prospectus; the prospectus-delivery obligation applies only during the underwriter's prospectus-delivery period to initial buyers.",
+    "explanation": "The correct choice (C) is: “90.” After an IPO, secondary-market buyers need not receive a prospectus; the prospectus-delivery obligation applies only during the underwriter's prospectus-delivery period to initial buyers.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "pools are not required to register with the Securities and Exchange Commission (SEC)."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cInvestors must be provided a prospectus at or before they purchase shares in the investment portfolio.\u201d LGIPs are not sold under a prospectus (they are exempt pooled vehicles), so investors are not provided one; that statement is the exception.",
+    "explanation": "The correct choice (A) is: “Investors must be provided a prospectus at or before they purchase shares in the investment portfolio.” LGIPs are not sold under a prospectus (they are exempt pooled vehicles), so investors are not provided one; that statement is the exception.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "is good for three years and requires a prospectus to be filed only once."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cis good for two years and requires a supplemental prospectus be filed before each sale.\u201d A shelf registration (Rule 415) is effective for three years and requires a supplemental prospectus before each takedown/sale.",
+    "explanation": "The correct choice (C) is: “is good for two years and requires a supplemental prospectus be filed before each sale.” A shelf registration (Rule 415) is effective for three years and requires a supplemental prospectus before each takedown/sale.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "represents the difference between capital invested and sales proceeds."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201crepresents a return of capital invested (principal).\u201d Adjusted cost basis represents the investor's invested capital (return of capital), against which proceeds are measured to determine gain or loss.",
+    "explanation": "The correct choice (B) is: “represents a return of capital invested (principal).” Adjusted cost basis represents the investor's invested capital (return of capital), against which proceeds are measured to determine gain or loss.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "John must choose between contributing to the Roth IRA or the traditional IRA."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cJohn can make deductible contributions to his traditional IRA because he is not covered by a workplace retirement plan, regardless of his income level.\u201d If not covered by a workplace plan, traditional IRA contributions are fully deductible at any income level; the Roth does not affect that.",
+    "explanation": "The correct choice (C) is: “John can make deductible contributions to his traditional IRA because he is not covered by a workplace retirement plan, regardless of his income level.” If not covered by a workplace plan, traditional IRA contributions are fully deductible at any income level; the Roth does not affect that.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Inform the customer that she can reduce her sales charge through a letter of intent."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cPlace the order as instructed.\u201d Buying $47,000 just below the $50,000 breakpoint, simply placing the order as instructed ignores the breakpoint and is the least appropriate action; the agent should inform the customer of ways to reach it.",
+    "explanation": "The correct choice (C) is: “Place the order as instructed.” Buying $47,000 just below the $50,000 breakpoint, simply placing the order as instructed ignores the breakpoint and is the least appropriate action; the agent should inform the customer of ways to reach it.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -430,7 +430,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "an exchange-traded note."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201can exchange-traded note.\u201d An exchange-traded note is unsecured debt linked to an index, traded on an exchange, with a stated maturity and no periodic interest - matching the description.",
+    "explanation": "The correct choice (D) is: “an exchange-traded note.” An exchange-traded note is unsecured debt linked to an index, traded on an exchange, with a stated maturity and no periodic interest - matching the description.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -444,7 +444,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Defined benefit pension plan"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c401(k) plan.\u201d A 401(k) is a defined contribution plan where the benefit depends on contributions and investment results, unlike a defined benefit pension.",
+    "explanation": "The correct choice (C) is: “401(k) plan.” A 401(k) is a defined contribution plan where the benefit depends on contributions and investment results, unlike a defined benefit pension.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -458,7 +458,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "control of the investments in the account only."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cownership and control of the investments in the account.\u201d Account registration determines both ownership of the assets and who has control/authority over the account.",
+    "explanation": "The correct choice (A) is: “ownership and control of the investments in the account.” Account registration determines both ownership of the assets and who has control/authority over the account.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -472,7 +472,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Based solely on the age of the employee at retirement"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cBased on a formula considering salary and years of service.\u201d A defined benefit plan calculates the retirement benefit by a formula using salary and years of service, not by account contributions.",
+    "explanation": "The correct choice (B) is: “Based on a formula considering salary and years of service.” A defined benefit plan calculates the retirement benefit by a formula using salary and years of service, not by account contributions.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -486,7 +486,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "corporate profits."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cpersonal income.\u201d Personal income is a coincident (not lagging) indicator; labor costs, commercial loans, and corporate profits are lagging indicators.",
+    "explanation": "The correct choice (B) is: “personal income.” Personal income is a coincident (not lagging) indicator; labor costs, commercial loans, and corporate profits are lagging indicators.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -500,7 +500,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "An investor must wait for the record date to be eligible"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cAn investor can buy shares and still be eligible for the dividend on the same day.\u201d An investor who buys on or before the ex-date is entitled to the dividend; buying same-day still qualifies if before the ex-date.",
+    "explanation": "The correct choice (B) is: “An investor can buy shares and still be eligible for the dividend on the same day.” An investor who buys on or before the ex-date is entitled to the dividend; buying same-day still qualifies if before the ex-date.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -514,7 +514,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Yes, as per firm policies"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cYes, as per firm policies.\u201d Representatives may use social media for prospecting only in accordance with firm policies and FINRA supervision/retention rules.",
+    "explanation": "The correct choice (D) is: “Yes, as per firm policies.” Representatives may use social media for prospecting only in accordance with firm policies and FINRA supervision/retention rules.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -528,7 +528,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "corporate bonds"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201ccommon stock.\u201d Common stock is not callable; issuers may call preferred stock, corporate bonds, and municipal bonds but cannot force redemption of common shares.",
+    "explanation": "The correct choice (B) is: “common stock.” Common stock is not callable; issuers may call preferred stock, corporate bonds, and municipal bonds but cannot force redemption of common shares.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -542,7 +542,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "His interest would automatically be transferred to the spouse."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201c40% of the shares would belong to his spouse and the remaining balance would be distributed to his estate.\u201d Tenants in common hold separate, undivided interests; the decedent's 60% passes to his estate and the surviving spouse keeps her 40%.",
+    "explanation": "The correct choice (B) is: “40% of the shares would belong to his spouse and the remaining balance would be distributed to his estate.” Tenants in common hold separate, undivided interests; the decedent's 60% passes to his estate and the surviving spouse keeps her 40%.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -556,7 +556,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "$2,000."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201c$1,250.\u201d Regulation T requires 50% initial margin: 50% x ($25 x 100 = $2,500) = $1,250 deposit.",
+    "explanation": "The correct choice (B) is: “$1,250.” Regulation T requires 50% initial margin: 50% x ($25 x 100 = $2,500) = $1,250 deposit.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -570,7 +570,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Common stock"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cMunicipal note.\u201d Municipal securities (including notes) are exempt from the Securities Act of 1933 registration.",
+    "explanation": "The correct choice (C) is: “Municipal note.” Municipal securities (including notes) are exempt from the Securities Act of 1933 registration.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -584,7 +584,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Limit liquidations"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cPromote liquidity and reduce volatility.\u201d Maintaining a stable $1 NAV promotes liquidity and reduces volatility for an LGIP.",
+    "explanation": "The correct choice (A) is: “Promote liquidity and reduce volatility.” Maintaining a stable $1 NAV promotes liquidity and reduces volatility for an LGIP.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -598,7 +598,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "a secondary offering."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201ca primary offering.\u201d Issuing new bonds to the public to raise capital is a primary offering (new securities sold by the issuer).",
+    "explanation": "The correct choice (C) is: “a primary offering.” Issuing new bonds to the public to raise capital is a primary offering (new securities sold by the issuer).",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -612,7 +612,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "the customer account is approved for option trading by a branch manager."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cthe representative determines, based on reasonable grounds, the customer can understand and afford the risks of the recommendations the representative provides.\u201d The first step in approving options trading is the rep's reasonable-basis determination that the customer can understand and afford the risks.",
+    "explanation": "The correct choice (B) is: “the representative determines, based on reasonable grounds, the customer can understand and afford the risks of the recommendations the representative provides.” The first step in approving options trading is the rep's reasonable-basis determination that the customer can understand and afford the risks.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -626,7 +626,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "I and IV"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cI and II.\u201d FINRA is the primary SRO regulating broker-dealers and their registered representatives (not bankers or the SEC).",
+    "explanation": "The correct choice (C) is: “I and II.” FINRA is the primary SRO regulating broker-dealers and their registered representatives (not bankers or the SEC).",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -640,7 +640,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "532 with an additional demand for $48.93"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201c531.350.\u201d $40,000 / $75.28 = 531.35 shares; mutual fund shares are fractional, so 531.350 shares are credited.",
+    "explanation": "The correct choice (B) is: “531.350.” $40,000 / $75.28 = 531.35 shares; mutual fund shares are fractional, so 531.350 shares are credited.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -654,7 +654,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Orders may be given by either party."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cCertificates may be registered in the name of either party.\u201d In a tenants-in-common account, each party owns a distinct interest and certificates are registered to the specific owner, not 'either party'; that statement would not be made.",
+    "explanation": "The correct choice (B) is: “Certificates may be registered in the name of either party.” In a tenants-in-common account, each party owns a distinct interest and certificates are registered to the specific owner, not 'either party'; that statement would not be made.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -668,7 +668,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "record date."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201crecord date.\u201d To receive a declared dividend, the shareholder must be a holder of record at the close on the record date.",
+    "explanation": "The correct choice (D) is: “record date.” To receive a declared dividend, the shareholder must be a holder of record at the close on the record date.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -682,7 +682,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "30-year revenue bond for a toll bridge"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c10-year STRIP.\u201d STRIPS are zero-coupon Treasuries; their interest is federally taxable but exempt from state tax as a U.S. government obligation.",
+    "explanation": "The correct choice (C) is: “10-year STRIP.” STRIPS are zero-coupon Treasuries; their interest is federally taxable but exempt from state tax as a U.S. government obligation.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -696,7 +696,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "A hedge fund"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cA Utilities Mutual Fund.\u201d A utilities mutual fund is a mainstream, suitable retail investment and does not require heightened (alternative) suitability standards like ETNs, hedge funds, or oil-and-gas LPs.",
+    "explanation": "The correct choice (B) is: “A Utilities Mutual Fund.” A utilities mutual fund is a mainstream, suitable retail investment and does not require heightened (alternative) suitability standards like ETNs, hedge funds, or oil-and-gas LPs.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -710,7 +710,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "An investor who intends to leave the money in the fund for many years"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cAn investor who intends to redeem the shares within a short time.\u201d Class C shares have no front-end load and a level 12b-1 fee, making them most suitable for short holding periods (redemption within a short time).",
+    "explanation": "The correct choice (B) is: “An investor who intends to redeem the shares within a short time.” Class C shares have no front-end load and a level 12b-1 fee, making them most suitable for short holding periods (redemption within a short time).",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -724,7 +724,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "A large group of investors, each contributing a small sum."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cA large group of investors, each contributing a small sum.\u201d Publicly offered (registered) limited partnerships have many small investors each contributing modest amounts, unlike private placements.",
+    "explanation": "The correct choice (D) is: “A large group of investors, each contributing a small sum.” Publicly offered (registered) limited partnerships have many small investors each contributing modest amounts, unlike private placements.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -738,7 +738,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "$1.00"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c5.00%.\u201d Total return = price gain ($1) + dividends ($1, four quarterly $0.25) = $2 on $40 cost = 5%.",
+    "explanation": "The correct choice (C) is: “5.00%.” Total return = price gain ($1) + dividends ($1, four quarterly $0.25) = $2 on $40 cost = 5%.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -752,7 +752,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Common shares of a corporation."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cCommon shares of an open-end investment company.\u201d Open-end fund shares are redeemable only with the fund, not traded in the secondary market; closed-end, REIT, and corporate shares are.",
+    "explanation": "The correct choice (A) is: “Common shares of an open-end investment company.” Open-end fund shares are redeemable only with the fund, not traded in the secondary market; closed-end, REIT, and corporate shares are.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -766,7 +766,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "II and III"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cII and IV.\u201d Penny stocks are OTC equities (OTC Markets and OTC Pink), not exchange- or Nasdaq-listed, even at low prices; II and IV qualify.",
+    "explanation": "The correct choice (B) is: “II and IV.” Penny stocks are OTC equities (OTC Markets and OTC Pink), not exchange- or Nasdaq-listed, even at low prices; II and IV qualify.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -780,7 +780,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "III and IV"
     },
     "answer": "B",
-    "explanation": "An unexercised call expires worthless, so the buyer's premium is lost (II) and the writer keeps it (III). The holder is never obligated to deliver or buy\u2014those describe the writer's obligations only if exercised\u2014so I and IV are false.",
+    "explanation": "An unexercised call expires worthless, so the buyer's premium is lost (II) and the writer keeps it (III). The holder is never obligated to deliver or buy—those describe the writer's obligations only if exercised—so I and IV are false.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -794,7 +794,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Initial public offering"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cBest efforts underwriting.\u201d A best-efforts underwriting has the underwriter act as agent, selling what it can and returning unsold securities to the issuer.",
+    "explanation": "The correct choice (C) is: “Best efforts underwriting.” A best-efforts underwriting has the underwriter act as agent, selling what it can and returning unsold securities to the issuer.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -808,7 +808,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Class C shares"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cClass C shares.\u201d Class C shares impose an ongoing 12b-1 fee as their primary sales charge rather than a front-end or back-end load.",
+    "explanation": "The correct choice (D) is: “Class C shares.” Class C shares impose an ongoing 12b-1 fee as their primary sales charge rather than a front-end or back-end load.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -822,7 +822,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Other"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cDeceased.\u201d A 'deceased' separation reason does not require the negative disclosure detail that discharge, permitted-to-resign, or 'other' do on Form U5.",
+    "explanation": "The correct choice (A) is: “Deceased.” A 'deceased' separation reason does not require the negative disclosure detail that discharge, permitted-to-resign, or 'other' do on Form U5.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -836,7 +836,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Providing quarterly investment updates to employees"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cFunding the plan sufficiently to meet future obligations.\u201d The employer's main obligation in a defined benefit plan is to adequately fund it so promised benefits can be paid.",
+    "explanation": "The correct choice (A) is: “Funding the plan sufficiently to meet future obligations.” The employer's main obligation in a defined benefit plan is to adequately fund it so promised benefits can be paid.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -850,7 +850,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Entities can utilize them to finance both long- and short-term capital needs."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cThey are utilized by the public sector only.\u201d Capital markets serve both public and private sectors, not the public sector only; that is the exception.",
+    "explanation": "The correct choice (C) is: “They are utilized by the public sector only.” Capital markets serve both public and private sectors, not the public sector only; that is the exception.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -878,7 +878,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Neither state nor federal"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cFederal but not state.\u201d Interest on Treasury notes is subject to federal income tax but exempt from state income tax as a direct U.S. government obligation.",
+    "explanation": "The correct choice (C) is: “Federal but not state.” Interest on Treasury notes is subject to federal income tax but exempt from state income tax as a direct U.S. government obligation.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -892,7 +892,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "$50,000 of the cash and $450,000 of the securities."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c$0.\u201d SIPC protects customer securities and cash at the broker-dealer up to $500,000 (incl. $250,000 cash); the Treasuries and cash here total $550,000, so $50,000 of cash plus $450,000 of securities = $500,000 is covered.",
+    "explanation": "The correct choice (C) is: “$0.” SIPC protects customer securities and cash at the broker-dealer up to $500,000 (incl. $250,000 cash); the Treasuries and cash here total $550,000, so $50,000 of cash plus $450,000 of securities = $500,000 is covered.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -906,7 +906,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "balanced statements regarding risk and reward"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cstatements that past performance is a good indication of future results.\u201d Claiming past performance predicts future results violates fair-communication standards; material facts, audience, and risk/reward balance are required.",
+    "explanation": "The correct choice (A) is: “statements that past performance is a good indication of future results.” Claiming past performance predicts future results violates fair-communication standards; material facts, audience, and risk/reward balance are required.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -920,7 +920,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Only in special cases"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cYes, if all required forms are completed and approved.\u201d A sole proprietor may open a margin account if the required account forms are completed and approved by the firm.",
+    "explanation": "The correct choice (C) is: “Yes, if all required forms are completed and approved.” A sole proprietor may open a margin account if the required account forms are completed and approved by the firm.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -934,7 +934,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "The voting proxy would stand."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cThe voting proxy would be revoked.\u201d Attending the meeting and voting in person revokes the previously submitted proxy; the shareholder's live vote controls.",
+    "explanation": "The correct choice (A) is: “The voting proxy would be revoked.” Attending the meeting and voting in person revokes the previously submitted proxy; the shareholder's live vote controls.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -948,7 +948,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "sales risk."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cnonsystematic risk.\u201d A single company's product failure hurting only its stock is company-specific non-systematic (unsystematic) risk.",
+    "explanation": "The correct choice (C) is: “nonsystematic risk.” A single company's product failure hurting only its stock is company-specific non-systematic (unsystematic) risk.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -962,21 +962,21 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "A decedent trust is more flexible."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cA living trust can be modified; a decedent trust cannot.\u201d A living (inter vivos) trust is revocable/modifiable by the grantor; a decedent (testamentary) trust is created at death and cannot be altered.",
+    "explanation": "The correct choice (C) is: “A living trust can be modified; a decedent trust cannot.” A living (inter vivos) trust is revocable/modifiable by the grantor; a decedent (testamentary) trust is created at death and cannot be altered.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
     "id": "yt-guru2-81",
     "section": "4 - Regulatory Framework",
-    "stem": "Emily, age 63, withdrew $20,000 from her traditional IRA in 2024. She did not meet any of the exceptions for penalty-free withdrawals before age 59\u00bd. What are the tax implications of this withdrawal?",
+    "stem": "Emily, age 63, withdrew $20,000 from her traditional IRA in 2024. She did not meet any of the exceptions for penalty-free withdrawals before age 59½. What are the tax implications of this withdrawal?",
     "choices": {
-      "A": "There will be no tax on the withdrawal since Emily is over age 59\u00bd.",
-      "B": "The withdrawal will be taxed as ordinary income, but no penalty applies since Emily is over age 59\u00bd.",
+      "A": "There will be no tax on the withdrawal since Emily is over age 59½.",
+      "B": "The withdrawal will be taxed as ordinary income, but no penalty applies since Emily is over age 59½.",
       "C": "The withdrawal will be taxed at capital gains rates.",
       "D": "Emily will face a 50% excise tax on the withdrawal amount."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cThe withdrawal will be taxed as ordinary income, but no penalty applies since Emily is over age 59\u00bd.\u201d Traditional IRA distributions after age 59 1/2 are taxed as ordinary income with no 10% early penalty.",
+    "explanation": "The correct choice (B) is: “The withdrawal will be taxed as ordinary income, but no penalty applies since Emily is over age 59½.” Traditional IRA distributions after age 59 1/2 are taxed as ordinary income with no 10% early penalty.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -990,7 +990,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "Broker"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cDealer.\u201d Filling a customer's sell order without charging a commission means the firm acted as a dealer (principal) in its own account.",
+    "explanation": "The correct choice (A) is: “Dealer.” Filling a customer's sell order without charging a commission means the firm acted as a dealer (principal) in its own account.",
     "source": "YouTube: Series 7 Guru (guru2)"
   },
   {
@@ -1004,7 +1004,7 @@ var SIE_QUESTIONS_YT_GURU2 = [
       "D": "1%"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c0.5%.\u201d Dividend yield = annual dividend ($0.30) / price ($60) = 0.5%.",
+    "explanation": "The correct choice (C) is: “0.5%.” Dividend yield = annual dividend ($0.30) / price ($60) = 0.5%.",
     "source": "YouTube: Series 7 Guru (guru2)"
   }
 ];

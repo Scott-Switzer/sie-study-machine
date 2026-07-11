@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "The owner of a call has the right to exercise the contract, and the writer would then be assigned and obligated to sell shares to the owner at the strike price."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cThe owner of a call has the right to exercise the contract, and the writer would then be assigned and obligated to sell shares to the owner at the strike price.\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+    "explanation": "The correct choice (D) is: “The owner of a call has the right to exercise the contract, and the writer would then be assigned and obligated to sell shares to the owner at the strike price.”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
     "source": "YouTube: Series 7 Guru (guru4)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Cannot exceed $100"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cCannot exceed $250\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: MSRB writes rules for municipal securities; FINRA enforces them.",
+    "explanation": "The correct choice (A) is: “Cannot exceed $250”. This falls under <b>4 - Regulatory Framework</b>. Key principle: MSRB writes rules for municipal securities; FINRA enforces them.",
     "source": "YouTube: Series 7 Guru (guru4)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "An offering circular"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cAn offering circular\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
+    "explanation": "The correct choice (D) is: “An offering circular”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
     "source": "YouTube: Series 7 Guru (guru4)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "The prospectus"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cAn official statement\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
+    "explanation": "The correct choice (C) is: “An official statement”. This falls under <b>1 - Capital Markets</b>. Key principle: The prospectus is the formal offer document; the red herring is pre-effective.",
     "source": "YouTube: Series 7 Guru (guru4)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "May expire worthless"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cMay exercise anytime up to expiration\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
+    "explanation": "The correct choice (C) is: “May exercise anytime up to expiration”. This falls under <b>2 - Products & Risks</b>. Key principle: Options give the right (not obligation) to buy (call) or sell (put) at a strike price.",
     "source": "YouTube: Series 7 Guru (guru4)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Liquidity"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cReinvestment\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (A) is: “Reinvestment”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (guru4)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Buys stock of other REIT's"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cOwns and manages a portfolio of real property and receives income from the property\u201d. This falls under <b>2 - Products & Risks</b>. Key principle: REITs let investors pool into income-producing real estate; dividends taxed as ordinary income.",
+    "explanation": "The correct choice (B) is: “Owns and manages a portfolio of real property and receives income from the property”. This falls under <b>2 - Products & Risks</b>. Key principle: REITs let investors pool into income-producing real estate; dividends taxed as ordinary income.",
     "source": "YouTube: Series 7 Guru (guru4)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU4 = [
       "D": "Can be bought only at Federal Banks"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cIssued at a discount to par\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
+    "explanation": "The correct choice (A) is: “Issued at a discount to par”. This falls under <b>1 - Capital Markets</b>. Key principle: Treasuries are direct U.S. government debt, considered virtually default-risk-free.",
     "source": "YouTube: Series 7 Guru (guru4)"
   },
   {

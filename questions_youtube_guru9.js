@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "current market value of a bond."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cpar value, usually $1,000 for a bond.\u201d The bond coupon is a percentage of par value, which is typically $1,000 per bond.",
+    "explanation": "The correct choice (C) is: “par value, usually $1,000 for a bond.” The bond coupon is a percentage of par value, which is typically $1,000 per bond.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "they, the underwriters, will be acting as principals buying the securities from the issuer."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cthey, the underwriters, will be acting as principals buying the securities from the issuer.\u201d In a firm-commitment underwriting the underwriters act as principals, buying the whole issue from the issuer and bearing the risk of unsold shares.",
+    "explanation": "The correct choice (D) is: “they, the underwriters, will be acting as principals buying the securities from the issuer.” In a firm-commitment underwriting the underwriters act as principals, buying the whole issue from the issuer and bearing the risk of unsold shares.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "The deceased party's interest is transferred to the remaining party."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cHalf, or 50% of the shares, would belong to the remaining party and the balance would be distributed to the estate of the deceased party.\u201d In a tenants-in-common account each holds a separate interest; on death the decedent's 50% goes to the estate, the survivor keeps their 50%.",
+    "explanation": "The correct choice (C) is: “Half, or 50% of the shares, would belong to the remaining party and the balance would be distributed to the estate of the deceased party.” In a tenants-in-common account each holds a separate interest; on death the decedent's 50% goes to the estate, the survivor keeps their 50%.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "15%"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201c25%.\u201d Total return = ($3 gain + $1 dividends) / $20 cost = $4 / $20 = 20% (dividends over two years: $0.25 x 4 = $1; gain $3).",
+    "explanation": "The correct choice (A) is: “25%.” Total return = ($3 gain + $1 dividends) / $20 cost = $4 / $20 = 20% (dividends over two years: $0.25 x 4 = $1; gain $3).",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "Revocable living trust"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cRevocable living trust.\u201d A revocable living trust can be amended or revoked by the grantor during life; an irrevocable trust cannot.",
+    "explanation": "The correct choice (D) is: “Revocable living trust.” A revocable living trust can be amended or revoked by the grantor during life; an irrevocable trust cannot.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "At the close of the business day"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cAt the close of the business day.\u201d A day order that is not executed expires automatically at the close of the trading day on which it was entered.",
+    "explanation": "The correct choice (D) is: “At the close of the business day.” A day order that is not executed expires automatically at the close of the trading day on which it was entered.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "purchasing power risk."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cdefault risk.\u201d Because an ETN is unsecured debt of the issuer, the primary risk is the issuer's default (credit) risk.",
+    "explanation": "The correct choice (A) is: “default risk.” Because an ETN is unsecured debt of the issuer, the primary risk is the issuer's default (credit) risk.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "indefinitely."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c90 days.\u201d A letter of intent may be backdated up to 90 days to include a recent prior purchase toward the breakpoint.",
+    "explanation": "The correct choice (C) is: “90 days.” A letter of intent may be backdated up to 90 days to include a recent prior purchase toward the breakpoint.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "the OTC market."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cthe fourth market.\u201d The fourth market is direct institutional trading of exchange-listed securities via ECNs/ATS, bypassing brokers and exchanges.",
+    "explanation": "The correct choice (A) is: “the fourth market.” The fourth market is direct institutional trading of exchange-listed securities via ECNs/ATS, bypassing brokers and exchanges.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "board of directors (BOD)."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cstockholders.\u201d A corporation's net worth (equity) belongs to its stockholders (the owners), not bondholders or management.",
+    "explanation": "The correct choice (B) is: “stockholders.” A corporation's net worth (equity) belongs to its stockholders (the owners), not bondholders or management.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "The fund receives dividends."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cA large number of investors making deposits in the fund.\u201d New investor deposits increase the fund's cash assets but dilute NAV only after share creation; NAV per share rises from income/dividends and lower liabilities, not merely from deposits (deposits don't by themselves raise NAV/share).",
+    "explanation": "The correct choice (B) is: “A large number of investors making deposits in the fund.” New investor deposits increase the fund's cash assets but dilute NAV only after share creation; NAV per share rises from income/dividends and lower liabilities, not merely from deposits (deposits don't by themselves raise NAV/share).",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "Uniform Gift to Minors Act (UGMA)."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cABLE accounts.\u201d ABLE accounts are tax-advantaged savings accounts for individuals with disabilities and their families.",
+    "explanation": "The correct choice (B) is: “ABLE accounts.” ABLE accounts are tax-advantaged savings accounts for individuals with disabilities and their families.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "There is no limit to the number of transfers per year between custodians."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cThere is no limit to the number of transfers per year between custodians.\u201d A rollover/trustee-to-trustee IRA transfer between custodians is not a taxable distribution, has no penalty, and may be done an unlimited number of times per year.",
+    "explanation": "The correct choice (D) is: “There is no limit to the number of transfers per year between custodians.” A rollover/trustee-to-trustee IRA transfer between custodians is not a taxable distribution, has no penalty, and may be done an unlimited number of times per year.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "an exchange-listed stock trading at $5 or less per share."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201can unlisted (not listed on a U.S. stock exchange) security trading at less than $5 per share.\u201d A penny stock is an unlisted (non-exchange-listed) equity security trading below $5 per share.",
+    "explanation": "The correct choice (C) is: “an unlisted (not listed on a U.S. stock exchange) security trading at less than $5 per share.” A penny stock is an unlisted (non-exchange-listed) equity security trading below $5 per share.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "The customer must choose to round up or round down."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c429.2.\u201d $10,730 / $25 = 429.2 shares; fund shares may be fractional, so 429.2 are credited.",
+    "explanation": "The correct choice (C) is: “429.2.” $10,730 / $25 = 429.2 shares; fund shares may be fractional, so 429.2 are credited.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "Six years"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cThree years.\u201d Advertising, confirmations, order tickets, and related books must be retained for three years under SEC/FINRA rules.",
+    "explanation": "The correct choice (A) is: “Three years.” Advertising, confirmations, order tickets, and related books must be retained for three years under SEC/FINRA rules.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "20%"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c10%.\u201d Total return = ($400 gain + $100 dividends) / $5,000 = $500 / $5,000 = 10%.",
+    "explanation": "The correct choice (C) is: “10%.” Total return = ($400 gain + $100 dividends) / $5,000 = $500 / $5,000 = 10%.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "writing calls against her stock position is a conservative strategy for generating income."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cwriting calls against her stock position is a conservative strategy for generating income.\u201d Writing (selling) covered calls against stock the investor already owns is a conservative income strategy that generates premium income.",
+    "explanation": "The correct choice (D) is: “writing calls against her stock position is a conservative strategy for generating income.” Writing (selling) covered calls against stock the investor already owns is a conservative income strategy that generates premium income.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "2%"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201c5%.\u201d Current yield = annual coupon ($60) / price ($1,200) = 5%.",
+    "explanation": "The correct choice (A) is: “5%.” Current yield = annual coupon ($60) / price ($1,200) = 5%.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "rise."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cfall.\u201d Preferred stock behaves like a long-term bond, so its price falls when interest rates rise.",
+    "explanation": "The correct choice (B) is: “fall.” Preferred stock behaves like a long-term bond, so its price falls when interest rates rise.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "distribute sales literature to interested existing clients."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cdistribute sales literature to interested existing clients.\u201d During the 20-day cooling-off period, sales literature may not be distributed; tombstones, red herrings, due diligence, and indications of interest are permitted.",
+    "explanation": "The correct choice (D) is: “distribute sales literature to interested existing clients.” During the 20-day cooling-off period, sales literature may not be distributed; tombstones, red herrings, due diligence, and indications of interest are permitted.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "900 votes, no more than 450 votes for any one seat"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201c900 votes, no more than 300 votes for any one seat.\u201d Under cumulative voting, a shareholder gets one vote per share per open seat, so 300 shares x 3 seats = 900 votes that may be concentrated as desired.",
+    "explanation": "The correct choice (A) is: “900 votes, no more than 300 votes for any one seat.” Under cumulative voting, a shareholder gets one vote per share per open seat, so 300 shares x 3 seats = 900 votes that may be concentrated as desired.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "an investment adviser."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201ca municipal advisor.\u201d A person advising a municipality on issuing municipal debt is a municipal advisor, regulated under the Dodd-Frank Act.",
+    "explanation": "The correct choice (C) is: “a municipal advisor.” A person advising a municipality on issuing municipal debt is a municipal advisor, regulated under the Dodd-Frank Act.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "Price risk"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cLiquidity risk.\u201d Exchange listing provides a continuous secondary market, greatly reducing (effectively eliminating) liquidity risk for the stock.",
+    "explanation": "The correct choice (C) is: “Liquidity risk.” Exchange listing provides a continuous secondary market, greatly reducing (effectively eliminating) liquidity risk for the stock.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "a firm principal."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201ca Registered Options Principal.\u201d Before any option trade, the customer's account must be approved for option trading by a Registered Options Principal (ROP).",
+    "explanation": "The correct choice (B) is: “a Registered Options Principal.” Before any option trade, the customer's account must be approved for option trading by a Registered Options Principal (ROP).",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "trading in fixed annuities."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201ctrading in the over-the-counter (OTC) market.\u201d FINRA regulates broker-dealer activities including trading in the OTC market; futures and commodities are outside its scope.",
+    "explanation": "The correct choice (C) is: “trading in the over-the-counter (OTC) market.” FINRA regulates broker-dealer activities including trading in the OTC market; futures and commodities are outside its scope.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "Both the regulatory and firm level continuing education requirements."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cBoth the regulatory and firm level continuing education requirements.\u201d Registered persons must complete both the Regulatory Element and Firm Element of continuing education annually.",
+    "explanation": "The correct choice (D) is: “Both the regulatory and firm level continuing education requirements.” Registered persons must complete both the Regulatory Element and Firm Element of continuing education annually.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "subject to variation and stated as a percentage of its par value."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cfixed and stated as a percentage of its par value.\u201d Preferred dividends are fixed and stated as a percentage of the stock's par value (e.g., 6% of $100 par).",
+    "explanation": "The correct choice (C) is: “fixed and stated as a percentage of its par value.” Preferred dividends are fixed and stated as a percentage of the stock's par value (e.g., 6% of $100 par).",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "I and IV"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cII and III.\u201d YTC accelerates the gain on a discount bond (amortization) and accelerates the premium loss on a premium bond if called early; II and III.",
+    "explanation": "The correct choice (B) is: “II and III.” YTC accelerates the gain on a discount bond (amortization) and accelerates the premium loss on a premium bond if called early; II and III.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "call risk."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201ccapital risk.\u201d Capital risk is the risk of losing all or a significant part of the invested principal.",
+    "explanation": "The correct choice (A) is: “capital risk.” Capital risk is the risk of losing all or a significant part of the invested principal.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -430,7 +430,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "option contracts."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201coption contracts.\u201d A corporation issues stock, preferred, and debentures, but does not issue option contracts (those are created by exchanges/holders).",
+    "explanation": "The correct choice (D) is: “option contracts.” A corporation issues stock, preferred, and debentures, but does not issue option contracts (those are created by exchanges/holders).",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -444,7 +444,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "Owns the contract."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cWrites the contract.\u201d On the buy side the investor has a right, pays the premium, and owns the contract; 'writes the contract' describes the seller (obligation) side.",
+    "explanation": "The correct choice (C) is: “Writes the contract.” On the buy side the investor has a right, pays the premium, and owns the contract; 'writes the contract' describes the seller (obligation) side.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -458,7 +458,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "II and III"
     },
     "answer": "A",
-    "explanation": "Custodial UGMA/UTMA accounts (III) and Coverdell ESAs (IV) must be cash accounts\u2014they cannot be margined or used for short sales. Margin accounts are by definition not cash (I), and JTWROS accounts may be opened as margin (II).",
+    "explanation": "Custodial UGMA/UTMA accounts (III) and Coverdell ESAs (IV) must be cash accounts—they cannot be margined or used for short sales. Margin accounts are by definition not cash (I), and JTWROS accounts may be opened as margin (II).",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -472,7 +472,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "the third market."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cAn exchange.\u201d An exchange is a centralized physical marketplace where a designated market maker facilitates trades in listed securities.",
+    "explanation": "The correct choice (A) is: “An exchange.” An exchange is a centralized physical marketplace where a designated market maker facilitates trades in listed securities.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -486,7 +486,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "It is good for three years if the issuer meets certain requirements."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cIt requires a prospectus to be filed only once.\u201d A Rule 415 shelf registration is good for three years (two for non-WKSIs) and requires a supplement before each sale; it does not require only one filing overall, making that statement false.",
+    "explanation": "The correct choice (A) is: “It requires a prospectus to be filed only once.” A Rule 415 shelf registration is good for three years (two for non-WKSIs) and requires a supplement before each sale; it does not require only one filing overall, making that statement false.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -500,7 +500,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "equal to the exercise price."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cless than the exercise price.\u201d A put has intrinsic value when the stock price is below the strike (exercise) price just before expiration.",
+    "explanation": "The correct choice (B) is: “less than the exercise price.” A put has intrinsic value when the stock price is below the strike (exercise) price just before expiration.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -514,7 +514,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "Rights"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cT-notes.\u201d Options are exempt from Regulation T margin rules but the firm sets its own initial margin requirement for option positions.",
+    "explanation": "The correct choice (B) is: “T-notes.” Options are exempt from Regulation T margin rules but the firm sets its own initial margin requirement for option positions.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -528,7 +528,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "An investment that actively manages a securities portfolio to achieve a stated investment objective"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cA contract between an investor and an issuer in which the issuer guarantees payment of a stated sum to the investor at some set date in the future.\u201d A face-amount certificate is a contract in which the issuer guarantees payment of a set sum to the investor on a future date for installment payments made.",
+    "explanation": "The correct choice (A) is: “A contract between an investor and an issuer in which the issuer guarantees payment of a stated sum to the investor at some set date in the future.” A face-amount certificate is a contract in which the issuer guarantees payment of a set sum to the investor on a future date for installment payments made.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -542,7 +542,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "I and IV"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cI and IV.\u201d Investment companies let investors pool small amounts to buy diversified portfolios (I) and gain market purchasing power (IV); they do not get special prices or eliminate market risk.",
+    "explanation": "The correct choice (D) is: “I and IV.” Investment companies let investors pool small amounts to buy diversified portfolios (I) and gain market purchasing power (IV); they do not get special prices or eliminate market risk.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -556,7 +556,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "Raw land"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cExploratory.\u201d Exploratory (wildcat) oil and gas programs drill unproven acreage and carry the highest risk of total loss among DPP types.",
+    "explanation": "The correct choice (A) is: “Exploratory.” Exploratory (wildcat) oil and gas programs drill unproven acreage and carry the highest risk of total loss among DPP types.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -570,7 +570,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "I and II"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cI and IV.\u201d In a defined benefit plan the benefit is fixed by formula (I) and the employer's required contribution varies (IV) to fund that promised benefit.",
+    "explanation": "The correct choice (B) is: “I and IV.” In a defined benefit plan the benefit is fixed by formula (I) and the employer's required contribution varies (IV) to fund that promised benefit.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -584,7 +584,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "an outside tippee."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201ca contemporaneous trader.\u201d Mr. Smith trading at the same time as an insider in the same security is a contemporaneous trader, relevant to insider-trading liability.",
+    "explanation": "The correct choice (C) is: “a contemporaneous trader.” Mr. Smith trading at the same time as an insider in the same security is a contemporaneous trader, relevant to insider-trading liability.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -598,7 +598,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "business risk."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cfinancial risk.\u201d Heavy use of debt financing exposes investors to financial (leverage) risk - the danger of being unable to meet debt obligations.",
+    "explanation": "The correct choice (A) is: “financial risk.” Heavy use of debt financing exposes investors to financial (leverage) risk - the danger of being unable to meet debt obligations.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -612,7 +612,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "Four years"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cSix years.\u201d Blotters, general ledgers, and stock records must be preserved for six years.",
+    "explanation": "The correct choice (C) is: “Six years.” Blotters, general ledgers, and stock records must be preserved for six years.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -626,7 +626,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "how the shares are delivered to the investor."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201chow sales charges and related expenses are paid.\u201d A mutual fund's share class (A/B/C) determines how the sales charge and 12b-1 fees are paid, not the NAV.",
+    "explanation": "The correct choice (A) is: “how sales charges and related expenses are paid.” A mutual fund's share class (A/B/C) determines how the sales charge and 12b-1 fees are paid, not the NAV.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -640,7 +640,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "record date."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cdeclaration date.\u201d The date the board declares a dividend is the declaration date.",
+    "explanation": "The correct choice (A) is: “declaration date.” The date the board declares a dividend is the declaration date.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -654,7 +654,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "all passive investments be reported under the rule."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cprior written notice to the employing firm be provided.\u201d OBA rules require an associated person to give prior written notice of outside business activities to the employing firm.",
+    "explanation": "The correct choice (C) is: “prior written notice to the employing firm be provided.” OBA rules require an associated person to give prior written notice of outside business activities to the employing firm.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -668,7 +668,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "The CEO of the corporation"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cThe investor's friend.\u201d Under the Insider Trading and Securities Fraud Enforcement Act, the tipper (the friend who passed the material nonpublic information) can be liable alongside the trading investor.",
+    "explanation": "The correct choice (C) is: “The investor's friend.” Under the Insider Trading and Securities Fraud Enforcement Act, the tipper (the friend who passed the material nonpublic information) can be liable alongside the trading investor.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -682,7 +682,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "Information on any felony convictions within the past 10 years."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cAny aliases.\u201d Form U4 requires 10-year employment and residence history and 10-year felony disclosures, but not a list of aliases.",
+    "explanation": "The correct choice (A) is: “Any aliases.” Form U4 requires 10-year employment and residence history and 10-year felony disclosures, but not a list of aliases.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -696,7 +696,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "OMG convertible bonds"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cOMG put options.\u201d To avoid a wash sale, the investor must not buy a substantially identical security; OMG put options are not substantially identical to the stock, so they are permitted.",
+    "explanation": "The correct choice (B) is: “OMG put options.” To avoid a wash sale, the investor must not buy a substantially identical security; OMG put options are not substantially identical to the stock, so they are permitted.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -710,7 +710,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "It is a useful but not mandatory document showing detailed information intended to offer investors adequate reason to purchase share purchases."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cIt is a full and fair disclosure of all material information and facts regarding the issuance of securities.\u201d A prospectus is the full and fair disclosure document containing all material facts about a securities offering.",
+    "explanation": "The correct choice (B) is: “It is a full and fair disclosure of all material information and facts regarding the issuance of securities.” A prospectus is the full and fair disclosure document containing all material facts about a securities offering.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -724,7 +724,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "I, II, III, and IV"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cI, II, III, and IV.\u201d A company's stock price is affected by its earnings, the business cycle, Fed policy, and international conflicts - all of I through IV.",
+    "explanation": "The correct choice (D) is: “I, II, III, and IV.” A company's stock price is affected by its earnings, the business cycle, Fed policy, and international conflicts - all of I through IV.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -738,7 +738,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "regulatory risk."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201clegislative risk.\u201d Government changes to tax law are a form of legislative risk to investors.",
+    "explanation": "The correct choice (B) is: “legislative risk.” Government changes to tax law are a form of legislative risk to investors.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -752,7 +752,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "will affect contributions into a Section 529 plan."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cmay affect contributions into a Coverdell ESA.\u201d Coverdell ESA contributions are subject to income (phase-out) limits, whereas 529 plan contributions are not limited by the donor's income.",
+    "explanation": "The correct choice (B) is: “may affect contributions into a Coverdell ESA.” Coverdell ESA contributions are subject to income (phase-out) limits, whereas 529 plan contributions are not limited by the donor's income.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -766,7 +766,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "nonsystematic risks."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cnonsystematic risks.\u201d Risks specific to an industry or company are non-systematic (unsystematic) risks, diversifiable through portfolio mixing.",
+    "explanation": "The correct choice (D) is: “nonsystematic risks.” Risks specific to an industry or company are non-systematic (unsystematic) risks, diversifiable through portfolio mixing.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -780,7 +780,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "the interest rate the investor has agreed to pay the issuer."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cthe interest rate the issuer has agreed to pay the investor.\u201d The coupon rate is the interest rate the issuer agrees to pay the investor, stated as a percentage of par.",
+    "explanation": "The correct choice (B) is: “the interest rate the issuer has agreed to pay the investor.” The coupon rate is the interest rate the issuer agrees to pay the investor, stated as a percentage of par.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -794,7 +794,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "fewer shares worth less per share with a decreased net position value."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cfewer shares worth more per share with the same net position value.\u201d A 1:3 reverse split reduces share count to one-third and raises the per-share price, leaving total position value unchanged.",
+    "explanation": "The correct choice (A) is: “fewer shares worth more per share with the same net position value.” A 1:3 reverse split reduces share count to one-third and raises the per-share price, leaving total position value unchanged.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -822,7 +822,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "an unsolicited transaction."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201ca private securities transaction.\u201d Selling securities outside the firm's regular business is a private securities transaction (selling away), requiring notice and approval.",
+    "explanation": "The correct choice (B) is: “a private securities transaction.” Selling securities outside the firm's regular business is a private securities transaction (selling away), requiring notice and approval.",
     "source": "YouTube: Series 7 Guru (guru9)"
   },
   {
@@ -836,7 +836,7 @@ var SIE_QUESTIONS_YT_GURU9 = [
       "D": "three years."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cfive years.\u201d Currency Transaction Report records must be retained for five years under AML/Bank Secrecy Act rules.",
+    "explanation": "The correct choice (A) is: “five years.” Currency Transaction Report records must be retained for five years under AML/Bank Secrecy Act rules.",
     "source": "YouTube: Series 7 Guru (guru9)"
   }
 ];

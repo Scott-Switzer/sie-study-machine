@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Prices are descending."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cInvestors are paying more for T-bills.\u201d Interest rates and T-bill prices move inversely; a falling T-bill rate means rising prices, so investors pay more for them.",
+    "explanation": "The correct choice (B) is: “Investors are paying more for T-bills.” Interest rates and T-bill prices move inversely; a falling T-bill rate means rising prices, so investors pay more for them.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "tax free."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201ctreated partly as ordinary income and partly as a tax-free return of principal.\u201d An interest-only (IO) CMO tranche distributes stripped mortgage interest that is taxed partly as ordinary income and partly as a tax-free return of principal.",
+    "explanation": "The correct choice (A) is: “treated partly as ordinary income and partly as a tax-free return of principal.” An interest-only (IO) CMO tranche distributes stripped mortgage interest that is taxed partly as ordinary income and partly as a tax-free return of principal.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Statutory"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cCumulative.\u201d Cumulative voting lets shareholders pool all their votes behind one candidate, enabling minority holders to elect a director.",
+    "explanation": "The correct choice (C) is: “Cumulative.” Cumulative voting lets shareholders pool all their votes behind one candidate, enabling minority holders to elect a director.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "no gain and no loss."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201ca long-term capital gain of $160.\u201d A zero-coupon bond bought at a discount and sold higher after more than a year produces a long-term capital gain equal to the price appreciation.",
+    "explanation": "The correct choice (A) is: “a long-term capital gain of $160.” A zero-coupon bond bought at a discount and sold higher after more than a year produces a long-term capital gain equal to the price appreciation.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Employment history for the previous 10 years"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cEmployment history for the previous 10 years.\u201d Form U4 requires disclosure of the applicant's employment history for the previous 10 years, among other background information.",
+    "explanation": "The correct choice (D) is: “Employment history for the previous 10 years.” Form U4 requires disclosure of the applicant's employment history for the previous 10 years, among other background information.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Direct participation programs, real estate investment trusts, preferred stock"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cTreasury notes, municipal bonds, GNMAs.\u201d A low-risk, near-retirement investor should hold safe income investments (Treasuries, munis, GNMAs) and avoid stocks, options, and DPPs.",
+    "explanation": "The correct choice (C) is: “Treasury notes, municipal bonds, GNMAs.” A low-risk, near-retirement investor should hold safe income investments (Treasuries, munis, GNMAs) and avoid stocks, options, and DPPs.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "total assets minus total liabilities."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201ccurrent assets minus current liabilities.\u201d Working capital is defined as current assets minus current liabilities, measuring short-term liquidity.",
+    "explanation": "The correct choice (B) is: “current assets minus current liabilities.” Working capital is defined as current assets minus current liabilities, measuring short-term liquidity.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "The yield maturity will always be higher than the nominal yield."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cThe current yield will always be higher than the yield to maturity.\u201d When a bond sells at a premium, its current yield exceeds its yield to maturity because the premium amortizes down to par at maturity.",
+    "explanation": "The correct choice (A) is: “The current yield will always be higher than the yield to maturity.” When a bond sells at a premium, its current yield exceeds its yield to maturity because the premium amortizes down to par at maturity.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "secondary market volume."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cReviews.\u201d The Bond Buyer publishes municipal data such as the 30-day visible supply, placement ratio, and secondary market volume; it does not publish 'reviews.'",
+    "explanation": "The correct choice (C) is: “Reviews.” The Bond Buyer publishes municipal data such as the 30-day visible supply, placement ratio, and secondary market volume; it does not publish 'reviews.'",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Outstanding credit card balances"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cThe individual's risk tolerance.\u201d The financial profile captures quantitative data (assets, IRAs, debts); while risk tolerance is gathered separately as part of the investment profile, it is not part of the financial profile itself.",
+    "explanation": "The correct choice (B) is: “The individual's risk tolerance.” The financial profile captures quantitative data (assets, IRAs, debts); while risk tolerance is gathered separately as part of the investment profile, it is not part of the financial profile itself.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "$15,000"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c$0.\u201d Net capital losses offset gains and are deductible up to $3,000 per year; here the $3,000 net loss is fully used this year, so nothing carries forward.",
+    "explanation": "The correct choice (C) is: “$0.” Net capital losses offset gains and are deductible up to $3,000 per year; here the $3,000 net loss is fully used this year, so nothing carries forward.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "a combination."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201ca calendar spread.\u201d Buying and selling the same strike in different expiration months creates a calendar (horizontal/time) spread.",
+    "explanation": "The correct choice (C) is: “a calendar spread.” Buying and selling the same strike in different expiration months creates a calendar (horizontal/time) spread.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Inflation risk."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cInflation risk.\u201d Long-term AAA-rated bonds have minimal default risk, so the dominant concern is inflation (purchasing-power) risk over time.",
+    "explanation": "The correct choice (D) is: “Inflation risk.” Long-term AAA-rated bonds have minimal default risk, so the dominant concern is inflation (purchasing-power) risk over time.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "$2,000."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201c$500.\u201d Maintenance margin is 25% of long market value; a maintenance call equals the shortfall when equity falls below that requirement ($1,500 - $1,000 = $500).",
+    "explanation": "The correct choice (A) is: “$500.” Maintenance margin is 25% of long market value; a maintenance call equals the shortfall when equity falls below that requirement ($1,500 - $1,000 = $500).",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "The regional chain should seek to get their parent company to support them through the issuance of guaranteed bonds which although unsecured would be safer than direct debenture of the struggling chain."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cThe regional chain should seek to get their parent company to support them through the issuance of guaranteed bonds which although unsecured would be safer than direct debenture of the struggling chain.\u201d Guaranteed bonds backed by a strong parent are safer than the struggling subsidiary's own debentures, so the parent's support is the best path to capital.",
+    "explanation": "The correct choice (D) is: “The regional chain should seek to get their parent company to support them through the issuance of guaranteed bonds which although unsecured would be safer than direct debenture of the struggling chain.” Guaranteed bonds backed by a strong parent are safer than the struggling subsidiary's own debentures, so the parent's support is the best path to capital.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "correspondence to the existing customers, retail communication to the prospects."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cretail communication.\u201d A communication sent to more than 25 retail investors (or via a mass mailing list) is a retail communication subject to principal approval, not correspondence.",
+    "explanation": "The correct choice (A) is: “retail communication.” A communication sent to more than 25 retail investors (or via a mass mailing list) is a retail communication subject to principal approval, not correspondence.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Depletion"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cPotential alternative minimum tax.\u201d Oil and gas DPP advantages include IDC deductions, depletion, and cash flow; generating AMT preference items is a drawback, not an advantage.",
+    "explanation": "The correct choice (A) is: “Potential alternative minimum tax.” Oil and gas DPP advantages include IDC deductions, depletion, and cash flow; generating AMT preference items is a drawback, not an advantage.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Corporate debt securities"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cA variable annuity.\u201d Variable annuities offer tax-deferred growth and suit long-term retirement objectives for younger investors.",
+    "explanation": "The correct choice (A) is: “A variable annuity.” Variable annuities offer tax-deferred growth and suit long-term retirement objectives for younger investors.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Limit order to buy"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cLimit order to buy.\u201d Buy limit orders (and sell stop orders) are reduced by the dividend amount on the ex-dividend date; sell limits and buy stops are not.",
+    "explanation": "The correct choice (D) is: “Limit order to buy.” Buy limit orders (and sell stop orders) are reduced by the dividend amount on the ex-dividend date; sell limits and buy stops are not.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "20 days"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c30 days.\u201d To avoid a wash sale, an investor must wait 30 days before or after repurchasing a substantially identical security.",
+    "explanation": "The correct choice (C) is: “30 days.” To avoid a wash sale, an investor must wait 30 days before or after repurchasing a substantially identical security.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Invest in a money market mutual fund to build up more cash reserves."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cInvest in a money market mutual fund to build up more cash reserves.\u201d A short-term goal (home in 3-5 years) for a new investor calls for capital preservation, so a money market fund builds cash reserves safely.",
+    "explanation": "The correct choice (D) is: “Invest in a money market mutual fund to build up more cash reserves.” A short-term goal (home in 3-5 years) for a new investor calls for capital preservation, so a money market fund builds cash reserves safely.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "III and IV"
     },
     "answer": "C",
-    "explanation": "Closed-end funds conduct one IPO of a fixed number of shares (II) and then trade in the secondary market at market prices that may differ from NAV (IV). They are NOT redeemable by the issuer at NAV on demand\u2014that describes open-end (mutual) funds, so I and III are false.",
+    "explanation": "Closed-end funds conduct one IPO of a fixed number of shares (II) and then trade in the secondary market at market prices that may differ from NAV (IV). They are NOT redeemable by the issuer at NAV on demand—that describes open-end (mutual) funds, so I and III are false.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "I and IV"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cI and IV.\u201d Roth IRA contributions are nondeductible and qualified withdrawals after age 59 1/2 are tax free; the age-72 RMD/withdrawal rules apply to Traditional IRAs.",
+    "explanation": "The correct choice (D) is: “I and IV.” Roth IRA contributions are nondeductible and qualified withdrawals after age 59 1/2 are tax free; the age-72 RMD/withdrawal rules apply to Traditional IRAs.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "are only permissible for companies with an A+ rating from A.M. Best."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201care not allowed.\u201d Insurance products such as variable annuities may not guarantee investment returns or principal values tied to the separate account.",
+    "explanation": "The correct choice (A) is: “are not allowed.” Insurance products such as variable annuities may not guarantee investment returns or principal values tied to the separate account.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "an account in the name of Mrs. Jones opened by Mr. Jones."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201can account in the name of Mrs. Jones opened by Mr. Jones.\u201d An account must be opened in the name of the actual owner; one spouse cannot open an account in the other spouse's name without proper authority.",
+    "explanation": "The correct choice (D) is: “an account in the name of Mrs. Jones opened by Mr. Jones.” An account must be opened in the name of the actual owner; one spouse cannot open an account in the other spouse's name without proper authority.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "capitalization."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201ccapitalization.\u201d Comparing a company's revenues with its expenses helps assess its capitalization (earning power available to service its capital structure).",
+    "explanation": "The correct choice (D) is: “capitalization.” Comparing a company's revenues with its expenses helps assess its capitalization (earning power available to service its capital structure).",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "The syndicate members have purchased put options to protect against a decline in the price of the stock."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cThe syndicate can oversell by up to 15% of the offering.\u201d The over-allotment (greenshoe) option lets the syndicate sell up to 15% more shares than registered to stabilize the price.",
+    "explanation": "The correct choice (A) is: “The syndicate can oversell by up to 15% of the offering.” The over-allotment (greenshoe) option lets the syndicate sell up to 15% more shares than registered to stabilize the price.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "FINRA"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cThe NYSE.\u201d The exchange itself (the NYSE) decides whether to list a security, not the SEC or FINRA.",
+    "explanation": "The correct choice (A) is: “The NYSE.” The exchange itself (the NYSE) decides whether to list a security, not the SEC or FINRA.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "$16,450"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201c$17,500.\u201d Nonqualified variable annuity withdrawals are taxed as ordinary income on the earnings (LIFO) and an early withdrawal before 59 1/2 adds a 10% penalty; applying the 25% bracket yields the $17,500 liability.",
+    "explanation": "The correct choice (A) is: “$17,500.” Nonqualified variable annuity withdrawals are taxed as ordinary income on the earnings (LIFO) and an early withdrawal before 59 1/2 adds a 10% penalty; applying the 25% bracket yields the $17,500 liability.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Unit investment trusts"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cClosed-end management investment companies.\u201d Closed-end fund shares trade on an exchange, so their price is set by market supply and demand and can differ from NAV.",
+    "explanation": "The correct choice (B) is: “Closed-end management investment companies.” Closed-end fund shares trade on an exchange, so their price is set by market supply and demand and can differ from NAV.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -430,7 +430,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "TTA has one business day to validate or take exception to the positions listed on the transfer initiation form."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cEMPM has one business day to validate or take exception to the positions listed on the transfer initiation form.\u201d Under ACATS, the receiving firm must validate or take exception to the positions on the transfer form within one business day of initiation.",
+    "explanation": "The correct choice (A) is: “EMPM has one business day to validate or take exception to the positions listed on the transfer initiation form.” Under ACATS, the receiving firm must validate or take exception to the positions on the transfer form within one business day of initiation.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -444,7 +444,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "whether the securities are fully registered or book entry."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cwhether the securities are fully registered or book entry.\u201d A municipal confirmation must show items like the fixed maturity, extraordinary call provisions, and capacity, but need not state registered vs. book-entry form.",
+    "explanation": "The correct choice (D) is: “whether the securities are fully registered or book entry.” A municipal confirmation must show items like the fixed maturity, extraordinary call provisions, and capacity, but need not state registered vs. book-entry form.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -458,7 +458,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "sell put options on the Canadian currency."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cpurchase put options on the Canadian currency.\u201d A U.S. exporter receiving Canadian dollars buys put options on the Canadian currency to lock in a minimum exchange rate against depreciation.",
+    "explanation": "The correct choice (C) is: “purchase put options on the Canadian currency.” A U.S. exporter receiving Canadian dollars buys put options on the Canadian currency to lock in a minimum exchange rate against depreciation.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -472,7 +472,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "$3."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201c$5.\u201d EPS equals price divided by the P/E ratio; $60 / 12 = $5.00 (the dividend is irrelevant to this computation).",
+    "explanation": "The correct choice (B) is: “$5.” EPS equals price divided by the P/E ratio; $60 / 12 = $5.00 (the dividend is irrelevant to this computation).",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -486,7 +486,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Option account"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cWrap account.\u201d A wrap account charges a single bundled annual fee covering advice, brokerage, and administrative services.",
+    "explanation": "The correct choice (B) is: “Wrap account.” A wrap account charges a single bundled annual fee covering advice, brokerage, and administrative services.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -500,7 +500,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "County governments"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cState governments.\u201d State governments rely least on property taxes, drawing mainly on income and sales taxes; localities depend heavily on property taxes.",
+    "explanation": "The correct choice (A) is: “State governments.” State governments rely least on property taxes, drawing mainly on income and sales taxes; localities depend heavily on property taxes.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -514,7 +514,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "forwarding a preliminary prospectus to a customer."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201csoliciting transactions for the security.\u201d During the 20-day cooling-off period, soliciting or selling transactions is prohibited, though tombstone ads, due diligence, and preliminary prospectuses are allowed.",
+    "explanation": "The correct choice (A) is: “soliciting transactions for the security.” During the 20-day cooling-off period, soliciting or selling transactions is prohibited, though tombstone ads, due diligence, and preliminary prospectuses are allowed.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -528,7 +528,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Class B common stock"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cWarrant.\u201d Warrants are options to buy stock and pay no dividends; only the underlying equity securities (stock, ADRs, preferred) pay dividends.",
+    "explanation": "The correct choice (C) is: “Warrant.” Warrants are options to buy stock and pay no dividends; only the underlying equity securities (stock, ADRs, preferred) pay dividends.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -542,7 +542,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "A variable annuity"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cA direct participation program.\u201d DPP/PPP subscriptions require a signed agreement confirming the investor's income, net worth, and understanding of risks before the program approves the purchase.",
+    "explanation": "The correct choice (B) is: “A direct participation program.” DPP/PPP subscriptions require a signed agreement confirming the investor's income, net worth, and understanding of risks before the program approves the purchase.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -556,7 +556,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "A GNMA pass-through security."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cA Treasury note.\u201d Treasury notes mature from 2 to 10 years, so a newly issued 7-year government-backed security is a Treasury note.",
+    "explanation": "The correct choice (B) is: “A Treasury note.” Treasury notes mature from 2 to 10 years, so a newly issued 7-year government-backed security is a Treasury note.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -570,7 +570,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Report the error immediately to the designated principal."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cReport the error immediately to the designated principal.\u201d Any price discrepancy or execution error must be reported promptly to a designated principal/supervisor.",
+    "explanation": "The correct choice (D) is: “Report the error immediately to the designated principal.” Any price discrepancy or execution error must be reported promptly to a designated principal/supervisor.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -584,7 +584,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Has General Shoelaces' tender offer expired?"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cHas General Shoelaces' tender offer expired?.\u201d A shareholder who missed the initial tender-offer notice is mainly concerned with whether the offer is still open before its expiration.",
+    "explanation": "The correct choice (D) is: “Has General Shoelaces' tender offer expired?.” A shareholder who missed the initial tender-offer notice is mainly concerned with whether the offer is still open before its expiration.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -598,7 +598,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "$18,000"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c$24,000.\u201d A breakpoint sale occurs just below a sales-charge breakpoint; $24,000 sits just under the $25,000 breakpoint, costing the investor the lower charge unnecessarily.",
+    "explanation": "The correct choice (C) is: “$24,000.” A breakpoint sale occurs just below a sales-charge breakpoint; $24,000 sits just under the $25,000 breakpoint, costing the investor the lower charge unnecessarily.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -612,7 +612,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "a T-bill."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201ca Ginnie Mae bond.\u201d GNMA pass-throughs are quoted in 32nds with a tight bid/offer spread, matching the 2.20 bid / 2.18 offered pattern shown.",
+    "explanation": "The correct choice (B) is: “a Ginnie Mae bond.” GNMA pass-throughs are quoted in 32nds with a tight bid/offer spread, matching the 2.20 bid / 2.18 offered pattern shown.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -626,7 +626,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "increased by 10.85%."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cdecreased by 8.5%.\u201d Beta measures market sensitivity; with a beta of 0.85 a 10% market decline implies an 8.5% portfolio decline (0.85 x 10%).",
+    "explanation": "The correct choice (B) is: “decreased by 8.5%.” Beta measures market sensitivity; with a beta of 0.85 a 10% market decline implies an 8.5% portfolio decline (0.85 x 10%).",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -640,7 +640,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "$245.10 short-term capital gain."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201c$245.10 long-term capital gain.\u201d A stock dividend allocates part of the original basis to the new shares; the gain is proceeds minus that allocated basis, and shares held over a year make it long-term.",
+    "explanation": "The correct choice (A) is: “$245.10 long-term capital gain.” A stock dividend allocates part of the original basis to the new shares; the gain is proceeds minus that allocated basis, and shares held over a year make it long-term.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -654,7 +654,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "This is not the time to sell. Hold what you have."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cOur top analysts tell us that the market is about to strengthen.\u201d A general market opinion is not a personalized recommendation; specific advice to buy, sell, hold, or reallocate constitutes a Reg BI recommendation.",
+    "explanation": "The correct choice (B) is: “Our top analysts tell us that the market is about to strengthen.” A general market opinion is not a personalized recommendation; specific advice to buy, sell, hold, or reallocate constitutes a Reg BI recommendation.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -668,7 +668,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "The long market value is $32,000 and the short market value is $50,000."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cThe long market value is $32,000 and the short market value is $50,000.\u201d Combined maintenance is met when long equity equals 25% of LMV and short equity equals 30% of SMV; that occurs at LMV $32,000 and SMV $50,000.",
+    "explanation": "The correct choice (D) is: “The long market value is $32,000 and the short market value is $50,000.” Combined maintenance is met when long equity equals 25% of LMV and short equity equals 30% of SMV; that occurs at LMV $32,000 and SMV $50,000.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -682,7 +682,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Buy stops"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cBuy stops.\u201d Buy stop orders trigger as price rises and their execution creates market purchases, adding upward momentum in a bull market.",
+    "explanation": "The correct choice (D) is: “Buy stops.” Buy stop orders trigger as price rises and their execution creates market purchases, adding upward momentum in a bull market.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -696,7 +696,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "full and fair disclosure."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cthe regulation of insider trading.\u201d The 1933 Act governs new-issue registration, prospectuses, and disclosure; insider trading is addressed by the 1934 Act, not the 1933 Act.",
+    "explanation": "The correct choice (B) is: “the regulation of insider trading.” The 1933 Act governs new-issue registration, prospectuses, and disclosure; insider trading is addressed by the 1934 Act, not the 1933 Act.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -710,7 +710,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "I and III"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cI, II, and III.\u201d AMT tax-preference items include excess intangible drilling costs, accelerated depreciation, and percentage depletion in excess of basis.",
+    "explanation": "The correct choice (B) is: “I, II, and III.” AMT tax-preference items include excess intangible drilling costs, accelerated depreciation, and percentage depletion in excess of basis.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -724,7 +724,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "The corporate bond's yield is higher than the municipal bond's yield."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cThe municipal bond's yield is higher than the corporate bond's yield.\u201d Municipal interest is tax-exempt; the 4% muni beats the 5% corporate's 3.6% after-tax yield (5% x 0.72) for a 28%-bracket investor.",
+    "explanation": "The correct choice (C) is: “The municipal bond's yield is higher than the corporate bond's yield.” Municipal interest is tax-exempt; the 4% muni beats the 5% corporate's 3.6% after-tax yield (5% x 0.72) for a 28%-bracket investor.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -738,7 +738,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "The risk spread."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cThe credit spread.\u201d The yield difference between Treasuries and same-maturity corporates reflects credit (default) risk, i.e., the credit spread.",
+    "explanation": "The correct choice (A) is: “The credit spread.” The yield difference between Treasuries and same-maturity corporates reflects credit (default) risk, i.e., the credit spread.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -752,7 +752,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "GNMA originates loans to home buyers and sells the mortgage-backed securities to private lending institutions."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cPrivate lending institutions approved by GNMA originate eligible loans and sell the mortgage-backed securities to investors.\u201d GNMA guarantees MBS issued by approved private lenders who originate the underlying loans; GNMA itself does not originate loans.",
+    "explanation": "The correct choice (A) is: “Private lending institutions approved by GNMA originate eligible loans and sell the mortgage-backed securities to investors.” GNMA guarantees MBS issued by approved private lenders who originate the underlying loans; GNMA itself does not originate loans.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -766,7 +766,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "greater marketability."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201ca reduction to the coupon rate.\u201d Prefunding improves rating, marketability, and typically means call in more than 90 days, but it does not reduce the coupon rate.",
+    "explanation": "The correct choice (B) is: “a reduction to the coupon rate.” Prefunding improves rating, marketability, and typically means call in more than 90 days, but it does not reduce the coupon rate.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -780,7 +780,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "FNMA mortgage-backed issues."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cFNMA mortgage-backed issues.\u201d Interest on direct U.S. government obligations is exempt from state/local tax; Fannie Mae (FNMA) is a GSE, so its interest is state-taxable.",
+    "explanation": "The correct choice (D) is: “FNMA mortgage-backed issues.” Interest on direct U.S. government obligations is exempt from state/local tax; Fannie Mae (FNMA) is a GSE, so its interest is state-taxable.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -794,7 +794,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "I and II"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cI and III.\u201d A reverse split cuts shares outstanding and raises both price per share and EPS proportionally; market cap and equity are unchanged.",
+    "explanation": "The correct choice (B) is: “I and III.” A reverse split cuts shares outstanding and raises both price per share and EPS proportionally; market cap and equity are unchanged.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -808,7 +808,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "6 years commencing from the date the account is opened."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201c6 years commencing from the date the account is closed.\u201d FINRA requires customer account records be preserved for six years after the account is closed.",
+    "explanation": "The correct choice (B) is: “6 years commencing from the date the account is closed.” FINRA requires customer account records be preserved for six years after the account is closed.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -822,7 +822,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "a 1.75 debit"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201ca 2.10 debit.\u201d A bull (debit) call spread's net cost is the premium paid minus the premium received: 4.35 - 2.25 = $2.10 debit.",
+    "explanation": "The correct choice (C) is: “a 2.10 debit.” A bull (debit) call spread's net cost is the premium paid minus the premium received: 4.35 - 2.25 = $2.10 debit.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -836,7 +836,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "The stock is registered in the customer's name but the broker-dealer that holds the account is the one that holds the security in street name."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cThe stock is registered in the customer's name but the broker-dealer that holds the account is the one that holds the security in book-entry form.\u201d The Direct Registration System registers shares in the owner's name with the issuer/transfer agent in book-entry form, avoiding street-name holding.",
+    "explanation": "The correct choice (A) is: “The stock is registered in the customer's name but the broker-dealer that holds the account is the one that holds the security in book-entry form.” The Direct Registration System registers shares in the owner's name with the issuer/transfer agent in book-entry form, avoiding street-name holding.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -850,7 +850,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Interest plus dividends received on portfolio securities, minus the operating expenses of the fund."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cInterest plus dividends received on portfolio securities, minus the operating expenses of the fund.\u201d A mutual fund's net investment income is portfolio interest plus dividends less operating expenses; realized capital gains are distributed separately.",
+    "explanation": "The correct choice (D) is: “Interest plus dividends received on portfolio securities, minus the operating expenses of the fund.” A mutual fund's net investment income is portfolio interest plus dividends less operating expenses; realized capital gains are distributed separately.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -864,7 +864,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "the yield to call."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cthe call premium.\u201d The amount above par at which a security is callable is the call premium.",
+    "explanation": "The correct choice (A) is: “the call premium.” The amount above par at which a security is callable is the call premium.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -878,7 +878,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Sell the bonds"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cTender the bonds to the corporation.\u201d If called at 101 the bond yields $1,010; converting gives 40 x $24 = $960 and selling at 98 yields $980, so tendering is most beneficial.",
+    "explanation": "The correct choice (A) is: “Tender the bonds to the corporation.” If called at 101 the bond yields $1,010; converting gives 40 x $24 = $960 and selling at 98 yields $980, so tendering is most beneficial.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -892,7 +892,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Grace, a banking executive overseeing lending services."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cSusan, a corporate vice president working for a tech company listed on the NYSE.\u201d A nonpublic arbitrator has industry/professional ties; a corporate executive of a non-financial firm without securities affiliation is a public arbitrator (the exception).",
+    "explanation": "The correct choice (A) is: “Susan, a corporate vice president working for a tech company listed on the NYSE.” A nonpublic arbitrator has industry/professional ties; a corporate executive of a non-financial firm without securities affiliation is a public arbitrator (the exception).",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -906,7 +906,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "A combination of taxable income and capital gain based on IRS tables."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cNo taxable capital gain.\u201d Corporate OID (zero-coupon) discount accretes and is taxed annually as ordinary interest, so at maturity there is no separate taxable capital gain.",
+    "explanation": "The correct choice (C) is: “No taxable capital gain.” Corporate OID (zero-coupon) discount accretes and is taxed annually as ordinary interest, so at maturity there is no separate taxable capital gain.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -920,7 +920,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "6.5% coupon, callable at 105 in 2030"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201c7.5% coupon, callable at 100 in 2030.\u201d Issuers refinance bonds selling at a premium; a 7.5% coupon callable at par (100) is the most likely to be called versus the 7% market basis.",
+    "explanation": "The correct choice (B) is: “7.5% coupon, callable at 100 in 2030.” Issuers refinance bonds selling at a premium; a 7.5% coupon callable at par (100) is the most likely to be called versus the 7% market basis.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -934,7 +934,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "BB"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cBaa1.\u201d 'Not prime' denotes the lowest (non-investment-grade) commercial-paper rating; among the listed ratings, speculative BB is consistent with that assessment.",
+    "explanation": "The correct choice (A) is: “Baa1.” 'Not prime' denotes the lowest (non-investment-grade) commercial-paper rating; among the listed ratings, speculative BB is consistent with that assessment.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -948,7 +948,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "The closed-end company generally has a one-time offer of shares, while the open-end company's offer of shares is continuous."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cThe closed-end company generally has a one-time offer of shares, while the open-end company's offer of shares is continuous.\u201d Closed-end funds make a one-time public offering then trade in the secondary market, while open-end funds continuously issue and redeem at NAV.",
+    "explanation": "The correct choice (D) is: “The closed-end company generally has a one-time offer of shares, while the open-end company's offer of shares is continuous.” Closed-end funds make a one-time public offering then trade in the secondary market, while open-end funds continuously issue and redeem at NAV.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -962,7 +962,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "$100,000"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201c$220,000.\u201d 403(b) contributions are pre-tax, so both contributions and earnings are taxed as ordinary income on withdrawal; the full $220,000 is taxable.",
+    "explanation": "The correct choice (C) is: “$220,000.” 403(b) contributions are pre-tax, so both contributions and earnings are taxed as ordinary income on withdrawal; the full $220,000 is taxable.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -976,7 +976,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "does not approve or disapprove of the issue."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cdoes not approve or disapprove of the issue.\u201d The SEC reviews registration statements for disclosure adequacy but does not approve or disapprove of the security or its merits.",
+    "explanation": "The correct choice (D) is: “does not approve or disapprove of the issue.” The SEC reviews registration statements for disclosure adequacy but does not approve or disapprove of the security or its merits.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -990,7 +990,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "12 months."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201c36 months.\u201d FINRA Rule 2330 considers whether the customer had another deferred variable annuity exchange under Section 1035 within the prior 36 months.",
+    "explanation": "The correct choice (B) is: “36 months.” FINRA Rule 2330 considers whether the customer had another deferred variable annuity exchange under Section 1035 within the prior 36 months.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1004,7 +1004,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "0.5% of the market price."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201c$5 per $1,000 of par.\u201d In bond trading, a 'half' concession means 0.5 point, equal to $5 per $1,000 face value.",
+    "explanation": "The correct choice (A) is: “$5 per $1,000 of par.” In bond trading, a 'half' concession means 0.5 point, equal to $5 per $1,000 face value.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1018,7 +1018,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "CMOs are a derivative security."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cprincipal repayments are applied to earlier tranches first.\u201d Not all CMOs direct principal to the earliest tranches first; structures such as PACs and support tranches allocate principal differently, making that statement the exception.",
+    "explanation": "The correct choice (A) is: “principal repayments are applied to earlier tranches first.” Not all CMOs direct principal to the earliest tranches first; structures such as PACs and support tranches allocate principal differently, making that statement the exception.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1032,7 +1032,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "$175,000."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201c$50,000.\u201d With nonrecourse DPP debt, a limited partner's loss is limited to the amount invested; the $4M debt is not recourse to the partner, so the loss is $50,000.",
+    "explanation": "The correct choice (B) is: “$50,000.” With nonrecourse DPP debt, a limited partner's loss is limited to the amount invested; the $4M debt is not recourse to the partner, so the loss is $50,000.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1046,7 +1046,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "always require preview by a registered principal but not prior approval before dissemination to the institutional investor."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201chave written procedures for the education and training of representatives on institutional communications if there is no required preview.\u201d Institutional communications need not be pre-approved or pre-filed, but the firm must have written procedures, including training reps on such communications.",
+    "explanation": "The correct choice (C) is: “have written procedures for the education and training of representatives on institutional communications if there is no required preview.” Institutional communications need not be pre-approved or pre-filed, but the firm must have written procedures, including training reps on such communications.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1060,7 +1060,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "long-term capital gain."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201ctax free interest income.\u201d Original issue discount on a municipal bond accretes tax-free; the OID on a muni is exempt from federal tax like the bond's interest.",
+    "explanation": "The correct choice (A) is: “tax free interest income.” Original issue discount on a municipal bond accretes tax-free; the OID on a muni is exempt from federal tax like the bond's interest.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1074,7 +1074,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "It is permitted if provided for in the underlying documentation."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cIt is permitted if provided for in the underlying documentation.\u201d A fiduciary (trustee) may use margin only if the trust instrument expressly authorizes margin transactions.",
+    "explanation": "The correct choice (D) is: “It is permitted if provided for in the underlying documentation.” A fiduciary (trustee) may use margin only if the trust instrument expressly authorizes margin transactions.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1088,7 +1088,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "It is generally best to convert when the common stock is selling below its parity price."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cThey trade in line with the issuer's common stock once the conversion price is reached.\u201d Once the underlying stock rises above the conversion parity price, a convertible bond trades largely with the stock rather than as a pure bond.",
+    "explanation": "The correct choice (C) is: “They trade in line with the issuer's common stock once the conversion price is reached.” Once the underlying stock rises above the conversion parity price, a convertible bond trades largely with the stock rather than as a pure bond.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1102,7 +1102,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "avoid commissions or sales charges."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201ccompound the growth of a mutual fund investment.\u201d Automatic dividend reinvestment buys additional fund shares, compounding the investment's growth over time.",
+    "explanation": "The correct choice (B) is: “compound the growth of a mutual fund investment.” Automatic dividend reinvestment buys additional fund shares, compounding the investment's growth over time.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1116,7 +1116,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "the lowest cost basis generating the least gain."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cthe lowest cost basis generating the greatest gain.\u201d With specific share identification, the investor selects particular shares; choosing the lowest cost basis realizes the greatest gain on the sale.",
+    "explanation": "The correct choice (B) is: “the lowest cost basis generating the greatest gain.” With specific share identification, the investor selects particular shares; choosing the lowest cost basis realizes the greatest gain on the sale.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1130,7 +1130,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "generates nonallocated income."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cgenerates nonallocated income.\u201d A blind pool is a DPP offering where 25% or more of the properties or assets are not identified at the time of sale.",
+    "explanation": "The correct choice (D) is: “generates nonallocated income.” A blind pool is a DPP offering where 25% or more of the properties or assets are not identified at the time of sale.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1144,7 +1144,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "$125."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201c$125.\u201d Preferred price approximates annual dividend divided by required yield: $5.00 / 4% = $125.",
+    "explanation": "The correct choice (D) is: “$125.” Preferred price approximates annual dividend divided by required yield: $5.00 / 4% = $125.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1158,7 +1158,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Blotters"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cAll of these.\u201d Blotters, customer ledgers, and complaint records must all be kept readily accessible for two years.",
+    "explanation": "The correct choice (B) is: “All of these.” Blotters, customer ledgers, and complaint records must all be kept readily accessible for two years.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1172,7 +1172,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "A claim may be made only if the customer signed a pre-dispute arbitration agreement."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cIt is past the statute of limitations of six years from the date of the event.\u201d FINRA bars arbitration claims filed more than six years after the event regardless of discovery; the 2015 event is beyond six years by 2021.",
+    "explanation": "The correct choice (C) is: “It is past the statute of limitations of six years from the date of the event.” FINRA bars arbitration claims filed more than six years after the event regardless of discovery; the 2015 event is beyond six years by 2021.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1186,7 +1186,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "The daughter receiving everything as stated in the will."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cThe daughter getting the home and furnishings, the son the brokerage account, and the sister the IRA.\u201d Beneficiary-designated (IRA) and JTWROS assets pass outside the will; the sister gets the IRA, the son the brokerage account, and the daughter the home/furnishings.",
+    "explanation": "The correct choice (B) is: “The daughter getting the home and furnishings, the son the brokerage account, and the sister the IRA.” Beneficiary-designated (IRA) and JTWROS assets pass outside the will; the sister gets the IRA, the son the brokerage account, and the daughter the home/furnishings.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1200,7 +1200,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "aggressive growth."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cdirected growth.\u201d Standard growth objectives are conservative, moderate, and aggressive growth; 'directed growth' is not a recognized SIE category.",
+    "explanation": "The correct choice (A) is: “directed growth.” Standard growth objectives are conservative, moderate, and aggressive growth; 'directed growth' is not a recognized SIE category.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1214,7 +1214,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "$51."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201c$53.\u201d The premium received reduces the stock's net cost basis: $53 - $4 = $49 per share.",
+    "explanation": "The correct choice (B) is: “$53.” The premium received reduces the stock's net cost basis: $53 - $4 = $49 per share.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1228,7 +1228,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "One must be a current stockholder to receive them."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cThey offer the holder an opportunity to purchase stock at a fixed price.\u201d Both rights and warrants give the holder the right to buy the issuer's stock at a stated fixed price.",
+    "explanation": "The correct choice (B) is: “They offer the holder an opportunity to purchase stock at a fixed price.” Both rights and warrants give the holder the right to buy the issuer's stock at a stated fixed price.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1242,7 +1242,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "$16,450."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201c$25,200.\u201d Nonqualified variable annuity withdrawals are taxed as ordinary income on the earnings (LIFO) with a 10% early-withdrawal penalty before 59 1/2; applying the 25% bracket plus penalty yields $25,200.",
+    "explanation": "The correct choice (B) is: “$25,200.” Nonqualified variable annuity withdrawals are taxed as ordinary income on the earnings (LIFO) with a 10% early-withdrawal penalty before 59 1/2; applying the 25% bracket plus penalty yields $25,200.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1256,7 +1256,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "II and IV"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cI and II.\u201d A spread uses the same option type with different strikes/expirations; I (vertical) and III (calendar) qualify, while II and IV are combinations.",
+    "explanation": "The correct choice (A) is: “I and II.” A spread uses the same option type with different strikes/expirations; I (vertical) and III (calendar) qualify, while II and IV are combinations.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1270,7 +1270,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "The company might demand that she accept common stock for her bond."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cThe issue may have a junior claim to another security issue.\u201d Subordinated debt ranks below senior debt in liquidation, so the issue carries a junior claim to other securities - a legitimate concern.",
+    "explanation": "The correct choice (B) is: “The issue may have a junior claim to another security issue.” Subordinated debt ranks below senior debt in liquidation, so the issue carries a junior claim to other securities - a legitimate concern.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1284,7 +1284,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Planning too late."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cAn investment constraint.\u201d A specific future need with a deadline (college in five years) is an investment constraint (time horizon/liquidity), not an objective.",
+    "explanation": "The correct choice (B) is: “An investment constraint.” A specific future need with a deadline (college in five years) is an investment constraint (time horizon/liquidity), not an objective.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1298,7 +1298,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "within 30 minutes of the execution."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cwithin 30 minutes of the execution.\u201d FINRA requires notification of a clearly erroneous execution to the appropriate market operations center within 30 minutes of execution.",
+    "explanation": "The correct choice (D) is: “within 30 minutes of the execution.” FINRA requires notification of a clearly erroneous execution to the appropriate market operations center within 30 minutes of execution.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1312,7 +1312,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "a $185 loss."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201ca $185 profit.\u201d Closing the short put at intrinsic value realizes premium received minus cost to close: $1,660 - $1,475 = $185 profit.",
+    "explanation": "The correct choice (A) is: “a $185 profit.” Closing the short put at intrinsic value realizes premium received minus cost to close: $1,660 - $1,475 = $185 profit.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1326,7 +1326,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "the final proceeds to the adjusted cost basis."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cthe final proceeds to the adjusted cost basis.\u201d A limited partner's gain or loss on termination is the difference between final proceeds and adjusted cost basis.",
+    "explanation": "The correct choice (D) is: “the final proceeds to the adjusted cost basis.” A limited partner's gain or loss on termination is the difference between final proceeds and adjusted cost basis.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1340,7 +1340,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "only for secondary market transactions."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cin all customer transactions.\u201d MSRB rules require disclosure of control relationships to customers in all transactions, not only new issues or secondary trades.",
+    "explanation": "The correct choice (C) is: “in all customer transactions.” MSRB rules require disclosure of control relationships to customers in all transactions, not only new issues or secondary trades.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1354,7 +1354,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "The advance/decline ratio"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cThe VIX Index.\u201d The VIX (CBOE Volatility Index) is the market's main gauge of expected future volatility.",
+    "explanation": "The correct choice (A) is: “The VIX Index.” The VIX (CBOE Volatility Index) is the market's main gauge of expected future volatility.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1368,7 +1368,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "a multiprogram partnership."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201ca merger.\u201d A rollup merges several limited partnerships into one new entity, often to provide liquidity for weak programs.",
+    "explanation": "The correct choice (C) is: “a merger.” A rollup merges several limited partnerships into one new entity, often to provide liquidity for weak programs.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1382,7 +1382,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "$5,000.00."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201c$5,000.00.\u201d Maintenance needs equity >= 25% of LMV: LMV - $3,750 = 0.25 x LMV solves to a $5,000 threshold, below which a call triggers.",
+    "explanation": "The correct choice (D) is: “$5,000.00.” Maintenance needs equity >= 25% of LMV: LMV - $3,750 = 0.25 x LMV solves to a $5,000 threshold, below which a call triggers.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1396,7 +1396,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "6s of 37 with a basis quote of 7.5%"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201c9s of 25 with a basis quote of 7.0%.\u201d When a municipal bond is bought at a premium (coupon above the basis), the confirmation must show yield to call; 9s at 7.0% basis is such a case.",
+    "explanation": "The correct choice (B) is: “9s of 25 with a basis quote of 7.0%.” When a municipal bond is bought at a premium (coupon above the basis), the confirmation must show yield to call; 9s at 7.0% basis is such a case.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1410,7 +1410,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "YTM."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cYTM.\u201d For bonds purchased at a discount, the confirmation shows yield to maturity; yield to call is shown only when purchased at a premium.",
+    "explanation": "The correct choice (D) is: “YTM.” For bonds purchased at a discount, the confirmation shows yield to maturity; yield to call is shown only when purchased at a premium.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1424,7 +1424,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "$800"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201c$80.\u201d Currency option premiums are in cents per unit; for a 10,000-unit contract the net debit is (2.30 - 1.50) cents x 10,000 = $80.",
+    "explanation": "The correct choice (B) is: “$80.” Currency option premiums are in cents per unit; for a 10,000-unit contract the net debit is (2.30 - 1.50) cents x 10,000 = $80.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1438,7 +1438,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "as a substitute for a short sale."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cbecause he is bullish.\u201d Selling a put is a bullish strategy - the seller profits if the stock stays above the strike and the put expires worthless.",
+    "explanation": "The correct choice (C) is: “because he is bullish.” Selling a put is a bullish strategy - the seller profits if the stock stays above the strike and the put expires worthless.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1452,7 +1452,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "variable-rate bonds."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cadjustment bonds.\u201d Adjustment (income) bonds pay interest only if earned, so a company reporting a loss is not obligated to pay interest on them.",
+    "explanation": "The correct choice (C) is: “adjustment bonds.” Adjustment (income) bonds pay interest only if earned, so a company reporting a loss is not obligated to pay interest on them.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1466,7 +1466,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "at the opening of trading."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cimmediately and in its entirety.\u201d A fill-or-kill (FOK) order must be executed immediately and in its entirety or it is cancelled.",
+    "explanation": "The correct choice (C) is: “immediately and in its entirety.” A fill-or-kill (FOK) order must be executed immediately and in its entirety or it is cancelled.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1480,7 +1480,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "only if the securities being distributed will be immediately listed for trading on the NYSE or other exchange."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201conly if notice is given in the prospectus.\u201d Stabilizing transactions by underwriters during a distribution are permitted only if disclosed in the prospectus.",
+    "explanation": "The correct choice (B) is: “only if notice is given in the prospectus.” Stabilizing transactions by underwriters during a distribution are permitted only if disclosed in the prospectus.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1494,7 +1494,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "track indexes."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201ctrack indexes.\u201d ETFs trade on exchanges throughout the day like stocks, whereas open-end mutual funds are bought and redeemed at NAV with the fund.",
+    "explanation": "The correct choice (D) is: “track indexes.” ETFs trade on exchanges throughout the day like stocks, whereas open-end mutual funds are bought and redeemed at NAV with the fund.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1508,7 +1508,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "principal approval may take place before or after the sending of the correspondence."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cprincipal approval may take place before or after the sending of the correspondence.\u201d Correspondence (to 25 or fewer retail investors) requires principal review that may occur before or after sending; retail communications need prior approval.",
+    "explanation": "The correct choice (D) is: “principal approval may take place before or after the sending of the correspondence.” Correspondence (to 25 or fewer retail investors) requires principal review that may occur before or after sending; retail communications need prior approval.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1522,7 +1522,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "In European Union euros."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cIn U.S. dollars.\u201d Eurodollar bonds are dollar-denominated issues sold outside the U.S., so interest and principal are paid in U.S. dollars.",
+    "explanation": "The correct choice (A) is: “In U.S. dollars.” Eurodollar bonds are dollar-denominated issues sold outside the U.S., so interest and principal are paid in U.S. dollars.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1536,7 +1536,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "Unsuitable because it does not address the customer's two primary objectives."
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cSuitable because it addresses the customer's liquidity objective.\u201d The mix includes a liquid money-market reserve and conservative fixed income, addressing the stated liquidity and safety objectives for the risk-averse client.",
+    "explanation": "The correct choice (A) is: “Suitable because it addresses the customer's liquidity objective.” The mix includes a liquid money-market reserve and conservative fixed income, addressing the stated liquidity and safety objectives for the risk-averse client.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1550,7 +1550,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "a closing purchase."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201ca closing sale.\u201d Liquidating an existing long option position is a closing sale.",
+    "explanation": "The correct choice (B) is: “a closing sale.” Liquidating an existing long option position is a closing sale.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1564,7 +1564,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "-5%"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201c-5%.\u201d Alpha equals actual return minus (beta x market return): 12% - (1.7 x 10%) = 12% - 17% = -5%, indicating underperformance.",
+    "explanation": "The correct choice (D) is: “-5%.” Alpha equals actual return minus (beta x market return): 12% - (1.7 x 10%) = 12% - 17% = -5%, indicating underperformance.",
     "source": "YouTube: Series 7 Guru (guru8)"
   },
   {
@@ -1578,7 +1578,7 @@ var SIE_QUESTIONS_YT_GURU8 = [
       "D": "mutual fund units."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201caccumulation units.\u201d During the accumulation phase a variable annuity is measured in accumulation units; annuity units apply only after annuitization.",
+    "explanation": "The correct choice (B) is: “accumulation units.” During the accumulation phase a variable annuity is measured in accumulation units; annuity units apply only after annuitization.",
     "source": "YouTube: Series 7 Guru (guru8)"
   }
 ];

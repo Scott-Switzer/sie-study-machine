@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "The broker-dealer is required to charge a markup on each transaction separately"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cThe broker-dealer is permitted to charge a markup on both transactions, but is required to compute the markup based on the amount of money involved in the sale to the customer.\u201d In a proceeds transaction (sale followed by a purchase with the proceeds), the firm computes one combined markup based on the total money involved, not separate markups.",
+    "explanation": "The correct choice (C) is: “The broker-dealer is permitted to charge a markup on both transactions, but is required to compute the markup based on the amount of money involved in the sale to the customer.” In a proceeds transaction (sale followed by a purchase with the proceeds), the firm computes one combined markup based on the total money involved, not separate markups.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Withdrawals from 529 plans used for educational purposes are not subject to federal taxation"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cContributions are unlimited.\u201d 529 plan contributions are not unlimited; there are aggregate state limits, though there are no income limits on contributors.",
+    "explanation": "The correct choice (B) is: “Contributions are unlimited.” 529 plan contributions are not unlimited; there are aggregate state limits, though there are no income limits on contributors.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -38,7 +38,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "A primary distribution must be made at the current market price, while a secondary distribution must be made at a fixed public offering price (POP)."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cA primary distribution involves the sale of new shares by the issuer, while a secondary distribution involves the sale of shares that are already issued and outstanding.\u201d A primary distribution is the issuer selling newly issued securities; a secondary distribution is the sale of already-outstanding shares by existing holders.",
+    "explanation": "The correct choice (B) is: “A primary distribution involves the sale of new shares by the issuer, while a secondary distribution involves the sale of shares that are already issued and outstanding.” A primary distribution is the issuer selling newly issued securities; a secondary distribution is the sale of already-outstanding shares by existing holders.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Total Assets = Total Liabilities + Stockholders' Equity"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cTotal Assets = Total Liabilities + Stockholders' Equity.\u201d The accounting equation is Assets = Liabilities + Stockholders' Equity.",
+    "explanation": "The correct choice (D) is: “Total Assets = Total Liabilities + Stockholders' Equity.” The accounting equation is Assets = Liabilities + Stockholders' Equity.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -66,7 +66,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "A floating rate bond"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cZero-coupon bond.\u201d A zero-coupon bond makes no periodic interest payments; it is bought at a discount and pays face value at maturity.",
+    "explanation": "The correct choice (C) is: “Zero-coupon bond.” A zero-coupon bond makes no periodic interest payments; it is bought at a discount and pays face value at maturity.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "50"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201c20.\u201d Conversion ratio = par value / conversion price = $1,000 / $50 = 20 shares.",
+    "explanation": "The correct choice (A) is: “20.” Conversion ratio = par value / conversion price = $1,000 / $50 = 20 shares.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -94,7 +94,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "A floating rate bond"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cZero-coupon bond.\u201d A zero-coupon bond's stated (implicit) interest is fixed by its discount and does not change until maturity, unlike floating/adjustable rates.",
+    "explanation": "The correct choice (C) is: “Zero-coupon bond.” A zero-coupon bond's stated (implicit) interest is fixed by its discount and does not change until maturity, unlike floating/adjustable rates.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -108,7 +108,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "American Depositary Receipts"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cAmerican Depositary Receipts.\u201d A foreign company lists its stock in the U.S. via American Depositary Receipts (ADRs) created by a U.S. bank.",
+    "explanation": "The correct choice (D) is: “American Depositary Receipts.” A foreign company lists its stock in the U.S. via American Depositary Receipts (ADRs) created by a U.S. bank.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "World currency option"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cExchange-traded fund.\u201d SPDRs (Spider ETFs) are exchange-traded funds that track an index and trade like stocks.",
+    "explanation": "The correct choice (A) is: “Exchange-traded fund.” SPDRs (Spider ETFs) are exchange-traded funds that track an index and trade like stocks.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -136,7 +136,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Dividend reinvestment"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cA letter of intent.\u201d A letter of intent lets an investor reach a sales-charge breakpoint by agreeing to invest the full amount within 13 months, counting current purchases.",
+    "explanation": "The correct choice (C) is: “A letter of intent.” A letter of intent lets an investor reach a sales-charge breakpoint by agreeing to invest the full amount within 13 months, counting current purchases.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Proceeds transaction"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cProceeds transaction.\u201d The 5% markup policy (dealer's bona fide) applies to principal transactions such as proceeds transactions in the OTC/secondary market.",
+    "explanation": "The correct choice (D) is: “Proceeds transaction.” The 5% markup policy (dealer's bona fide) applies to principal transactions such as proceeds transactions in the OTC/secondary market.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -164,7 +164,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "$50"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cAny amount.\u201d Member firms must keep records of any gift given, regardless of amount, so there is no de minimis threshold for recordkeeping.",
+    "explanation": "The correct choice (A) is: “Any amount.” Member firms must keep records of any gift given, regardless of amount, so there is no de minimis threshold for recordkeeping.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Passive losses"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cPassive losses.\u201d REITs offer diversification, liquidity, and income but do not pass through passive losses to investors; that is a DPP feature, not a REIT benefit.",
+    "explanation": "The correct choice (D) is: “Passive losses.” REITs offer diversification, liquidity, and income but do not pass through passive losses to investors; that is a DPP feature, not a REIT benefit.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -192,7 +192,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Two calendar days after the trade date"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cOn the trade date.\u201d A cash trade settles on the trade date (same day), as the name implies.",
+    "explanation": "The correct choice (B) is: “On the trade date.” A cash trade settles on the trade date (same day), as the name implies.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -206,7 +206,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "OTC equity securities trading on an exchange"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cSecurities listed on an exchange, but traded in the OTC market.\u201d The third market is exchange-listed securities traded OTC (between brokers/institutions) away from the exchange.",
+    "explanation": "The correct choice (C) is: “Securities listed on an exchange, but traded in the OTC market.” The third market is exchange-listed securities traded OTC (between brokers/institutions) away from the exchange.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -220,7 +220,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "The underwriting syndicate may engage in stabilization"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cThe preliminary prospectus (red herring) will contain all the relevant information including the final price of the issue in order to obtain indications of interest.\u201d The preliminary prospectus (red herring) does NOT contain the final offering price; that is set later in the final prospectus.",
+    "explanation": "The correct choice (B) is: “The preliminary prospectus (red herring) will contain all the relevant information including the final price of the issue in order to obtain indications of interest.” The preliminary prospectus (red herring) does NOT contain the final offering price; that is set later in the final prospectus.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -234,7 +234,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "$1,000"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201c$100,000.\u201d Negotiable (jumbo) CDs have a minimum denomination of $100,000.",
+    "explanation": "The correct choice (A) is: “$100,000.” Negotiable (jumbo) CDs have a minimum denomination of $100,000.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -248,7 +248,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Will establish a capital loss"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cMust fulfill the obligation to buy or sell the underlying instrument.\u201d On exercise, the option writer is assigned and must fulfill the obligation to buy (put) or sell (call) the underlying security.",
+    "explanation": "The correct choice (A) is: “Must fulfill the obligation to buy or sell the underlying instrument.” On exercise, the option writer is assigned and must fulfill the obligation to buy (put) or sell (call) the underlying security.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -262,7 +262,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "An outside research analyst and the employee discuss why the company's earnings per share could be dramatically lower than prior estimates."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cAn outside research analyst and the employee discuss why the company's earnings per share could be dramatically lower than prior estimates.\u201d Trading on information from an outside analyst's independent research is not insider trading, since the information is public/derived, not material nonpublic inside information.",
+    "explanation": "The correct choice (D) is: “An outside research analyst and the employee discuss why the company's earnings per share could be dramatically lower than prior estimates.” Trading on information from an outside analyst's independent research is not insider trading, since the information is public/derived, not material nonpublic inside information.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Net asset value"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cNet asset value.\u201d A no-load fund is sold at its net asset value with no sales charge or commission added.",
+    "explanation": "The correct choice (D) is: “Net asset value.” A no-load fund is sold at its net asset value with no sales charge or commission added.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -290,7 +290,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "International equity fund"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cShort-term corporate bond fund.\u201d Short-term corporate bonds have the shortest duration and lowest price volatility of the listed funds.",
+    "explanation": "The correct choice (C) is: “Short-term corporate bond fund.” Short-term corporate bonds have the shortest duration and lowest price volatility of the listed funds.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -304,7 +304,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Decrease"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cIncrease.\u201d Bond prices move inversely to interest rates, so falling rates cause existing bond prices to rise.",
+    "explanation": "The correct choice (C) is: “Increase.” Bond prices move inversely to interest rates, so falling rates cause existing bond prices to rise.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Exempt from federal and state income tax"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cSubject to federal income tax, but exempt from state income tax.\u201d TIPS pay interest that is subject to federal tax (and the inflation adjustment is taxed annually) but exempt from state income tax as a U.S. government obligation.",
+    "explanation": "The correct choice (B) is: “Subject to federal income tax, but exempt from state income tax.” TIPS pay interest that is subject to federal tax (and the inflation adjustment is taxed annually) but exempt from state income tax as a U.S. government obligation.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -332,7 +332,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "January 20"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cJanuary 16.\u201d Government securities (T-bonds) settle on the trade date for cash; buying Friday Jan 16 for cash settles Jan 16.",
+    "explanation": "The correct choice (B) is: “January 16.” Government securities (T-bonds) settle on the trade date for cash; buying Friday Jan 16 for cash settles Jan 16.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -346,7 +346,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Credit rating"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cGeneral account.\u201d Fixed annuity premiums go into the insurer's general account, so the annuitant is concerned with the insurer's general-account strength.",
+    "explanation": "The correct choice (C) is: “General account.” Fixed annuity premiums go into the insurer's general account, so the annuitant is concerned with the insurer's general-account strength.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -360,7 +360,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Deposit cash equal to the difference between the strike price and the value of the index."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cDeposit cash equal to the difference between the strike price and the value of the index.\u201d Indexed options are cash-settled; the writer pays cash equal to the in-the-money difference between the index level and the strike.",
+    "explanation": "The correct choice (D) is: “Deposit cash equal to the difference between the strike price and the value of the index.” Indexed options are cash-settled; the writer pays cash equal to the in-the-money difference between the index level and the strike.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -374,7 +374,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Ask another RR at your firm to attend the event with the client"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cAsk another RR at your firm to attend the event with the client.\u201d If the RR cannot attend, the best practice is to have another RR attend with the client so the firm maintains supervision of the entertainment.",
+    "explanation": "The correct choice (D) is: “Ask another RR at your firm to attend the event with the client.” If the RR cannot attend, the best practice is to have another RR attend with the client so the firm maintains supervision of the entertainment.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -388,7 +388,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "A 10% tax penalty on the amount withdrawn, but not ordinary income taxes on that same amount"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cOrdinary income taxes on the amount withdrawn, but not a 10% tax penalty on that same amount.\u201d An IRA premature withdrawal that meets an exception (e.g., disability, medical) avoids the 10% penalty but the earnings are still taxed as ordinary income.",
+    "explanation": "The correct choice (B) is: “Ordinary income taxes on the amount withdrawn, but not a 10% tax penalty on that same amount.” An IRA premature withdrawal that meets an exception (e.g., disability, medical) avoids the 10% penalty but the earnings are still taxed as ordinary income.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -402,7 +402,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Sells a mutual fund to a customer"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cActs as a dealer in a transaction with a customer.\u201d The 5% markup policy governs a member acting as a dealer (principal) in a transaction with a customer.",
+    "explanation": "The correct choice (A) is: “Acts as a dealer in a transaction with a customer.” The 5% markup policy governs a member acting as a dealer (principal) in a transaction with a customer.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -416,7 +416,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Promote fair and equitable practices among members"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cPromote fair and equitable practices among members.\u201d An SRO (like FINRA) exists to promote fair and equitable practices among its members through self-regulation.",
+    "explanation": "The correct choice (D) is: “Promote fair and equitable practices among members.” An SRO (like FINRA) exists to promote fair and equitable practices among its members through self-regulation.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -430,7 +430,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "0"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201c$12.\u201d Cumulative preferred requires all arrears be paid before common; two missed $9 dividends ($18) minus last year's $8 paid leaves $10, but with current year's $9 due, total $12 must be paid first.",
+    "explanation": "The correct choice (A) is: “$12.” Cumulative preferred requires all arrears be paid before common; two missed $9 dividends ($18) minus last year's $8 paid leaves $10, but with current year's $9 due, total $12 must be paid first.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -444,7 +444,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "At the end of the day that the trade was executed"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cAt or prior to the time of the trade.\u201d In municipal transactions, all material information must be disclosed at or before the time of the trade.",
+    "explanation": "The correct choice (B) is: “At or prior to the time of the trade.” In municipal transactions, all material information must be disclosed at or before the time of the trade.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -458,7 +458,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Passing the SIE Exam and the Series 6 Exam"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cPassing the SIE Exam and the Series 7 Exam.\u201d Selling corporate (non-exempt) securities requires the Series 7; with the SIE, that means SIE plus Series 7 registration.",
+    "explanation": "The correct choice (B) is: “Passing the SIE Exam and the Series 7 Exam.” Selling corporate (non-exempt) securities requires the Series 7; with the SIE, that means SIE plus Series 7 registration.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -472,7 +472,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Research and trading"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cResearch and trading.\u201d Information barriers separate research from trading to prevent the misuse of research (material nonpublic) information.",
+    "explanation": "The correct choice (D) is: “Research and trading.” Information barriers separate research from trading to prevent the misuse of research (material nonpublic) information.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -486,7 +486,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Equity holders"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cSecured debt holders.\u201d In bankruptcy, secured creditors have the highest priority claim, ahead of administrative, unsecured, and equity holders.",
+    "explanation": "The correct choice (A) is: “Secured debt holders.” In bankruptcy, secured creditors have the highest priority claim, ahead of administrative, unsecured, and equity holders.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -500,7 +500,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Underwriters"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cIssuers.\u201d MSRB rules regulate broker-dealers, underwriters, and muni advisors, but not the issuers of municipal securities.",
+    "explanation": "The correct choice (B) is: “Issuers.” MSRB rules regulate broker-dealers, underwriters, and muni advisors, but not the issuers of municipal securities.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -514,7 +514,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Sell as much as possible and return anything left unsold to ABC Company"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cSell the entire issue or retain any shares left unsold.\u201d Under a firm-commitment underwriting, the underwriter buys the entire issue and must sell it all or retain any unsold shares itself.",
+    "explanation": "The correct choice (B) is: “Sell the entire issue or retain any shares left unsold.” Under a firm-commitment underwriting, the underwriter buys the entire issue and must sell it all or retain any unsold shares itself.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -528,7 +528,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Being given warrants by another firm"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cReceiving tax benefits received by the employee.\u201d Private-securities-transaction compensation excludes incidental tax benefits to the employee; commissions and warrants are compensation.",
+    "explanation": "The correct choice (B) is: “Receiving tax benefits received by the employee.” Private-securities-transaction compensation excludes incidental tax benefits to the employee; commissions and warrants are compensation.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -542,7 +542,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "A bond maturing in 10 years"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cA bond maturing in 20 years.\u201d Interest-rate risk rises with maturity; the 20-year bond has the most price sensitivity to rate changes.",
+    "explanation": "The correct choice (C) is: “A bond maturing in 20 years.” Interest-rate risk rises with maturity; the 20-year bond has the most price sensitivity to rate changes.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -556,7 +556,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "All individuals who represent the public"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cA mix of individuals who represent the public and financial industry.\u201d Public-customer arbitration panels are composed of a mix of public and industry arbitrators.",
+    "explanation": "The correct choice (B) is: “A mix of individuals who represent the public and financial industry.” Public-customer arbitration panels are composed of a mix of public and industry arbitrators.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -570,7 +570,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Credit rating"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cSeparate account.\u201d Variable annuity subaccounts are in the insurer's separate account, whose investment performance drives returns, so the investor focuses on it.",
+    "explanation": "The correct choice (C) is: “Separate account.” Variable annuity subaccounts are in the insurer's separate account, whose investment performance drives returns, so the investor focuses on it.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -584,7 +584,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "The trade deficit between the base currency's country and the counter currency's country"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cThe spot exchange rate.\u201d A currency exchange amount is determined by the spot exchange rate between the two currencies at the time of the trade.",
+    "explanation": "The correct choice (C) is: “The spot exchange rate.” A currency exchange amount is determined by the spot exchange rate between the two currencies at the time of the trade.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -598,7 +598,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "He is required to notify FINRA."
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cHe is only required to notify his firm.\u201d Borrowing from a customer requires written notice to and approval from the employing firm; it is not merely notice.",
+    "explanation": "The correct choice (C) is: “He is only required to notify his firm.” Borrowing from a customer requires written notice to and approval from the employing firm; it is not merely notice.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -612,7 +612,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Must be executed immediately"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cMay be accepted and may be executed anytime that day.\u201d An unsolicited order to buy 'whenever you think the price is right' is a discretionary order and must be marked discretionary and approved by a principal.",
+    "explanation": "The correct choice (B) is: “May be accepted and may be executed anytime that day.” An unsolicited order to buy 'whenever you think the price is right' is a discretionary order and must be marked discretionary and approved by a principal.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -626,7 +626,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Guarantees that the price of newly issued stock is stable"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cIs used to prevent the price of newly issued stock from falling.\u201d Stabilization is a permitted practice used to keep a new issue's price from falling during the distribution.",
+    "explanation": "The correct choice (B) is: “Is used to prevent the price of newly issued stock from falling.” Stabilization is a permitted practice used to keep a new issue's price from falling during the distribution.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -640,7 +640,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "It assists broker-dealers in transferring assets in a customer account to another broker-dealer."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cIt is responsible for automated book-entry changes in the ownership of securities.\u201d A clearing corporation handles trade comparison, book-entry, and transfers, but does not itself perform automated book-entry ownership changes as its primary stated responsibility (that is the transfer agent); the statement about responsibility for book-entry changes is the false one.",
+    "explanation": "The correct choice (B) is: “It is responsible for automated book-entry changes in the ownership of securities.” A clearing corporation handles trade comparison, book-entry, and transfers, but does not itself perform automated book-entry ownership changes as its primary stated responsibility (that is the transfer agent); the statement about responsibility for book-entry changes is the false one.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -654,7 +654,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "He is required to provide written notification to FINRA."
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cHe is required to provide written notice to his broker-dealer.\u201d Operating a no-compensation charitable investment program still requires the associated person to give written notice to the employing firm.",
+    "explanation": "The correct choice (B) is: “He is required to provide written notice to his broker-dealer.” Operating a no-compensation charitable investment program still requires the associated person to give written notice to the employing firm.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -668,7 +668,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Engage in frequent trading"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cEngage in frequent trading.\u201d A fee-based (wrap) account suits frequent traders, since one asset-based fee covers many trades better than per-trade commissions.",
+    "explanation": "The correct choice (D) is: “Engage in frequent trading.” A fee-based (wrap) account suits frequent traders, since one asset-based fee covers many trades better than per-trade commissions.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -682,7 +682,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "A firm-commitment underwriting"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cA best-efforts underwriting.\u201d In a best-efforts underwriting, the underwriter sells what it can and returns unsold shares to the issuer (or retains none).",
+    "explanation": "The correct choice (A) is: “A best-efforts underwriting.” In a best-efforts underwriting, the underwriter sells what it can and returns unsold shares to the issuer (or retains none).",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -696,7 +696,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "A payment of compensation to a registered representative who has ceased to be employed by a member firm"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cThe sale of investment company shares in dollar amounts just below the point at which the sales charge is reduced on quantity transactions.\u201d A breakpoint sale is purchasing just below a sales-charge breakpoint, costing the investor a higher charge unnecessarily.",
+    "explanation": "The correct choice (C) is: “The sale of investment company shares in dollar amounts just below the point at which the sales charge is reduced on quantity transactions.” A breakpoint sale is purchasing just below a sales-charge breakpoint, costing the investor a higher charge unnecessarily.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -710,7 +710,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "$35.00"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201c$17.50.\u201d A 2-for-1 split doubles shares and halves the per-share cost basis: $35 / 2 = $17.50.",
+    "explanation": "The correct choice (B) is: “$17.50.” A 2-for-1 split doubles shares and halves the per-share cost basis: $35 / 2 = $17.50.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -724,7 +724,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "May accept the order"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cMay accept the order.\u201d In a joint account with right of survivorship, either owner may place orders; the RR may accept the order from one party.",
+    "explanation": "The correct choice (D) is: “May accept the order.” In a joint account with right of survivorship, either owner may place orders; the RR may accept the order from one party.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -738,7 +738,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "An open-end investment company"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cA unit investment trust.\u201d A UIT has a fixed portfolio with no active management, so it charges no management fee, unlike managed companies.",
+    "explanation": "The correct choice (B) is: “A unit investment trust.” A UIT has a fixed portfolio with no active management, so it charges no management fee, unlike managed companies.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -752,7 +752,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "An employer"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cA state.\u201d 529 plans are sponsored by states (or state agencies) to fund education.",
+    "explanation": "The correct choice (C) is: “A state.” 529 plans are sponsored by states (or state agencies) to fund education.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -766,7 +766,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "When the account is opened"
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cWhen the account is opened.\u201d Broker-dealers must deliver a privacy notice to each customer when the account is opened.",
+    "explanation": "The correct choice (D) is: “When the account is opened.” Broker-dealers must deliver a privacy notice to each customer when the account is opened.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -780,7 +780,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Unit investment trust"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cFace-amount certificate company.\u201d A face-amount certificate company sells certificates bought in installments that mature at a fixed dollar amount.",
+    "explanation": "The correct choice (B) is: “Face-amount certificate company.” A face-amount certificate company sells certificates bought in installments that mature at a fixed dollar amount.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -794,7 +794,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "The representative has 30 days to complete the requirement"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cThe representative will be placed in inactive status.\u201d If the Regulatory Element CE is not completed within 120 days of the anniversary, the representative is placed in inactive status.",
+    "explanation": "The correct choice (B) is: “The representative will be placed in inactive status.” If the Regulatory Element CE is not completed within 120 days of the anniversary, the representative is placed in inactive status.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -808,7 +808,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Acting as a marketing consultant for a trade organization"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cEntering competitive cycling events.\u201d Outside business activities like competitive cycling (a hobby with no securities tie) need not be reported to the firm; securities-related or business activities must be.",
+    "explanation": "The correct choice (B) is: “Entering competitive cycling events.” Outside business activities like competitive cycling (a hobby with no securities tie) need not be reported to the firm; securities-related or business activities must be.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -822,7 +822,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "That the email is a part of an unauthorized release of inside information"
     },
     "answer": "A",
-    "explanation": "The correct choice (A) is: \u201cThat the email is a part of a pump and dump scheme.\u201d A penny stock touted by email with no available financials is a classic pump-and-dump manipulation scheme.",
+    "explanation": "The correct choice (A) is: “That the email is a part of a pump and dump scheme.” A penny stock touted by email with no available financials is a classic pump-and-dump manipulation scheme.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -836,7 +836,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Decrease in fees being charged for licenses"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cIncrease in property taxes.\u201d Higher property taxes strengthen a municipality's revenue base, improving its credit rating.",
+    "explanation": "The correct choice (B) is: “Increase in property taxes.” Higher property taxes strengthen a municipality's revenue base, improving its credit rating.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -850,7 +850,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Must notify FINRA of the employment"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cMust provide written notification to his employer.\u201d Taking an unrelated part-time job (convenience store) requires only written notification to the employer, not permission.",
+    "explanation": "The correct choice (B) is: “Must provide written notification to his employer.” Taking an unrelated part-time job (convenience store) requires only written notification to the employer, not permission.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -864,7 +864,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "A premium"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cA discount.\u201d A bond trading at a basis (yield) above its coupon is priced at a discount to par.",
+    "explanation": "The correct choice (C) is: “A discount.” A bond trading at a basis (yield) above its coupon is priced at a discount to par.",
     "source": "YouTube: Series 7 Guru (ca1)"
   },
   {
@@ -878,7 +878,7 @@ var SIE_QUESTIONS_YT_CA1 = [
       "D": "Between 8:00 a.m. and 9:00 p.m."
     },
     "answer": "D",
-    "explanation": "The correct choice (D) is: \u201cBetween 8:00 a.m. and 9:00 p.m.\u201d Telemarketing rules permit unsolicited calls between 8:00 a.m. and 9:00 p.m. local time.",
+    "explanation": "The correct choice (D) is: “Between 8:00 a.m. and 9:00 p.m.” Telemarketing rules permit unsolicited calls between 8:00 a.m. and 9:00 p.m. local time.",
     "source": "YouTube: Series 7 Guru (ca1)"
   }
 ];

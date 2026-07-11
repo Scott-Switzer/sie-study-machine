@@ -28,20 +28,6 @@ var SIE_QUESTIONS_YT_KNOP2 = [
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {
-    "id": "yt-knop2-12",
-    "section": "2 - Products & Risks",
-    "stem": "Reinvestment risk may be avoided if an investor purchases",
-    "choices": {
-      "A": "A 30 year zero coupon bond",
-      "B": "A mortgage-backed security",
-      "C": "AAA corporate bond",
-      "D": "A 5 year Treasury note"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “A 30 year zero coupon bond”. Zero-coupon bonds make no periodic coupon payments, so there are no cash flows to reinvest and reinvestment risk is avoided.",
-    "source": "YouTube: Series 7 Guru (knop2)"
-  },
-  {
     "id": "yt-knop2-15",
     "section": "3 - Trading, Accounts & Prohibited",
     "stem": "An individual has been ordered to pay a fine of three times the profit gained on a recent trade. This individual has violated",
@@ -84,20 +70,6 @@ var SIE_QUESTIONS_YT_KNOP2 = [
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {
-    "id": "yt-knop2-22",
-    "section": "2 - Products & Risks",
-    "stem": "The maximum allowable contribution to a traditional IRA is",
-    "choices": {
-      "A": "$5,000 per individual",
-      "B": "$3,000 per individual",
-      "C": "$6,500 per individual",
-      "D": "$0 because contributions to IRAs are no longer allowed"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “$5,000 per individual”. A Traditional IRA provides tax-deferred growth; contributions may be deductible depending on income and plan coverage.",
-    "source": "YouTube: Series 7 Guru (knop2)"
-  },
-  {
     "id": "yt-knop2-23",
     "section": "2 - Products & Risks",
     "stem": "An investor buys $1 million of 10% corporate bonds at par. At the end of the day, the bonds close up 1/2 point. The investor has a gain of",
@@ -109,20 +81,6 @@ var SIE_QUESTIONS_YT_KNOP2 = [
     },
     "answer": "A",
     "explanation": "The correct choice (A) is: “$2,500”. A zero-coupon bond pays no periodic interest (0% current yield) and returns principal at maturity.",
-    "source": "YouTube: Series 7 Guru (knop2)"
-  },
-  {
-    "id": "yt-knop2-25",
-    "section": "2 - Products & Risks",
-    "stem": "Which of the following is the riskiest options position?",
-    "choices": {
-      "A": "Uncovered call writing",
-      "B": "Writing puts",
-      "C": "Covered call writing",
-      "D": "Buying puts"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “Uncovered call writing”. Short stock and short (uncovered) calls have unlimited loss potential; short puts and long stock are capped.",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {

@@ -60,7 +60,7 @@ var SIE_QUESTIONS_YT_GURU20 = [
     "section": "2 - Products & Risks",
     "stem": "A common stock shareholder's residual right to corporate assets refers to which of the following?",
     "choices": {
-      "A": "During the dissolution of corporate assets, common shareholders will be paid first\u2014before debtholders and preferred shareholders are paid.",
+      "A": "During the dissolution of corporate assets, common shareholders will be paid first—before debtholders and preferred shareholders are paid.",
       "B": "During the dissolution of corporate assets, common shareholders will be paid if any funds are left after preferred shareholders are paid but before debtholders are paid.",
       "C": "During the dissolution of corporate assets, common shareholders will be paid if any funds are left after debtholders are paid but before preferred shareholders are paid.",
       "D": "During the dissolution of corporate assets, common shareholders will be paid if there are any funds left after debtholders and preferred shareholders are paid."

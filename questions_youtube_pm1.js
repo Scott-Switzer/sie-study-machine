@@ -500,7 +500,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "The investment banker involved in taking a company public"
     },
     "answer": "B",
-    "explanation": "The correct choice (B) is: \u201cThe neighbor of the CEO of McDonalds\u201d. This falls under <b>1 - Capital Markets</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
+    "explanation": "The correct choice (B) is: “The neighbor of the CEO of McDonalds”. This falls under <b>1 - Capital Markets</b>. Key principle: Trading on material non-public information is illegal (insider trading).",
     "source": "YouTube: Series 7 Guru (pm1)"
   },
   {
@@ -514,7 +514,7 @@ var SIE_QUESTIONS_YT_PM1 = [
       "D": "The President"
     },
     "answer": "C",
-    "explanation": "The correct choice (C) is: \u201cThe SEC\u201d. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
+    "explanation": "The correct choice (C) is: “The SEC”. This falls under <b>4 - Regulatory Framework</b>. Key principle: FINRA is the self-regulatory organization for broker-dealers.",
     "source": "YouTube: Series 7 Guru (pm1)"
   }
 ];

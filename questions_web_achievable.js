@@ -1,0 +1,1052 @@
+var SIE_QUESTIONS_WEB_ACHIEVABLE = [
+ {
+  "id": "web-ACHIEVABLE-1",
+  "section": "2 - Products & Risks",
+  "stem": "A 28 year, 12% bond is callable in 10 years at 108, 14 years at 105, and 18 years at 103. How many years of call protection does this bond have?",
+  "choices": {
+   "A": "10 years",
+   "B": "14 years",
+   "C": "18 years",
+   "D": "28 years"
+  },
+  "answer": "A",
+  "explanation": "Call protection is the number of years before bond is callable. Although there are multiple call dates, the earliest this bond can be called is in 10 years.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-2",
+  "section": "2 - Products & Risks",
+  "stem": "Which of the following statements related to preferred stock are true? I. The typical par value is $100 II. The typical par value is $1,000 III. It is suitable for investors seeking capital appreciation IV. It is suitable for investors seeking income",
+  "choices": {
+   "A": "I and IV",
+   "B": "II and III",
+   "C": "I and III",
+   "D": "II and IV"
+  },
+  "answer": "A",
+  "explanation": "Preferred stock is an income-producing investment that typically pays quarterly dividends to stockholders. The security&apos;s dividend rate is based on its par value, which usually is $100.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-3",
+  "section": "2 - Products & Risks",
+  "stem": "The ex-date for a mutual fund distribution is set by which of the following parties?",
+  "choices": {
+   "A": "SEC",
+   "B": "NYSE",
+   "C": "FINRA",
+   "D": "Board of Directors"
+  },
+  "answer": "D",
+  "explanation": "Ex-dates for distributions from mutual funds is set by the Board of Directors.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-4",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "Which of the following may the firm choose on behalf of a customer without needing POA?",
+  "choices": {
+   "A": "Number of shares and time of trade",
+   "B": "Type of security and price",
+   "C": "Type of security and number of shares",
+   "D": "Price and time of trade"
+  },
+  "answer": "D",
+  "explanation": "The firm and/or a registered representative may make a decision on the price a security is bought at and the time of the trade on behalf of a customer without needing power of attorney (POA). The customer would need to provide the security, the action (buy or sell), and the size of the order. In order to avoid POA requirements, this trade would need to be fulfilled in one day.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-5",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "An investor establishes a margin account at their broker-dealer. What are the minimum maintenance margin requirements they must abide by?",
+  "choices": {
+   "A": "25% equity for long accounts; 25% equity for short accounts",
+   "B": "25% equity for long accounts; 30% equity for short accounts",
+   "C": "70% equity for long accounts; 30% equity for short accounts",
+   "D": "70% equity for long accounts; 40% equity for short accounts"
+  },
+  "answer": "B",
+  "explanation": "Investors utilizing margin accounts must maintain a minimum equity level in their account. Long positions require a minimum 25% equity level, while short positions require a minimum 30% equity level.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-6",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "A cash account requires customers to do which of the following?",
+  "choices": {
+   "A": "Pay 25% of any security purchase",
+   "B": "Pay 50% of any security purchase",
+   "C": "Pay 75% of any security purchase",
+   "D": "Pay fully for any securities purchases"
+  },
+  "answer": "D",
+  "explanation": "A cash account is a type of account that requires the customer to pay 100% of any purchases made. Margin accounts allow the customer to borrow money for purchases and typically only require a 50% deposit from the customer.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-7",
+  "section": "2 - Products & Risks",
+  "stem": "Calls gain intrinsic value as the market:",
+  "choices": {
+   "A": "Falls",
+   "B": "Is neutral",
+   "C": "Rises",
+   "D": "Is volatile"
+  },
+  "answer": "C",
+  "explanation": "Calls gain intrinsic value, also known as going &quot;in the money,&quot; as the market rises. Gaining intrinsic value is good for the holder and bad for the writer.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-8",
+  "section": "1 - Capital Markets",
+  "stem": "An investor holds a security of an issuer that just declared a cash dividend to be paid. According to IRS tax code, which of the following dates related to the recently declared dividend will be reported for tax purposes?",
+  "choices": {
+   "A": "Record date",
+   "B": "Declaration date",
+   "C": "Ex-date",
+   "D": "Payable date"
+  },
+  "answer": "D",
+  "explanation": "A cash dividend is only reportable to the IRS upon the payable date. All of the other dates - the declaration, ex-dividend, and record dates - are not reported for tax purposes. An easy way to remember this concept is to remember an investor is only taxed upon receipt of the dividend (when it&apos;s paid). Therefore, the payable date is the only important dividend-related date for tax purposes.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-9",
+  "section": "2 - Products & Risks",
+  "stem": "A 16 year, 3.20% bond is quoted at a 15 point premium. What is the correct order of yields, from highest to lowest?",
+  "choices": {
+   "A": "Current, stated, yield to maturity, yield to call",
+   "B": "Stated, current, yield to maturity, yield to call",
+   "C": "Yield to call, yield to maturity, current, stated",
+   "D": "Yield to call, yield to maturity, stated, current"
+  },
+  "answer": "B",
+  "explanation": "A bond purchased at a 15 point premium is a bond bought at a higher price than par. The order of yields for a premium bond, from highest to lowest is nominal yield (stated rate, coupon), current yield, yield to maturity (YTM), yield to call (YTC). The bond see-saw is a great resource for this question.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-10",
+  "section": "1 - Capital Markets",
+  "stem": "A best efforts commitment underwriting would best be described by which of the following choices?",
+  "choices": {
+   "A": "The underwriter keeps unsold securities",
+   "B": "If all securities are not sold, the issuance is cancelled",
+   "C": "The issuer keeps unsold securities",
+   "D": "If a minimum number of securities are not sold, the issuance is cancelled"
+  },
+  "answer": "C",
+  "explanation": "A best efforts underwriting commitment puts the risk of unsold securities on the issuer. The underwriter attempts to sell as many securities as possible (best efforts), but unsold securities are stuck with the issuer.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-11",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "If insider information is passed between parties and a trade occurs, who is subject to criminal prosecution?",
+  "choices": {
+   "A": "Neither the tipper or the tippee",
+   "B": "Only the tipper",
+   "C": "Both the tipper and tippee",
+   "D": "Only the tippee"
+  },
+  "answer": "C",
+  "explanation": "Insider trading is defined as trading on non-public, material information. Material information is any information that could lead someone to make an investment. If a trade occurs based on non-public, material information, both the tipper and the tippee are guilty of insider trading.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-12",
+  "section": "2 - Products & Risks",
+  "stem": "If a customer believes the market will fall, which of the following investments fits their expectations?",
+  "choices": {
+   "A": "Go long stock",
+   "B": "Sell a put option",
+   "C": "Buy a call option",
+   "D": "Sell a call option"
+  },
+  "answer": "D",
+  "explanation": "Selling a call is a bearish investment sold by investors expecting the market to fall.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-13",
+  "section": "2 - Products & Risks",
+  "stem": "Which of the following is an exempt issue?",
+  "choices": {
+   "A": "Warrants",
+   "B": "Convention center revenue bond",
+   "C": "Rights",
+   "D": "Guaranteed bond"
+  },
+  "answer": "B",
+  "explanation": "The Securities Act of 1933 does not apply to exempt securities, which include government issues. A convention center bond would most likely be a municipal revenue bond, which is exempt. Guaranteed bonds, rights, and warrants are all corporate products that are non-exempt.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-14",
+  "section": "2 - Products & Risks",
+  "stem": "All of the following terms apply to a real estate limited partnership, EXCEPT:",
+  "choices": {
+   "A": "Deductible interest",
+   "B": "Pass through of losses",
+   "C": "Depletion",
+   "D": "Depreciation"
+  },
+  "answer": "C",
+  "explanation": "Real estate limited partnerships (RELPs) allow for depreciation of real estate, which is a tax deduction. Losses made in the RELP can be passed through to investors. Also, any interest the business must pay on loans to purchase real estate is deductible. Only oil and gas programs have access to the tax benefits of depletion, which occurs when oil wells are depleted.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-15",
+  "section": "4 - Regulatory Framework",
+  "stem": "A hedge fund is considering a significant investment in a publicly traded company in hopes of a hostile takeover. Which of the following actions will they likely pursue?",
+  "choices": {
+   "A": "Exercise the call feature",
+   "B": "Secretly obtain a significant position in the open market",
+   "C": "Request a vote of confidence",
+   "D": "Extension of a tender offer"
+  },
+  "answer": "D",
+  "explanation": "The most common way outside investors take over a company is by extending a tender offer to current shareholders. Tender offers are requests to purchase shares from shareholders at a price higher than their current market prices. The more shares obtained through the tender offer, the more voting power the outside investor will obtain. With more voting power they can vote in their choices for the Board of Directors, which plays a crucial role in the company&apos;s direction. While obtaining shares in the open market can result in gaining significant voting power (by buying tons of shares), it&apos;s impossible to do secretly. The SEC requires public disclosure when an investor or group of investors obtains a 5% or more position in an issuer&apos;s stock. Common stock is not callable, so exercising a call feature is not viable. Requesting a vote of confidence is also not viable (there&apos;s no such thing).",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-16",
+  "section": "2 - Products & Risks",
+  "stem": "From lowest to highest, what are the order of the yields for a bond purchased at 102?",
+  "choices": {
+   "A": "Nominal, current, YTC, YTM",
+   "B": "YTM, YTC, current, nominal",
+   "C": "Nominal, current, YTM, YTC",
+   "D": "YTC, YTM, current, nominal"
+  },
+  "answer": "D",
+  "explanation": "The order of yields for a bond purchased at a premium (from lowest to highest) is yield to call (YTC), yield to maturity (YTM), current yield, and nominal yield.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-17",
+  "section": "2 - Products & Risks",
+  "stem": "Karter withdraws $14,000 from their traditional IRA at age 32 to pay for expenses related to their disability. What is the tax consequence?",
+  "choices": {
+   "A": "Ordinary income taxes + 10% early withdrawal penalty",
+   "B": "Capital gains taxes + 10% early withdrawal penalty",
+   "C": "Ordinary income taxes",
+   "D": "Capital gains taxes"
+  },
+  "answer": "C",
+  "explanation": "Normally, a distribution from an IRA prior to age 59 1/2 would incur ordinary income taxes, plus a 10% penalty. However, disability is one of a handful of exceptions to the early withdrawal penalty. Karter will pay ordinary income taxes, but no penalty.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-18",
+  "section": "2 - Products & Risks",
+  "stem": "The maximum maturity for a banker&apos;s acceptance is:",
+  "choices": {
+   "A": "1 year",
+   "B": "2 years",
+   "C": "180 days",
+   "D": "270 days"
+  },
+  "answer": "D",
+  "explanation": "Securities issued with 270 days or less until maturity are exempt securities. Examples include commercial paper and banker&apos;s acceptances.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-19",
+  "section": "4 - Regulatory Framework",
+  "stem": "Communications sent to large organizations only is likely to be categorized as what according to FINRA rules?",
+  "choices": {
+   "A": "Institutional communications",
+   "B": "Correspondence",
+   "C": "Retail communications",
+   "D": "Organizational communications"
+  },
+  "answer": "A",
+  "explanation": "Institutional communications are written or electronic communications sent to institutions (large organizations).",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-20",
+  "section": "2 - Products & Risks",
+  "stem": "What is the maximum contribution to a Coverdell ESA?",
+  "choices": {
+   "A": "$2,000 per person, per year",
+   "B": "$4,000 per person, per year",
+   "C": "$7,000 per person, per year",
+   "D": "$8,000 per person, per year"
+  },
+  "answer": "A",
+  "explanation": "Coverdells are education savings accounts (ESAs) that allow non tax-deductible contributions and tax-deferred growth. The contribution limit is $2,000 per person, per year. Distributions from these accounts must be used for educational purposes to avoid penalties.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-21",
+  "section": "1 - Capital Markets",
+  "stem": "An investor is provided with an offering memorandum while purchasing a security. What type of offering is this document most likely associated with?",
+  "choices": {
+   "A": "Regulation A offerings",
+   "B": "initial public offerings",
+   "C": "Regulation D offerings",
+   "D": "intrastate offerings"
+  },
+  "answer": "C",
+  "explanation": "Regulation D is the private placement exemption that allows issuers to avoid registration with the SEC and prospectus requirements. However, issuers still must provide an abbreviated disclosure document, typically referred to as the offering memorandum, to purchasers.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-22",
+  "section": "2 - Products & Risks",
+  "stem": "All of the following terms are synonymous, EXCEPT:",
+  "choices": {
+   "A": "Stated rate",
+   "B": "Yield to maturity",
+   "C": "Nominal yield",
+   "D": "Coupon"
+  },
+  "answer": "B",
+  "explanation": "The nominal yield of a debt security is also known as the coupon or stated rate. This number, expressed as a percent (e.g. 10%), directly represents the amount of interest paid annually. For example, a $1,000 par 10% nominal yield bond pays $100 in annual interest ($1,000 x 10% = $100). The nominal yield can be calculated by dividing the bond&apos;s annual interest ($100) by its par value ($1,000). The yield to maturity (YTM) represents a debt security&apos;s overall return if held to maturity. While the YTM may be the same as the nominal yield if a bond is purchased at par, it is different if purchased at a discount or premium.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-23",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "A registered representative recommends a purchase of 750 shares of ABC stock at $100 to a customer. Hoping to make the customer happy, the representative offers to personally repurchase the shares if they drop below $90. This offer is:",
+  "choices": {
+   "A": "Permitted because the customer can still lose",
+   "B": "Permitted because it benefits the customer",
+   "C": "Prohibited due to the personal offer",
+   "D": "Prohibited due to the performance guarantee"
+  },
+  "answer": "D",
+  "explanation": "Although personal offers from registered representatives are generally prohibited, the bigger issue is the performance guarantee. The customer can lose money on this trade, but the representative guaranteed they wouldn&apos;t lose more than $10 per share, which is strictly prohibited.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-24",
+  "section": "1 - Capital Markets",
+  "stem": "Which of the following representatives is NOT considered a Municipal Finance Professional?",
+  "choices": {
+   "A": "An RR soliciting business from municipal issuers",
+   "B": "An RR soliciting business from retail clients seeking municipal securities",
+   "C": "An RR involved in creating research reports on municipal securities",
+   "D": "An RR involved in underwriting municipal securities"
+  },
+  "answer": "B",
+  "explanation": "A Municipal Finance Professional (MFP) is a registered representative (RR) dealing primarily with municipal issuers and solicits their business. Additionally, they could be involved with research, sales, and communications regarding municipal securities. An RR that only solicits municipal securities business with retail investors (normal human investors) is NOT considered an MFP.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-25",
+  "section": "2 - Products & Risks",
+  "stem": "An investor annuitizes their variable annuity and opts for a life with 5 year period certain. What best describes the length of time payments will be received?",
+  "choices": {
+   "A": "Payments made until annuitant dies or for a 5 year period, whichever is longer",
+   "B": "Payments made for annuitant&apos;s life plus an additional 5 years to beneficiary after death",
+   "C": "Payments made for 5 years regardless of circumstance",
+   "D": "Payments made until annuitant dies or for a 5 year period, whichever occurs first"
+  },
+  "answer": "A",
+  "explanation": "A life annuity with period certain will make payments for the annuitant&apos;s (account owner&apos;s) life, but also guarantee payments for a specific amount of time. If the annuitant passes away before the period certain timeframe is met (5 years in this question), their beneficiary will receive payments until the time period elapses from annuitization. Here are two examples assuming a life with 5 year period certain: 1. Annuitant dies 3 years after annuitization. Payments will continue to listed beneficiary for 2 more years. 2. Annuitant dies 20 years after annuitization. Payments cease after death as the period certain timeframe was already met.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-26",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "A representative submits a letter of resignation to their employing broker-dealer in order to pursue a job in another industry. Which of the following statements is false?",
+  "choices": {
+   "A": "A U-5 will be filed with FINRA",
+   "B": "The employee&apos;s SIE license will lapse after 4 years if they don&apos;t rejoin the industry",
+   "C": "The employee&apos;s records must be kept on file for 6 years after their resignation",
+   "D": "None of these choices"
+  },
+  "answer": "C",
+  "explanation": "Form U-5 is submitted to FINRA when an employee is terminated from their position. All employee records must be kept on file for a period of 3 years after their employment ends. Most FINRA licenses lapse after 2 years, but the SIE exam lapses after 4 years if the person does not rejoin the industry.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-27",
+  "section": "2 - Products & Risks",
+  "stem": "An investor goes short 100 shares of MU stock at $52 and long 1 MU Jul $55 call @ $3.00. What is the investor&apos;s maximum gain?",
+  "choices": {
+   "A": "$300",
+   "B": "$4,900",
+   "C": "$5,200",
+   "D": "Unlimited"
+  },
+  "answer": "B",
+  "explanation": "Although the short stock is bearish and the long call is bullish, this investment is overall bearish. The further the market falls, the more the investor makes on the short shares. The maximum gain would occur if the market price falls to $0. In this case, the shares make $52 per share (sold at $52, bought at $0), or $5,200 overall. The $300 premium of the call must be factored in, reducing the overall gain to $4,900.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-28",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "In order to open a new account for a customer, which of the following pieces of information is NOT needed?",
+  "choices": {
+   "A": "Health status",
+   "B": "Social security number",
+   "C": "Date of birth",
+   "D": "Physical address"
+  },
+  "answer": "A",
+  "explanation": "There are four pieces of critical customer information that are always needed to open a new account: name, date of birth, SSN or TIN, and physical address. This information is used to verify a customer&apos;s identity using the customer identification program (CIP). Although it may affect their approach to investing, health status is not required to be disclosed to open an account.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-29",
+  "section": "1 - Capital Markets",
+  "stem": "A 5 year, 6 3/4% Treasury Note is quoted at 106-12 - 106-16. The security pays interest on February 15th and August 15th annually. What is the purchase price?",
+  "choices": {
+   "A": "$1,062.15",
+   "B": "$1,062.85",
+   "C": "$1,063.75",
+   "D": "$1,065.00"
+  },
+  "answer": "D",
+  "explanation": "When bonds are quoted, the customer purchases them at the &quot;ask.&quot; In the question, the ask is 106-16. This is a government bond quote, which is quoted in 32nds. A bond quoted at 106-16 is priced at $1,065.00. To obtain this answer, first divide the right hand side of the quote (16) by 32, which equals 0.5. Next, add the left hand side of the quote (106) to the recently calculated fraction (0.5), which equals 106.5. Last, move the decimal over once to the right to arrive at the answer of $1,065.00.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-30",
+  "section": "4 - Regulatory Framework",
+  "stem": "Which of the following is one of the critical pieces of information needed from a client?",
+  "choices": {
+   "A": "Risk tolerance",
+   "B": "Tax status",
+   "C": "Phone number",
+   "D": "Name"
+  },
+  "answer": "D",
+  "explanation": "The customer&apos;s name, address, date of birth, and social security number (SSN) or tax identification number (TIN) are the four critical pieces of information that must be collected from the client. The phone number is also useful, but not a critical piece of information. The tax status and risk tolerance would be valuable in order to make a recommendation to a client, but they also aren&apos;t critical pieces of information.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-31",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "Your customer is considering the addition of POA to their account in order to give their daughter authority over their assets. They are currently contemplating whether to enact a full or limited POA. What statement regarding both forms of POA are a commonality between the two?",
+  "choices": {
+   "A": "Both allow trading authority and withdrawal of funds",
+   "B": "Both allow withdrawal of funds",
+   "C": "Both continue after death of the customer",
+   "D": "Both allow trading authority"
+  },
+  "answer": "D",
+  "explanation": "Full trading authorization, also known as full power of attorney (POA) allows the account owner to appoint another person (authorized agent) to trade in and withdraw funds from the account. Limited POA only allows trading authority, but does not allow withdrawals from the account. Both versions of POA cease to exist after the death of the account owner.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-32",
+  "section": "1 - Capital Markets",
+  "stem": "A municipality will be issuing a bond in 9 months to finance the construction of a new public school. To immediately gain access to funds prior to the issuance of the upcoming security, the municipality should issue:",
+  "choices": {
+   "A": "RANs",
+   "B": "GANs",
+   "C": "BANs",
+   "D": "TRANs"
+  },
+  "answer": "C",
+  "explanation": "Bond anticipation notes (BANs) are issued in anticipation of a larger bond sale. The issuer is planning on issuing a bond in the near future to finance the construction of a new public school, so issuing a BAN will meet their immediate funding needs. Revenue anticipation notes (RANs) are issued in anticipation of revenue collections from a municipal project. Grant anticipation notes (GANs) are issued in anticipation of federal funding (grants). Tax and revenue anticipation notes (TRANs) are issued in anticipation of upcoming tax and revenue collections.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-33",
+  "section": "1 - Capital Markets",
+  "stem": "Which of the following underwriting commitments is done on a principal basis?",
+  "choices": {
+   "A": "All or none underwriting",
+   "B": "Firm underwriting",
+   "C": "Mini-max underwriting",
+   "D": "Best efforts underwriting"
+  },
+  "answer": "B",
+  "explanation": "When an investment bank (underwriter) works on a principal basis, they are offering to sell securities on behalf of an issue on a firm basis (firm underwriting). Any securities left unsold will be kept by the underwriter.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-34",
+  "section": "4 - Regulatory Framework",
+  "stem": "The Securities and Exchange Commission enforces the rules and regulations of each of the following laws, EXCEPT:",
+  "choices": {
+   "A": "Securities Act of 1933",
+   "B": "Securities Exchange Act of 1934",
+   "C": "Investment Company Act of 1940",
+   "D": "Uniform Securities Act"
+  },
+  "answer": "D",
+  "explanation": "The Securities and Exchange Commission (SEC) enforces the rules and regulations of all of the following laws: Securities Act of 1933 Securities Exchange Act of 1934 Trust Indenture Act of 1939 Investment Company Act of 1940 The rules and regulations in the Uniform Securities Act is enforced by the North American Securities Administrators Association (NASAA).",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-35",
+  "section": "4 - Regulatory Framework",
+  "stem": "Raleigh Distributions Co. performs a 2:1 forward stock split on its outstanding stock. Just prior to the split, the shares were trading for $100. Which of the following statements is true?",
+  "choices": {
+   "A": "The price per share will fall to $50.00",
+   "B": "An investor owning 400 shares pre-split will own 200 shares post-split",
+   "C": "The shares are more likely to be purchased by institutional investors post-split",
+   "D": "This action requires approval from the Board of Directors only"
+  },
+  "answer": "A",
+  "explanation": "Stock splits of any form must be approved by shareholders. Forward stock splits result in more shares outstanding, but a market price that is proportionately lower. Stocks with lower market prices are more likely to be purchased by retail investors with smaller sums of money to invest, and less likely to be purchased by larger institutional investors. To calculate the changes made to stock positions, first find the stock split factor. This can be found by dividing the first stock split number (2) by the second stock split number (1). Stock split factor = 2 / 1 Stock split factor = 2 To find the change to a stock position, first multiply the stock split factor (2) by the number of shares owned (400). New stock position = 2 x 400 shares New stock position = 800 shares To find the change to the market price, divide the market price ($100) by the stock split factor (2) New stock price = $100 / 2 New stock price = $50.00",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-36",
+  "section": "2 - Products & Risks",
+  "stem": "An investor obtains a derivative security with less than three months to expiration. The security maintains intrinsic value at issuance. The investor may exercise the security, trade it in the secondary market, or allow it to expire. What security is being referenced?",
+  "choices": {
+   "A": "Rights",
+   "B": "Call options",
+   "C": "Warrants",
+   "D": "Put options"
+  },
+  "answer": "A",
+  "explanation": "Rights are short-term (typically 60-90 days to expiration) derivative securities that allow an investor to purchase an issuer&apos;s stock at a fixed price. At issuance, all rights have intrinsic value, which means their fixed exercise price is lower than the stock&apos;s market price. Warrants are similar to rights, but are long-term (five or more years to expiration) and are issued without intrinsic value. The description could also describe a call option, but not all calls are issued with intrinsic value, and some options last more than three months. Put options provide the right to sell stock, not buy stock.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-37",
+  "section": "1 - Capital Markets",
+  "stem": "Treasury bills are associated with which of the following terms?",
+  "choices": {
+   "A": "Funded debt",
+   "B": "Secured debt",
+   "C": "Money market debt",
+   "D": "Municipal debt"
+  },
+  "answer": "C",
+  "explanation": "Treasury bills are money market debt securities, which are securities that mature within 1 year. Funded debt is long-term corporate debt. Although Treasury bills are safe due to US government backing, they are unsecured bonds with no specific collateral pledged to back them. Municipal debt is issued by states, cities, and local subdivisions.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-38",
+  "section": "2 - Products & Risks",
+  "stem": "Class B shares are suitable for which of the following types of investors?",
+  "choices": {
+   "A": "Long-term investors with smaller purchases",
+   "B": "Short-term investors with larger purchases",
+   "C": "Long-term investors with larger purchases",
+   "D": "Short-term investors with smaller purchases"
+  },
+  "answer": "A",
+  "explanation": "Class B shares come with contingent deferred sales charges (CDSCs), which are also known as back-end loads. The investor pays no sales charge when purchasing shares, but may pay a sales charge when selling their shares. The longer the investor holds their shares, the smaller the sales charge. These funds are most suitable for investors with smaller purchases and longer time horizons.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-39",
+  "section": "2 - Products & Risks",
+  "stem": "A corporate bond is quoted at 86 5/8. What is its price?",
+  "choices": {
+   "A": "$865.21",
+   "B": "$866.25",
+   "C": "$866.86",
+   "D": "$868.69"
+  },
+  "answer": "B",
+  "explanation": "Corporate bond quotes are formatted into fractional form in 1/8ths. The easiest way to convert 86 5/8 into a price is the &quot;fraction-boot-scoot&quot; method. First, do the &quot;fraction.&quot; 5/8 equals 0.625. Next, &quot;boot&quot; the fraction back to the big number, which gives you 86.625. Last, &quot;scoot&quot; the decimal once to the right. This bond is trading at $866.25.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-40",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "All of the following can purchase an IPO, EXCEPT:",
+  "choices": {
+   "A": "The father of a broker-dealer employee",
+   "B": "The cousin of a broker-dealer employee",
+   "C": "The grandson of a broker-dealer employee",
+   "D": "The grandfather of a broker-dealer employee"
+  },
+  "answer": "A",
+  "explanation": "FINRA rules prohibit the sale of initial public offerings (IPOs) to FINRA members (firms), their employees, and their immediate families. Immediate family is considered parents, siblings, and children. Additionally, anyone who is financially supported by member firm employees are prohibited from purchasing IPOs. FINRA rules prohibit IPO sales to member firms, their employees, and immediate family members (parents, siblings, and children). Grandparents and cousins are not included in this category, so they may purchase IPOs.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-41",
+  "section": "2 - Products & Risks",
+  "stem": "A single vendor within an industry, which offers no consumer alternative and is likely to be heavily regulated, is most likely to be described as:",
+  "choices": {
+   "A": "Monopoly",
+   "B": "Perfect competition",
+   "C": "Monopolistic competition",
+   "D": "Oligopoly"
+  },
+  "answer": "A",
+  "explanation": "A monopoly involves one vendor with no competition, resulting in no alternatives for consumers. This market structure should be heavily regulated, otherwise prices of their goods and/or services could be heavily manipulated. Utility companies are a good example. An oligopoly involves a small amount of vendors (typically 3-5) offering similar products and/or services. There&apos;s a high barrier to entry, meaning it&apos;s very costly for new organizations to compete with current vendors. The airline industry is a good example. A monopolistic competition market structure involves numerous vendors offering similar products, although each product has unique characteristics. Consumers tend to prefer certain products due to their unique characteristics. Cereal vendors are a good example. A perfect competition market structure involves numerous vendors offering the same product. Consumers tend to prefer the vendor with the lowest prices. Farmers markets are a good example.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-42",
+  "section": "2 - Products & Risks",
+  "stem": "Which of the following contribution and payout structures is NOT allowed with a variable annuity?",
+  "choices": {
+   "A": "Regular payments in; immediate payouts out",
+   "B": "Lump sum in; deferred payments out",
+   "C": "Regular payments in; deferred payments out",
+   "D": "Lump sum in; immediate payouts out"
+  },
+  "answer": "A",
+  "explanation": "A variable annuity may be funded through a lump sum or regular payments. A customer may only take an immediate annuity payout after making a lump sum contribution.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-43",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "An investor places a trade, which is executed in the second market. What statement made by a representative confirming the trade to a customer is misleading or incorrect?",
+  "choices": {
+   "A": "None of these choices",
+   "B": "Second market trades occur OTC",
+   "C": "The second market is considered part of the secondary market",
+   "D": "Only unlisted stocks trade in the second market"
+  },
+  "answer": "A",
+  "explanation": "The second market is where unlisted stocks trade over-the-counter (OTC). Unlisted stocks are typically ineligible to be traded on exchanges, leaving the OTC markets as the only place for them to trade. The second market is a subdivision of the secondary market. There are four subdivisions of the secondary market: First market: listed stocks trading on exchanges Second market: unlisted stocks trading OTC Third market: listed stocks trading OTC Fourth market: institution-to-institution trading typically using ECNs",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-44",
+  "section": "2 - Products & Risks",
+  "stem": "A mortgage bond is most likely to utilize which of the following as its collateral?",
+  "choices": {
+   "A": "Single-family homes",
+   "B": "Fleet of airplanes",
+   "C": "Retail stores",
+   "D": "A subsidiary"
+  },
+  "answer": "C",
+  "explanation": "Mortgage bonds are debt securities issued by corporations backed by real estate owned by the corporation. This could include retail stores (e.g., Gamestop pledging brick-and-mortar stores as collateral).",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-45",
+  "section": "1 - Capital Markets",
+  "stem": "Which of the following tools would not be utilized by the Federal Reserve while implementing monetary policy?",
+  "choices": {
+   "A": "Increasing federal budgetary spending",
+   "B": "Updating reserve requirements for lending institutions",
+   "C": "Engaging in open market operations",
+   "D": "Changing margin deposit requirements"
+  },
+  "answer": "A",
+  "explanation": "The Federal Reserve enforces monetary policy, which controls the size of the money supply in an effort to manage the economy. The Fed utilizes the following tools while enacting this policy: Changing the discount rate Engaging in open market operations Changing banking reserve requirements Changing Regulation T (margin) requirements Tax policy and federal government spending is a part of fiscal policy, which is enacted by Congress and the President.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-46",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "A registered representative resigns from their position in order to pursue a career in another industry. What statement is false?",
+  "choices": {
+   "A": "FINRA Form U-6 is filed",
+   "B": "FINRA retains jurisdiction over the representative for 2 years following the resignation",
+   "C": "The firm must notify FINRA within 30 days of the employee&apos;s resignation",
+   "D": "All of these choices"
+  },
+  "answer": "A",
+  "explanation": "Firms file FINRA Form U-5 (NOT U-6) when a representative resigns, retires, or is terminated from their position. The U-5 must be filed within 30 days of the employee&apos;s last day of work. Although the representative is no longer registered, FINRA retains jurisdiction over them for 2 years after their registration is cancelled. This allows FINRA to enforce penalties in the event of a complaint or rule violation being discovered after their employment ends.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-47",
+  "section": "2 - Products & Risks",
+  "stem": "An investor seeks growth potential and income from a variety of asset classes for their portfolio. If you can only recommend one security, which of the following is the best choice?",
+  "choices": {
+   "A": "Growth and income fund",
+   "B": "Balanced fund",
+   "C": "Money market fund",
+   "D": "US Government bond fund"
+  },
+  "answer": "B",
+  "explanation": "Balanced funds invest in a mix of stocks and bonds (different asset classes). Stocks are purchased primarily for their growth potential, while bonds are purchased primarily for their income potential. Growth and income funds invest in stocks only, which does not match the investor&apos;s desire for multiple asset classes. Money market funds and US Government bond funds primarily offer income potential, not growth potential.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-48",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "A registered representative resigns from their position in order to pursue a career in another industry. What statement is true regarding their licenses?",
+  "choices": {
+   "A": "They will lapse after 1 year if they do not re-join the industry",
+   "B": "They will lapse after 2 years if they do not re-join the industry",
+   "C": "The former employer can hold the person&apos;s licenses indefinitely",
+   "D": "They must retake their licensing exams"
+  },
+  "answer": "B",
+  "explanation": "When an individual leaves their job as registered representative, their licenses will lapse in two years if they do not become re-affiliated with another member firm. Firms are prohibited from holding licenses for persons no longer working in the industry.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-49",
+  "section": "1 - Capital Markets",
+  "stem": "What statement related to the relationship between interest rates and inflation is correct?",
+  "choices": {
+   "A": "Interest rates primarily maintain a positive correlation with inflation",
+   "B": "Interest rates primarily maintain a negative correlation with inflation",
+   "C": "The relationship between interest rates and inflation cannot be determined",
+   "D": "Interest rates maintain no correlation with inflation"
+  },
+  "answer": "B",
+  "explanation": "While this question involves a small degree of subjectivity, interest rates primarily maintain a negative correlation with inflation. If interest rates remain low for too long, inflation starts rising. To fight against rising inflation, the Federal Reserve moves to increase interest rates. As interest rates rise, inflation levels begin to decline. Therefore, a negative correlation (one goes down and the other goes up) exists. It&apos;s possible both are high or low simultaneously, seemingly describing a positive correlation. For example, both interest rates and inflation rates were high through most of 2022. Regardless, eventually the negative correlation will manifest. The higher interest rates go, the more downward pressure on inflation (and vice versa).",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-50",
+  "section": "2 - Products & Risks",
+  "stem": "Which of the following types of bonds are typically quoted in terms of yield?",
+  "choices": {
+   "A": "Municipal G.O. bonds",
+   "B": "US Government bonds",
+   "C": "Corporate bonds",
+   "D": "Municipal &quot;dollar&quot; bonds"
+  },
+  "answer": "A",
+  "explanation": "Municipal G.O. bonds are typically quoted in yields, not prices. Corporate bonds, US Government bonds, and Municipal &quot;dollar&quot; bonds (usually revenue bonds) are all quoted as a percentage of par (price quote).",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-51",
+  "section": "2 - Products & Risks",
+  "stem": "Proxies are provided to shareholders in which of the following circumstances?",
+  "choices": {
+   "A": "Shareholders that own at least 100 shares",
+   "B": "Shareholders that own a large percentage of shares",
+   "C": "Shareholders that attend a company roadshow",
+   "D": "Shareholders that do not attend the issuer&apos;s annual meeting"
+  },
+  "answer": "D",
+  "explanation": "Proxies are voting materials provided to investors who do not or cannot attend the annual shareholder meeting. An investor only needs to be long (own) the common stock in order to be eligible for voting rights. There is no minimum investment amount, although investors have more voting power when they own more shares.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-52",
+  "section": "1 - Capital Markets",
+  "stem": "Which of the following bonds is least subject to interest rate risk?",
+  "choices": {
+   "A": "T-bill with 80 days to maturity",
+   "B": "STRIPS with 8 years to maturity",
+   "C": "16 year B corporate bond",
+   "D": "26 year AA municipal bond"
+  },
+  "answer": "A",
+  "explanation": "Bonds with short maturities are least subject to interest rate risk. When interest rates rise, the T-bill with 80 days to maturity will fall the least in price.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-53",
+  "section": "2 - Products & Risks",
+  "stem": "A corporate bond fund would be considered which of the following types of funds?",
+  "choices": {
+   "A": "Income fund",
+   "B": "Balanced fund",
+   "C": "Specialized fund",
+   "D": "Growth fund"
+  },
+  "answer": "A",
+  "explanation": "Income funds invest in securities that pay consistent dividends and/or interest. Corporate bond funds invest in corporate debt securities that pay interest.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-54",
+  "section": "2 - Products & Risks",
+  "stem": "CVX corporation declares a $0.55 per share dividend on November 15, 2020 to owners on record as of December 11, 2020. The dividend is payable on January 8, 2021. When is the tax event for the dividend?",
+  "choices": {
+   "A": "January 8, 2021",
+   "B": "December 10, 2020",
+   "C": "December 11, 2020",
+   "D": "November 15, 2020"
+  },
+  "answer": "A",
+  "explanation": "The tax event refers to the day the dividend is taxable. Dividends are not taxable until received, which is the payable date of January 8, 2021. Although the dividend is declared to shareholders on record in 2020, the IRS does not consider dividends taxable until received.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-55",
+  "section": "4 - Regulatory Framework",
+  "stem": "A rule 147 offering of securities takes place with a limited number of investors. Which answer best describes the attributes of this offering?",
+  "choices": {
+   "A": "Interstate offering",
+   "B": "Private placement",
+   "C": "Intrastate offering",
+   "D": "Small dollar offering"
+  },
+  "answer": "C",
+  "explanation": "Rule 147 is an exempt transaction that allows issuers to avoid federal registration of their securities if only selling within one state (intrastate). Regulation D covers private placements, while Regulation A covers small dollar offerings.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-56",
+  "section": "2 - Products & Risks",
+  "stem": "All distributions from a Coverdell ESA must be taken by what age?",
+  "choices": {
+   "A": "18",
+   "B": "21",
+   "C": "25",
+   "D": "30"
+  },
+  "answer": "D",
+  "explanation": "Coverdells are education savings accounts (ESAs) that allow non tax-deductible contributions and tax-deferred growth. Contributions can only be made until the child reaches age 18. All distributions must be made by age 30.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-57",
+  "section": "2 - Products & Risks",
+  "stem": "Which of the following parties recordkeeps and holds the assets of a mutual fund?",
+  "choices": {
+   "A": "Investment adviser",
+   "B": "Custodian bank",
+   "C": "Fund sponsor",
+   "D": "Selling group"
+  },
+  "answer": "B",
+  "explanation": "The custodian bank maintains custody of the securities in the fund. The selling group is the party responsible for selling to the public. The sponsor creates and registers the fund with the SEC. The investment adviser is responsible for investing the assets of the fund.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-58",
+  "section": "2 - Products & Risks",
+  "stem": "Hybrid REITs invest directly into",
+  "choices": {
+   "A": "Individual households",
+   "B": "Mortgages and individual households",
+   "C": "Commercial properties",
+   "D": "Commercial properties and mortgages"
+  },
+  "answer": "D",
+  "explanation": "Hybrid real estate investment trusts (REITs), also known as combination REITs, invest in both commercial properties and mortgages from commercial properties.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-59",
+  "section": "2 - Products & Risks",
+  "stem": "ABC Company declares a $1.60 per share dividend for stockholders on record Thursday. When is the cash settlement ex-date for the dividend?",
+  "choices": {
+   "A": "Friday",
+   "B": "Thursday",
+   "C": "Wednesday",
+   "D": "Monday"
+  },
+  "answer": "A",
+  "explanation": "The cash settlement ex-date for a cash dividend is the day after the record date. Since cash settlement occurs on the same day, it would be possible to buy and settle on the record date, but the next day the stock would be trading without the dividend, making it the ex-date.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-60",
+  "section": "4 - Regulatory Framework",
+  "stem": "Which of the following scenarios best represents an example of regulatory risk?",
+  "choices": {
+   "A": "Government agency regulating a sector imposes cost-intensive rules impacting an issuer",
+   "B": "A bill approved by Congress and signed by the President results in a corporation&apos;s operating expenses increasing",
+   "C": "An economic recession forces general market decline",
+   "D": "An inefficient business model results in an issuer&apos;s lower profit margins"
+  },
+  "answer": "A",
+  "explanation": "Regulatory risk occurs when a government agency (typically overseeing a sector) imposes rules that negatively impact an issuer&apos;s business. For example, the Food and Drug Administrator (FDA) imposing stricter regulations for drug manufacturers. While the regulations may be good for consumers, stricter rules usually mean higher costs to comply (and lower profits). Legislative risk is similar to regulatory risk, but slightly different. Instead of the risk coming from government agency regulators (e.g., FDA or EPA), it comes from new laws approved by Congress and signed by the President. The two other risks mentioned in the answer choices are business risk and market risk. Business risk occurs when mismanagement or competition leads to declining profitability. Market risk occurs when an event or circumstance forces a general market decline.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-61",
+  "section": "2 - Products & Risks",
+  "stem": "Typical investors of commercial paper include all of the following, EXCEPT:",
+  "choices": {
+   "A": "Retail investors",
+   "B": "Mutual funds",
+   "C": "Insurance companies",
+   "D": "Institutions"
+  },
+  "answer": "A",
+  "explanation": "Commercial paper is issued in large denominations (minimum of $100,000 denominations), which prevents investments from small retail investors.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-62",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "Which of the following orders guarantee a specific price or better?",
+  "choices": {
+   "A": "Buy limits and sell limits",
+   "B": "Buy limits and sell stops",
+   "C": "Buy stops and sell stops",
+   "D": "Buy stops and sell limits"
+  },
+  "answer": "A",
+  "explanation": "Limit orders guarantee a specific price or better and will not execute unless the price specified is met. Stop orders require the market to attain a certain price in order to be triggered (elected). However, the order is filled at whatever the next available price is after the trigger. Stop orders do not guarantee price.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-63",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "What is interpositioning?",
+  "choices": {
+   "A": "Selling short stock",
+   "B": "Creating an unnecessary middleman",
+   "C": "Making an unethical recommendation",
+   "D": "Purchasing shares prior to a customer order"
+  },
+  "answer": "B",
+  "explanation": "Interpositioning is the act of creating an unnecessary middleman for a trade. If an extra person or firm is compensated for a role that isn&apos;t important for the trade, this is interpositioning. This is a FINRA violation.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-64",
+  "section": "1 - Capital Markets",
+  "stem": "Which of the following best describes an OTC trade?",
+  "choices": {
+   "A": "A trade taking place outside of an exchange",
+   "B": "A trade taking place on the NYSE",
+   "C": "A trade taking place outside of normal hours",
+   "D": "A trade taking place outside of the US"
+  },
+  "answer": "A",
+  "explanation": "An OTC trade is a trade that does not take place on an exchange.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-65",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "Which of the following is most likely to earn a commission?",
+  "choices": {
+   "A": "Brokers",
+   "B": "Market makers",
+   "C": "Dealers",
+   "D": "Syndicates"
+  },
+  "answer": "A",
+  "explanation": "Brokers, also known as agents, act in an agency capacity. This means they match buyers and sellers and collect a commission when a trade is completed. Brokers do not trade with their own inventory and solely match buyers and sellers.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-66",
+  "section": "1 - Capital Markets",
+  "stem": "Which of the following bonds is most subject to interest rate risk?",
+  "choices": {
+   "A": "T-bill with 30 days to maturity",
+   "B": "7 year Treasury note",
+   "C": "15 year B municipal bond",
+   "D": "25 year AAA corporate bond"
+  },
+  "answer": "D",
+  "explanation": "Bonds with long maturities are most subject to interest rate risk. When interest rates rise, the 25 year AAA corporate bond will fall the furthest in price.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-67",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "All of the following accounts could utilize margin, EXCEPT:",
+  "choices": {
+   "A": "Trust accounts",
+   "B": "Individual accounts",
+   "C": "Custodial accounts",
+   "D": "Discretionary accounts"
+  },
+  "answer": "C",
+  "explanation": "Individual and joint (WROS and TIC) accounts are eligible for margin. In addition, trust account may utilize margin if it&apos;s explicitly allowed in the trust agreement. Most fiduciary accounts (except for discretionary and trust accounts) cannot utilize margin, including guardianship accounts.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-68",
+  "section": "1 - Capital Markets",
+  "stem": "An investor reads in a financial magazine about the benefits of investing in stocks listed on exchanges. What statement made to the investor would be considered misleading or incorrect?",
+  "choices": {
+   "A": "Trades of listed stock in the OTC markets is a third market trade",
+   "B": "Exchange trades are considered part of the primary market",
+   "C": "Only issuers meeting certain listing requirements may list their stock on exchanges",
+   "D": "Trades of listed stock at exchanges is a first market trade"
+  },
+  "answer": "B",
+  "explanation": "Listed securities trade on national exchanges like the New York Stock Exchange (NYSE), American Stock Exchange (NYSE-MKT), and NASDAQ. Only stocks from prominent issuers that meet stringent listing standards are eligible to be traded. While registration with the SEC is required prior to being listed, SEC registration does not solely enable a stock to be listed. Exchange trades occur in the secondary market, which is where securities trade after they&apos;ve been initially sold by the issuer. There are four submarkets of the secondary market: First market: listed stocks trading on exchanges Second market: unlisted stocks trading OTC Third market: listed stocks trading OTC Fourth market: institution-to-institution trading typically using ECNs",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-69",
+  "section": "2 - Products & Risks",
+  "stem": "If a company wants to sell stock to the public, they will hire a(n):",
+  "choices": {
+   "A": "Mutual fund company",
+   "B": "Commercial bank",
+   "C": "Credit union",
+   "D": "Investment bank"
+  },
+  "answer": "D",
+  "explanation": "Investment banks, also known as securities underwriters, work with issuers in order to raise capital (money) by selling securities to the public.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-70",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "Broker-dealers must maintain certain books and records according to financial rules and regulations. Which of the following records requires a lifetime retention period?",
+  "choices": {
+   "A": "Employee records",
+   "B": "Trade confirmations",
+   "C": "Account statements",
+   "D": "Meeting minutes"
+  },
+  "answer": "D",
+  "explanation": "SEC and FINRA rules require broker-dealers to maintain records for specific periods of time. These are the record requirements to be aware of: 3 years Employee records (U4, U5, fingerprints) Trade confirmations Customer statements Public communications Trial balances 4 years Customer complaints (FINRA) 5 years Currency transactions reports (CTRs) Suspicious activity reports (SARs) Customer identification program (CIP) information 6 years Blotters Customer account records (new account forms, agreements) Customer complaints (MSRB) Lifetime Stock certificates Partnership agreements Articles of incorporation Meeting minutes",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-71",
+  "section": "4 - Regulatory Framework",
+  "stem": "Broker-dealers must maintain certain books and records according to financial rules and regulations. Which of the following records requires a 6 year retention period?",
+  "choices": {
+   "A": "Meeting minutes",
+   "B": "POA forms",
+   "C": "Correspondence",
+   "D": "CIP information"
+  },
+  "answer": "B",
+  "explanation": "SEC and FINRA rules require broker-dealers to maintain records for specific periods of time. These are the record requirements to be aware of: 3 years Employee records (U4, U5, fingerprints) Trade confirmations Customer statements Public communications (correspondence) Trial balances 4 years Customer complaints (FINRA) 5 years Currency transactions reports (CTRs) Suspicious activity reports (SARs) Customer identification program (CIP) information 6 years Blotters Customer account records (new account forms, agreements, POA) Customer complaints (MSRB) Lifetime Stock certificates Partnership agreements Articles of incorporation Meeting minutes",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-72",
+  "section": "2 - Products & Risks",
+  "stem": "Which of the following statements regarding pre-emptive rights are incorrect?",
+  "choices": {
+   "A": "One right is received per share of stock owned",
+   "B": "Rights maintain significant time value at issuance",
+   "C": "Rights maintain intrinsic value at issuance",
+   "D": "Rights offerings are typically connected to additional offerings"
+  },
+  "answer": "B",
+  "explanation": "Pre-emptive rights are typically issued in conjunction with additional offerings of common stock in order to avoid diluting current shareholders. They have intrinsic value at issuance, meaning they allow the purchase of shares at a price below their current market value. Little time value exists, given their expiration date is typically 90 days or less from issuance. One right is provided per share of stock owned. This does not vary.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-73",
+  "section": "2 - Products & Risks",
+  "stem": "Poet purchases a 30 year, 4% corporate bond at 116. The bond is callable in 10 years at 105. What is the call premium?",
+  "choices": {
+   "A": "$40",
+   "B": "$50",
+   "C": "$60",
+   "D": "$70"
+  },
+  "answer": "B",
+  "explanation": "The call premium is the amount above par ($1,000) that the issuer must pay to call the bond. This bond is callable at 105, which means the issuer must pay $1,050 to call the bond. Therefore, the call premium is $50.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-74",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "Which of the following would appear on an order ticket?",
+  "choices": {
+   "A": "Time constraints of order",
+   "B": "Market order price",
+   "C": "Customer&apos;s TIN",
+   "D": "Commission due"
+  },
+  "answer": "A",
+  "explanation": "An order ticket&apos;s purpose is to tell the market what security a customer wants to trade and the parameters surrounding the trade. The time constraint of the order (day or GTC) must be placed on the order ticket. The commission is reported on the trade confirmation. The customer&apos;s account number or name is needed, not their tax identification number (TIN). Market orders do not specify price; these orders direct the firm to fill orders at the next available price.",
+  "source": "Achievable free SIE practice exam"
+ },
+ {
+  "id": "web-ACHIEVABLE-75",
+  "section": "2 - Products & Risks",
+  "stem": "Standard equity options contracts expire at what time?",
+  "choices": {
+   "A": "10:59pm CT on the third Friday of the expiration month",
+   "B": "10:59pm CT on the second Friday of the expiration month",
+   "C": "11:59pm CT on the third Friday of the expiration month",
+   "D": "11:59pm CT on the second Friday of the expiration month"
+  },
+  "answer": "A",
+  "explanation": "Standard equity options contracts (and most other options contracts) expire on the third Friday of the expiration month at 11:59pm ET. Be careful and be sure to read the full question and answer set! The answers are given in CT, therefore the option will expire at 10:59pm CT on the third Friday of the month. Options timeframes can be displayed in central time as most options trade in Chicago (which is in the central time zone).",
+  "source": "Achievable free SIE practice exam"
+ }
+];

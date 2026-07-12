@@ -70,20 +70,6 @@ var SIE_QUESTIONS_YT_KNOP2 = [
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {
-    "id": "yt-knop2-23",
-    "section": "2 - Products & Risks",
-    "stem": "An investor buys $1 million of 10% corporate bonds at par. At the end of the day, the bonds close up 1/2 point. The investor has a gain of",
-    "choices": {
-      "A": "$2,500",
-      "B": "$50,000",
-      "C": "$25,000",
-      "D": "$5,000"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “$2,500”. A zero-coupon bond pays no periodic interest (0% current yield) and returns principal at maturity.",
-    "source": "YouTube: Series 7 Guru (knop2)"
-  },
-  {
     "id": "yt-knop2-26",
     "section": "3 - Trading, Accounts & Prohibited",
     "stem": "Which of the following is a legitimate business practice?",
@@ -98,20 +84,6 @@ var SIE_QUESTIONS_YT_KNOP2 = [
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {
-    "id": "yt-knop2-28",
-    "section": "4 - Regulatory Framework",
-    "stem": "Registered representatives are required to complete Firm Element CE",
-    "choices": {
-      "A": "every two years",
-      "B": "when they become statutorily disqualified",
-      "C": "annually",
-      "D": "within 120 days of their second anniversary of being registered and every three years thereafter"
-    },
-    "answer": "D",
-    "explanation": "The correct choice (D) is: “within 120 days of their second anniversary of being registered and every three years thereafter”. Registered persons must complete continuing-education (Regulatory Element) within 120 days of their second registration anniversary and every three years after.",
-    "source": "YouTube: Series 7 Guru (knop2)"
-  },
-  {
     "id": "yt-knop2-29",
     "section": "4 - Regulatory Framework",
     "stem": "Craig would like to participate in a tender offer for MNO Inc. and currently holds a net short position in MNO shares. Craig",
@@ -123,20 +95,6 @@ var SIE_QUESTIONS_YT_KNOP2 = [
     },
     "answer": "B",
     "explanation": "The correct choice (B) is: “Must get permission from MNO's board of directors in order to participate”. A tender offer is a public bid by an acquirer to buy shareholders' stock at a premium, governed by SEC tender-offer rules.",
-    "source": "YouTube: Series 7 Guru (knop2)"
-  },
-  {
-    "id": "yt-knop2-49",
-    "section": "2 - Products & Risks",
-    "stem": "Which of the following statements concerning mutual funds is not correct?",
-    "choices": {
-      "A": "Their net asset value must be determined at least once each business day",
-      "B": "Investors have one year to fulfill their obligation under a letter of intent",
-      "C": "Both load and no-load funds have expense ratios",
-      "D": "The fund stands ready to issue and redeem shares as necessary"
-    },
-    "answer": "A",
-    "explanation": "The correct choice (A) is: “Their net asset value must be determined at least once each business day”. Open-end fund shares are priced at NAV (plus any sales charge) and redeemed directly with the fund.",
     "source": "YouTube: Series 7 Guru (knop2)"
   },
   {

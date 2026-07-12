@@ -246,6 +246,11 @@
       </div>
       <p class="small" style="margin-top:10px">Tip: the real SIE has 5 unscored "pretest" questions mixed in. This mode keeps your score honest by grading only the 75 blueprint-weighted questions.</p>
     </div>
+    <div class="card">
+      <h2>📈 Mock Exam History</h2>
+      <p class="muted">Your timed-exam trend over time. Watch the line climb above 70% before July 29.</p>
+      <div id="exam-history"></div>
+    </div>
     <div class="card hidden" id="exam-run">
       <div class="exambar">
         <span class="pill" id="exam-qcount"></span>
@@ -1187,11 +1192,31 @@ function renderLit(){
 /* ---------------- MOCK EXAM ---------------- */
 const EXAM_BLUEPRINT = {"1 - Capital Markets":12,"2 - Products & Risks":33,"3 - Trading, Accounts & Prohibited":23,"4 - Regulatory Framework":7};
 let mock={}, mtimer=null;
+function loadExamHistory(){ try{ return JSON.parse(localStorage.getItem('sie_exam_history')||'[]'); }catch(e){ return []; } }
+function recordExamHistory(rec){ try{ const h=loadExamHistory(); h.push(rec); localStorage.setItem('sie_exam_history', JSON.stringify(h.slice(-50))); }catch(e){} }
+function renderExamHistory(){
+  const el=document.getElementById('exam-history'); if(!el) return;
+  const h=loadExamHistory();
+  if(!h.length){ el.innerHTML='<p class="muted">No mock exams taken yet. Run one above to start tracking your trend.</p>'; return; }
+  const latest=h[h.length-1], best=h.reduce((a,r)=>Math.max(a,r.pct),0);
+  let html=`<div class="row" style="margin-bottom:10px;flex-wrap:wrap;gap:8px"><span class="pill" style="border-color:var(--acc);color:var(--acc)">Latest: ${latest.pct}% (${latest.correct}/${latest.scored})</span> <span class="pill" style="border-color:var(--good);color:var(--good)">Best: ${best}%</span> <span class="pill">${h.length} taken</span></div>`;
+  const recent=h.slice(-14);
+  html+='<div style="display:flex;align-items:flex-end;gap:4px;height:60px;margin-top:6px">';
+  recent.forEach(r=>{
+    const hgt=Math.max(4,Math.round(r.pct*0.6));
+    const col=r.pct>=70?'var(--good)':(r.pct>=60?'var(--warn)':'var(--bad)');
+    html+=`<div title="${r.date} (${r.kind}): ${r.pct}%" style="flex:1;height:${hgt}px;background:${col};border-radius:3px 3px 0 0;min-width:6px"></div>`;
+  });
+  html+='</div>';
+  html+='<div class="small" style="margin-top:6px">Most recent on the right · green = pass (≥70%) · last 14 exams</div>';
+  el.innerHTML=html;
+}
 function renderMockSetupView(){
   document.getElementById('exam-setup').classList.remove('hidden');
   document.getElementById('exam-run').classList.add('hidden');
   document.getElementById('exam-result').classList.add('hidden');
   document.getElementById('exam-review').classList.add('hidden');
+  renderExamHistory();
 }
 function blueprintSample(){
   // build a 75-q list matching the FINRA section counts exactly
@@ -1306,6 +1331,7 @@ function submitMock(){
   });
   document.getElementById('exam-rsecs').innerHTML=sh;
   recordStreak();
+  recordExamHistory({date:new Date().toISOString().slice(0,10), pct, correct, scored:mock.scoredn, kind:(mock.items.length>=75?'full':'half'), bySec});
 }
 function reviewMock(){
   document.getElementById('exam-result').classList.add('hidden');

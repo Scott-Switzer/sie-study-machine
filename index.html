@@ -143,6 +143,11 @@
       </div>
     </div>
     <div class="card">
+      <h2>📚 Study Guides for Your Gaps</h2>
+      <p class="muted">When a topic isn't clicking, open the guide that covers it. Ranked by your weakest sections.</p>
+      <div id="reading"></div>
+    </div>
+    <div class="card">
       <h2>🎯 Weak-Areas Drill</h2>
       <p class="muted">Questions drawn from YOUR worst sections first (accuracy &lt; 70% or unseen), prioritized by what you've gotten wrong. The more you drill, the smarter it gets.</p>
       <div id="weakrank"></div>
@@ -724,6 +729,30 @@ function show(page){
 }
 
 /* ---------------- DASHBOARD ---------------- */
+function renderReading(){
+  const el=document.getElementById('reading'); if(!el) return;
+  const secs=[...new Set(SIE_QUESTIONS.map(q=>q.section))];
+  const weak=secs.filter(sec=> sectionAcc(sec)<0.7).sort((a,b)=>sectionAcc(a)-sectionAcc(b));
+  const lit={}; LIT_ITEMS.forEach(it=> lit[it.tags]=it);
+  const openBtn = it => `<button class="btn primary" style="padding:5px 10px;font-size:12px" onclick="window.open('${it.file}','_blank')">Open</button>`;
+  let html='';
+  if(!weak.length){
+    html = `<p class="muted">All sections ≥70% — but if any topic feels shaky, the <b>${lit.official.title}</b> is the fastest way to find the exact subsection.</p>`;
+    html += `<div class="revrow" style="align-items:center"><div style="flex:1"><div style="font-weight:700">${lit.official.title}</div><div class="small">${lit.official.desc}</div></div>${openBtn(lit.official)}</div>`;
+    el.innerHTML=html; return;
+  }
+  html += `<p class="small" style="margin-bottom:10px">Your weakest sections: ${weak.map(s=>s.split(' - ')[1]+' '+Math.round(sectionAcc(s)*100)+'%').join(' · ')}</p>`;
+  weak.forEach(sec=>{
+    const name=sec.split(' - ')[1];
+    html += `<div style="margin:10px 0 4px;font-weight:700;color:var(--warn)">${name} — start here:</div>`;
+    // FINRA outline = exact topic map for every section
+    html += `<div class="revrow" style="align-items:center"><div style="flex:1"><div style="font-weight:700">${lit.official.title}</div><div class="small">Find the exact ${name} subsection you missed.</div></div>${openBtn(lit.official)}</div>`;
+    // a deep guide
+    const deep = lit.course || lit.vendor;
+    if(deep) html += `<div class="revrow" style="align-items:center"><div style="flex:1"><div style="font-weight:700">${deep.title}</div><div class="small">${deep.desc}</div></div>${openBtn(deep)}</div>`;
+  });
+  el.innerHTML=html;
+}
 function renderDash(){
   document.getElementById('st-total').textContent = SIE_QUESTIONS.length;
   const ids = Object.keys(state);
@@ -785,6 +814,7 @@ function renderDash(){
   document.getElementById('weak').innerHTML = wh;
   document.getElementById('streak-box').innerHTML = renderStreak();
   renderWeakRank();
+  renderReading();
 }
 
 /* ---------------- PRACTICE ---------------- */
@@ -1017,6 +1047,8 @@ function renderFcSetup(){
   let html=`<button class="btn primary" onclick="startFc('all')">All Sections</button>`;
   const weakN = SIE_QUESTIONS.filter(isWeak).length;
   if(weakN>0) html+=`<button class="btn" style="border-color:var(--warn);color:var(--warn)" onclick="startFcWeak()">⚑ Flagged & Weak (${weakN})</button>`;
+  const dueN = SIE_QUESTIONS.filter(q=>{ const st=state[q.id]; return st && st.due && st.due<=Date.now(); }).length;
+  if(dueN>0) html+=`<button class="btn" style="border-color:var(--acc);color:var(--acc)" onclick="startFcDue()">🔁 Due for review (${dueN})</button>`;
   Object.keys(secs).forEach(sec=>{ html+=`<button class="btn" data-fc="${sec}" onclick="startFc('${sec}')">${sec} (${secs[sec]})</button>`;});
   document.getElementById('fc-sec').innerHTML=html;
   document.getElementById('fc-controls').style.display='none';
@@ -1030,13 +1062,19 @@ function isWeak(q){
 }
 function startFc(sec){
   fcList = SIE_QUESTIONS.filter(q=> sec==='all'||q.section===sec);
-  for(let i=fcList.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[fcList[i],fcList[j]]=[fcList[j],fcList[i]];}
+  fcSortDue();
   fcIdx=0; showFc();
 }
 function startFcWeak(){
   fcList = SIE_QUESTIONS.filter(isWeak);
   if(!fcList.length){ toast('No flagged or weak questions yet — answer some first!'); return; }
-  for(let i=fcList.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[fcList[i],fcList[j]]=[fcList[j],fcList[i]];}
+  fcSortDue();
+  fcIdx=0; showFc();
+}
+function startFcDue(){
+  fcList = SIE_QUESTIONS.filter(q=>{ const st=state[q.id]; return st && st.due && st.due<=Date.now(); });
+  if(!fcList.length){ toast('Nothing due right now — great job keeping up!'); return; }
+  fcSortDue();
   fcIdx=0; showFc();
 }
 function showFc(){
@@ -1056,8 +1094,20 @@ function flip(){
   document.getElementById('fc-a').classList.toggle('hidden',!fcFlipped);
   document.getElementById('fc-flip').classList.toggle('hidden',fcFlipped);
 }
-function fcKnown(){ toast('Marked known'); fcNext(); }
-function fcAgain(){ toast('Keep studying'); fcNext(); }
+const FC_INTERVALS=[1,3,7,16,35]; // review interval in days per Leitner box
+function fcInit(q){ if(!state[q.id]) state[q.id]={seen:0,correct:0,wrong:0}; const st=state[q.id]; if(typeof st.box!=='number') st.box=1; if(typeof st.due!=='number') st.due=0; }
+function fcSortDue(){ fcList.sort((a,b)=>{ const da=(state[a.id]&&state[a.id].due)||0; const db=(state[b.id]&&state[b.id].due)||0; return da-db; }); }
+function fcGrade(known){
+  const q=fcList[fcIdx]; fcInit(q); const st=state[q.id];
+  if(known){ st.box=Math.min(5,st.box+1); } else { st.box=1; }
+  const days=FC_INTERVALS[st.box-1];
+  st.due = Date.now() + days*86400000;
+  saveState();
+  toast(known ? ('Box '+st.box+' · review in '+days+'d') : 'Reset to Box 1');
+  fcNext();
+}
+function fcKnown(){ fcGrade(true); }
+function fcAgain(){ fcGrade(false); }
 function fcNext(){ if(fcIdx<fcList.length-1){fcIdx++; showFc();} }
 function fcPrev(){ if(fcIdx>0){fcIdx--; showFc();} }
 

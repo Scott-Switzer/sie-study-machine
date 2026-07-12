@@ -1,4 +1,4 @@
-var SIE_QUESTIONS_YT_SW1 = [
+var SIE_QUESTIONS_YOUTUBE_SW1 = [
  {
   "id": "yt-SW1-1",
   "section": "4 - Regulatory Framework",

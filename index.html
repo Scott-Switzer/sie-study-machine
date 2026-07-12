@@ -117,6 +117,7 @@
         <div class="stat"><div class="n" id="st-flagged">0</div><div class="l">⚑ Flagged</div></div>
         <div class="stat"><div class="n" id="st-acc">0%</div><div class="l">Accuracy</div></div>
         <div class="stat"><div class="n" id="st-mastered">0</div><div class="l">Mastered</div></div>
+        <div class="stat"><div class="n" id="st-ready">—</div><div class="l">Exam Readiness</div></div>
       </div>
     </div>
     <div class="card">
@@ -733,6 +734,20 @@ function renderDash(){
   document.getElementById('st-acc').textContent = total? Math.round(correct/total*100)+'%':'0%';
   const mastered = ids.filter(id=>state[id].wrong===0 && state[id].seen>=2).length;
   document.getElementById('st-mastered').textContent = mastered;
+  // Exam Readiness = accuracy weighted by FINRA domain weight; unseen treated as 0%
+  const seenSecs = Object.keys(SEC_WEIGHT).filter(sec=> SIE_QUESTIONS.some(q=>q.section===sec && state[q.id] && (state[q.id].seen||0)>0));
+  if(seenSecs.length){
+    let wsum=0, wacc=0;
+    Object.keys(SEC_WEIGHT).forEach(sec=>{
+      const w=SEC_WEIGHT[sec];
+      wsum+=w;
+      wacc += w * (sectionAcc(sec)*100);
+    });
+    const ready = Math.round(wacc/wsum);
+    const el=document.getElementById('st-ready');
+    el.textContent = ready+'%';
+    el.style.color = ready>=80? 'var(--good)' : (ready>=60? 'var(--warn)' : 'var(--bad)');
+  }
   const flagged = ids.filter(id=>state[id].flagged).length;
   document.getElementById('st-flagged').textContent = flagged;
 

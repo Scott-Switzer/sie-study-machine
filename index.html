@@ -395,8 +395,17 @@
 <script src="questions_youtube_guru72.js"></script>
 <script src="questions_youtube_guru73.js"></script>
 <script src="questions_youtube_guru75.js"></script>
+<script src="questions_web_quizlet.js"></script>
+<script src="questions_youtube_sw1.js"></script>
 <script>
 /* Concatenate all banks */
+if (typeof SIE_QUESTIONS_QUIZLET !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_QUIZLET);
+}
+if (typeof SIE_QUESTIONS_SW1 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_SW1);
+}
+
 if (typeof SIE_QUESTIONS_GURU73 !== "undefined") {
   SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_GURU73);
 }

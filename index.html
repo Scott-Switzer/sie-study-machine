@@ -400,8 +400,12 @@
 <script src="questions_youtube_ca5.js"></script>
 <script src="questions_youtube_ca6.js"></script>
 <script src="questions_web_quizlet2.js"></script>
+<script src="questions_web_more.js"></script>
 <script>
 /* Concatenate all banks */
+if (typeof SIE_QUESTIONS_WEB_WEBMORE !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_WEB_WEBMORE);
+}
 if (typeof SIE_QUESTIONS_WEB_QUIZLET2 !== "undefined") {
   SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_WEB_QUIZLET2);
 }

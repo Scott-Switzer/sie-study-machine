@@ -1000,12 +1000,27 @@ let fcList=[], fcIdx=0, fcFlipped=false;
 function renderFcSetup(){
   const secs={}; SIE_QUESTIONS.forEach(q=>{secs[q.section]=(secs[q.section]||0)+1;});
   let html=`<button class="btn primary" onclick="startFc('all')">All Sections</button>`;
-  Object.keys(secs).forEach(s=>{ html+=`<button class="btn" data-fc="${s}" onclick="startFc('${s}')">${s} (${secs[s]})</button>`;});
+  const weakN = SIE_QUESTIONS.filter(isWeak).length;
+  if(weakN>0) html+=`<button class="btn" style="border-color:var(--warn);color:var(--warn)" onclick="startFcWeak()">⚑ Flagged & Weak (${weakN})</button>`;
+  Object.keys(secs).forEach(sec=>{ html+=`<button class="btn" data-fc="${sec}" onclick="startFc('${sec}')">${sec} (${secs[sec]})</button>`;});
   document.getElementById('fc-sec').innerHTML=html;
   document.getElementById('fc-controls').style.display='none';
 }
+function isWeak(q){
+  const st=state[q.id];
+  if(st&&st.flagged) return true;
+  if(!st||!st.seen) return false;
+  const acc=st.correct/(st.correct+st.wrong||1);
+  return acc<0.7;
+}
 function startFc(sec){
   fcList = SIE_QUESTIONS.filter(q=> sec==='all'||q.section===sec);
+  for(let i=fcList.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[fcList[i],fcList[j]]=[fcList[j],fcList[i]];}
+  fcIdx=0; showFc();
+}
+function startFcWeak(){
+  fcList = SIE_QUESTIONS.filter(isWeak);
+  if(!fcList.length){ toast('No flagged or weak questions yet — answer some first!'); return; }
   for(let i=fcList.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[fcList[i],fcList[j]]=[fcList[j],fcList[i]];}
   fcIdx=0; showFc();
 }

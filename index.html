@@ -399,8 +399,12 @@
 <script src="questions_youtube_sw1.js"></script>
 <script src="questions_youtube_ca5.js"></script>
 <script src="questions_youtube_ca6.js"></script>
+<script src="questions_web_quizlet2.js"></script>
 <script>
 /* Concatenate all banks */
+if (typeof SIE_QUESTIONS_WEB_QUIZLET2 !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_WEB_QUIZLET2);
+}
 if (typeof SIE_QUESTIONS_YT_CA5 !== "undefined") {
   SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YT_CA5);
 }

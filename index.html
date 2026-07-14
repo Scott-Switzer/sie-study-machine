@@ -148,6 +148,11 @@
       <div id="reading"></div>
     </div>
     <div class="card">
+      <h2>⚑ Reported Questions</h2>
+      <p class="muted">Tap "Report wrong/garbled" on any question to flag it. We review reports and fix the bank.</p>
+      <div id="report-box"></div>
+    </div>
+    <div class="card">
       <h2>🎯 Weak-Areas Drill</h2>
       <p class="muted">Questions drawn from YOUR worst sections first (accuracy &lt; 70% or unseen), prioritized by what you've gotten wrong. The more you drill, the smarter it gets.</p>
       <div id="weakrank"></div>
@@ -387,7 +392,7 @@
 <script src="questions_youtube_guru49.js"></script>
 <script src="questions_youtube_guru50.js"></script>
 
-<script src="questions_youtube_guru51.js"></script>
+
 
 <script src="questions_youtube_guru63.js"></script>
 <script src="questions_youtube_guru64.js"></script>
@@ -734,6 +739,16 @@ function show(page){
 }
 
 /* ---------------- DASHBOARD ---------------- */
+function renderReports(){
+  const el=document.getElementById('report-box'); if(!el) return;
+  const r=loadReports();
+  const ids=Object.keys(r);
+  if(!ids.length){ el.innerHTML='<p class="muted">None reported yet.</p>'; return; }
+  let html='<ul class="muted" style="margin:6px 0 0 16px">';
+  ids.forEach(id=>{ html+=`<li><code>${id}</code> — reported ${r[id]}×</li>`; });
+  html+='</ul>';
+  el.innerHTML=html;
+}
 function renderReading(){
   const el=document.getElementById('reading'); if(!el) return;
   const secs=[...new Set(SIE_QUESTIONS.map(q=>q.section))];
@@ -820,6 +835,7 @@ function renderDash(){
   document.getElementById('streak-box').innerHTML = renderStreak();
   renderWeakRank();
   renderReading();
+  renderReports();
 }
 
 /* ---------------- PRACTICE ---------------- */
@@ -984,7 +1000,8 @@ function answer(letter,btn,q){
   e.innerHTML =
     `<div class="exp-head ${correct?'ok':'no'}">${correct?'✓ Correct':'✗ Incorrect'} — you picked ${youPicked}</div>`+
     `<div class="exp-why"><b>Why:</b> ${why}</div>`+
-    `<div class="exp-src muted">${correct?'Correct answer':'The right answer is'} ${q.answer}. ${correctTxt} <span class="exp-from">· Source: ${q.source||'bank'}</span></div>`;
+    `<div class="exp-src muted">${correct?'Correct answer':'The right answer is'} ${q.answer}. ${correctTxt} <span class="exp-from">· Source: ${q.source||'bank'}</span></div>`+
+    `<div class="exp-report"><button class="btn small" style="margin-top:8px" onclick="reportQ('${q.id}')">⚑ Report wrong/garbled</button></div>`;
   e.classList.remove('hidden');
   if(qi===quiz.length-1) document.getElementById('btn-finish').classList.remove('hidden');
   else document.getElementById('btn-next').classList.remove('hidden');
@@ -1001,6 +1018,18 @@ function finishQuiz(){
 }
 function resetProgress(){
   if(confirm('Erase all progress?')){ state={}; saveState(); renderDash(); toast('Progress reset'); }
+}
+
+function reportQ(qid){
+  try{
+    const r=loadReports();
+    r[qid]=(r[qid]||0)+1;
+    localStorage.setItem('sie_reports', JSON.stringify(r));
+    toast('Reported — thanks! We will review it.');
+  }catch(e){ toast('Could not save report'); }
+}
+function loadReports(){
+  try{ return JSON.parse(localStorage.getItem('sie_reports')||'{}'); }catch(e){ return {}; }
 }
 function toggleFlagQ(){
   if(!quiz.length) return;

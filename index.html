@@ -42,6 +42,8 @@
   /* quiz */
   .qstem{font-size:17px;font-weight:600;margin:14px 0 18px;line-height:1.5}
   .choice{display:block;width:100%;text-align:left;background:var(--panel2);border:1px solid var(--line);color:var(--txt);padding:13px 15px;border-radius:9px;margin-bottom:10px;cursor:pointer;font-size:14.5px}
+.kbd{display:inline-block;min-width:18px;text-align:center;font-weight:700;color:var(--mut);border:1px solid var(--line);border-radius:4px;padding:0 4px;margin-right:8px;font-size:12px}
+
   .choice:hover{border-color:var(--acc)}
   .choice.sel{border-color:var(--acc);background:#163055}
   .choice.correct{border-color:var(--good);background:#10331c;color:#aff5c8}
@@ -119,6 +121,9 @@
         <div class="stat"><div class="n" id="st-mastered">0</div><div class="l">Mastered</div></div>
         <div class="stat"><div class="n" id="st-ready">—</div><div class="l">Exam Readiness</div></div>
       </div>
+    <div class="card">
+      <h2>🎯 Exam Countdown & Daily Goal</h2>
+      <div id="goal-box"></div>
     </div>
     <div class="card">
       <h2>By Section (exam weight)</h2>
@@ -134,6 +139,7 @@
       <div class="row">
         <button class="btn primary" onclick="startQuiz('all')">Start a Full Mixed Quiz</button>
         <button class="btn" onclick="startQuick15()">Quick 15</button>
+        <button class="btn" onclick="startAdaptiveQuick()">🧠 Adaptive 15</button>
         <button class="btn" onclick="startMistakes()">Review Mistakes</button>
         <button class="btn" onclick="startFlagged()">⚑ Review Flagged</button>
         <button class="btn" onclick="deepDive()">📖 Wrong-Answer Deep Dive</button>
@@ -180,6 +186,7 @@
           </select>
         </label>
         <label class="small"><input type="checkbox" id="onlyweak"> Only weak/ unseen first</label>
+        <label class="small"><input type="checkbox" id="adaptive"> 🧠 Adaptive (over-sample weak sections)</label>
       </div>
       <div class="row" style="margin-top:14px">
         <button class="btn primary" onclick="beginQuiz()">Begin Quiz</button>
@@ -836,10 +843,12 @@ function renderDash(){
   renderWeakRank();
   renderReading();
   renderReports();
+  renderGoal();
 }
 
 /* ---------------- PRACTICE ---------------- */
 let quiz = [], qi=0, quizCorrect=0;
+function startAdaptiveQuick(){ document.getElementById('adaptive').checked=true; startQuizWith('all',15); }
 function startQuick15(){ startQuizWith('all', 15); }
 function startMistakes(){
   const wrong = SIE_QUESTIONS.filter(q=>{ const s=state[q.id]; return s && (s.wrong||0)>0; });
@@ -946,8 +955,32 @@ function startQuizWith(section, fixedN){
   }
   let n = fixedN || document.getElementById('qcount').value;
   if(n==='all') n = pool.length; else n = Math.min(parseInt(n), pool.length);
-  // shuffle
-  for(let i=pool.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[pool[i],pool[j]]=[pool[j],pool[i]];}
+  // adaptive weak-first weighting
+  const adaptive = document.getElementById('adaptive') && document.getElementById('adaptive').checked;
+  if(adaptive && pool.length){
+    const scored = pool.map(q=>{
+      const st=state[q.id];
+      let acc = st? (st.correct||0)/((st.correct||0)+(st.wrong||0)||1):0;
+      const seen = st? (st.seen||0):0;
+      let w = (1-acc);                       // lower accuracy -> higher weight
+      if(!seen) w += 1.5;                    // unseen strongly prioritized
+      if(st && (st.wrong||0)>0) w += 0.5;    // previously missed -> boost
+      return {q, w:Math.max(0.01,w)};
+    });
+    const totalW = scored.reduce((a,b)=>a+b.w,0);
+    const pickN = Math.min(n, pool.length);
+    const chosen=[]; const bag=scored.slice();
+    for(let k=0;k<pickN;k++){
+      let r=Math.random()*totalW, acc2=0, idx=0;
+      for(let i=0;i<bag.length;i++){ acc2+=bag[i].w; if(r<=acc2){ idx=i; break; } }
+      chosen.push(bag[idx].q);
+    }
+    // light shuffle so weak ones aren't all at the front
+    for(let i=chosen.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[chosen[i],chosen[j]]=[chosen[j],chosen[i]];}
+    pool = chosen.slice();
+  } else {
+    for(let i=pool.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[pool[i],pool[j]]=[pool[j],pool[i]];}
+  }
   quiz = pool.slice(0,n);
   qi=0; quizCorrect=0;
   document.getElementById('prac-setup').classList.add('hidden');
@@ -962,9 +995,12 @@ function renderQ(){
   document.getElementById('q-progress').textContent = '';
   document.getElementById('q-stem').textContent = q.stem;
   const c = document.getElementById('q-choices'); c.innerHTML='';
-  Object.keys(q.choices).forEach(k=>{
+  const keys=Object.keys(q.choices);
+  keys.forEach((k,idx)=>{
     const b=document.createElement('button');
-    b.className='choice'; b.textContent=q.choices[k]; b.onclick=()=>answer(k,b,q);
+    b.className='choice'; b.dataset.key=k;
+    b.innerHTML=`<span class="kbd">${k}</span>${q.choices[k]}`;
+    b.onclick=()=>answer(k,b,q);
     c.appendChild(b);
   });
   document.getElementById('q-exp').classList.add('hidden');
@@ -992,6 +1028,7 @@ function answer(letter,btn,q){
   if(correct){ state[q.id].correct++; quizCorrect++; }
   else state[q.id].wrong++;
   saveState();
+  bumpDaily();
   // explanation — show WHY, not just the source
   const e=document.getElementById('q-exp');
   const youPicked = letter ? `${letter}. ${q.choices[letter]||''}` : '—';
@@ -1378,6 +1415,41 @@ function reviewMock(){
   document.getElementById('exam-revlist').innerHTML=html;
 }
 
+
+/* ---------------- GOAL / COUNTDOWN ---------------- */
+const EXAM_DEFAULT = "2026-07-29";
+function loadGoal(){ try{ return JSON.parse(localStorage.getItem('sie_goal')||'{}'); }catch(e){ return {}; } }
+function saveGoal(g){ localStorage.setItem('sie_goal', JSON.stringify(g)); }
+function daysLeft(){
+  const g=loadGoal(); const d=g.exam||EXAM_DEFAULT;
+  return Math.max(0, Math.round((new Date(d+'T00:00:00')-new Date())/86400000));
+}
+function dailyKey(){ return new Date().toISOString().slice(0,10); }
+function bumpDaily(){ try{ const k=dailyKey(); let d=JSON.parse(localStorage.getItem('sie_daily')||'{}'); if(d.date!==k){d={date:k,n:0};} d.n++; localStorage.setItem('sie_daily',JSON.stringify(d)); }catch(e){} }
+function renderGoal(){
+  const g=loadGoal(); const el=document.getElementById('goal-box'); if(!el) return;
+  const dl=daysLeft();
+  const d=JSON.parse(localStorage.getItem('sie_daily')||'{}');
+  const todayN = d.date===dailyKey()? (d.n||0):0;
+  const target=g.target||25;
+  const pct=Math.min(100,Math.round(todayN/target*100));
+  el.innerHTML =
+    `<div style="display:flex;gap:18px;align-items:center;flex-wrap:wrap">`+
+    `<div><div style="font-size:26px;font-weight:800;color:var(--bad)">${dl}</div><div class="small muted">days until ${g.exam||EXAM_DEFAULT}</div></div>`+
+    `<div style="flex:1;min-width:160px"><div class="small muted">Today: ${todayN} / ${target} questions</div>`+
+    `<div class="bar" style="margin-top:4px"><i style="width:${pct}%;background:${pct>=100?'var(--good)':'var(--warn)'}"></i></div></div>`+
+    `<button class="btn small" onclick="editGoal()">Set exam date / daily goal</button>`+
+    `</div>`;
+}
+function editGoal(){
+  const g=loadGoal();
+  const d=prompt('Exam date (YYYY-MM-DD):', g.exam||EXAM_DEFAULT);
+  if(!d) return;
+  const t=prompt('Daily question goal:', g.target||25);
+  if(t===null) return;
+  saveGoal({exam:d, target:parseInt(t)||25});
+  renderGoal(); renderDash();
+}
 /* ---------------- STUDY STREAK ---------------- */
 function todayKey(){ return new Date().toISOString().slice(0,10); }
 function recordStreak(){
@@ -1404,6 +1476,29 @@ function toast(msg,err){
   t.className='toast show'+(err?' err':'');
   clearTimeout(toastT); toastT=setTimeout(()=>t.className='toast',1400);
 }
+
+/* ---------------- KEYBOARD SHORTCUTS ---------------- */
+function onKey(e){
+  const run=document.getElementById('prac-run');
+  if(!run || run.classList.contains('hidden')) return;
+  const expShown=!document.getElementById('q-exp').classList.contains('hidden');
+  if(!expShown){
+    const map={'1':0,'2':1,'3':2,'4':3};
+    if(e.key in map){
+      const btns=document.querySelectorAll('#q-choices .choice');
+      const b=btns[map[e.key]]; if(b&&b.onclick){ e.preventDefault(); b.click(); }
+    } else if(e.key==='f'||e.key==='F'){
+      e.preventDefault(); toggleFlagQ();
+    }
+  } else {
+    if(e.key==='Enter'){ e.preventDefault();
+      if(!document.getElementById('btn-finish').classList.contains('hidden')) finishQuiz();
+      else if(!document.getElementById('btn-next').classList.contains('hidden')) nextQ();
+    }
+  }
+}
+document.addEventListener('keydown', onKey);
+
 // init
 (function(){ renderDash(); })();
 </script>

@@ -1,102 +1,46 @@
-/* ============================================================================
- * blurbs.js  —  CONCEPT -> MEMORY BLURB library (the "recap" content).
- * ----------------------------------------------------------------------------
- * Each entry keyed by the same concept id used in concept_map.js.
- *   title   : short label for the recap header
- *   section : SIE domain (for grouping)
- *   blurb   : the 1-3 sentence memory aid shown in the post-drill recap
- *   trap     : the single most-tested "gotcha" (used as the flashcard BACK)
- *   compare  : side-by-side rows that directly fix the mix-up
- *   related  : other concept ids worth showing together
- *
- * Delivered as a `var` assignment (not fetch) to match the app's file:// load.
- * ==========================================================================*/
+/* SIE_BLURBS — 35 doc confusion pairs + 8 agent-origin pairs (43 total). */
 var SIE_BLURBS = {
-  "rights_vs_warrants": {
-    "title": "Rights vs. Warrants",
-    "section": "2 - Products & Risks",
-    "blurb": "Both let a holder buy issuer stock at a fixed price. Rights = short (~30-45 days), issued to CURRENT shareholders to raise quick capital. Warrants = long (years), usually attached to a new bond/IPO offering.",
-    "trap": "The question 'which security has the LONGEST period to expiration at issuance?' = WARRANTS (not rights, not options). Rights are the SHORT one.",
-    "compare": [
-      { "item": "Rights",  "point": "Short-dated (~30-45d); existing shareholders; preemptive" },
-      { "item": "Warrants", "point": "Long-dated (years); often with new issue; longest maturity at issuance" }
-    ],
-    "related": ["accred_vs_qib"]
-  },
-  "accred_vs_qib": {
-    "title": "Accredited Investor vs. QIB",
-    "section": "2 - Products & Risks",
-    "blurb": "Accredited Investor = a person/entity meeting wealth thresholds (can buy private placements directly). QIB = a large institution with $100M+ in securities; needed to buy RESTRICTED stock under Rule 144A.",
-    "trap": "Rule 144A restricted-stock sales go to QIBs (institutions), NOT merely 'accredited investors'. Don't swap the two.",
-    "compare": [
-      { "item": "Accredited Investor", "point": "Person/entity wealth test; buys private placements" },
-      { "item": "QIB", "point": "$100M+ institution; buys Rule 144A restricted stock" }
-    ],
-    "related": ["rights_vs_warrants"]
-  },
-  "etn_vs_etf": {
-    "title": "ETN vs. ETF",
-    "section": "2 - Products & Risks",
-    "blurb": "ETF owns a basket of securities. ETN is senior UNSECURED debt of the issuer, so it carries the issuer's CREDIT/default risk.",
-    "trap": "A credit-rating DOWNGRADE of the issuer hurts an ETN (it's the issuer's debt) but does NOT affect an ETF.",
-    "compare": [
-      { "item": "ETF", "point": "Owns the underlying basket; no issuer credit risk" },
-      { "item": "ETN", "point": "Unsecured debt note; exposed to issuer default risk" }
-    ],
-    "related": []
-  },
-  "loi_mutualfund": {
-    "title": "Mutual Fund Letter of Intent",
-    "section": "2 - Products & Risks",
-    "blurb": "A Letter of Intent lets a shareholder qualify for a breakpoint sales-charge discount by promising to invest a target amount within a window.",
-    "trap": "The LOI is valid for a MAXIMUM of 13 months.",
-    "compare": [
-      { "item": "Letter of Intent", "point": "Up to 13 months; reaches breakpoint discount" }
-    ],
-    "related": []
-  },
-  "reg_bluesky": {
-    "title": "Blue-Sky Laws",
-    "section": "4 - Regulatory Framework",
-    "blurb": "Blue-sky laws are STATE securities laws meant to stop fraudulent 'blue sky' schemes.",
-    "trap": "Blue-sky laws are enforced by STATE securities regulators — NOT the SEC, FINRA, or MSRB.",
-    "compare": [
-      { "item": "Blue-sky", "point": "State law; state securities regulators" },
-      { "item": "Federal (SEC)", "point": "Federal securities law; SEC" }
-    ],
-    "related": []
-  },
-  "voting_rights": {
-    "title": "Statutory vs. Cumulative Voting",
-    "section": "2 - Products & Risks",
-    "blurb": "Statutory (regular) voting gives one vote per share PER board vacancy. Cumulative voting lets a shareholder pool all votes and stack them on one candidate.",
-    "trap": "Under STATUTORY voting, a shareholder has as many votes per vacancy as SHARES OWNED (votes cannot be concentrated).",
-    "compare": [
-      { "item": "Statutory", "point": "1 vote/share/vacancy; cannot concentrate" },
-      { "item": "Cumulative", "point": "Pool votes; can stack on one candidate" }
-    ],
-    "related": []
-  },
-  "u4_disqual": {
-    "title": "Statutory Disqualification (Form U4)",
-    "section": "4 - Regulatory Framework",
-    "blurb": "A felony tied to securities/finance (theft, misappropriation) is a statutory disqualification. A felony with no financial/securities nexus is not.",
-    "trap": "A DUI felony is generally NOT a statutory disqualification; a theft/fraud felony IS.",
-    "compare": [
-      { "item": "Disqualifying", "point": "Felony theft / misappropriation of assets" },
-      { "item": "Not disqualifying", "point": "DUI or unrelated felony" }
-    ],
-    "related": []
-  },
-  "index_option_settlement": {
-    "title": "Index Option Settlement",
-    "section": "2 - Products & Risks",
-    "blurb": "Index options reference a basket you cannot physically deliver, so they settle in cash.",
-    "trap": "All in-the-money S&P 100 (or other index) options settle in CASH, not the underlying stocks.",
-    "compare": [
-      { "item": "Index options", "point": "Cash settlement (no stock delivery)" },
-      { "item": "Equity options", "point": "Physical delivery of shares" }
-    ],
-    "related": []
-  }
+  "accred_vs_qib": {"title":"Accredited Investor vs. QIB","section":"2 - Products & Risks","blurb":"Accredited Investor = person/entity meeting wealth thresholds (can buy private placements directly). QIB = large institution with $100M+ in securities; needed to buy RESTRICTED stock under Rule 144A.","trap":"Rule 144A restricted-stock sales go to QIBs, NOT merely accredited investors.","compare":[{"item":"Accredited Investor","point":"Person/entity wealth test; buys private placements"},{"item":"QIB","point":"$100M+ institution; buys Rule 144A restricted stock"}],"related":["rights_vs_warrants"]},
+  "accredited_vs_institutional_vs_qib": {"title":"Accredited vs. Institutional vs. QIB","section":"1 - Capital Markets","blurb":"Accredited = individual with >$1M net worth (ex-home) or $200k income ($300k joint); institutional = entities like banks/pensions/insurers; QIB = institution investing $100M+ in securities (the only one that can buy Rule 144A private placements).","trap":"Only a QIB ($100M+ institution) can buy Rule 144A restricted stock — not merely an accredited investor.","compare":[{"item":"Accredited","point":"Individual >$1M net worth (ex-home) or $200k income ($300k joint)"},{"item":"Institutional","point":"Entities: banks, pensions, insurers"},{"item":"QIB","point":"Institution with $100M+ securities; buys Rule 144A private placements"}],"related":[]},
+  "accretion_vs_amortization_of_discount_premium": {"title":"Accretion vs. Amortization of Discount/Premium","section":"2 - Products & Risks","blurb":"Accretion RAISES the basis of a discount bond toward par as it approaches maturity; amortization LOWERS the basis of a premium bond toward par.","trap":"Discount accretes UP; premium amortizes DOWN. Opposite directions.","compare":[{"item":"Accretion (discount)","point":"RAISES basis toward par over time"},{"item":"Amortization (premium)","point":"LOWERS basis toward par over time"}],"related":[]},
+  "agency_vs_principal_capacity": {"title":"Agency vs. Principal Capacity","section":"1 - Capital Markets","blurb":"Agency = firm acts as agent for the customer (commission, no position risk); principal = firm is the contra-party that owns the security (markup/markdown, holds the risk).","trap":"Agency = no risk, commission; Principal = firm owns it, holds the risk.","compare":[{"item":"Agency","point":"Firm is agent; commission; no position risk"},{"item":"Principal","point":"Firm is contra-party that OWNS the security; markup/markdown; holds risk"}],"related":[]},
+  "american_vs_european_options": {"title":"American vs. European Options","section":"2 - Products & Risks","blurb":"American options can be exercised any time before expiry; European options only at expiration — the names have nothing to do with geography.","trap":"The names have NOTHING to do with geography.","compare":[{"item":"American","point":"Exercisable ANY time before expiry"},{"item":"European","point":"Exercisable ONLY at expiration"}],"related":[]},
+  "broker_vs_dealer": {"title":"Broker vs. Dealer","section":"1 - Capital Markets","blurb":"A broker acts for the customer as agent (earns a commission); a dealer acts for its own account as principal and \"makes a market\" (earns a markup/markdown).","trap":"Broker = agent/commission; Dealer = principal/markup. Different functions.","compare":[{"item":"Broker","point":"Acts for the customer as AGENT; earns a commission"},{"item":"Dealer","point":"Acts for its OWN account as PRINCIPAL; \"makes a market\", earns markup/markdown"}],"related":[]},
+  "call_vs_put_options": {"title":"Call vs. Put Options","section":"2 - Products & Risks","blurb":"A call gives the holder the right to BUY the underlying at the strike; a put gives the right to SELL it at the strike.","trap":"Call = buy; Put = sell. Reversing them is the classic mistake.","compare":[{"item":"Call","point":"Right to BUY the underlying at the strike"},{"item":"Put","point":"Right to SELL the underlying at the strike"}],"related":[]},
+  "cash_vs_margin_account": {"title":"Cash vs. Margin Account","section":"3 - Trading, Accounts & Prohibited","blurb":"Cash account requires full payment with no borrowing; a margin account lets you borrow up to Reg T's 50% initial requirement using securities as collateral.","trap":"Margin does NOT let you borrow the full purchase price (only 50%).","compare":[{"item":"Cash","point":"Full payment; NO borrowing"},{"item":"Margin","point":"Borrow up to Reg T 50% initial using securities as collateral"}],"related":[]},
+  "common_vs_preferred_stock": {"title":"Common vs. Preferred Stock","section":"2 - Products & Risks","blurb":"Common has voting rights and fluctuating dividends; preferred usually has NO vote but receives fixed dividends paid before common and ranks ahead in liquidation.","trap":"Preferred usually has NO voting power — common does.","compare":[{"item":"Common","point":"Voting rights; fluctuating dividends"},{"item":"Preferred","point":"Usually NO vote; fixed dividends paid BEFORE common; ahead in liquidation"}],"related":[]},
+  "cumulative_vs_non_cumulative_preferred": {"title":"Cumulative vs. Non-Cumulative Preferred","section":"2 - Products & Risks","blurb":"Cumulative preferred requires all skipped dividends be paid (in arrears) before any common dividend; non-cumulative permanently forfeits any missed dividend.","trap":"Non-cumulative permanently forfeits missed dividends; cumulative does not.","compare":[{"item":"Cumulative","point":"Skipped dividends paid in arrears before any common dividend"},{"item":"Non-cumulative","point":"Missed dividends permanently FORFEITED"}],"related":[]},
+  "discretionary_vs_non_discretionary_account": {"title":"Discretionary vs. Non-Discretionary Account","section":"3 - Trading, Accounts & Prohibited","blurb":"Discretionary = the rep may decide security, amount, and timing without prior approval (needs written power of attorney); non-discretionary = the customer must approve each trade.","trap":"Discretion needs WRITTEN power of attorney.","compare":[{"item":"Discretionary","point":"Rep decides security/amount/timing; needs written PoA"},{"item":"Non-discretionary","point":"Customer must approve each trade"}],"related":[]},
+  "etf_vs_open_end_mutual_fund": {"title":"ETF vs. Open-End Mutual Fund","section":"2 - Products & Risks","blurb":"Mutual funds are bought/sold once daily at NAV; ETFs trade intraday on an exchange at fluctuating market prices like stocks.","trap":"ETFs are NOT priced once daily like mutual funds.","compare":[{"item":"Mutual fund","point":"Bought/sold once daily at NAV"},{"item":"ETF","point":"Trades INTRADAY on exchange at market price like a stock"}],"related":[]},
+  "etn_vs_etf": {"title":"ETN vs. ETF","section":"2 - Products & Risks","blurb":"ETF owns a basket of securities. ETN is senior UNSECURED debt of the issuer, so it carries the issuer's CREDIT/default risk.","trap":"A credit-rating DOWNGRADE of the issuer hurts an ETN but does NOT affect an ETF.","compare":[{"item":"ETF","point":"Owns the underlying basket; no issuer credit risk"},{"item":"ETN","point":"Unsecured debt note; exposed to issuer default risk"}],"related":[]},
+  "finra_vs_sec": {"title":"FINRA vs. SEC","section":"4 - Regulatory Framework","blurb":"The SEC is the federal government regulator; FINRA is a self-regulatory organization (SRO) that oversees broker-dealers under SEC authority.","trap":"FINRA is NOT a government agency.","compare":[{"item":"SEC","point":"Federal GOVERNMENT regulator"},{"item":"FINRA","point":"SRO; oversees broker-dealers UNDER SEC authority"}],"related":[]},
+  "firm_commitment_vs_best_efforts_underwriting": {"title":"Firm Commitment vs. Best Efforts Underwriting","section":"1 - Capital Markets","blurb":"Firm commitment = underwriter buys the entire issue and bears all unsold-risk; best efforts = underwriter sells what it can and returns the rest, taking no risk.","trap":"Best efforts does NOT guarantee the issue will be fully sold.","compare":[{"item":"Firm commitment","point":"Underwriter buys entire issue; bears ALL unsold risk"},{"item":"Best efforts","point":"Sells what it can, returns rest; takes NO risk"}],"related":[]},
+  "forward_vs_futures_contract": {"title":"Forward vs. Futures Contract","section":"2 - Products & Risks","blurb":"Forwards are private, customizable, and carry counterparty risk; futures are standardized, exchange-traded, and cleared, so counterparty risk is minimal.","trap":"Forwards are private with counterparty risk; futures are cleared.","compare":[{"item":"Forward","point":"Private, customizable; counterparty risk"},{"item":"Futures","point":"Standardized, exchange-traded, cleared; minimal counterparty risk"}],"related":[]},
+  "front_running_vs_trading_ahead": {"title":"Front-Running vs. Trading Ahead","section":"3 - Trading, Accounts & Prohibited","blurb":"Front-running = a registered person trades ahead of a customer's pending order for personal gain (illegal); trading ahead of research = a firm trades before its own research report is published (a separate, firm-level violation).","trap":"Front-running is personal gain ahead of a customer; trading ahead is firm vs. its own research.","compare":[{"item":"Front-running","point":"Trading ahead of a CUSTOMER'S pending order for personal gain (illegal)"},{"item":"Trading ahead","point":"Firm trades before its OWN research report (firm-level violation)"}],"related":[]},
+  "go_vs_revenue_municipal_bonds": {"title":"GO vs. Revenue Municipal Bonds","section":"1 - Capital Markets","blurb":"GO bonds are backed by the issuer's full faith, credit, and taxing power; revenue bonds are backed only by the income of the specific project they finance (tolls, rents, etc.).","trap":"Revenue bonds are NOT backed by the issuer's full taxing power — only by project income.","compare":[{"item":"GO bond","point":"Backed by issuer's full faith, credit & TAXING power"},{"item":"Revenue bond","point":"Backed ONLY by the project's income (tolls, rents)"}],"related":[]},
+  "growth_vs_income_objectives": {"title":"Growth vs. Income Objectives","section":"2 - Products & Risks","blurb":"Growth seeks capital appreciation with little current income; income seeks steady cash flow from dividends and interest.","trap":"Match the objective to the client need, not the yield.","compare":[{"item":"Growth","point":"Capital appreciation; little current income"},{"item":"Income","point":"Steady cash flow from dividends/interest"}],"related":[]},
+  "index_option_settlement": {"title":"Index Option Settlement","section":"2 - Products & Risks","blurb":"Index options reference a basket you cannot physically deliver, so they settle in cash.","trap":"All in-the-money S&P 100 (or other index) options settle in CASH, not the underlying stocks.","compare":[{"item":"Index options","point":"Cash settlement (no stock delivery)"},{"item":"Equity options","point":"Physical delivery of shares"}],"related":[]},
+  "insider_vs_restricted_stock": {"title":"Insider vs. Restricted Stock","section":"3 - Trading, Accounts & Prohibited","blurb":"Insiders are corporate affiliates with access to MNPI and subject to Section 16/short-swing rules; restricted stock is unregistered stock (Rule 144/144A) that can't be freely resold until holding-period and volume conditions are met.","trap":"Restricted stock is not automatically insider stock.","compare":[{"item":"Insider (affiliate)","point":"Has MNPI; subject to Section 16 / short-swing"},{"item":"Restricted stock","point":"Unregistered (Rule 144/144A); can't resell until conditions met"}],"related":[]},
+  "investment_grade_vs_high_yield_junk_bonds": {"title":"Investment-Grade vs. High-Yield (Junk) Bonds","section":"2 - Products & Risks","blurb":"Investment-grade is BBB−/Baa3 and above (lower default risk); high-yield/junk is below that with higher default risk and therefore a higher coupon.","trap":"Higher yield = HIGHER risk, not safer.","compare":[{"item":"Investment-grade","point":"BBB-/Baa3 and above; lower default risk"},{"item":"High-yield/junk","point":"Below that; higher default risk AND higher coupon"}],"related":[]},
+  "loi_mutualfund": {"title":"Mutual Fund Letter of Intent","section":"2 - Products & Risks","blurb":"A Letter of Intent lets a shareholder qualify for a breakpoint sales-charge discount by promising to invest a target amount within a window.","trap":"The LOI is valid for a MAXIMUM of 13 months.","compare":[{"item":"Letter of Intent","point":"Up to 13 months; reaches breakpoint discount"}],"related":[]},
+  "long_vs_short_position": {"title":"Long vs. Short Position","section":"2 - Products & Risks","blurb":"Long = you own it and profit when price rises; short = you borrowed and sold it and profit when price falls.","trap":"Long profits on rises; short profits on falls.","compare":[{"item":"Long","point":"You OWN it; profit when price RISES"},{"item":"Short","point":"Borrowed & sold; profit when price FALLS"}],"related":[]},
+  "marked_to_market_vs_haircut": {"title":"Marked-to-Market vs. Haircut","section":"3 - Trading, Accounts & Prohibited","blurb":"Mark-to-market revalues a position to its current market price each day; a haircut is the percentage discount taken off collateral's value to protect against price swings.","trap":"M-T-M is valuation; haircut is a collateral discount.","compare":[{"item":"Mark-to-market","point":"Revalues position to current market price daily"},{"item":"Haircut","point":"% discount off collateral value to protect against price swings"}],"related":[]},
+  "market_vs_limit_order": {"title":"Market vs. Limit Order","section":"3 - Trading, Accounts & Prohibited","blurb":"A market order guarantees execution but not price; a limit order guarantees price (or better) but not that it will fill.","trap":"Market = execution not price; Limit = price not execution.","compare":[{"item":"Market order","point":"Guarantees EXECUTION, not price"},{"item":"Limit order","point":"Guarantees PRICE (or better), not that it fills"}],"related":[]},
+  "msrb_vs_finra": {"title":"MSRB vs. FINRA","section":"4 - Regulatory Framework","blurb":"FINRA is the SRO that examines and disciplines broker-dealers (including muni firms); the MSRB writes the muni rules but has NO enforcement or examination authority of its own.","trap":"The MSRB cannot discipline firms — FINRA does.","compare":[{"item":"FINRA","point":"Examines & disciplines broker-dealers (incl. muni firms)"},{"item":"MSRB","point":"WRITES muni rules; NO enforcement/exam authority"}],"related":[]},
+  "primary_vs_secondary_market": {"title":"Primary vs. Secondary Market","section":"1 - Capital Markets","blurb":"In the primary market the issuer gets the money (new issue, e.g., IPO); in the secondary market investors trade among themselves and the issuer gets nothing.","trap":"In the PRIMARY market the issuer gets the money; in the SECONDARY market the issuer gets NOTHING.","compare":[{"item":"Primary","point":"Issuer gets the money (new issue, IPO)"},{"item":"Secondary","point":"Investors trade among themselves; issuer gets nothing"}],"related":[]},
+  "reg_bluesky": {"title":"Blue-Sky Laws","section":"4 - Regulatory Framework","blurb":"Blue-sky laws are STATE securities laws meant to stop fraudulent 'blue sky' schemes.","trap":"Blue-sky laws are enforced by STATE securities regulators — NOT the SEC, FINRA, or MSRB.","compare":[{"item":"Blue-sky","point":"State law; state securities regulators"},{"item":"Federal (SEC)","point":"Federal securities law; SEC"}],"related":[]},
+  "reg_t_vs_maintenance_margin": {"title":"Reg T vs. Maintenance Margin","section":"4 - Regulatory Framework","blurb":"Reg T sets the 50% initial margin needed to open a position; maintenance margin (FINRA min 25%) is the minimum equity required to keep it open without a margin call.","trap":"Reg T opens; maintenance keeps open.","compare":[{"item":"Reg T","point":"50% INITIAL margin to OPEN a position"},{"item":"Maintenance (FINRA min 25%)","point":"Minimum equity to KEEP open without margin call"}],"related":[]},
+  "registered_vs_exempt_securities": {"title":"Registered vs. Exempt Securities","section":"1 - Capital Markets","blurb":"Registered securities complete full SEC registration; exempt securities (U.S. govt, munis, bank issues) skip registration, but their trading is still regulated.","trap":"Exempt securities skip registration, but their trading is still regulated.","compare":[{"item":"Registered","point":"Full SEC registration completed"},{"item":"Exempt","point":"U.S. govt, munis, bank issues skip registration (trading still regulated)"}],"related":[]},
+  "rights_vs_warrants": {"title":"Rights vs. Warrants","section":"2 - Products & Risks","blurb":"Both let a holder buy issuer stock at a fixed price. Rights = short (~30-45 days), issued to CURRENT shareholders to raise quick capital. Warrants = long (years), usually attached to a new bond/IPO offering.","trap":"The question 'which security has the LONGEST period to expiration at issuance?' = WARRANTS (not rights).","compare":[{"item":"Rights","point":"Short-dated (~30-45d); existing shareholders; preemptive"},{"item":"Warrants","point":"Long-dated (years); often with new issue; longest maturity"}],"related":["accred_vs_qib"]},
+  "rule_144_vs_rule_144a": {"title":"Rule 144 vs. Rule 144A","section":"4 - Regulatory Framework","blurb":"Rule 144 governs how restricted/control securities can be PUBLICLY resold (holding periods + volume limits); Rule 144A creates a private resale exemption to QIBs only, with no holding-period requirement.","trap":"144A is NOT just the \"institutional version\" of 144 — no holding period.","compare":[{"item":"Rule 144","point":"PUBLIC resale of restricted/control stock (holding periods + volume limits)"},{"item":"Rule 144A","point":"PRIVATE resale to QIBs ONLY; no holding-period requirement"}],"related":[]},
+  "secured_vs_unsecured_debenture_debt": {"title":"Secured vs. Unsecured (Debenture) Debt","section":"2 - Products & Risks","blurb":"Secured debt is backed by specific pledged collateral; an unsecured debenture relies solely on the issuer's general creditworthiness.","trap":"Not all bonds have collateral — debentures are unsecured.","compare":[{"item":"Secured","point":"Backed by specific pledged collateral"},{"item":"Unsecured (debenture)","point":"Relies solely on issuer's general creditworthiness"}],"related":[]},
+  "senior_vs_subordinated_junior_tranche": {"title":"Senior vs. Subordinated (Junior) Tranche","section":"1 - Capital Markets","blurb":"Senior tranches are paid first and carry lower risk/lower yield; subordinated (junior) tranches are paid last and absorb losses first, carrying higher risk/higher yield.","trap":"All CMO/ABS slices do NOT have equal claim — junior absorbs losses first.","compare":[{"item":"Senior tranche","point":"Paid first; lower risk / lower yield"},{"item":"Subordinated (junior)","point":"Paid last; absorbs losses first; higher risk / higher yield"}],"related":[]},
+  "settlement_t_1_vs_t_2": {"title":"Settlement — T+1 vs. T+2","section":"3 - Trading, Accounts & Prohibited","blurb":"Since May 2024 most securities (stocks, corp bonds, munis, ETFs, options) settle T+1 (trade date + 1 business day); some government securities and money-market instruments may settle T+2 or same-day.","trap":"T+3 is RETIRED; most now settle T+1.","compare":[{"item":"T+1","point":"Most securities since May 2024 (stocks, corps, munis, ETFs, options)"},{"item":"T+2 / same-day","point":"Some govt & money-market instruments"}],"related":[]},
+  "sipc_vs_fdic": {"title":"SIPC vs. FDIC","section":"4 - Regulatory Framework","blurb":"SIPC protects against the firm's failure (returns your securities, up to $500k incl. $250k cash) but does NOT protect against market losses, whereas FDIC insures bank deposits up to $250k.","trap":"SIPC does NOT cover market losses or a fixed dollar like FDIC.","compare":[{"item":"SIPC","point":"Protects against FIRM failure; up to $500k ($250k cash); NOT market losses"},{"item":"FDIC","point":"Insures bank DEPOSITS up to $250k"}],"related":[]},
+  "solicited_vs_unsolicited_order": {"title":"Solicited vs. Unsolicited Order","section":"3 - Trading, Accounts & Prohibited","blurb":"Solicited = the rep recommended it (firm owes a suitability duty); unsolicited = the customer's own idea (no recommendation, but the firm may still accept it if permissible).","trap":"Firm owes suitability only on SOLICITED orders.","compare":[{"item":"Solicited","point":"Rep recommended it; firm owes suitability duty"},{"item":"Unsolicited","point":"Customer's own idea; no recommendation duty"}],"related":[]},
+  "statutory_vs_cumulative_voting": {"title":"Statutory vs. Cumulative Voting","section":"4 - Regulatory Framework","blurb":"Statutory voting = one vote per share per director slot (entrenched management); cumulative voting lets a shareholder pile all votes on one candidate, helping minorities elect a director.","trap":"Statutory voting cannot concentrate votes on one candidate.","compare":[{"item":"Statutory","point":"1 vote/share/vacancy; cannot concentrate"},{"item":"Cumulative","point":"Pool all votes; stack on one candidate (helps minorities)"}],"related":[]},
+  "syndicate_vs_selling_group": {"title":"Syndicate vs. Selling Group","section":"1 - Capital Markets","blurb":"The syndicate (managing + underwriting group) buys the issue and bears liability for unsold shares; the selling group only distributes on a best-efforts basis with no liability.","trap":"Only the syndicate bears underwriting liability; the selling group does not.","compare":[{"item":"Syndicate","point":"Buys the issue; bears liability for unsold shares"},{"item":"Selling group","point":"Distributes only; NO liability"}],"related":[]},
+  "systematic_vs_unsystematic_risk": {"title":"Systematic vs. Unsystematic Risk","section":"2 - Products & Risks","blurb":"Systematic risk affects the whole market and can't be diversified away; unsystematic risk is specific to one issuer and is reduced by diversification.","trap":"Diversification does NOT remove systematic risk.","compare":[{"item":"Systematic (market)","point":"Affects whole market; CANNOT be diversified away"},{"item":"Unsystematic (company)","point":"Specific to one issuer; reduced by diversification"}],"related":[]},
+  "u4_disqual": {"title":"Statutory Disqualification (Form U4)","section":"4 - Regulatory Framework","blurb":"A felony tied to securities/finance (theft, misappropriation) is a statutory disqualification. A felony with no financial/securities nexus is not.","trap":"A DUI felony is generally NOT a statutory disqualification; a theft/fraud felony IS.","compare":[{"item":"Disqualifying","point":"Felony theft / misappropriation of assets"},{"item":"Not disqualifying","point":"DUI or unrelated felony"}],"related":[]},
+  "voting_rights": {"title":"Statutory vs. Cumulative Voting","section":"2 - Products & Risks","blurb":"Statutory (regular) voting gives one vote per share PER board vacancy. Cumulative voting lets a shareholder pool all votes and stack them on one candidate.","trap":"Under STATUTORY voting, a shareholder has as many votes per vacancy as SHARES OWNED (cannot be concentrated).","compare":[{"item":"Statutory","point":"1 vote/share/vacancy; cannot concentrate"},{"item":"Cumulative","point":"Pool votes; can stack on one candidate"}],"related":[]}
 };

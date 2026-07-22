@@ -187,6 +187,7 @@
         </label>
         <label class="small"><input type="checkbox" id="onlyweak"> Only weak/ unseen first</label>
         <label class="small"><input type="checkbox" id="adaptive"> 🧠 Adaptive (over-sample weak sections)</label>
+        <label class="small"><input type="checkbox" id="balanced" checked> ⚖️ Blueprint-balanced (mirror real SIE 44/31/16/9)</label>
       </div>
       <div class="row" style="margin-top:14px">
         <button class="btn primary" onclick="beginQuiz()">Begin Quiz</button>
@@ -424,6 +425,7 @@
 <script src="questions_youtube_ca6.js"></script>
 <script src="questions_web_quizlet2.js"></script>
 <script src="questions_web_more.js"></script>
+<script src="questions_udemy_exam.js"></script>
 <script>
 /* Concatenate all banks */
 if (typeof SIE_QUESTIONS_WEB_WEBMORE !== "undefined") {
@@ -717,6 +719,10 @@ if (typeof SIE_QUESTIONS_YOUTUBE_GURU75 !== "undefined") {
   SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_YOUTUBE_GURU75);
 }
 
+if (typeof SIE_QUESTIONS_UDEMY !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_UDEMY);
+}
+
 /* ---------------- STATE ---------------- */
 const SEC_WEIGHT = {
   "1 - Capital Markets":16,
@@ -730,6 +736,32 @@ function loadState(){
   try{ return JSON.parse(localStorage.getItem(STORE_KEY)) || {}; }catch(e){ return {}; }
 }
 function saveState(){ try{ localStorage.setItem(STORE_KEY, JSON.stringify(state)); }catch(e){} }
+// One-time: seed your real Udemy practice-exam results into progress so weak/adaptive modes target them.
+function seedUdemyMisses(){
+  try{
+    if(localStorage.getItem('sie_seeded_udemy')) return;
+    let seeded=0, missed=0;
+    if(typeof SIE_QUESTIONS_UDEMY!=="undefined"){
+      SIE_QUESTIONS_UDEMY.forEach(q=>{
+        if(q.you_correct===false){
+          if(!state[q.id]) state[q.id]={seen:0,correct:0,wrong:0};
+          state[q.id].seen = Math.max(state[q.id].seen,1);
+          state[q.id].wrong = (state[q.id].wrong||0)+1;
+          missed++;
+        } else if(q.you_correct===true){
+          if(!state[q.id]) state[q.id]={seen:0,correct:0,wrong:0};
+          state[q.id].seen = Math.max(state[q.id].seen,1);
+          state[q.id].correct = (state[q.id].correct||0)+1;
+        }
+        seeded++;
+      });
+      saveState();
+    }
+    localStorage.setItem('sie_seeded_udemy','1');
+    if(missed) toast(`Loaded your Udemy exam: ${missed} misses prioritized`);
+  }catch(e){}
+}
+
 // state[qid] = {seen:int, correct:int, wrong:int}
 
 /* ---------------- NAV ---------------- */
@@ -955,33 +987,60 @@ function startQuizWith(section, fixedN){
   }
   let n = fixedN || document.getElementById('qcount').value;
   if(n==='all') n = pool.length; else n = Math.min(parseInt(n), pool.length);
-  // adaptive weak-first weighting
   const adaptive = document.getElementById('adaptive') && document.getElementById('adaptive').checked;
+  const balanced = document.getElementById('balanced') && document.getElementById('balanced').checked;
+  // dedupe by normalized stem so you never see the same question twice in one session
+  const seenStems = new Set();
+  const dedup = pool.filter(q=>{
+    const key = (q.stem||'').toLowerCase().replace(/[^a-z0-9]/g,'').slice(0,80);
+    if(seenStems.has(key)) return false; seenStems.add(key); return true;
+  });
+  if(dedup.length) pool = dedup;
+  let chosen;
   if(adaptive && pool.length){
+    // weak-first weighted sampling
     const scored = pool.map(q=>{
       const st=state[q.id];
       let acc = st? (st.correct||0)/((st.correct||0)+(st.wrong||0)||1):0;
       const seen = st? (st.seen||0):0;
-      let w = (1-acc);                       // lower accuracy -> higher weight
-      if(!seen) w += 1.5;                    // unseen strongly prioritized
-      if(st && (st.wrong||0)>0) w += 0.5;    // previously missed -> boost
+      let w = (1-acc);
+      if(!seen) w += 1.5;
+      if(st && (st.wrong||0)>0) w += 0.5;
       return {q, w:Math.max(0.01,w)};
     });
     const totalW = scored.reduce((a,b)=>a+b.w,0);
     const pickN = Math.min(n, pool.length);
-    const chosen=[]; const bag=scored.slice();
+    chosen=[]; const bag=scored.slice();
     for(let k=0;k<pickN;k++){
       let r=Math.random()*totalW, acc2=0, idx=0;
       for(let i=0;i<bag.length;i++){ acc2+=bag[i].w; if(r<=acc2){ idx=i; break; } }
       chosen.push(bag[idx].q);
     }
-    // light shuffle so weak ones aren't all at the front
-    for(let i=chosen.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[chosen[i],chosen[j]]=[chosen[j],chosen[i]];}
-    pool = chosen.slice();
+  } else if(balanced && pool.length){
+    // blueprint-weighted sampling (FINRA SIE domain weights)
+    const bySec={};
+    pool.forEach(q=>{ (bySec[q.section]=bySec[q.section]||[]).push(q); });
+    const order = Object.keys(SEC_WEIGHT);
+    chosen=[];
+    while(chosen.length<n && chosen.length<pool.length){
+      // round-robin proportional to weight, cycling domains
+      const totW = order.reduce((a,s)=>a+(SEC_WEIGHT[s]||0),0);
+      let r=Math.random()*totW, acc2=0, pickSec=null;
+      for(const s of order){ acc2+=(SEC_WEIGHT[s]||0); if(r<=acc2){ pickSec=s; break; } }
+      const arr=bySec[pickSec];
+      if(arr && arr.length){ chosen.push(arr.splice(Math.floor(Math.random()*arr.length),1)[0]); }
+      else { // domain exhausted -> pull remaining from any
+        const rest=Object.values(bySec).flat();
+        if(!rest.length) break;
+        chosen.push(rest.splice(Math.floor(Math.random()*rest.length),1)[0]);
+      }
+    }
   } else {
-    for(let i=pool.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[pool[i],pool[j]]=[pool[j],pool[i]];}
+    chosen = pool.slice();
+    for(let i=chosen.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[chosen[i],chosen[j]]=[chosen[j],chosen[i]];}
   }
-  quiz = pool.slice(0,n);
+  for(let i=chosen.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[chosen[i],chosen[j]]=[chosen[j],chosen[i]];}
+  quiz = chosen.slice(0,n);
   qi=0; quizCorrect=0;
   document.getElementById('prac-setup').classList.add('hidden');
   document.getElementById('prac-run').classList.remove('hidden');
@@ -1500,7 +1559,7 @@ function onKey(e){
 document.addEventListener('keydown', onKey);
 
 // init
-(function(){ renderDash(); })();
+(function(){ seedUdemyMisses(); renderDash(); })();
 </script>
 </body>
 </html>

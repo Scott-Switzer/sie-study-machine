@@ -432,6 +432,7 @@
 <script src="questions_web_quizlet2.js"></script>
 <script src="questions_web_more.js"></script>
 <script src="questions_udemy_exam.js"></script>
+<script src="questions_vendor_sie.js"></script>
 <script>
 /* Concatenate all banks */
 if (typeof SIE_QUESTIONS_WEB_WEBMORE !== "undefined") {
@@ -727,6 +728,9 @@ if (typeof SIE_QUESTIONS_YOUTUBE_GURU75 !== "undefined") {
 
 if (typeof SIE_QUESTIONS_UDEMY !== "undefined") {
   SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_UDEMY);
+}
+if (typeof SIE_QUESTIONS_VENDOR_SIE !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_VENDOR_SIE);
 }
 
 /* ---------------- STATE ---------------- */

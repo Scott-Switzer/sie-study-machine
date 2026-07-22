@@ -157,7 +157,12 @@
       <h2>⚑ Reported Questions</h2>
       <p class="muted">Tap "Report wrong/garbled" on any question to flag it. We review reports and fix the bank.</p>
       <div id="report-box"></div>
-      <div class="row" style="margin-top:8px"><button class="btn small" onclick="exportReports()">⬇️ Export reported (send to Scott)</button></div>
+      <div class="row" style="margin-top:8px">
+        <button class="btn small" onclick="exportReports()">⬇️ Export reported (send to Scott)</button>
+        <button class="btn small" onclick="document.getElementById('flag-import').click()">📥 Import a friend's flags</button>
+        <input type="file" id="flag-import" accept=".json" style="display:none" onchange="importReports(this)">
+      </div>
+      <p class="muted" style="margin-top:6px">Share with friends — when they send their export, import it here to merge their flags. Scott reviews &amp; fixes the bank.</p>
     </div>
     <div class="card">
       <h2>🎯 Weak-Areas Drill</h2>
@@ -1125,6 +1130,26 @@ function reportQ(qid){
     toast('Reported — thanks! We will review it.');
   }catch(e){ toast('Could not save report'); }
 }
+function importReports(input){
+  try{
+    const file=input.files[0]; if(!file) return;
+    const reader=new FileReader();
+    reader.onload=function(){
+      let data;
+      try{ data=JSON.parse(reader.result); }catch(e){ toast("Invalid JSON"); return; }
+      const arr=Array.isArray(data)?data:(Array.isArray(data.reports)?data.reports:[]);
+      const r=loadReports();
+      let added=0;
+      arr.forEach(item=>{ if(!item||!item.id) return; r[item.id]=(r[item.id]||0)+1; added++; });
+      try{ localStorage.setItem('sie_reports', JSON.stringify(r)); }catch(e){}
+      renderReports();
+      toast("Imported "+added+" flags from friend");
+    };
+    reader.readAsText(file);
+  }catch(e){ toast("Import failed"); }
+  input.value="";
+}
+
 function exportReports(){
   try{
     const r=loadReports();

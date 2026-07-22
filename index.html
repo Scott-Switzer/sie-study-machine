@@ -157,6 +157,7 @@
       <h2>⚑ Reported Questions</h2>
       <p class="muted">Tap "Report wrong/garbled" on any question to flag it. We review reports and fix the bank.</p>
       <div id="report-box"></div>
+      <div class="row" style="margin-top:8px"><button class="btn small" onclick="exportReports()">⬇️ Export reported (send to Scott)</button></div>
     </div>
     <div class="card">
       <h2>🎯 Weak-Areas Drill</h2>
@@ -1123,6 +1124,21 @@ function reportQ(qid){
     localStorage.setItem('sie_reports', JSON.stringify(r));
     toast('Reported — thanks! We will review it.');
   }catch(e){ toast('Could not save report'); }
+}
+function exportReports(){
+  try{
+    const r=loadReports();
+    const ids=Object.keys(r);
+    if(!ids.length){ toast('No reported questions to export'); return; }
+    // pull full question text for context
+    const map={}; SIE_QUESTIONS.forEach(q=>{ map[q.id]=q; });
+    const out=ids.map(id=>({id, reported:id in r?r[id]:0, stem:(map[id]&&map[id].stem)||"(not in current bank)", answer:(map[id]&&map[id].answer)||"", choices:(map[id]&&map[id].choices)||{}}));
+    const blob=new Blob([JSON.stringify(out,null,2)],{type:"application/json"});
+    const u=URL.createObjectURL(blob);
+    const a=document.createElement("a"); a.href=u; a.download="sie_reported_questions.json"; a.click();
+    URL.revokeObjectURL(u);
+    toast("Exported "+ids.length+" reported questions");
+  }catch(e){ toast("Export failed"); }
 }
 function loadReports(){
   try{ return JSON.parse(localStorage.getItem('sie_reports')||'{}'); }catch(e){ return {}; }

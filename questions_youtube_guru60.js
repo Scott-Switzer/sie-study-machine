@@ -1,1 +1,1 @@
-var SIE_QUESTIONS_YT_GURU60 = [];
+var questions_youtube_guru60 = [];

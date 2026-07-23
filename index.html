@@ -824,7 +824,7 @@ function renderReports(){
 }
 function renderReading(){
   const el=document.getElementById('reading'); if(!el) return;
-  const secs=[...new Set(SIE_QUESTIONS.map(q=>q.section))];
+  const secs=[...new Set(SIE_QUESTIONS.map(q=>q.section).filter(s=>typeof s==='string' && s.trim()))];
   const weak=secs.filter(sec=> sectionAcc(sec)<0.7).sort((a,b)=>sectionAcc(a)-sectionAcc(b));
   const lit={}; LIT_ITEMS.forEach(it=> lit[it.tags]=it);
   const openBtn = it => `<button class="btn primary" style="padding:5px 10px;font-size:12px" onclick="window.open('${it.file}','_blank')">Open</button>`;

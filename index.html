@@ -17,6 +17,7 @@
   header h1 span{color:var(--acc)}
   nav{display:flex;gap:8px;flex-wrap:wrap}
   .btn{background:var(--panel2);border:1px solid var(--line);color:var(--txt);padding:7px 13px;border-radius:7px;cursor:pointer;font-size:13px;font-weight:600}
+  .btn.danger{background:#3a1416;border-color:#5e2226;color:#ff8a8a}
   .btn:hover{border-color:var(--acc)}
   .btn.primary{background:var(--acc);border-color:var(--acc);color:#fff}
   .btn.primary:hover{filter:brightness(1.1)}
@@ -169,6 +170,7 @@
       <div class="row" style="margin-top:8px">
         <button class="btn small" onclick="exportReports()">⬇️ Export reported (send to Scott)</button>
         <button class="btn small" onclick="document.getElementById('flag-import').click()">📥 Import a friend's flags</button>
+        <button class="btn small danger" onclick="clearReports()">🗑️ Clear reported</button>
         <input type="file" id="flag-import" accept=".json" style="display:none" onchange="importReports(this)">
       </div>
       <p class="muted" style="margin-top:6px">Share with friends — when they send their export, import it here to merge their flags. Scott reviews &amp; fixes the bank.</p>
@@ -359,112 +361,112 @@
 </main>
 <div class="toast" id="toast"></div>
 
-<script src="questions_ach.js?v=20260723d"></script>
-<script src="questions_ai75.js?v=20260723d"></script>
-<script src="questions_oep.js?v=20260723d"></script>
-<script src="questions_round2.js?v=20260723d"></script>
-<script src="questions_series65.js?v=20260723d"></script>
-<script src="questions_series66.js?v=20260723d"></script>
-<script src="questions_series7.js?v=20260723d"></script>
-<script src="questions_udemy1.js?v=20260723d"></script>
-<script src="questions_udemy2.js?v=20260723d"></script>
-<script src="questions_udemy3.js?v=20260723d"></script>
-<script src="questions_udemy_exam.js?v=20260723d"></script>
-<script src="questions_vendor_sie.js?v=20260723d"></script>
-<script src="questions_web_achievable.js?v=20260723d"></script>
-<script src="questions_web_ce.js?v=20260723d"></script>
-<script src="questions_web_empire.js?v=20260723d"></script>
-<script src="questions_web_finra.js?v=20260723d"></script>
-<script src="questions_web_knopman.js?v=20260723d"></script>
-<script src="questions_web_more.js?v=20260723d"></script>
-<script src="questions_web_oep.js?v=20260723d"></script>
-<script src="questions_web_passmasters.js?v=20260723d"></script>
-<script src="questions_web_quizlet.js?v=20260723d"></script>
-<script src="questions_web_quizlet2.js?v=20260723d"></script>
-<script src="questions_youtube.js?v=20260723d"></script>
-<script src="questions_youtube_ca1.js?v=20260723d"></script>
-<script src="questions_youtube_ca2.js?v=20260723d"></script>
-<script src="questions_youtube_ca3.js?v=20260723d"></script>
-<script src="questions_youtube_ca4.js?v=20260723d"></script>
-<script src="questions_youtube_ca5.js?v=20260723d"></script>
-<script src="questions_youtube_ca6.js?v=20260723d"></script>
-<script src="questions_youtube_er1.js?v=20260723d"></script>
-<script src="questions_youtube_er2.js?v=20260723d"></script>
-<script src="questions_youtube_er3.js?v=20260723d"></script>
-<script src="questions_youtube_guru1.js?v=20260723d"></script>
-<script src="questions_youtube_guru10.js?v=20260723d"></script>
-<script src="questions_youtube_guru11.js?v=20260723d"></script>
-<script src="questions_youtube_guru12.js?v=20260723d"></script>
-<script src="questions_youtube_guru13.js?v=20260723d"></script>
-<script src="questions_youtube_guru14.js?v=20260723d"></script>
-<script src="questions_youtube_guru15.js?v=20260723d"></script>
-<script src="questions_youtube_guru16.js?v=20260723d"></script>
-<script src="questions_youtube_guru17.js?v=20260723d"></script>
-<script src="questions_youtube_guru18.js?v=20260723d"></script>
-<script src="questions_youtube_guru19.js?v=20260723d"></script>
-<script src="questions_youtube_guru2.js?v=20260723d"></script>
-<script src="questions_youtube_guru20.js?v=20260723d"></script>
-<script src="questions_youtube_guru21.js?v=20260723d"></script>
-<script src="questions_youtube_guru22.js?v=20260723d"></script>
-<script src="questions_youtube_guru23.js?v=20260723d"></script>
-<script src="questions_youtube_guru24.js?v=20260723d"></script>
-<script src="questions_youtube_guru25.js?v=20260723d"></script>
-<script src="questions_youtube_guru26.js?v=20260723d"></script>
-<script src="questions_youtube_guru27.js?v=20260723d"></script>
-<script src="questions_youtube_guru28.js?v=20260723d"></script>
-<script src="questions_youtube_guru29.js?v=20260723d"></script>
-<script src="questions_youtube_guru3.js?v=20260723d"></script>
-<script src="questions_youtube_guru30.js?v=20260723d"></script>
-<script src="questions_youtube_guru31.js?v=20260723d"></script>
-<script src="questions_youtube_guru32.js?v=20260723d"></script>
-<script src="questions_youtube_guru33.js?v=20260723d"></script>
-<script src="questions_youtube_guru34.js?v=20260723d"></script>
-<script src="questions_youtube_guru35.js?v=20260723d"></script>
-<script src="questions_youtube_guru36.js?v=20260723d"></script>
-<script src="questions_youtube_guru37.js?v=20260723d"></script>
-<script src="questions_youtube_guru38.js?v=20260723d"></script>
-<script src="questions_youtube_guru39.js?v=20260723d"></script>
-<script src="questions_youtube_guru4.js?v=20260723d"></script>
-<script src="questions_youtube_guru40.js?v=20260723d"></script>
-<script src="questions_youtube_guru41.js?v=20260723d"></script>
-<script src="questions_youtube_guru42.js?v=20260723d"></script>
-<script src="questions_youtube_guru43.js?v=20260723d"></script>
-<script src="questions_youtube_guru44.js?v=20260723d"></script>
-<script src="questions_youtube_guru47.js?v=20260723d"></script>
-<script src="questions_youtube_guru49.js?v=20260723d"></script>
-<script src="questions_youtube_guru5.js?v=20260723d"></script>
-<script src="questions_youtube_guru50.js?v=20260723d"></script>
-<script src="questions_youtube_guru51.js?v=20260723d"></script>
-<script src="questions_youtube_guru52.js?v=20260723d"></script>
-<script src="questions_youtube_guru6.js?v=20260723d"></script>
-<script src="questions_youtube_guru60.js?v=20260723d"></script>
-<script src="questions_youtube_guru61.js?v=20260723d"></script>
-<script src="questions_youtube_guru62.js?v=20260723d"></script>
-<script src="questions_youtube_guru63.js?v=20260723d"></script>
-<script src="questions_youtube_guru64.js?v=20260723d"></script>
-<script src="questions_youtube_guru65.js?v=20260723d"></script>
-<script src="questions_youtube_guru66.js?v=20260723d"></script>
-<script src="questions_youtube_guru67.js?v=20260723d"></script>
-<script src="questions_youtube_guru68.js?v=20260723d"></script>
-<script src="questions_youtube_guru69.js?v=20260723d"></script>
-<script src="questions_youtube_guru7.js?v=20260723d"></script>
-<script src="questions_youtube_guru70.js?v=20260723d"></script>
-<script src="questions_youtube_guru71.js?v=20260723d"></script>
-<script src="questions_youtube_guru72.js?v=20260723d"></script>
-<script src="questions_youtube_guru73.js?v=20260723d"></script>
-<script src="questions_youtube_guru74.js?v=20260723d"></script>
-<script src="questions_youtube_guru75.js?v=20260723d"></script>
-<script src="questions_youtube_guru76.js?v=20260723d"></script>
-<script src="questions_youtube_guru79.js?v=20260723d"></script>
-<script src="questions_youtube_guru8.js?v=20260723d"></script>
-<script src="questions_youtube_guru80.js?v=20260723d"></script>
-<script src="questions_youtube_guru9.js?v=20260723d"></script>
-<script src="questions_youtube_knop1.js?v=20260723d"></script>
-<script src="questions_youtube_knop2.js?v=20260723d"></script>
-<script src="questions_youtube_pm1.js?v=20260723d"></script>
-<script src="questions_youtube_pm3.js?v=20260723d"></script>
-<script src="questions_youtube_sw1.js?v=20260723d"></script>
-<script src="questions_youtube_sw2.js?v=20260723d"></script>
+<script src="questions_ach.js?v=20260723e"></script>
+<script src="questions_ai75.js?v=20260723e"></script>
+<script src="questions_oep.js?v=20260723e"></script>
+<script src="questions_round2.js?v=20260723e"></script>
+<script src="questions_series65.js?v=20260723e"></script>
+<script src="questions_series66.js?v=20260723e"></script>
+<script src="questions_series7.js?v=20260723e"></script>
+<script src="questions_udemy1.js?v=20260723e"></script>
+<script src="questions_udemy2.js?v=20260723e"></script>
+<script src="questions_udemy3.js?v=20260723e"></script>
+<script src="questions_udemy_exam.js?v=20260723e"></script>
+<script src="questions_vendor_sie.js?v=20260723e"></script>
+<script src="questions_web_achievable.js?v=20260723e"></script>
+<script src="questions_web_ce.js?v=20260723e"></script>
+<script src="questions_web_empire.js?v=20260723e"></script>
+<script src="questions_web_finra.js?v=20260723e"></script>
+<script src="questions_web_knopman.js?v=20260723e"></script>
+<script src="questions_web_more.js?v=20260723e"></script>
+<script src="questions_web_oep.js?v=20260723e"></script>
+<script src="questions_web_passmasters.js?v=20260723e"></script>
+<script src="questions_web_quizlet.js?v=20260723e"></script>
+<script src="questions_web_quizlet2.js?v=20260723e"></script>
+<script src="questions_youtube.js?v=20260723e"></script>
+<script src="questions_youtube_ca1.js?v=20260723e"></script>
+<script src="questions_youtube_ca2.js?v=20260723e"></script>
+<script src="questions_youtube_ca3.js?v=20260723e"></script>
+<script src="questions_youtube_ca4.js?v=20260723e"></script>
+<script src="questions_youtube_ca5.js?v=20260723e"></script>
+<script src="questions_youtube_ca6.js?v=20260723e"></script>
+<script src="questions_youtube_er1.js?v=20260723e"></script>
+<script src="questions_youtube_er2.js?v=20260723e"></script>
+<script src="questions_youtube_er3.js?v=20260723e"></script>
+<script src="questions_youtube_guru1.js?v=20260723e"></script>
+<script src="questions_youtube_guru10.js?v=20260723e"></script>
+<script src="questions_youtube_guru11.js?v=20260723e"></script>
+<script src="questions_youtube_guru12.js?v=20260723e"></script>
+<script src="questions_youtube_guru13.js?v=20260723e"></script>
+<script src="questions_youtube_guru14.js?v=20260723e"></script>
+<script src="questions_youtube_guru15.js?v=20260723e"></script>
+<script src="questions_youtube_guru16.js?v=20260723e"></script>
+<script src="questions_youtube_guru17.js?v=20260723e"></script>
+<script src="questions_youtube_guru18.js?v=20260723e"></script>
+<script src="questions_youtube_guru19.js?v=20260723e"></script>
+<script src="questions_youtube_guru2.js?v=20260723e"></script>
+<script src="questions_youtube_guru20.js?v=20260723e"></script>
+<script src="questions_youtube_guru21.js?v=20260723e"></script>
+<script src="questions_youtube_guru22.js?v=20260723e"></script>
+<script src="questions_youtube_guru23.js?v=20260723e"></script>
+<script src="questions_youtube_guru24.js?v=20260723e"></script>
+<script src="questions_youtube_guru25.js?v=20260723e"></script>
+<script src="questions_youtube_guru26.js?v=20260723e"></script>
+<script src="questions_youtube_guru27.js?v=20260723e"></script>
+<script src="questions_youtube_guru28.js?v=20260723e"></script>
+<script src="questions_youtube_guru29.js?v=20260723e"></script>
+<script src="questions_youtube_guru3.js?v=20260723e"></script>
+<script src="questions_youtube_guru30.js?v=20260723e"></script>
+<script src="questions_youtube_guru31.js?v=20260723e"></script>
+<script src="questions_youtube_guru32.js?v=20260723e"></script>
+<script src="questions_youtube_guru33.js?v=20260723e"></script>
+<script src="questions_youtube_guru34.js?v=20260723e"></script>
+<script src="questions_youtube_guru35.js?v=20260723e"></script>
+<script src="questions_youtube_guru36.js?v=20260723e"></script>
+<script src="questions_youtube_guru37.js?v=20260723e"></script>
+<script src="questions_youtube_guru38.js?v=20260723e"></script>
+<script src="questions_youtube_guru39.js?v=20260723e"></script>
+<script src="questions_youtube_guru4.js?v=20260723e"></script>
+<script src="questions_youtube_guru40.js?v=20260723e"></script>
+<script src="questions_youtube_guru41.js?v=20260723e"></script>
+<script src="questions_youtube_guru42.js?v=20260723e"></script>
+<script src="questions_youtube_guru43.js?v=20260723e"></script>
+<script src="questions_youtube_guru44.js?v=20260723e"></script>
+<script src="questions_youtube_guru47.js?v=20260723e"></script>
+<script src="questions_youtube_guru49.js?v=20260723e"></script>
+<script src="questions_youtube_guru5.js?v=20260723e"></script>
+<script src="questions_youtube_guru50.js?v=20260723e"></script>
+<script src="questions_youtube_guru51.js?v=20260723e"></script>
+<script src="questions_youtube_guru52.js?v=20260723e"></script>
+<script src="questions_youtube_guru6.js?v=20260723e"></script>
+<script src="questions_youtube_guru60.js?v=20260723e"></script>
+<script src="questions_youtube_guru61.js?v=20260723e"></script>
+<script src="questions_youtube_guru62.js?v=20260723e"></script>
+<script src="questions_youtube_guru63.js?v=20260723e"></script>
+<script src="questions_youtube_guru64.js?v=20260723e"></script>
+<script src="questions_youtube_guru65.js?v=20260723e"></script>
+<script src="questions_youtube_guru66.js?v=20260723e"></script>
+<script src="questions_youtube_guru67.js?v=20260723e"></script>
+<script src="questions_youtube_guru68.js?v=20260723e"></script>
+<script src="questions_youtube_guru69.js?v=20260723e"></script>
+<script src="questions_youtube_guru7.js?v=20260723e"></script>
+<script src="questions_youtube_guru70.js?v=20260723e"></script>
+<script src="questions_youtube_guru71.js?v=20260723e"></script>
+<script src="questions_youtube_guru72.js?v=20260723e"></script>
+<script src="questions_youtube_guru73.js?v=20260723e"></script>
+<script src="questions_youtube_guru74.js?v=20260723e"></script>
+<script src="questions_youtube_guru75.js?v=20260723e"></script>
+<script src="questions_youtube_guru76.js?v=20260723e"></script>
+<script src="questions_youtube_guru79.js?v=20260723e"></script>
+<script src="questions_youtube_guru8.js?v=20260723e"></script>
+<script src="questions_youtube_guru80.js?v=20260723e"></script>
+<script src="questions_youtube_guru9.js?v=20260723e"></script>
+<script src="questions_youtube_knop1.js?v=20260723e"></script>
+<script src="questions_youtube_knop2.js?v=20260723e"></script>
+<script src="questions_youtube_pm1.js?v=20260723e"></script>
+<script src="questions_youtube_pm3.js?v=20260723e"></script>
+<script src="questions_youtube_sw1.js?v=20260723e"></script>
+<script src="questions_youtube_sw2.js?v=20260723e"></script>
 
 <script>
 /* Concatenate all banks */
@@ -1561,6 +1563,17 @@ function exportReports(){
 }
 function loadReports(){
   try{ return JSON.parse(localStorage.getItem('sie_reports')||'{}'); }catch(e){ return {}; }
+}
+function clearReports(){
+  const r=loadReports();
+  const n=Object.keys(r).length;
+  if(!n){ toast('No reported questions to clear'); return; }
+  if(!confirm('Clear all '+n+' reported question'+(n===1?'':'s')+' from this device? This cannot be undone.')) return;
+  try{
+    localStorage.removeItem('sie_reports');
+    renderReports();
+    toast('Cleared '+n+' reported question'+(n===1?'':'s'));
+  }catch(e){ toast('Could not clear reports'); }
 }
 function toggleFlagQ(){
   if(!quiz.length) return;

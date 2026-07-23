@@ -212,6 +212,11 @@
         <label class="small"><input type="checkbox" id="onlyweak"> Only weak/ unseen first</label>
         <label class="small"><input type="checkbox" id="adaptive"> 🧠 Adaptive (over-sample weak sections)</label>
         <label class="small"><input type="checkbox" id="balanced" checked> ⚖️ Blueprint-balanced (mirror real SIE 44/31/16/9)</label>
+        <label class="small">Topic focus:
+          <select id="topicfilter" class="btn">
+            <option value="all">All topics</option>
+          </select>
+        </label>
       </div>
       <div class="row" style="margin-top:14px">
         <button class="btn primary" onclick="beginQuiz()">Begin Quiz</button>
@@ -1349,13 +1354,21 @@ function renderPracSetup(){
   let html = `<button class="btn primary" onclick="startQuiz('all')">All Sections</button>`;
   Object.keys(secs).forEach(s=>{ html += `<button class="btn" onclick="startQuiz('${s}')">${s} (${secs[s]})</button>`; });
   document.getElementById('sec-buttons').innerHTML = html;
+  // populate topic focus dropdown
+  const tf=document.getElementById('topicfilter');
+  if(tf){
+    const tops={};
+    SIE_QUESTIONS.forEach(q=>{ const t=q.topic||'Other'; tops[t]=(tops[t]||0)+1; });
+    tf.innerHTML='<option value="all">All topics</option>'+Object.keys(tops).sort().map(t=>`<option value="${t}">${t} (${tops[t]})</option>`).join('');
+  }
 }
 function startQuiz(section){ startQuizWith(section); }
 function beginQuiz(){
   const sel = document.querySelector('#sec-buttons .active');
-  startQuizWith(sel? sel.getAttribute('data-sec') : 'all');
+  const topic = document.getElementById('topicfilter') ? document.getElementById('topicfilter').value : 'all';
+  startQuizWith(sel? sel.getAttribute('data-sec') : 'all', null, topic);
 }
-function startQuizWith(section, fixedN){
+function startQuizWith(section, fixedN, topic){
   // ensure the Practice view is the active section (fixes dashboard shortcuts)
   ['dash','prac','fc','lit','exam','imp'].forEach(p=>{
     const el=document.getElementById(p); if(el) el.classList.toggle('hidden', p!=='prac');
@@ -1363,6 +1376,7 @@ function startQuizWith(section, fixedN){
   });
   let pool = SIE_QUESTIONS.slice();
   if(section && section!=='all') pool = pool.filter(q=>q.section===section);
+  if(topic && topic!=='all') pool = pool.filter(q=> (q.topic||'Other')===topic);
   const onlyweak = document.getElementById('onlyweak').checked;
   if(onlyweak){
     const w = pool.filter(q=>{ const s=state[q.id]; return !s || (s.wrong||0)>0 || (s.seen||0)===0; });

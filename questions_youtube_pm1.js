@@ -192,7 +192,7 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
    "D": "Make sales"
   },
   "answer": "B",
-  "explanation": "The correct choice (B) is: \"30 days.\" A terminated rep may reregister without retesting within 2 years of the U5.",
+  "explanation": "Correct answer: Purely clerical activities until she is granted registration",
   "source": "YouTube: Series 7 Guru (pm1)"
  },
  {
@@ -248,7 +248,7 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
    "D": "Red herring"
   },
   "answer": "A",
-  "explanation": "The correct choice (A) is: \"They have the right to exchange the preferred shares for common stock.\" Cumulative preferred holders must receive all omitted (passed) dividends before common holders get paid.",
+  "explanation": "Correct answer: Official statement",
   "source": "YouTube: Series 7 Guru (pm1)"
  },
  {
@@ -332,7 +332,7 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
    "D": "Securities Exchange Act of 1934"
   },
   "answer": "D",
-  "explanation": "The correct choice (D) is: \"Reinvestment risk.\" When callable bonds are called as rates fall, the main concern is reinvestment risk at lower prevailing rates.",
+  "explanation": "Correct answer: Securities Exchange Act of 1934",
   "source": "YouTube: Series 7 Guru (pm1)"
  },
  {
@@ -346,7 +346,7 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
    "D": "Annually"
   },
   "answer": "B",
-  "explanation": "The correct choice (B) is: \"Option contract.\" An option contract is a security; forwards and futures on commodities are not securities under the federal securities laws.",
+  "explanation": "Correct answer: Prior to every shareholder meeting",
   "source": "YouTube: Series 7 Guru (pm1)"
  },
  {

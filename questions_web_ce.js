@@ -3572,7 +3572,7 @@ SIE_QUESTIONS_WEB_CE = [
  {
   "id": "web-CE-256",
   "section": "4 - Regulatory Framework",
-  "stem": "All of the following are required when completing Form U",
+  "stem": "All of the following are required when completing Form U-4 EXCEPT",
   "choices": {
    "A": "4 except- Employment history for the past 10 years",
    "B": "Date of birth",
@@ -3628,7 +3628,7 @@ SIE_QUESTIONS_WEB_CE = [
  {
   "id": "web-CE-260",
   "section": "4 - Regulatory Framework",
-  "stem": "All of the following information is required to be provided on the Form U",
+  "stem": "All of the following information is required to be provided on the Form U-4 EXCEPT",
   "choices": {
    "A": "4 except- Disclosure of criminal arrests and charges",
    "B": "5-year residency history.",
@@ -4510,9 +4510,9 @@ SIE_QUESTIONS_WEB_CE = [
  {
   "id": "web-CE-323",
   "section": "3 - Trading, Accounts & Prohibited",
-  "stem": "A broker",
+  "stem": "A broker-dealer may allow a registered representative to work from home — that is, to have a home office. If this is the case, the registered representative must:",
   "choices": {
-   "A": "dealer may allow a registered representative to work from home – that is, to have a home office. If this is the case, the registered representative must- Not specify the office as a place of business in advertising",
+   "A": "Not specify the office as a place of business in advertising",
    "B": "Use the office only to perform clerical functions",
    "C": "Expect the office to be treated like any branch office",
    "D": "Carry out sales presentations in some other location"

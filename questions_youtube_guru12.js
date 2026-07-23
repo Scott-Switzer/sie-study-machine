@@ -1,1 +1,450 @@
-var SIE_QUESTIONS_YOUTUBE_GURU12 = [{"id":"yt-guru12-2","section":"2 - Products & Risks","stem":"An investor has purchased a bond with a 5% coupon. This investor will receive","choices":{"A":"$50 interest payable at maturity.","B":"$50 semiannual interest payments.","C":"$5 annual interest until maturity.","D":"$50 annual interest until maturity."},"answer":"D","explanation":"The correct choice (D) is: \"$50 annual interest until maturity..\" A 5% coupon on $1,000 par pays $50 of interest each year until maturity.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-4","section":"2 - Products & Risks","stem":"A brokerage firm has accumulated a large holding in a little known company by purchasing several hundred thousand shares of the company's stock. The firm instructs its registered representatives to begin touting the stock to every one of its customers and to make cold calls to new potential customers as well. This is most likely a scheme known as","choices":{"A":"pegging","B":"capping","C":"pump and dump","D":"marking the open"},"answer":"C","explanation":"The correct choice (C) is: \"pump and dump.\" Touting a little-known stock to customers and via cold calls to drive up the price is a 'pump and dump' manipulation.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-5","section":"2 - Products & Risks","stem":"Who benefits most from a defined contribution plan?","choices":{"A":"Older employees","B":"Younger employees","C":"Employees with fewer years left to work","D":"All benefit the same"},"answer":"B","explanation":"The correct choice (B) is: \"Younger employees.\" Younger employees benefit most from defined contribution plans because they have the longest time for tax-deferred compounding.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-6","section":"3 - Trading, Accounts & Prohibited","stem":"Which of the following is true regarding nonregistered personnel of FINRA member firms?","choices":{"A":"All employees of a member firm must be registered.","B":"Nonregistered employees of broker-dealers have an unlimited scope of activities as long as they are under the direct supervision of a principal.","C":"Nonregistered employees of broker-dealers have an unlimited scope of activities as long as they are under the direct supervision of a registered representative.","D":"Nonregistered employees of broker-dealers have a limited scope of activities."},"answer":"D","explanation":"The correct choice (D) is: \"a buy back..\" A company buying its own debt directly from holders for cash is a tender offer.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-9","section":"1 - Capital Markets","stem":"Federal, state, and local income tax would be due on the interest from which of the following issues?","choices":{"A":"Dallas, Texas, general obligation bond","B":"5-year TIP","C":"Tax anticipation note issued by Orlando, Florida","D":"FHLMC certificate"},"answer":"D","explanation":"The correct choice (D) is: \"FHLMC certificate.\" FHLMC (Freddie Mac) certificate interest is taxable at federal, state, and local levels; municipal and Treasury interest are exempt at one or more levels.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-10","section":"2 - Products & Risks","stem":"Records of original entry must be recorded no later than the next business day and must be kept readily available for","choices":{"A":"four years.","B":"six years.","C":"two years.","D":"three years."},"answer":"B","explanation":"The correct choice (B) is: \"six years..\" Records of original entry must be made by the next business day and retained for six years.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-11","section":"2 - Products & Risks","stem":"Which position has the greatest potential risk if the price of the underlying stock goes up?","choices":{"A":"Short put","B":"Long call","C":"Long put","D":"Short call"},"answer":"D","explanation":"The correct choice (D) is: \"Short call.\" A short call has unlimited loss if the stock rises, the greatest risk among the listed positions.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-12","section":"2 - Products & Risks","stem":"A customer buys an October 75 MMS put. MMS stock closes at 70. Which of the following is true?","choices":{"A":"The put is out of the money.","B":"The put is at the money.","C":"The put has intrinsic value.","D":"It has only premium value."},"answer":"C","explanation":"The correct choice (C) is: \"The put has intrinsic value..\" With MMS at $70 and a 75 put, the put is in the money and has intrinsic value of $5.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-13","section":"2 - Products & Risks","stem":"For collateral trust bonds, all of the following are true except","choices":{"A":"these are unsecured debt securities.","B":"the issuer deposits securities it owns into a trust.","C":"securities backing the debt can be securities of either fully or partially owned subsidiaries.","D":"a trust serves as a depository holding the securities to serve as collateral."},"answer":"A","explanation":"The correct choice (A) is: \"these are unsecured debt securities..\" Collateral trust bonds are secured by pledged securities, so they are not unsecured debt.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-14","section":"2 - Products & Risks","stem":"All of the following are taxable to the investor except","choices":{"A":"Semiannual interest payments.","B":"Capital gains distributions.","C":"Stock dividends.","D":"Cash dividends."},"answer":"C","explanation":"The correct choice (C) is: \"Stock dividends..\" Stock dividends are generally non-taxable until sold; cash dividends, interest, and capital gains distributions are taxable.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-15","section":"1 - Capital Markets","stem":"Each of the following makes regular interest payments except","choices":{"A":"corporate bonds.","B":"Treasury STRIPS.","C":"Treasury notes.","D":"Treasury bonds."},"answer":"B","explanation":"The correct choice (B) is: \"Can be transferred to a sibling if not used by the original beneficiary.\" A key 529 advantage over a Coverdell ESA is that 529 plans have no income limits on contributors.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-17","section":"2 - Products & Risks","stem":"Which of the following securities may trade above or below their net asset value?","choices":{"A":"Common shares of a closed-end investment company","B":"Face-amount certificates","C":"Common shares of an open-end investment company","D":"Units of a unit investment trust"},"answer":"A","explanation":"The correct choice (A) is: \"Common shares of a closed-end investment company.\" Closed-end fund shares trade in the market and can sell at premiums or discounts to NAV.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-18","section":"2 - Products & Risks","stem":"An investor is short a January 30 call at 5. Maximum loss for the investor is","choices":{"A":"Unlimited.","B":"50 points or $5,000.","C":"5 points or $500.","D":"25 points or $2,500."},"answer":"A","explanation":"The correct choice (A) is: \"Unlimited..\" A short call has unlimited maximum loss as the underlying can rise without bound.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-19","section":"1 - Capital Markets","stem":"All of the following securities are backed by the full faith and credit of the U.S. government EXCEPT:","choices":{"A":"Treasury bills","B":"Treasury receipts","C":"Treasury bonds","D":"Treasury STRIPS"},"answer":"B","explanation":"The correct choice (B) is: \"calls made to make the customer aware of new products that are available to the customer..\" The do-not-call exemptions include non-commercial, debt-collection, and nonprofit calls; soliciting new products is a commercial call and not exempt.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-21","section":"1 - Capital Markets","stem":"A mutual fund has been in existence for 25 years. The prospectus must disclose the fund's performance","choices":{"A":"for each year over the last 10 years.","B":"over the last 1, 5, and 10 years.","C":"broken out as an average over the last 10 years.","D":"over the last 1, 5, 10, 15, 20, and 25 years."},"answer":"B","explanation":"The correct choice (B) is: \"0.5%.\" Expense ratio = $600,000 / $120,000,000 = 0.5%.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-23","section":"3 - Trading, Accounts & Prohibited","stem":"Before effecting an initial penny stock transaction for a new customer, the registered representative must do all of the following except","choices":{"A":"Obtain a signed risk disclosure document from the customer.","B":"Confirm that a margin account has been established.","C":"Obtain a signed suitability statement from the customer.","D":"Confirm whether the person is an established customer."},"answer":"B","explanation":"The correct choice (B) is: \"II only.\" Tendering shares at a gain or loss versus cost basis creates a capital gain (III) or loss (I); there is no separate 'investment income' item.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-27","section":"2 - Products & Risks","stem":"In a 20% stock dividend, what happens to the number of shares and the share price?","choices":{"A":"The share price goes down, and the number of shares goes down.","B":"The share price goes up, and the number of shares goes down.","C":"The share price goes down, and the number of shares goes up.","D":"The share price goes up, and the number of shares goes up."},"answer":"C","explanation":"The correct choice (C) is: \"The share price goes down, and the number of shares goes up..\" A 20% stock dividend increases shares and proportionally decreases the per-share price.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-28","section":"2 - Products & Risks","stem":"MOS stock is trading at $55. A March 55 call contract would therefore be trading","choices":{"A":"In the money.","B":"With intrinsic value.","C":"At the money.","D":"At par."},"answer":"C","explanation":"The correct choice (C) is: \"At the money..\" A March 55 call when the stock is at $55 is at the money (strike equals market price).","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-29","section":"1 - Capital Markets","stem":"If a prospectus is being used to close a mutual fund sale, it must be given to the investor","choices":{"A":"within five business days of purchase.","B":"within three business days of purchase.","C":"before or during the sales presentation.","D":"always before the sales presentation begins."},"answer":"C","explanation":"The correct choice (C) is: \"Thursday, April 28.\" The ex-dividend date is one business day before the record date (Tuesday, April 26).","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-31","section":"3 - Trading, Accounts & Prohibited","stem":"FOCUS reports, U4 forms, and order tickets are examples of records that must be kept for","choices":{"A":"10 years.","B":"Six years.","C":"Four years.","D":"three years."},"answer":"D","explanation":"The correct choice (D) is: \"three years..\" FOCUS reports, U4 forms, and order tickets are records kept for three years.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-32","section":"2 - Products & Risks","stem":"A broker-dealer may extend credit under Regulation T for which of these transactions?","choices":{"A":"A variable annuity purchase","B":"A closed-end investment company purchased on the NYSE","C":"The purchase of an IPO that went public 25 days ago","D":"A mutual fund purchase"},"answer":"B","explanation":"The correct choice (B) is: \"Municipal notes.\" The Investment Company Act of 1940 classifies investment companies into management companies, UITs, and face-amount certificate companies.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-34","section":"2 - Products & Risks","stem":"Class C mutual fund shares are also known as","choices":{"A":"periodic load shares.","B":"successive-load shares.","C":"level-load shares.","D":"intermediate shares."},"answer":"C","explanation":"The correct choice (C) is: \"level-load shares..\" Class C mutual fund shares are level-load shares (roughly level 12b-1 fees, no front/back load).","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-35","section":"2 - Products & Risks","stem":"Money market instruments guaranteed by a bank that are used to provide capital for international trade are called","choices":{"A":"American depositary receipts (ADRs)","B":"foreign bills.","C":"Banker's acceptances (BAs)","D":"Eurodollars."},"answer":"C","explanation":"The correct choice (C) is: \"Banker's acceptances (BAs).\" Bankers' acceptances are bank-guaranteed money market instruments used to finance international trade.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-36","section":"2 - Products & Risks","stem":"Which of the following are securities representing other securities held on deposit with a trustee where the principal and interest payments have been separated?","choices":{"A":"Treasury receipts and STRIPS","B":"Treasury bills and notes","C":"Treasury notes and bonds","D":"Treasury receipts, bills, and notes"},"answer":"A","explanation":"The correct choice (A) is: \"The Bank Secrecy Act.\" Depositing just under $10,000 repeatedly to avoid the BSA CTR threshold is structuring (circumventing the Bank Secrecy Act).","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-38","section":"4 - Regulatory Framework","stem":"What is the name for the legal framework of state laws for broker-dealers, registered representatives, investment advisors and investment advisor representatives?","choices":{"A":"The Investment Adviser Act","B":"The Securities Act of 1933","C":"The Uniform Securities Act","D":"The Securities and Exchange Act of 1934"},"answer":"C","explanation":"The correct choice (C) is: \"The Uniform Securities Act.\" State securities laws governing BDs, reps, and advisers are the Uniform Securities Act.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-39","section":"2 - Products & Risks","stem":"Which of the following statements about warrants is false?","choices":{"A":"The warrant allows the holder to exercise to purchase the underlying stock at a price higher than the market price at the time of the warrant's issue.","B":"Warrants are most often issued with bonds as an added incentive to purchase the bond.","C":"The warrant is long term, typically five years or more until expiration.","D":"The warrant allows the holder to exercise to purchase the underlying stock at a price lower than the market price at the time of the warrant's issue."},"answer":"D","explanation":"The correct choice (D) is: \"The warrant allows the holder to exercise to purchase the underlying stock at a price lower than the market price at the time of the warrant's issue..\" Warrants are issued with an exercise price above the market price at issuance, so the 'lower than market' statement is false.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-40","section":"4 - Regulatory Framework","stem":"While the Municipal Securities Rulemaking Board (MSRB) writes the rules and regulations regarding underwriting and trading for municipal securities, it does not enforce those rules. Who does?","choices":{"A":"New York Stock Exchange (NYSE)","B":"Options Clearing Corporation (OCC)","C":"Financial Industry Regulatory Authority (FINRA)","D":"Department of Justice (DOJ)"},"answer":"C","explanation":"The correct choice (C) is: \"The investors.\" In a limited partnership, the partners (investors) are pass-through entities and bear the tax consequences directly.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-43","section":"2 - Products & Risks","stem":"An investor is short 1 December 15 put at 6. The investor's maximum loss on this position is","choices":{"A":"$1,500","B":"$2,100","C":"$600","D":"$900"},"answer":"D","explanation":"The correct choice (D) is: \"$900.\" Short 1 Dec 15 put @6: max loss = (15 - 6) x 100 = $900.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-44","section":"1 - Capital Markets","stem":"For options investors, which of the following are true? I. Buyers pay the premium for the right to exercise. II. Buyers pay the premium and incur an obligation to buy or sell. III. Sellers receive the premium and incur an obligation to buy or sell. IV. Sellers receive the premium for the right to exercise.","choices":{"A":"I and IV","B":"I and III","C":"II and IV","D":"II and III"},"answer":"B","explanation":"The correct choice (B) is: \"as tax-free investments with no potential write-offs..\" DPPs are pass-through entities whose owners are liable for the taxes on income and gains.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-47","section":"2 - Products & Risks","stem":"An option contract having no intrinsic value at expiration will likely be","choices":{"A":"allowed to expire","B":"exercised by the holder.","C":"exercised by the writer.","D":"assigned to the holder."},"answer":"A","explanation":"The correct choice (A) is: \"allowed to expire.\" An option with no intrinsic value at expiration will simply be allowed to expire worthless.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-48","section":"4 - Regulatory Framework","stem":"Which of the following companies was created by an act of Congress and provides securities investors limited financial coverage in the event that the investor's servicing broker-dealer fails financially?","choices":{"A":"Securities Investor Protection Corporation (SIPC)","B":"Federal Deposit Insurance Corporation (FDIC)","C":"The Office of Foreign Assets Control (OFAC)","D":"Securities Information Center (SIC)"},"answer":"A","explanation":"The correct choice (A) is: \"she may not exercise the contracts. The contracts will exercise at expiration if they are in the money..\" European-style options may be exercised only on the last trading day before expiration.","source":"YouTube: Series 7 Guru (guru12)"},{"id":"yt-guru12-50","section":"2 - Products & Risks","stem":"If a customer had a large cash position and was interested in purchasing stock at prices below where they are today, an option strategy would be to","choices":{"A":"buy out-of-the-money calls.","B":"place a buy stop order below the market.","C":"write uncovered calls that are currently out of the money.","D":"write covered puts that are currently out of the money."},"answer":"D","explanation":"The correct choice (D) is: \"write covered puts that are currently out of the money..\" Writing out-of-the-money covered (cash-secured) puts lets the customer acquire stock below today's price if assigned.","source":"YouTube: Series 7 Guru (guru12)"}];
+var SIE_QUESTIONS_YOUTUBE_GURU12 = [
+ {
+  "id": "yt-guru12-2",
+  "section": "2 - Products & Risks",
+  "stem": "An investor has purchased a bond with a 5% coupon. This investor will receive",
+  "choices": {
+   "A": "$50 interest payable at maturity.",
+   "B": "$50 semiannual interest payments.",
+   "C": "$5 annual interest until maturity.",
+   "D": "$50 annual interest until maturity."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \"$50 annual interest until maturity..\" A 5% coupon on $1,000 par pays $50 of interest each year until maturity.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-4",
+  "section": "2 - Products & Risks",
+  "stem": "A brokerage firm has accumulated a large holding in a little known company by purchasing several hundred thousand shares of the company's stock. The firm instructs its registered representatives to begin touting the stock to every one of its customers and to make cold calls to new potential customers as well. This is most likely a scheme known as",
+  "choices": {
+   "A": "pegging",
+   "B": "capping",
+   "C": "pump and dump",
+   "D": "marking the open"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \"pump and dump.\" Touting a little-known stock to customers and via cold calls to drive up the price is a 'pump and dump' manipulation.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-5",
+  "section": "2 - Products & Risks",
+  "stem": "Who benefits most from a defined contribution plan?",
+  "choices": {
+   "A": "Older employees",
+   "B": "Younger employees",
+   "C": "Employees with fewer years left to work",
+   "D": "All benefit the same"
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \"Younger employees.\" Younger employees benefit most from defined contribution plans because they have the longest time for tax-deferred compounding.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-6",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "Which of the following is true regarding nonregistered personnel of FINRA member firms?",
+  "choices": {
+   "A": "All employees of a member firm must be registered.",
+   "B": "Nonregistered employees of broker-dealers have an unlimited scope of activities as long as they are under the direct supervision of a principal.",
+   "C": "Nonregistered employees of broker-dealers have an unlimited scope of activities as long as they are under the direct supervision of a registered representative.",
+   "D": "Nonregistered employees of broker-dealers have a limited scope of activities."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \"a buy back..\" A company buying its own debt directly from holders for cash is a tender offer.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-9",
+  "section": "1 - Capital Markets",
+  "stem": "Federal, state, and local income tax would be due on the interest from which of the following issues?",
+  "choices": {
+   "A": "Dallas, Texas, general obligation bond",
+   "B": "5-year TIP",
+   "C": "Tax anticipation note issued by Orlando, Florida",
+   "D": "FHLMC certificate"
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \"FHLMC certificate.\" FHLMC (Freddie Mac) certificate interest is taxable at federal, state, and local levels; municipal and Treasury interest are exempt at one or more levels.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-10",
+  "section": "2 - Products & Risks",
+  "stem": "Records of original entry must be recorded no later than the next business day and must be kept readily available for",
+  "choices": {
+   "A": "four years.",
+   "B": "six years.",
+   "C": "two years.",
+   "D": "three years."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \"six years..\" Records of original entry must be made by the next business day and retained for six years.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-11",
+  "section": "2 - Products & Risks",
+  "stem": "Which position has the greatest potential risk if the price of the underlying stock goes up?",
+  "choices": {
+   "A": "Short put",
+   "B": "Long call",
+   "C": "Long put",
+   "D": "Short call"
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \"Short call.\" A short call has unlimited loss if the stock rises, the greatest risk among the listed positions.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-12",
+  "section": "2 - Products & Risks",
+  "stem": "A customer buys an October 75 MMS put. MMS stock closes at 70. Which of the following is true?",
+  "choices": {
+   "A": "The put is out of the money.",
+   "B": "The put is at the money.",
+   "C": "The put has intrinsic value.",
+   "D": "It has only premium value."
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \"The put has intrinsic value..\" With MMS at $70 and a 75 put, the put is in the money and has intrinsic value of $5.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-13",
+  "section": "2 - Products & Risks",
+  "stem": "For collateral trust bonds, all of the following are true except",
+  "choices": {
+   "A": "these are unsecured debt securities.",
+   "B": "the issuer deposits securities it owns into a trust.",
+   "C": "securities backing the debt can be securities of either fully or partially owned subsidiaries.",
+   "D": "a trust serves as a depository holding the securities to serve as collateral."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \"these are unsecured debt securities..\" Collateral trust bonds are secured by pledged securities, so they are not unsecured debt.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-14",
+  "section": "2 - Products & Risks",
+  "stem": "All of the following are taxable to the investor except",
+  "choices": {
+   "A": "Semiannual interest payments.",
+   "B": "Capital gains distributions.",
+   "C": "Stock dividends.",
+   "D": "Cash dividends."
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \"Stock dividends..\" Stock dividends are generally non-taxable until sold; cash dividends, interest, and capital gains distributions are taxable.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-15",
+  "section": "1 - Capital Markets",
+  "stem": "Each of the following makes regular interest payments except",
+  "choices": {
+   "A": "corporate bonds.",
+   "B": "Treasury STRIPS.",
+   "C": "Treasury notes.",
+   "D": "Treasury bonds."
+  },
+  "answer": "B",
+  "explanation": "Correct answer: Treasury STRIPS.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-17",
+  "section": "2 - Products & Risks",
+  "stem": "Which of the following securities may trade above or below their net asset value?",
+  "choices": {
+   "A": "Common shares of a closed-end investment company",
+   "B": "Face-amount certificates",
+   "C": "Common shares of an open-end investment company",
+   "D": "Units of a unit investment trust"
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \"Common shares of a closed-end investment company.\" Closed-end fund shares trade in the market and can sell at premiums or discounts to NAV.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-18",
+  "section": "2 - Products & Risks",
+  "stem": "An investor is short a January 30 call at 5. Maximum loss for the investor is",
+  "choices": {
+   "A": "Unlimited.",
+   "B": "50 points or $5,000.",
+   "C": "5 points or $500.",
+   "D": "25 points or $2,500."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \"Unlimited..\" A short call has unlimited maximum loss as the underlying can rise without bound.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-19",
+  "section": "1 - Capital Markets",
+  "stem": "All of the following securities are backed by the full faith and credit of the U.S. government EXCEPT:",
+  "choices": {
+   "A": "Treasury bills",
+   "B": "Treasury receipts",
+   "C": "Treasury bonds",
+   "D": "Treasury STRIPS"
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \"calls made to make the customer aware of new products that are available to the customer..\" The do-not-call exemptions include non-commercial, debt-collection, and nonprofit calls; soliciting new products is a commercial call and not exempt.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-21",
+  "section": "1 - Capital Markets",
+  "stem": "A mutual fund has been in existence for 25 years. The prospectus must disclose the fund's performance",
+  "choices": {
+   "A": "for each year over the last 10 years.",
+   "B": "over the last 1, 5, and 10 years.",
+   "C": "broken out as an average over the last 10 years.",
+   "D": "over the last 1, 5, 10, 15, 20, and 25 years."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \"0.5%.\" Expense ratio = $600,000 / $120,000,000 = 0.5%.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-23",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "Before effecting an initial penny stock transaction for a new customer, the registered representative must do all of the following except",
+  "choices": {
+   "A": "Obtain a signed risk disclosure document from the customer.",
+   "B": "Confirm that a margin account has been established.",
+   "C": "Obtain a signed suitability statement from the customer.",
+   "D": "Confirm whether the person is an established customer."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \"II only.\" Tendering shares at a gain or loss versus cost basis creates a capital gain (III) or loss (I); there is no separate 'investment income' item.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-27",
+  "section": "2 - Products & Risks",
+  "stem": "In a 20% stock dividend, what happens to the number of shares and the share price?",
+  "choices": {
+   "A": "The share price goes down, and the number of shares goes down.",
+   "B": "The share price goes up, and the number of shares goes down.",
+   "C": "The share price goes down, and the number of shares goes up.",
+   "D": "The share price goes up, and the number of shares goes up."
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \"The share price goes down, and the number of shares goes up..\" A 20% stock dividend increases shares and proportionally decreases the per-share price.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-28",
+  "section": "2 - Products & Risks",
+  "stem": "MOS stock is trading at $55. A March 55 call contract would therefore be trading",
+  "choices": {
+   "A": "In the money.",
+   "B": "With intrinsic value.",
+   "C": "At the money.",
+   "D": "At par."
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \"At the money..\" A March 55 call when the stock is at $55 is at the money (strike equals market price).",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-29",
+  "section": "1 - Capital Markets",
+  "stem": "If a prospectus is being used to close a mutual fund sale, it must be given to the investor",
+  "choices": {
+   "A": "within five business days of purchase.",
+   "B": "within three business days of purchase.",
+   "C": "before or during the sales presentation.",
+   "D": "always before the sales presentation begins."
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \"Thursday, April 28.\" The ex-dividend date is one business day before the record date (Tuesday, April 26).",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-31",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "FOCUS reports, U4 forms, and order tickets are examples of records that must be kept for",
+  "choices": {
+   "A": "10 years.",
+   "B": "Six years.",
+   "C": "Four years.",
+   "D": "three years."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \"three years..\" FOCUS reports, U4 forms, and order tickets are records kept for three years.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-32",
+  "section": "2 - Products & Risks",
+  "stem": "A broker-dealer may extend credit under Regulation T for which of these transactions?",
+  "choices": {
+   "A": "A variable annuity purchase",
+   "B": "A closed-end investment company purchased on the NYSE",
+   "C": "The purchase of an IPO that went public 25 days ago",
+   "D": "A mutual fund purchase"
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \"Municipal notes.\" The Investment Company Act of 1940 classifies investment companies into management companies, UITs, and face-amount certificate companies.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-34",
+  "section": "2 - Products & Risks",
+  "stem": "Class C mutual fund shares are also known as",
+  "choices": {
+   "A": "periodic load shares.",
+   "B": "successive-load shares.",
+   "C": "level-load shares.",
+   "D": "intermediate shares."
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \"level-load shares..\" Class C mutual fund shares are level-load shares (roughly level 12b-1 fees, no front/back load).",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-35",
+  "section": "2 - Products & Risks",
+  "stem": "Money market instruments guaranteed by a bank that are used to provide capital for international trade are called",
+  "choices": {
+   "A": "American depositary receipts (ADRs)",
+   "B": "foreign bills.",
+   "C": "Banker's acceptances (BAs)",
+   "D": "Eurodollars."
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \"Banker's acceptances (BAs).\" Bankers' acceptances are bank-guaranteed money market instruments used to finance international trade.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-36",
+  "section": "2 - Products & Risks",
+  "stem": "Which of the following are securities representing other securities held on deposit with a trustee where the principal and interest payments have been separated?",
+  "choices": {
+   "A": "Treasury receipts and STRIPS",
+   "B": "Treasury bills and notes",
+   "C": "Treasury notes and bonds",
+   "D": "Treasury receipts, bills, and notes"
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \"The Bank Secrecy Act.\" Depositing just under $10,000 repeatedly to avoid the BSA CTR threshold is structuring (circumventing the Bank Secrecy Act).",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-38",
+  "section": "4 - Regulatory Framework",
+  "stem": "What is the name for the legal framework of state laws for broker-dealers, registered representatives, investment advisors and investment advisor representatives?",
+  "choices": {
+   "A": "The Investment Adviser Act",
+   "B": "The Securities Act of 1933",
+   "C": "The Uniform Securities Act",
+   "D": "The Securities and Exchange Act of 1934"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \"The Uniform Securities Act.\" State securities laws governing BDs, reps, and advisers are the Uniform Securities Act.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-39",
+  "section": "2 - Products & Risks",
+  "stem": "Which of the following statements about warrants is false?",
+  "choices": {
+   "A": "The warrant allows the holder to exercise to purchase the underlying stock at a price higher than the market price at the time of the warrant's issue.",
+   "B": "Warrants are most often issued with bonds as an added incentive to purchase the bond.",
+   "C": "The warrant is long term, typically five years or more until expiration.",
+   "D": "The warrant allows the holder to exercise to purchase the underlying stock at a price lower than the market price at the time of the warrant's issue."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \"The warrant allows the holder to exercise to purchase the underlying stock at a price lower than the market price at the time of the warrant's issue..\" Warrants are issued with an exercise price above the market price at issuance, so the 'lower than market' statement is false.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-40",
+  "section": "4 - Regulatory Framework",
+  "stem": "While the Municipal Securities Rulemaking Board (MSRB) writes the rules and regulations regarding underwriting and trading for municipal securities, it does not enforce those rules. Who does?",
+  "choices": {
+   "A": "New York Stock Exchange (NYSE)",
+   "B": "Options Clearing Corporation (OCC)",
+   "C": "Financial Industry Regulatory Authority (FINRA)",
+   "D": "Department of Justice (DOJ)"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \"The investors.\" In a limited partnership, the partners (investors) are pass-through entities and bear the tax consequences directly.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-43",
+  "section": "2 - Products & Risks",
+  "stem": "An investor is short 1 December 15 put at 6. The investor's maximum loss on this position is",
+  "choices": {
+   "A": "$1,500",
+   "B": "$2,100",
+   "C": "$600",
+   "D": "$900"
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \"$900.\" Short 1 Dec 15 put @6: max loss = (15 - 6) x 100 = $900.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-44",
+  "section": "1 - Capital Markets",
+  "stem": "For options investors, which of the following are true? I. Buyers pay the premium for the right to exercise. II. Buyers pay the premium and incur an obligation to buy or sell. III. Sellers receive the premium and incur an obligation to buy or sell. IV. Sellers receive the premium for the right to exercise.",
+  "choices": {
+   "A": "I and IV",
+   "B": "I and III",
+   "C": "II and IV",
+   "D": "II and III"
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \"as tax-free investments with no potential write-offs..\" DPPs are pass-through entities whose owners are liable for the taxes on income and gains.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-47",
+  "section": "2 - Products & Risks",
+  "stem": "An option contract having no intrinsic value at expiration will likely be",
+  "choices": {
+   "A": "allowed to expire",
+   "B": "exercised by the holder.",
+   "C": "exercised by the writer.",
+   "D": "assigned to the holder."
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \"allowed to expire.\" An option with no intrinsic value at expiration will simply be allowed to expire worthless.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-48",
+  "section": "4 - Regulatory Framework",
+  "stem": "Which of the following companies was created by an act of Congress and provides securities investors limited financial coverage in the event that the investor's servicing broker-dealer fails financially?",
+  "choices": {
+   "A": "Securities Investor Protection Corporation (SIPC)",
+   "B": "Federal Deposit Insurance Corporation (FDIC)",
+   "C": "The Office of Foreign Assets Control (OFAC)",
+   "D": "Securities Information Center (SIC)"
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \"she may not exercise the contracts. The contracts will exercise at expiration if they are in the money..\" European-style options may be exercised only on the last trading day before expiration.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ },
+ {
+  "id": "yt-guru12-50",
+  "section": "2 - Products & Risks",
+  "stem": "If a customer had a large cash position and was interested in purchasing stock at prices below where they are today, an option strategy would be to",
+  "choices": {
+   "A": "buy out-of-the-money calls.",
+   "B": "place a buy stop order below the market.",
+   "C": "write uncovered calls that are currently out of the money.",
+   "D": "write covered puts that are currently out of the money."
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \"write covered puts that are currently out of the money..\" Writing out-of-the-money covered (cash-secured) puts lets the customer acquire stock below today's price if assigned.",
+  "source": "YouTube: Series 7 Guru (guru12)"
+ }
+];

@@ -79,8 +79,8 @@ SIE_QUESTIONS_YOUTUBE_GURU19 = [
    "C": "I and III",
    "D": "II and III"
   },
-  "answer": "B",
-  "explanation": "The correct choice (B) is: “II and IV”. Systematic (market) risk affects the whole market and cannot be eliminated through diversification.",
+  "answer": "D",
+  "explanation": "Correct answer: II and III",
   "source": "YouTube: Series 7 Guru (guru19)"
  },
  {

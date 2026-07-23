@@ -1,1 +1,506 @@
-var SIE_QUESTIONS_YOUTUBE_GURU51 = [{"id":"yt-guru51-1","section":"2 - Products & Risks","stem":"a company you own common stock and has just filed for bankruptcy as a shareholder you will have the right to receive","choices":{"A":"the part value of the common shares","B":"new common shares in the reorganized company","C":"a percentage of your original investment","D":"your proportional percentage of residual assets"},"answer":"D","explanation":"The correct choice (D) is: \"your proportional percentage of residual assets.\" In liquidation common shareholders have only a residual claim, receiving assets left after creditors and preferred holders are paid.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-2","section":"2 - Products & Risks","stem":"your proportional percentage of residual assets a corporation May pay a dividend in which of the following way","choices":{"A":"Stock","B":"cash","C":"stock of another company","D":"all of the above"},"answer":"D","explanation":"The correct choice (D) is: \"all of the above.\" Corporations may pay dividends in cash, stock, or the stock of another company.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-3","section":"2 - Products & Risks","stem":"all of the above ABC common stock has declined dramatically in value over the last quarter but the dividend it has declared for payment this quarter has remained the same the dividend yield on the stock has","choices":{"A":"not changed because the board has to declare the dividend amount","B":"g gone down because the yield is a stated rate","C":"gone up as the price of ABC has fallen","D":"been fixed at the time of issuance"},"answer":"C","explanation":"The correct choice (C) is: \"taxed as special interest free income.\" Qualified dividends received by ordinary-income earners are taxed at the reduced long-term capital gains rate of 15%.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-5","section":"2 - Products & Risks","stem":"taxed at a set rate of 15% all of the following are rights of common stockholders except","choices":{"A":"right to elect the board of directors","B":"right to vote for executive compensation","C":"right to vote for a stock split","D":"right to maintain their percentage of ownership in the company"},"answer":"B","explanation":"The correct choice (B) is: \"right to vote for executive compensation.\" Common stockholders do not directly vote on executive compensation; they vote on the board, stock splits, and pre-emptive rights.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-6","section":"2 - Products & Risks","stem":"right to vote for executive compensation which of the following is not true regarding American depositary receipts adrs a they are receipts of ownership of foreign shares being held abroad in","choices":{"A":"US Bank","B":"each ADR represents 100 shares of foreign stock and the ADR holder May request delivery of the foreign shares","C":"ADR holders have the right to vote and to receive dividends that the foreign corporation declares for shareholders","D":"the foreign country May issue restrictions on the foreign ownership of stock"},"answer":"B","explanation":"The correct choice (B) is: \"each ADR represents 100 shares of foreign stock and the ADR holder May request delivery of the foreign shares.\" ADRs do not each represent a fixed 100 foreign shares; the conversion ratio varies by issue.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-7","section":"2 - Products & Risks","stem":"An ADR represents 100 shares of a foreign stock. An investor buys 1 ADR at $110 per ADR, and each ADR pays an annual dividend of $10. What is the current yield?","choices":{"A":"10.4%","B":"9.09%","C":"10%","D":"9.1%"},"answer":"B","explanation":"Current yield = annual income / current price = $10 / $110 = 9.09%. Choice B is correct.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-8","section":"2 - Products & Risks","stem":"99.1% an investor buys 100 shares of XYZ 7% convertible preferred stock which is convertible into XYZ common stock at $20 per share how many shares of common stock upon conversion","choices":{"A":"five","B":"400","C":"500","D":"5,000"},"answer":"C","explanation":"The correct choice (C) is: \"500.\" Each $100 par preferred converts into $100 / $20 = 5 common shares, so 100 preferred = 500 common shares.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-9","section":"2 - Products & Risks","stem":"500 an investor has purchased shares of a foreign company through an ADR which of the foll is not true","choices":{"A":"the ADR may represent one or more shares of the company's common stock","B":"the dividend will be paid in US Dollars","C":"the investor may elect to exchange the ADR for the underlying common shares","D":"the investor is subject to currency risk"},"answer":"B","explanation":"The correct choice (B) is: \"the dividend will be paid in US Dollars.\" ADR dividends are actually converted and paid in U.S. dollars, so stating they are paid in USD is not the false statement; the non-convertibility point is the typical 'not true' item.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-10","section":"2 - Products & Risks","stem":"the dividend will be paid in US Dollars an investor owns 100 shares of XYZ 8% participating preferred stock XYZ common stock pays a quarterly dividend of 25 cents how much will the investor earn each year in dividends","choices":{"A":"$825","B":"$90","C":"$180","D":"$900"},"answer":"D","explanation":"The correct choice (D) is: \"$900.\" 8% preferred yields $8 per share plus $1 per share participation (the common's $1 annual dividend), totaling $9 x 100 = $900.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-11","section":"2 - Products & Risks","stem":"$900 an investor who buys a 7% cumulative preferred stock will receive semiannual dividends of","choices":{"A":"$7 per share","B":"7% of the corporate profits","C":"$3.50 per share","D":"3.5% of the corporate profits"},"answer":"C","explanation":"The correct choice (C) is: \"$3.50 per share.\" A 7% cumulative preferred pays $7 per share annually, or $3.50 semiannually.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-12","section":"2 - Products & Risks","stem":"$33.50 per share as the owner of a cumulative preferred stock an investor would have all of the following rights except a voting if Dividends are missed for","choices":{"A":"significant period of time","B":"right to receive past dividends not paid by the corporation","C":"right to exchange the preferred for the underlying common shares","D":"the right to receive the past dividends Before Common holders receive a dividend"},"answer":"C","explanation":"The correct choice (C) is: \"right to exchange the preferred for the underlying common shares.\" Cumulative preferred holders have no right to exchange their shares for common stock; they have the right to accumulated unpaid dividends.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-13","section":"2 - Products & Risks","stem":"right to exchange the preferred for the underlying common shares authorized stock is all of the following except a the maximum number of shares","choices":{"A":"company may sell","B":"arbitrarily determined at the time of incorporation and may not be changed","C":"may be sold in total or in part when the company goes public","D":"sold to investors to raise operating capital for the company"},"answer":"B","explanation":"The correct choice (B) is: \"arbitrarily determined at the time of incorporation and may not be changed.\" Authorized stock can be changed by shareholder vote, so it is not permanently fixed at incorporation.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-14","section":"2 - Products & Risks","stem":"arbitrarily determined at the time of incorporation and may not be changed common stockholders do not have the right to vote on which of the following issues","choices":{"A":"election of the board of directors","B":"stock splits","C":"issuance of additional common shares","D":"bankruptcy"},"answer":"D","explanation":"The correct choice (D) is: \"bankruptcy.\" Common stockholders do not vote on bankruptcy proceedings; they vote on directors, stock splits, and new issuances.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-15","section":"2 - Products & Risks","stem":"bankruptcy common Dividends are all of the following except a","choices":{"A":"portion of the earnings of the company","B":"a source of income for the investor","C":"generally paid quarterly","D":"a figure determined by subtracting the current yield from the current market price"},"answer":"D","explanation":"The correct choice (D) is: \"$0.125.\" Each bond rose 1.28 points ($12.80 per bond); 10 bonds rose about $128, rounded to $125 in the answer key.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-19","section":"2 - Products & Risks","stem":"$125 which type of bonds require the investor to deposit coupons to receive their interest payments but have the owner's name recorded on the books of the issuer","choices":{"A":"registered bonds","B":"bearer bonds","C":"book entry or journal entry bonds","D":"principal only bonds"},"answer":"D","explanation":"The correct choice (D) is: \"principal only bonds.\" Registered bonds have the owner's name on the books and pay interest automatically, unlike bearer bonds that require coupon clipping.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-20","section":"2 - Products & Risks","stem":"principal only Bonds in response to a customer's request for information on how inflation will affect their return realized from their semiannual coupon payments you would look at the","choices":{"A":"real interest rate","B":"adjusted interest rate","C":"interest conversion rate","D":"current interest rate"},"answer":"A","explanation":"The correct choice (A) is: \"real interest rate.\" The real (inflation-adjusted) interest rate shows how inflation affects the purchasing power of coupon payments.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-21","section":"2 - Products & Risks","stem":"real interest rate which bonds are issued as a physical certificate without the owner's name on them and require whoever possesses these bonds to clip the coupons to receive their interest payments and to surrender the bond at maturity in order to receive the principal payment","choices":{"A":"registered bonds","B":"book entry or journal entry bonds","C":"principal only registered bonds","D":"bearer bonds"},"answer":"D","explanation":"The correct choice (D) is: \"bearer bonds.\" Bearer bonds are physical certificates payable to whoever holds them and require clipping coupons for interest.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-22","section":"2 - Products & Risks","stem":"bearer bonds all of the following are reasons a corporation would attach a warrant to their bond except to","choices":{"A":"save money","B":"make the bond more attractive","C":"increase the number of shares outstanding when the warrants are exercised","D":"lower the coupon"},"answer":"C","explanation":"The correct choice (C) is: \"increase the number of shares outstanding when the warrants are exercised.\" Issuers attach warrants to make bonds more attractive and lower the coupon; increasing shares outstanding is a consequence, not a reason.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-23","section":"2 - Products & Risks","stem":"increase the number of shares outstanding when the warrants are exercised the type of bond that is ured by real estate is called","choices":{"A":"real estate trust certificates","B":"mortgage Bond","C":"equipment trust certificates","D":"collateral trust certificates"},"answer":"B","explanation":"The correct choice (B) is: \"mortgage Bond.\" A mortgage bond is secured by real estate.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-24","section":"2 - Products & Risks","stem":"mortgage Bond collateral trust certificates use which of the following as collateral","choices":{"A":"real estate","B":"mortgage","C":"stocks and bonds issued by the same company","D":"stocks and bonds issued by another company"},"answer":"D","explanation":"The correct choice (D) is: \"stocks and bonds issued by another company.\" Collateral trust certificates are backed by stocks and bonds of another company pledged in trust.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-25","section":"2 - Products & Risks","stem":"stocks and bonds issued by another company an investor holding an 8% subordinated debenture will receive how much at maturity","choices":{"A":"$1,000","B":"$1,080","C":"$1,040","D":"depends on the purchase price"},"answer":"C","explanation":"The correct choice (C) is: \"$1,040.\" An 8% subordinated debenture pays $80 interest plus $1,000 principal at maturity, totaling $1,080.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-26","section":"2 - Products & Risks","stem":"$1,040 an ABC corporate bond is quoted at 110 and is convertible into ABC common at 20 per share the parity price for the stock is","choices":{"A":"21","B":"22","C":"23","D":"24"},"answer":"B","explanation":"The correct choice (B) is: \"22.\" Parity price = bond price / conversion ratio = $1,100 / ($1,000/$20 = 50 shares) = $22.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-27","section":"2 - Products & Risks","stem":"22 an investor buys $10,000 of 10% corporate bonds with 5 years left to maturity the investor pays 00 20 for the bonds what is the Investor's current yield","choices":{"A":"5.45%","B":"8.33%","C":"6%","D":"99.2%"},"answer":"B","explanation":"The correct choice (B) is: \"31.\" Parity stock price = bond price / conversion ratio = $1,200 / ($1,000/$25 = 40 shares) = $30.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-29","section":"2 - Products & Risks","stem":"30 which one of the following debt Securities pays interest","choices":{"A":"commercial paper","B":"t Bill","C":"industrial revenue Bond","D":"Bankers acceptance"},"answer":"C","explanation":"The correct choice (C) is: \"industrial revenue Bond.\" An industrial revenue bond pays periodic interest; T-bills, commercial paper, and bankers' acceptances are discount instruments.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-30","section":"2 - Products & Risks","stem":"C industrial revenue bond an investor would expect to realize the largest capital gain by buying bonds that are","choices":{"A":"long-term when rates are high","B":"short-term when rates are low","C":"short-term when rates are high","D":"long-term when rates are low"},"answer":"A","explanation":"The correct choice (A) is: \"long-term when rates are high.\" Long-term bonds have the greatest price sensitivity (duration), so buying them when rates are high captures the largest capital gain when rates fall.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-31","section":"3 - Trading, Accounts & Prohibited","stem":"long-term when rates are high your customer wants to invest in a conservative incom producing investment and is inquiring about gnmas wants to know the minimum dollar amount required to purchase a pass through certificate you should tell her","choices":{"A":"$1,000","B":"$10,000","C":"there is no minimum you can invest almost any sum","D":"$5,000"},"answer":"A","explanation":"The correct choice (A) is: \"$1,000.\" GNMA pass-through certificates have a minimum purchase denomination of $1,000.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-32","section":"2 - Products & Risks","stem":"$11,000 your customer buys a .s t Bond at 10316 how much did he pay for the bond","choices":{"A":"1, $3160","B":"$13.6","C":"$135","D":"$1,316"},"answer":"C","explanation":"The correct choice (C) is: \"$135.\" A T-bond quoted 103-16 (= 103.5%) costs 103.5% of $1,000 par = $1,035 per bond.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-33","section":"2 - Products & Risks","stem":"$135 when is interest on a t- bill paid","choices":{"A":"at maturity","B":"annually","C":"quarterly","D":"monthly"},"answer":"A","explanation":"The correct choice (A) is: \"at maturity.\" Treasury bill interest is paid as the difference between discount price and face value at maturity.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-34","section":"1 - Capital Markets","stem":"All of the following are true regarding the Federal National Mortgage Association (Fannie Mae), EXCEPT:","choices":{"A":"It purchases mortgages and packages them to create mortgage-backed securities that pay interest semiannually.","B":"It provides an investment free of federal, state, and local taxes.","C":"It is a public, for-profit corporation.","D":"Its purpose is to earn a profit by providing mortgage capital."},"answer":"B","explanation":"The correct choice (B) is: \"It provides an investment free of federal, state, and local taxes..\" Fannie Mae securities are fully taxable; only explicitly the interest on direct federal obligations (and some agency issues) gets special tax treatment.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-37","section":"2 - Products & Risks","stem":"they are considered risky because of the short-term maturities the money market is a place where issuers go to","choices":{"A":"obtain long-term financing","B":"obtain short-term financing","C":"offer higher interest rates for a higher yield","D":"exchange money market instruments to their Mutual benefit"},"answer":"B","explanation":"The correct choice (B) is: \"as Supply Rises prices tend to rise.\" As supply rises, prices tend to fall, so a statement that rising supply raises prices is false.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-44","section":"1 - Capital Markets","stem":"as Supply Rises prices tend to rise which one of the following interest rates is controlled by the Federal Reserve board","choices":{"A":"prime rate","B":"federal funds rate","C":"broker call loan rate","D":"discount rate"},"answer":"D","explanation":"The correct choice (D) is: \"discount rate.\" The discount rate is set directly by the Federal Reserve Board; the federal funds rate is market-determined.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-45","section":"2 - Products & Risks","stem":"discount rate all of the following indicate a downturn in the business cycle except","choices":{"A":"rising inventories","B":"High Consumer Debt","C":"falling inventories","D":"falling stock prices"},"answer":"C","explanation":"The correct choice (C) is: \"falling inventories.\" Falling inventories signal expansion, not a downturn; rising inventories and high consumer debt signal contraction.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-46","section":"1 - Capital Markets","stem":"falling inventories a bank with a shortfall meeting their Reserve requirement could borrow money from another bank and pay the","choices":{"A":"federal funds rate","B":"broker call loan rate","C":"prime rate","D":"discount rate"},"answer":"A","explanation":"The correct choice (A) is: \"federal funds rate.\" A bank borrowing overnight from another bank to meet reserves pays the federal funds rate.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-47","section":"1 - Capital Markets","stem":"federal funds rate the government has two tools it can use to try to influence the direction of the economy they are","choices":{"A":"monetary policy and fiscal policy","B":"prime rate policy and fiscal policy","C":"monetary policy and prime rate policy","D":"fiscal policy and money market policy"},"answer":"A","explanation":"The correct choice (A) is: \"monetary policy and fiscal policy.\" The government influences the economy through monetary policy (Fed) and fiscal policy (taxing/spending).","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-48","section":"2 - Products & Risks","stem":"monetary policy and fiscal policy fiscal policy is controlled by I president two fomc three Congress Four f frb","choices":{"A":"i and four","B":"1 and two","C":"2 and four","D":"i N3"},"answer":"D","explanation":"The correct choice (D) is: \"i N3.\" Fiscal policy is controlled by the President and Congress (I and III), not the Fed.","source":"YouTube: Series 7 Guru (guru51)"},{"id":"yt-guru51-49","section":"1 - Capital Markets","stem":"i N3 the Federal Reserve board sets all of the following except","choices":{"A":"monetary policy","B":"Reserve requirement","C":"governmental spending","D":"discount rate"},"answer":"C","explanation":"The correct choice (C) is: \"governmental spending.\" The Federal Reserve does not control governmental spending, which is fiscal policy.","source":"YouTube: Series 7 Guru (guru51)"}];
+var SIE_QUESTIONS_YOUTUBE_GURU51 = [
+ {
+  "id": "yt-guru51-1",
+  "section": "2 - Products & Risks",
+  "stem": "a company you own common stock and has just filed for bankruptcy as a shareholder you will have the right to receive",
+  "choices": {
+   "A": "the part value of the common shares",
+   "B": "new common shares in the reorganized company",
+   "C": "a percentage of your original investment",
+   "D": "your proportional percentage of residual assets"
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \"your proportional percentage of residual assets.\" In liquidation common shareholders have only a residual claim, receiving assets left after creditors and preferred holders are paid.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-2",
+  "section": "2 - Products & Risks",
+  "stem": "your proportional percentage of residual assets a corporation May pay a dividend in which of the following way",
+  "choices": {
+   "A": "Stock",
+   "B": "cash",
+   "C": "stock of another company",
+   "D": "all of the above"
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \"all of the above.\" Corporations may pay dividends in cash, stock, or the stock of another company.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-3",
+  "section": "2 - Products & Risks",
+  "stem": "all of the above ABC common stock has declined dramatically in value over the last quarter but the dividend it has declared for payment this quarter has remained the same the dividend yield on the stock has",
+  "choices": {
+   "A": "not changed because the board has to declare the dividend amount",
+   "B": "g gone down because the yield is a stated rate",
+   "C": "gone up as the price of ABC has fallen",
+   "D": "been fixed at the time of issuance"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \"taxed as special interest free income.\" Qualified dividends received by ordinary-income earners are taxed at the reduced long-term capital gains rate of 15%.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-5",
+  "section": "2 - Products & Risks",
+  "stem": "taxed at a set rate of 15% all of the following are rights of common stockholders except",
+  "choices": {
+   "A": "right to elect the board of directors",
+   "B": "right to vote for executive compensation",
+   "C": "right to vote for a stock split",
+   "D": "right to maintain their percentage of ownership in the company"
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \"right to vote for executive compensation.\" Common stockholders do not directly vote on executive compensation; they vote on the board, stock splits, and pre-emptive rights.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-6",
+  "section": "2 - Products & Risks",
+  "stem": "Which of the following is NOT true regarding American Depositary Receipts (ADRs)?",
+  "choices": {
+   "A": "US Bank",
+   "B": "each ADR represents 100 shares of foreign stock and the ADR holder May request delivery of the foreign shares",
+   "C": "ADR holders have the right to vote and to receive dividends that the foreign corporation declares for shareholders",
+   "D": "the foreign country May issue restrictions on the foreign ownership of stock"
+  },
+  "answer": "B",
+  "explanation": "Correct answer: each ADR represents 100 shares of foreign stock and the ADR holder May request delivery of the foreign shares",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-7",
+  "section": "2 - Products & Risks",
+  "stem": "An ADR represents 100 shares of a foreign stock. An investor buys 1 ADR at $110 per ADR, and each ADR pays an annual dividend of $10. What is the current yield?",
+  "choices": {
+   "A": "10.4%",
+   "B": "9.09%",
+   "C": "10%",
+   "D": "9.1%"
+  },
+  "answer": "B",
+  "explanation": "Current yield = annual income / current price = $10 / $110 = 9.09%. Choice B is correct.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-8",
+  "section": "2 - Products & Risks",
+  "stem": "99.1% an investor buys 100 shares of XYZ 7% convertible preferred stock which is convertible into XYZ common stock at $20 per share how many shares of common stock upon conversion",
+  "choices": {
+   "A": "five",
+   "B": "400",
+   "C": "500",
+   "D": "5,000"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \"500.\" Each $100 par preferred converts into $100 / $20 = 5 common shares, so 100 preferred = 500 common shares.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-9",
+  "section": "2 - Products & Risks",
+  "stem": "500 an investor has purchased shares of a foreign company through an ADR which of the foll is not true",
+  "choices": {
+   "A": "the ADR may represent one or more shares of the company's common stock",
+   "B": "the dividend will be paid in US Dollars",
+   "C": "the investor may elect to exchange the ADR for the underlying common shares",
+   "D": "the investor is subject to currency risk"
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \"the dividend will be paid in US Dollars.\" ADR dividends are actually converted and paid in U.S. dollars, so stating they are paid in USD is not the false statement; the non-convertibility point is the typical 'not true' item.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-10",
+  "section": "2 - Products & Risks",
+  "stem": "the dividend will be paid in US Dollars an investor owns 100 shares of XYZ 8% participating preferred stock XYZ common stock pays a quarterly dividend of 25 cents how much will the investor earn each year in dividends",
+  "choices": {
+   "A": "$825",
+   "B": "$90",
+   "C": "$180",
+   "D": "$900"
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \"$900.\" 8% preferred yields $8 per share plus $1 per share participation (the common's $1 annual dividend), totaling $9 x 100 = $900.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-11",
+  "section": "2 - Products & Risks",
+  "stem": "$900 an investor who buys a 7% cumulative preferred stock will receive semiannual dividends of",
+  "choices": {
+   "A": "$7 per share",
+   "B": "7% of the corporate profits",
+   "C": "$3.50 per share",
+   "D": "3.5% of the corporate profits"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \"$3.50 per share.\" A 7% cumulative preferred pays $7 per share annually, or $3.50 semiannually.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-12",
+  "section": "2 - Products & Risks",
+  "stem": "$33.50 per share as the owner of a cumulative preferred stock an investor would have all of the following rights except a voting if Dividends are missed for",
+  "choices": {
+   "A": "significant period of time",
+   "B": "right to receive past dividends not paid by the corporation",
+   "C": "right to exchange the preferred for the underlying common shares",
+   "D": "the right to receive the past dividends Before Common holders receive a dividend"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \"right to exchange the preferred for the underlying common shares.\" Cumulative preferred holders have no right to exchange their shares for common stock; they have the right to accumulated unpaid dividends.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-13",
+  "section": "2 - Products & Risks",
+  "stem": "right to exchange the preferred for the underlying common shares authorized stock is all of the following except a the maximum number of shares",
+  "choices": {
+   "A": "company may sell",
+   "B": "arbitrarily determined at the time of incorporation and may not be changed",
+   "C": "may be sold in total or in part when the company goes public",
+   "D": "sold to investors to raise operating capital for the company"
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \"arbitrarily determined at the time of incorporation and may not be changed.\" Authorized stock can be changed by shareholder vote, so it is not permanently fixed at incorporation.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-14",
+  "section": "2 - Products & Risks",
+  "stem": "arbitrarily determined at the time of incorporation and may not be changed common stockholders do not have the right to vote on which of the following issues",
+  "choices": {
+   "A": "election of the board of directors",
+   "B": "stock splits",
+   "C": "issuance of additional common shares",
+   "D": "bankruptcy"
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \"bankruptcy.\" Common stockholders do not vote on bankruptcy proceedings; they vote on directors, stock splits, and new issuances.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-15",
+  "section": "2 - Products & Risks",
+  "stem": "bankruptcy common Dividends are all of the following except a",
+  "choices": {
+   "A": "portion of the earnings of the company",
+   "B": "a source of income for the investor",
+   "C": "generally paid quarterly",
+   "D": "a figure determined by subtracting the current yield from the current market price"
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \"$0.125.\" Each bond rose 1.28 points ($12.80 per bond); 10 bonds rose about $128, rounded to $125 in the answer key.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-19",
+  "section": "2 - Products & Risks",
+  "stem": "$125 which type of bonds require the investor to deposit coupons to receive their interest payments but have the owner's name recorded on the books of the issuer",
+  "choices": {
+   "A": "registered bonds",
+   "B": "bearer bonds",
+   "C": "book entry or journal entry bonds",
+   "D": "principal only bonds"
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \"principal only bonds.\" Registered bonds have the owner's name on the books and pay interest automatically, unlike bearer bonds that require coupon clipping.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-20",
+  "section": "2 - Products & Risks",
+  "stem": "principal only Bonds in response to a customer's request for information on how inflation will affect their return realized from their semiannual coupon payments you would look at the",
+  "choices": {
+   "A": "real interest rate",
+   "B": "adjusted interest rate",
+   "C": "interest conversion rate",
+   "D": "current interest rate"
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \"real interest rate.\" The real (inflation-adjusted) interest rate shows how inflation affects the purchasing power of coupon payments.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-21",
+  "section": "2 - Products & Risks",
+  "stem": "real interest rate which bonds are issued as a physical certificate without the owner's name on them and require whoever possesses these bonds to clip the coupons to receive their interest payments and to surrender the bond at maturity in order to receive the principal payment",
+  "choices": {
+   "A": "registered bonds",
+   "B": "book entry or journal entry bonds",
+   "C": "principal only registered bonds",
+   "D": "bearer bonds"
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \"bearer bonds.\" Bearer bonds are physical certificates payable to whoever holds them and require clipping coupons for interest.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-22",
+  "section": "2 - Products & Risks",
+  "stem": "bearer bonds all of the following are reasons a corporation would attach a warrant to their bond except to",
+  "choices": {
+   "A": "save money",
+   "B": "make the bond more attractive",
+   "C": "increase the number of shares outstanding when the warrants are exercised",
+   "D": "lower the coupon"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \"increase the number of shares outstanding when the warrants are exercised.\" Issuers attach warrants to make bonds more attractive and lower the coupon; increasing shares outstanding is a consequence, not a reason.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-23",
+  "section": "2 - Products & Risks",
+  "stem": "increase the number of shares outstanding when the warrants are exercised the type of bond that is ured by real estate is called",
+  "choices": {
+   "A": "real estate trust certificates",
+   "B": "mortgage Bond",
+   "C": "equipment trust certificates",
+   "D": "collateral trust certificates"
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \"mortgage Bond.\" A mortgage bond is secured by real estate.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-24",
+  "section": "2 - Products & Risks",
+  "stem": "mortgage Bond collateral trust certificates use which of the following as collateral",
+  "choices": {
+   "A": "real estate",
+   "B": "mortgage",
+   "C": "stocks and bonds issued by the same company",
+   "D": "stocks and bonds issued by another company"
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \"stocks and bonds issued by another company.\" Collateral trust certificates are backed by stocks and bonds of another company pledged in trust.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-25",
+  "section": "2 - Products & Risks",
+  "stem": "stocks and bonds issued by another company an investor holding an 8% subordinated debenture will receive how much at maturity",
+  "choices": {
+   "A": "$1,000",
+   "B": "$1,080",
+   "C": "$1,040",
+   "D": "depends on the purchase price"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \"$1,040.\" An 8% subordinated debenture pays $80 interest plus $1,000 principal at maturity, totaling $1,080.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-26",
+  "section": "2 - Products & Risks",
+  "stem": "$1,040 an ABC corporate bond is quoted at 110 and is convertible into ABC common at 20 per share the parity price for the stock is",
+  "choices": {
+   "A": "21",
+   "B": "22",
+   "C": "23",
+   "D": "24"
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \"22.\" Parity price = bond price / conversion ratio = $1,100 / ($1,000/$20 = 50 shares) = $22.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-27",
+  "section": "2 - Products & Risks",
+  "stem": "22 an investor buys $10,000 of 10% corporate bonds with 5 years left to maturity the investor pays 00 20 for the bonds what is the Investor's current yield",
+  "choices": {
+   "A": "5.45%",
+   "B": "8.33%",
+   "C": "6%",
+   "D": "99.2%"
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \"31.\" Parity stock price = bond price / conversion ratio = $1,200 / ($1,000/$25 = 40 shares) = $30.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-29",
+  "section": "2 - Products & Risks",
+  "stem": "30 which one of the following debt Securities pays interest",
+  "choices": {
+   "A": "commercial paper",
+   "B": "t Bill",
+   "C": "industrial revenue Bond",
+   "D": "Bankers acceptance"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \"industrial revenue Bond.\" An industrial revenue bond pays periodic interest; T-bills, commercial paper, and bankers' acceptances are discount instruments.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-30",
+  "section": "2 - Products & Risks",
+  "stem": "C industrial revenue bond an investor would expect to realize the largest capital gain by buying bonds that are",
+  "choices": {
+   "A": "long-term when rates are high",
+   "B": "short-term when rates are low",
+   "C": "short-term when rates are high",
+   "D": "long-term when rates are low"
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \"long-term when rates are high.\" Long-term bonds have the greatest price sensitivity (duration), so buying them when rates are high captures the largest capital gain when rates fall.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-31",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "long-term when rates are high your customer wants to invest in a conservative incom producing investment and is inquiring about gnmas wants to know the minimum dollar amount required to purchase a pass through certificate you should tell her",
+  "choices": {
+   "A": "$1,000",
+   "B": "$10,000",
+   "C": "there is no minimum you can invest almost any sum",
+   "D": "$5,000"
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \"$1,000.\" GNMA pass-through certificates have a minimum purchase denomination of $1,000.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-32",
+  "section": "2 - Products & Risks",
+  "stem": "$11,000 your customer buys a .s t Bond at 10316 how much did he pay for the bond",
+  "choices": {
+   "A": "1, $3160",
+   "B": "$13.6",
+   "C": "$135",
+   "D": "$1,316"
+  },
+  "answer": "C",
+  "explanation": "Correct answer: $135",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-33",
+  "section": "2 - Products & Risks",
+  "stem": "$135 when is interest on a t- bill paid",
+  "choices": {
+   "A": "at maturity",
+   "B": "annually",
+   "C": "quarterly",
+   "D": "monthly"
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \"at maturity.\" Treasury bill interest is paid as the difference between discount price and face value at maturity.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-34",
+  "section": "1 - Capital Markets",
+  "stem": "All of the following are true regarding the Federal National Mortgage Association (Fannie Mae), EXCEPT:",
+  "choices": {
+   "A": "It purchases mortgages and packages them to create mortgage-backed securities that pay interest semiannually.",
+   "B": "It provides an investment free of federal, state, and local taxes.",
+   "C": "It is a public, for-profit corporation.",
+   "D": "Its purpose is to earn a profit by providing mortgage capital."
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \"It provides an investment free of federal, state, and local taxes..\" Fannie Mae securities are fully taxable; only explicitly the interest on direct federal obligations (and some agency issues) gets special tax treatment.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-37",
+  "section": "2 - Products & Risks",
+  "stem": "they are considered risky because of the short-term maturities the money market is a place where issuers go to",
+  "choices": {
+   "A": "obtain long-term financing",
+   "B": "obtain short-term financing",
+   "C": "offer higher interest rates for a higher yield",
+   "D": "exchange money market instruments to their Mutual benefit"
+  },
+  "answer": "B",
+  "explanation": "The correct choice (B) is: \"as Supply Rises prices tend to rise.\" As supply rises, prices tend to fall, so a statement that rising supply raises prices is false.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-44",
+  "section": "1 - Capital Markets",
+  "stem": "as Supply Rises prices tend to rise which one of the following interest rates is controlled by the Federal Reserve board",
+  "choices": {
+   "A": "prime rate",
+   "B": "federal funds rate",
+   "C": "broker call loan rate",
+   "D": "discount rate"
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \"discount rate.\" The discount rate is set directly by the Federal Reserve Board; the federal funds rate is market-determined.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-45",
+  "section": "2 - Products & Risks",
+  "stem": "discount rate all of the following indicate a downturn in the business cycle except",
+  "choices": {
+   "A": "rising inventories",
+   "B": "High Consumer Debt",
+   "C": "falling inventories",
+   "D": "falling stock prices"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \"falling inventories.\" Falling inventories signal expansion, not a downturn; rising inventories and high consumer debt signal contraction.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-46",
+  "section": "1 - Capital Markets",
+  "stem": "falling inventories a bank with a shortfall meeting their Reserve requirement could borrow money from another bank and pay the",
+  "choices": {
+   "A": "federal funds rate",
+   "B": "broker call loan rate",
+   "C": "prime rate",
+   "D": "discount rate"
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \"federal funds rate.\" A bank borrowing overnight from another bank to meet reserves pays the federal funds rate.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-47",
+  "section": "1 - Capital Markets",
+  "stem": "federal funds rate the government has two tools it can use to try to influence the direction of the economy they are",
+  "choices": {
+   "A": "monetary policy and fiscal policy",
+   "B": "prime rate policy and fiscal policy",
+   "C": "monetary policy and prime rate policy",
+   "D": "fiscal policy and money market policy"
+  },
+  "answer": "A",
+  "explanation": "The correct choice (A) is: \"monetary policy and fiscal policy.\" The government influences the economy through monetary policy (Fed) and fiscal policy (taxing/spending).",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-48",
+  "section": "2 - Products & Risks",
+  "stem": "monetary policy and fiscal policy fiscal policy is controlled by I president two fomc three Congress Four f frb",
+  "choices": {
+   "A": "i and four",
+   "B": "1 and two",
+   "C": "2 and four",
+   "D": "i N3"
+  },
+  "answer": "D",
+  "explanation": "The correct choice (D) is: \"i N3.\" Fiscal policy is controlled by the President and Congress (I and III), not the Fed.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ },
+ {
+  "id": "yt-guru51-49",
+  "section": "1 - Capital Markets",
+  "stem": "i N3 the Federal Reserve board sets all of the following except",
+  "choices": {
+   "A": "monetary policy",
+   "B": "Reserve requirement",
+   "C": "governmental spending",
+   "D": "discount rate"
+  },
+  "answer": "C",
+  "explanation": "The correct choice (C) is: \"governmental spending.\" The Federal Reserve does not control governmental spending, which is fiscal policy.",
+  "source": "YouTube: Series 7 Guru (guru51)"
+ }
+];

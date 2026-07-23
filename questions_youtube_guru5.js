@@ -66,7 +66,7 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
    "D": "the Comptroller of the Currency."
   },
   "answer": "C",
-  "explanation": "The correct choice (C) is: \"I and IV.\" When a call expires unexercised the buyer loses the premium paid and the writer keeps the premium received.",
+  "explanation": "Correct answer: the Federal Reserve Board (FRB).",
   "source": "YouTube: Series 7 Guru (guru5)"
  },
  {
@@ -80,7 +80,7 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
    "D": "Fully paid for marginable securities totaling $6,400 in market value"
   },
   "answer": "D",
-  "explanation": "The correct choice (D) is: \"Interest income earned on a bond.\" Earned income includes wages, salary, and bonuses; dividends and interest are unearned (portfolio) income.",
+  "explanation": "Correct answer: Fully paid for marginable securities totaling $6,400 in market value",
   "source": "YouTube: Series 7 Guru (guru5)"
  },
  {

@@ -1,1 +1,223 @@
-var SIE_QUESTIONS_YOUTUBE = [{"id":"yt-000","section":"2 - Products & Risks","stem":"Which type of Treasury security would be best for an investor concerned about inflation?","choices":{"A":"Bill","B":"note","C":"TIPS","D":"bonds"},"answer":"C","explanation":"Bill, note, TIPS, or bonds? Well, there's only one that has the word inflation in the name, and that is a Treasury Inflation-Protected Security. Important to remember that the actual nominal yield is not adjusted, but the principal par value amount will be adjusted so that the interest payments will change if there is inflation, not because the cou","source":"YouTube: Pass Masters 75-Q SIE Final Exam"},{"id":"yt-001","section":"1 - Capital Markets","stem":"A depression is defined as at least how many consecutive quarters of decline in GDP?","choices":{"A":"Six","B":"three","C":"two","D":"four"},"answer":"A","explanation":"Six, three, two, or four? So, we have a depression, at least six. We call it the Great Recession cuz we got to five, 2008, 2009. The two common types of 529 plans are So, 529 plans are ways to save for higher educational expenses, municipal funds and state funds, state college plans and city college plans, prepaid tuition plans and college savings","source":"YouTube: Pass Masters 75-Q SIE Final Exam"},{"id":"yt-002","section":"2 - Products & Risks","stem":"Which type of risk has she exposed herself to?","choices":{"A":"Business risk","B":"interest rate risk","C":"political risk","D":"opportunity cost risk"},"answer":"A","explanation":"Business risk, interest rate risk, political risk, or opportunity cost risk? So, business risk is related to the actual investment in the business itself. Interest rate risk primarily we see with fixed securities, debt instruments, political risk, no. But opportunity cost risk, yes. What could she have earned greater than zero? She's also exposed h","source":"YouTube: Pass Masters 75-Q SIE Final Exam"},{"id":"yt-004","section":"2 - Products & Risks","stem":"Which type of life insurance has a fixed premium, minimum death benefit guarantee, with the ability to earn a rate of return similar to that in the stock market?","choices":{"A":"Variable life","B":"20-year level term","C":"whole life","D":"universal life"},"answer":"A","explanation":"Variable life, 20-year level term, whole life, or universal life? Well, universal life is tied to interest rates. Whole life, you're not going to earn a rate of return similar to that in the stock market. 20-year level term doesn't have a rate of return at all. It's just pure protection. So, the correct answer here, variable life has a fixed premiu","source":"YouTube: Pass Masters 75-Q SIE Final Exam"},{"id":"yt-005","section":"2 - Products & Risks","stem":"An investor owns debt of a foreign country and is concerned about the government failing to pay. This is an example of which type of risk?","choices":{"A":"This is an example of legislative risk","B":"sovereign risk","C":"regulatory risk","D":"political risk"},"answer":"B","explanation":"The correct choice (D) is: \"political risk\" This falls under 2 - Products & Risks.","source":"YouTube: Pass Masters 75-Q SIE Final Exam"},{"id":"yt-006","section":"2 - Products & Risks","stem":"So, sovereign risk you have when you own debt of a foreign country. So, this is political risk.","choices":{"A":"A carrying broker-dealer is also known as a retail firm","B":"clearing firm","C":"introducing broker-dealer","D":"a prime broker"},"answer":"B","explanation":"The correct choice (B) is: \"clearing firm\" This falls under 2 - Products & Risks.","source":"YouTube: Pass Masters 75-Q SIE Final Exam"},{"id":"yt-007","section":"2 - Products & Risks","stem":"A carrying broker-dealer is also known as a clearing firm. So, they carry the clients' accounts, and they clear trades for introducing a broker-dealers.","choices":{"A":"A shelf registration is good for 2 years","B":"2 months","C":"4 years","D":"6 years"},"answer":"A","explanation":"The correct choice (A) is: \"A shelf registration is good for 2 years\" This falls under 2 - Products & Risks.","source":"YouTube: Pass Masters 75-Q SIE Final Exam"},{"id":"yt-009","section":"2 - Products & Risks","stem":"Unsecured short-term corporate debt issued at a discount is which of the following?","choices":{"A":"Commercial paper","B":"Treasury bill","C":"bank CD","D":"negotiable CD"},"answer":"A","explanation":"Commercial paper, Treasury bill, bank CD, or negotiable CD? Well, it's not a Treasury bill cuz it's issued by a corporation. Bank CDs are not securities at all. Negotiable CDs are issued by banks. So, this unsecured short-term corporate debt is describing commercial paper. It is issued at a discount.","source":"YouTube: Pass Masters 75-Q SIE Final Exam"},{"id":"yt-013","section":"2 - Products & Risks","stem":"Well, when do callable bonds get called?","choices":{"A":"When interest rates have gone up","B":"down"},"answer":"B","explanation":"When interest rates have gone up or down? Down. When they go down enough, the issuer might call those bonds. So, if interest rates go down, the bonds may get called. The bonds in the portfolio would be hard to sell. The market price of his portfolio has decreased.","source":"YouTube: Pass Masters 75-Q SIE Final Exam"},{"id":"yt-014","section":"2 - Products & Risks","stem":"Okay, so remember, if interest rates go down and they're callable bonds, the issuer's most likely to call the bonds. Market price will have gone up if interest rates have gone down, and then all of the sudden the investor gets back their principal and no longer has that coupon rate anymore.","choices":{"A":"If they go to reinvest their money","B":"are they going to earn the same amount"},"answer":"B","explanation":"If they go to reinvest their money, are they going to earn the same amount? No, because interest rates have gone down. So, reinvestment risk. Those bonds in the secondary market before they were called would have gone up in price. The SEC requires that shareholders of publicly traded companies receive a proxy statement semiannually, prior to every","source":"YouTube: Pass Masters 75-Q SIE Final Exam"},{"id":"yt-015","section":"2 - Products & Risks","stem":"What type of trust is created during the maker's lifetime?","choices":{"A":"Simple","B":"testamentary","C":"complex","D":"living"},"answer":"D","explanation":"Simple, testamentary, complex, or living? It is a living inter vivos trust that is created during the maker's lifetime. A registered rep who buys stocks for his discretionary accounts and then disseminates rumors via social media designed to drive up the price of the stock so he can sell it for a profit is guilty of front running, pump and dump, ex","source":"YouTube: Pass Masters 75-Q SIE Final Exam"},{"id":"yt-017","section":"2 - Products & Risks","stem":"An importer should be concerned most with which of the following types of risks?","choices":{"A":"Market","B":"currency","C":"reinvestment","D":"country"},"answer":"B","explanation":"Market, currency, reinvestment, or country? Oh, they should be concerned with currency risk, currency exchange rate risk. Importers and exporters, for sure. A highly leveraged company would be one with So when we issue debt, we call that leverage financing. So a highly leveraged company would be one with a large amount of debt outstanding. Yes.","source":"YouTube: Pass Masters 75-Q SIE Final Exam"},{"id":"yt-020","section":"1 - Capital Markets","stem":"Interests in direct participation programs (DPPs) are most often sold through which method?","choices":{"A":"Interests in direct participation programs are most often sold as shelf distributions","B":"through private placements","C":"by insurance agents","D":"as initial public offerings"},"answer":"B","explanation":"The correct choice (B) is: \"through private placements\" This falls under 1 - Capital Markets.","source":"YouTube: Pass Masters 75-Q SIE Final Exam"},{"id":"yt-023","section":"2 - Products & Risks","stem":"Which type of risk does Marty have?","choices":{"A":"Prepayment risk","B":"currency risk","C":"reinvestment risk","D":"capital risk"},"answer":"C","explanation":"Prepayment risk, currency risk, reinvestment risk, or capital risk? So, when that bank CD matures in 6 months, is he going to be able to put it into another CD and earn the same amount of interest? Most likely not, because interest rates today are much lower than when he got into that CD. So, reinvestment risk. So, bank CDs have reinvestment risk,","source":"YouTube: Pass Masters 75-Q SIE Final Exam"},{"id":"yt-024","section":"2 - Products & Risks","stem":"Which type of equity security would be best for an investor looking for income?","choices":{"A":"Preferred stock","B":"foreign stock","C":"ADR","D":"common stock"},"answer":"A","explanation":"Preferred stock, foreign stock, ADR, or common stock? Now, all stocks dividends are paid at the discretion of the board of directors. They are never guaranteed. However, preferred stock does have a fixed dividend rate. So, that if a dividend is paid when you own preferred stock, you know how much you're going to get. So, of these four types of equi","source":"YouTube: Pass Masters 75-Q SIE Final Exam"},{"id":"yt-026","section":"4 - Regulatory Framework","stem":"Who oversees the entire securities industry?","choices":{"A":"Congress","B":"the Senate","C":"the SEC","D":"the president"},"answer":"C","explanation":"Congress, the Senate, the SEC, or the president? It is the Securities and Exchange Commission that oversees the entire US securities industry. Oversees the entire marketplace. Primary market, secondary market, corporate market, municipal market, all of it overseen by the Securities and Exchange Commission. All of the following are considered non-ca","source":"YouTube: Pass Masters 75-Q SIE Final Exam"}];
+SIE_QUESTIONS_YOUTUBE = [
+ {
+  "id": "yt-000",
+  "section": "2 - Products & Risks",
+  "stem": "Which type of Treasury security would be best for an investor concerned about inflation?",
+  "choices": {
+   "A": "Bill",
+   "B": "note",
+   "C": "TIPS",
+   "D": "bonds"
+  },
+  "answer": "C",
+  "explanation": "Bill, note, TIPS, or bonds? Well, there's only one that has the word inflation in the name, and that is a Treasury Inflation-Protected Security. Important to remember that the actual nominal yield is not adjusted, but the principal par value amount will be adjusted so that the interest payments will change if there is inflation, not because the cou",
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+ },
+ {
+  "id": "yt-001",
+  "section": "1 - Capital Markets",
+  "stem": "A depression is defined as at least how many consecutive quarters of decline in GDP?",
+  "choices": {
+   "A": "Six",
+   "B": "three",
+   "C": "two",
+   "D": "four"
+  },
+  "answer": "A",
+  "explanation": "Six, three, two, or four? So, we have a depression, at least six. We call it the Great Recession cuz we got to five, 2008, 2009. The two common types of 529 plans are So, 529 plans are ways to save for higher educational expenses, municipal funds and state funds, state college plans and city college plans, prepaid tuition plans and college savings",
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+ },
+ {
+  "id": "yt-002",
+  "section": "2 - Products & Risks",
+  "stem": "Which type of risk has she exposed herself to?",
+  "choices": {
+   "A": "Business risk",
+   "B": "interest rate risk",
+   "C": "political risk",
+   "D": "opportunity cost risk"
+  },
+  "answer": "A",
+  "explanation": "Business risk, interest rate risk, political risk, or opportunity cost risk? So, business risk is related to the actual investment in the business itself. Interest rate risk primarily we see with fixed securities, debt instruments, political risk, no. But opportunity cost risk, yes. What could she have earned greater than zero? She's also exposed h",
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+ },
+ {
+  "id": "yt-004",
+  "section": "2 - Products & Risks",
+  "stem": "Which type of life insurance has a fixed premium, minimum death benefit guarantee, with the ability to earn a rate of return similar to that in the stock market?",
+  "choices": {
+   "A": "Variable life",
+   "B": "20-year level term",
+   "C": "whole life",
+   "D": "universal life"
+  },
+  "answer": "A",
+  "explanation": "Variable life, 20-year level term, whole life, or universal life? Well, universal life is tied to interest rates. Whole life, you're not going to earn a rate of return similar to that in the stock market. 20-year level term doesn't have a rate of return at all. It's just pure protection. So, the correct answer here, variable life has a fixed premiu",
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+ },
+ {
+  "id": "yt-005",
+  "section": "2 - Products & Risks",
+  "stem": "An investor owns debt of a foreign country and is concerned about the government failing to pay. This is an example of which type of risk?",
+  "choices": {
+   "A": "This is an example of legislative risk",
+   "B": "sovereign risk",
+   "C": "regulatory risk",
+   "D": "political risk"
+  },
+  "answer": "B",
+  "explanation": "Correct answer: sovereign risk",
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam",
+  "needs_review": true
+ },
+ {
+  "id": "yt-006",
+  "section": "2 - Products & Risks",
+  "stem": "So, sovereign risk you have when you own debt of a foreign country. So, this is political risk.",
+  "choices": {
+   "A": "A carrying broker-dealer is also known as a retail firm",
+   "B": "clearing firm",
+   "C": "introducing broker-dealer",
+   "D": "a prime broker"
+  },
+  "answer": "B",
+  "explanation": "Correct answer: clearing firm",
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+ },
+ {
+  "id": "yt-007",
+  "section": "2 - Products & Risks",
+  "stem": "A carrying broker-dealer is also known as a clearing firm. So, they carry the clients' accounts, and they clear trades for introducing a broker-dealers.",
+  "choices": {
+   "A": "A shelf registration is good for 2 years",
+   "B": "2 months",
+   "C": "4 years",
+   "D": "6 years"
+  },
+  "answer": "A",
+  "explanation": "Correct answer: A shelf registration is good for 2 years",
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+ },
+ {
+  "id": "yt-009",
+  "section": "2 - Products & Risks",
+  "stem": "Unsecured short-term corporate debt issued at a discount is which of the following?",
+  "choices": {
+   "A": "Commercial paper",
+   "B": "Treasury bill",
+   "C": "bank CD",
+   "D": "negotiable CD"
+  },
+  "answer": "A",
+  "explanation": "Commercial paper, Treasury bill, bank CD, or negotiable CD? Well, it's not a Treasury bill cuz it's issued by a corporation. Bank CDs are not securities at all. Negotiable CDs are issued by banks. So, this unsecured short-term corporate debt is describing commercial paper. It is issued at a discount.",
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+ },
+ {
+  "id": "yt-013",
+  "section": "2 - Products & Risks",
+  "stem": "Well, when do callable bonds get called?",
+  "choices": {
+   "A": "When interest rates have gone up",
+   "B": "down"
+  },
+  "answer": "B",
+  "explanation": "When interest rates have gone up or down? Down. When they go down enough, the issuer might call those bonds. So, if interest rates go down, the bonds may get called. The bonds in the portfolio would be hard to sell. The market price of his portfolio has decreased.",
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+ },
+ {
+  "id": "yt-014",
+  "section": "2 - Products & Risks",
+  "stem": "Okay, so remember, if interest rates go down and they're callable bonds, the issuer's most likely to call the bonds. Market price will have gone up if interest rates have gone down, and then all of the sudden the investor gets back their principal and no longer has that coupon rate anymore.",
+  "choices": {
+   "A": "If they go to reinvest their money",
+   "B": "are they going to earn the same amount"
+  },
+  "answer": "B",
+  "explanation": "If they go to reinvest their money, are they going to earn the same amount? No, because interest rates have gone down. So, reinvestment risk. Those bonds in the secondary market before they were called would have gone up in price. The SEC requires that shareholders of publicly traded companies receive a proxy statement semiannually, prior to every",
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+ },
+ {
+  "id": "yt-015",
+  "section": "2 - Products & Risks",
+  "stem": "What type of trust is created during the maker's lifetime?",
+  "choices": {
+   "A": "Simple",
+   "B": "testamentary",
+   "C": "complex",
+   "D": "living"
+  },
+  "answer": "D",
+  "explanation": "Simple, testamentary, complex, or living? It is a living inter vivos trust that is created during the maker's lifetime. A registered rep who buys stocks for his discretionary accounts and then disseminates rumors via social media designed to drive up the price of the stock so he can sell it for a profit is guilty of front running, pump and dump, ex",
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+ },
+ {
+  "id": "yt-017",
+  "section": "2 - Products & Risks",
+  "stem": "An importer should be concerned most with which of the following types of risks?",
+  "choices": {
+   "A": "Market",
+   "B": "currency",
+   "C": "reinvestment",
+   "D": "country"
+  },
+  "answer": "B",
+  "explanation": "Market, currency, reinvestment, or country? Oh, they should be concerned with currency risk, currency exchange rate risk. Importers and exporters, for sure. A highly leveraged company would be one with So when we issue debt, we call that leverage financing. So a highly leveraged company would be one with a large amount of debt outstanding. Yes.",
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+ },
+ {
+  "id": "yt-020",
+  "section": "1 - Capital Markets",
+  "stem": "Interests in direct participation programs (DPPs) are most often sold through which method?",
+  "choices": {
+   "A": "Interests in direct participation programs are most often sold as shelf distributions",
+   "B": "through private placements",
+   "C": "by insurance agents",
+   "D": "as initial public offerings"
+  },
+  "answer": "B",
+  "explanation": "Correct answer: through private placements",
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+ },
+ {
+  "id": "yt-023",
+  "section": "2 - Products & Risks",
+  "stem": "Which type of risk does Marty have?",
+  "choices": {
+   "A": "Prepayment risk",
+   "B": "currency risk",
+   "C": "reinvestment risk",
+   "D": "capital risk"
+  },
+  "answer": "C",
+  "explanation": "Prepayment risk, currency risk, reinvestment risk, or capital risk? So, when that bank CD matures in 6 months, is he going to be able to put it into another CD and earn the same amount of interest? Most likely not, because interest rates today are much lower than when he got into that CD. So, reinvestment risk. So, bank CDs have reinvestment risk,",
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+ },
+ {
+  "id": "yt-024",
+  "section": "2 - Products & Risks",
+  "stem": "Which type of equity security would be best for an investor looking for income?",
+  "choices": {
+   "A": "Preferred stock",
+   "B": "foreign stock",
+   "C": "ADR",
+   "D": "common stock"
+  },
+  "answer": "A",
+  "explanation": "Preferred stock, foreign stock, ADR, or common stock? Now, all stocks dividends are paid at the discretion of the board of directors. They are never guaranteed. However, preferred stock does have a fixed dividend rate. So, that if a dividend is paid when you own preferred stock, you know how much you're going to get. So, of these four types of equi",
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+ },
+ {
+  "id": "yt-026",
+  "section": "4 - Regulatory Framework",
+  "stem": "Who oversees the entire securities industry?",
+  "choices": {
+   "A": "Congress",
+   "B": "the Senate",
+   "C": "the SEC",
+   "D": "the president"
+  },
+  "answer": "C",
+  "explanation": "Congress, the Senate, the SEC, or the president? It is the Securities and Exchange Commission that oversees the entire US securities industry. Oversees the entire marketplace. Primary market, secondary market, corporate market, municipal market, all of it overseen by the Securities and Exchange Commission. All of the following are considered non-ca",
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+ }
+];

@@ -1,1 +1,72 @@
-var SIE_QUESTIONS_YOUTUBE_GURU72 = [{"id":"yt-GURU72-20","section":"2 - Products & Risks","stem":"Which of the following investments would not be appropriate for an investor with a capital growth objective?","choices":{"A":"Unit investment trust","B":"Common stock","C":"Growth mutual fund","D":"Zero coupon bond"},"answer":"D","explanation":"The correct choice (D) is: “Zero coupon bond”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.","source":"YouTube: Series 7 Guru (guru72)"},{"id":"yt-GURU72-28","section":"3 - Trading, Accounts & Prohibited","stem":"__________ trading authority is when a person other than the account holder may invest without consulting the account holder about the price, amount, or type of security or the timing of the trades that are placed for the account","choices":{"A":"Discretionary","B":"Nondiscretionary","C":"Privileged","D":"Absolute"},"answer":"A","explanation":"The correct choice (A) is: “Discretionary”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.","source":"YouTube: Series 7 Guru (guru72)"},{"id":"yt-GURU72-29","section":"3 - Trading, Accounts & Prohibited","stem":"Which of the following would be considered a red flag when opening a new client account?","choices":{"A":"No investment experience","B":"High annual income with little savings","C":"Hesitancy to give financial information","D":"Nervousness when answering questions about account objectives"},"answer":"D","explanation":"The correct choice (D) is: “Nervousness when answering questions about account objectives”. This falls under <b>3 - Trading, Accounts & Prohibited</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.","source":"YouTube: Series 7 Guru (guru72)"},{"id":"yt-GURU72-57","section":"4 - Regulatory Framework","stem":"What is the tax consequence to an individual over the age of 59 1/2 who withdraws a lump sum from his 401(K)?","choices":{"A":"The amount withdrawn is considered income and is subject to income taxes at the individual's rate","B":"The amount that is withdrawn is considered income and is subject to income taxes at the individual's current rate. Plus, he may be subject to a 10% penalty","C":"He must pay a 10% penalty. Otherwise, there are no tax consequences","D":"None of the above. A lump sum withdrawal from a 401(K) is not a taxable event"},"answer":"A","explanation":"The correct choice (A) is: “The amount withdrawn is considered income and is subject to income taxes at the individual's rate”. This falls under <b>4 - Regulatory Framework</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.","source":"YouTube: Series 7 Guru (guru72)"},{"id":"yt-GURU72-65","section":"2 - Products & Risks","stem":"Which of the following describe the rights shareholders possess? I. They retain an interest in residual assets proportionate to their investment in the event of bankruptcy II. They can access a corporation's confidential financial information III. They receive a shareholder list IV. They can inspect a corporation's books and records","choices":{"A":"II, III, and IV","B":"I, III, and IV","C":"I, II, and IV","D":"III and IV"},"answer":"B","explanation":"The correct choice (B) is: “I, III, and IV”. This falls under <b>2 - Products & Risks</b>. No detailed explanation was captured from the source video; the correct answer reflects the standard SIE treatment for this topic — review it before the exam.","source":"YouTube: Series 7 Guru (guru72)"}];
+SIE_QUESTIONS_YOUTUBE_GURU72 = [
+ {
+  "id": "yt-GURU72-20",
+  "section": "2 - Products & Risks",
+  "stem": "Which of the following investments would not be appropriate for an investor with a capital growth objective?",
+  "choices": {
+   "A": "Unit investment trust",
+   "B": "Common stock",
+   "C": "Growth mutual fund",
+   "D": "Zero coupon bond"
+  },
+  "answer": "D",
+  "explanation": "Correct answer: Zero coupon bond",
+  "source": "YouTube: Series 7 Guru (guru72)"
+ },
+ {
+  "id": "yt-GURU72-28",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "__________ trading authority is when a person other than the account holder may invest without consulting the account holder about the price, amount, or type of security or the timing of the trades that are placed for the account",
+  "choices": {
+   "A": "Discretionary",
+   "B": "Nondiscretionary",
+   "C": "Privileged",
+   "D": "Absolute"
+  },
+  "answer": "A",
+  "explanation": "Correct answer: Discretionary",
+  "source": "YouTube: Series 7 Guru (guru72)"
+ },
+ {
+  "id": "yt-GURU72-29",
+  "section": "3 - Trading, Accounts & Prohibited",
+  "stem": "Which of the following would be considered a red flag when opening a new client account?",
+  "choices": {
+   "A": "No investment experience",
+   "B": "High annual income with little savings",
+   "C": "Hesitancy to give financial information",
+   "D": "Nervousness when answering questions about account objectives"
+  },
+  "answer": "D",
+  "explanation": "Correct answer: Nervousness when answering questions about account objectives",
+  "source": "YouTube: Series 7 Guru (guru72)"
+ },
+ {
+  "id": "yt-GURU72-57",
+  "section": "4 - Regulatory Framework",
+  "stem": "What is the tax consequence to an individual over the age of 59 1/2 who withdraws a lump sum from his 401(K)?",
+  "choices": {
+   "A": "The amount withdrawn is considered income and is subject to income taxes at the individual's rate",
+   "B": "The amount that is withdrawn is considered income and is subject to income taxes at the individual's current rate. Plus, he may be subject to a 10% penalty",
+   "C": "He must pay a 10% penalty. Otherwise, there are no tax consequences",
+   "D": "None of the above. A lump sum withdrawal from a 401(K) is not a taxable event"
+  },
+  "answer": "A",
+  "explanation": "Correct answer: The amount withdrawn is considered income and is subject to income taxes at the individual's rate",
+  "source": "YouTube: Series 7 Guru (guru72)"
+ },
+ {
+  "id": "yt-GURU72-65",
+  "section": "2 - Products & Risks",
+  "stem": "Which of the following describe the rights shareholders possess? I. They retain an interest in residual assets proportionate to their investment in the event of bankruptcy II. They can access a corporation's confidential financial information III. They receive a shareholder list IV. They can inspect a corporation's books and records",
+  "choices": {
+   "A": "II, III, and IV",
+   "B": "I, III, and IV",
+   "C": "I, II, and IV",
+   "D": "III and IV"
+  },
+  "answer": "B",
+  "explanation": "Correct answer: I, III, and IV",
+  "source": "YouTube: Series 7 Guru (guru72)"
+ }
+];

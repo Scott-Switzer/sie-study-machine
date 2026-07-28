@@ -11,7 +11,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU16 = [
   },
   "answer": "D",
   "explanation": "The correct choice (A) is: “an owner of the company”. Note for review: trading options is a derivative strategy giving the right (not obligation) to buy/sell the underlying; it does not by itself make the investor an owner of the company.",
-  "source": "YouTube: Series 7 Guru (guru16)"
+  "source": "YouTube: Series 7 Guru (guru16)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru16-8",
@@ -25,7 +26,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU16 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “A money market mutual fund investing in short-term corporate debt”. Money market funds invest in short-term, high-quality debt and seek capital stability with liquidity, suiting risk-averse investors.",
-  "source": "YouTube: Series 7 Guru (guru16)"
+  "source": "YouTube: Series 7 Guru (guru16)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-guru16-14",
@@ -39,7 +41,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU16 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “I and III”. The bid is the highest price a buyer (or dealer) is willing to pay; the ask/offer is what a seller wants.",
-  "source": "YouTube: Series 7 Guru (guru16)"
+  "source": "YouTube: Series 7 Guru (guru16)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru16-16",
@@ -53,7 +56,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU16 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Member firms must always accommodate dealing with retail investors and not limit business to that done with other industry professionals.”. FINRA is the self-regulatory organization (SRO) that protects investors by overseeing broker-dealers and their registered representatives.",
-  "source": "YouTube: Series 7 Guru (guru16)"
+  "source": "YouTube: Series 7 Guru (guru16)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru16-27",
@@ -67,7 +71,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU16 = [
   },
   "answer": "B",
   "explanation": "A buy stop becomes a market order once the stock trades at or through the stop price of $30. It can therefore fill at $30.00 (II) or any price above it such as $30.10 (III) or $30.50 (IV), but never below the stop at $29.95 (I is false).",
-  "source": "YouTube: Series 7 Guru (guru16)"
+  "source": "YouTube: Series 7 Guru (guru16)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-guru16-28",
@@ -81,7 +86,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU16 = [
   },
   "answer": "C",
   "explanation": "I and III are correct: Form U-4 asks for the applicant's name (including aliases) and a 10-YEAR employment history. II is wrong because residency history goes back 5 years (not 2), and IV is wrong because arrests and charges — not just convictions — must be disclosed.",
-  "source": "YouTube: Series 7 Guru (guru16)"
+  "source": "YouTube: Series 7 Guru (guru16)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru16-33",
@@ -95,7 +101,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU16 = [
   },
   "answer": "D",
   "explanation": "Under exchange proxy rules, if a customer has not returned voting instructions by 10 days before the meeting, the member firm holding street-name stock MAY vote the shares as it wishes — but only on minor (routine) matters. With 8 days left, the firm may vote on routine items only.",
-  "source": "YouTube: Series 7 Guru (guru16)"
+  "source": "YouTube: Series 7 Guru (guru16)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-guru16-34",
@@ -109,7 +116,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU16 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “front-end load shares”. Class A shares carry a front-end sales load (paid at purchase) but lower ongoing expenses than other share classes.",
-  "source": "YouTube: Series 7 Guru (guru16)"
+  "source": "YouTube: Series 7 Guru (guru16)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru16-36",
@@ -123,7 +131,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU16 = [
   },
   "answer": "B",
   "explanation": "Unsecured debt is backed only by the issuer's general credit—debentures (I) and unsecured notes (IV) qualify. Mortgage bonds (II) are secured by real property and collateral trust bonds (III) are secured by pledged securities.",
-  "source": "YouTube: Series 7 Guru (guru16)"
+  "source": "YouTube: Series 7 Guru (guru16)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru16-40",
@@ -137,7 +146,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU16 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “A contract must have been signed by the registered person and the firm specifying what commissions are still to be paid.”. A departing rep may receive trailing commissions only if a contract with the firm specified those payments before termination; new-business referrals generally are not payable.",
-  "source": "YouTube: Series 7 Guru (guru16)"
+  "source": "YouTube: Series 7 Guru (guru16)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru16-56",
@@ -151,6 +161,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU16 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “In no circumstances can a registration be transferred from one firm to another.”. A securities registration is held by the employing firm and can never be transferred to another broker-dealer; the rep must re-register at the new firm.",
-  "source": "YouTube: Series 7 Guru (guru16)"
+  "source": "YouTube: Series 7 Guru (guru16)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  }
 ];

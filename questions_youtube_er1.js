@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: General obligation bond",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-ER1-1",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: The RR may share if they obtain written permission from the customer and their firm, regardless of capital contribution.",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-ER1-2",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "A",
   "explanation": "Correct answer: At or before the time the account is approved for options trading.",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-ER1-3",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: To maintain records of stock and bond owners, cancel old certificates, and issue new ones.",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-ER1-4",
@@ -67,7 +71,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: An individual with a high net worth",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "yt-ER1-5",
@@ -82,7 +87,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "answer": "C",
   "explanation": "Correct answer: Immediately notify a supervisor at their firm and request clarification.",
   "source": "YouTube: Series 7 Guru (er1)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-ER1-6",
@@ -96,7 +102,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Limit order",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-ER1-7",
@@ -110,7 +117,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: To provide insurance coverage for customer accounts in the event of a broker-dealer's failure.",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-ER1-8",
@@ -124,7 +132,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: $100",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "yt-ER1-9",
@@ -139,7 +148,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "answer": "C",
   "explanation": "Correct answer: Customer's educational background.",
   "source": "YouTube: Series 7 Guru (er1)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-ER1-10",
@@ -154,7 +164,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "answer": "C",
   "explanation": "Correct answer: Customer's educational background.",
   "source": "YouTube: Series 7 Guru (er1)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-ER1-11",
@@ -168,7 +179,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: $100",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "yt-ER1-12",
@@ -183,7 +195,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "answer": "A",
   "explanation": "Correct answer: Mutual fund",
   "source": "YouTube: Series 7 Guru (er1)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-ER1-13",
@@ -197,7 +210,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: A municipal issuer owning a controlling interest in a broker-dealer that underwrites its bonds.",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-ER1-14",
@@ -211,7 +225,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: A municipal issuer owning a controlling interest in a broker-dealer that underwrites its bonds.",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-ER1-15",
@@ -225,7 +240,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Underwriting",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-ER1-16",
@@ -239,7 +255,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Technical aspects of securities trading and settlement.",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-ER1-17",
@@ -253,7 +270,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: To separate information and personnel between departments, such as investment banking and research, to prevent conflicts of interest.",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-ER1-18",
@@ -268,7 +286,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "answer": "C",
   "explanation": "Correct answer: FINRA",
   "source": "YouTube: Series 7 Guru (er1)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-ER1-19",
@@ -282,7 +301,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "D",
   "explanation": "Correct answer: The bond is redeemed at par.",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-ER1-20",
@@ -296,7 +316,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "D",
   "explanation": "Correct answer: d) The RR may accept the gift, but the firm must record it.",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "yt-ER1-21",
@@ -310,7 +331,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: The RR may accept the gift, but must obtain written permission from their firm.",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "yt-ER1-22",
@@ -325,7 +347,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "answer": "B",
   "explanation": "Correct answer: General partners only",
   "source": "YouTube: Series 7 Guru (er1)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "yt-ER1-23",
@@ -340,7 +363,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "answer": "B",
   "explanation": "Correct answer: General partners only",
   "source": "YouTube: Series 7 Guru (er1)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "yt-ER1-24",
@@ -354,7 +378,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Interest income is generally exempt from federal income tax and may be exempt from state and local taxes if the bond is issued in the investor's state of residence.",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-ER1-25",
@@ -368,7 +393,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: The Securities and Exchange Commission (SEC)",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-ER1-26",
@@ -382,7 +408,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Margin agreement",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-ER1-27",
@@ -396,7 +423,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Neutral on the underlying security.",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Options"
  },
  {
   "id": "yt-ER1-28",
@@ -411,7 +439,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "answer": "C",
   "explanation": "Correct answer: Suitability requirements",
   "source": "YouTube: Series 7 Guru (er1)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "AML & SARs"
  },
  {
   "id": "yt-ER1-29",
@@ -425,7 +454,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Market order",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-ER1-30",
@@ -439,7 +469,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Market order",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-ER1-31",
@@ -454,7 +485,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "answer": "B",
   "explanation": "Correct answer: Voting rights",
   "source": "YouTube: Series 7 Guru (er1)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-ER1-32",
@@ -468,7 +500,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Invest in companies with high earnings potential, aiming for capital appreciation.",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-ER1-33",
@@ -482,7 +515,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Quarterly",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-ER1-34",
@@ -496,7 +530,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Public offerings under the Securities Act of 1933.",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-ER1-35",
@@ -511,7 +546,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "answer": "B",
   "explanation": "Correct answer: Voting rights",
   "source": "YouTube: Series 7 Guru (er1)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-ER1-36",
@@ -525,7 +561,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: To serve as an order form for purchasing mutual fund shares.",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-ER1-37",
@@ -539,7 +576,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Treasury bill",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-ER1-38",
@@ -553,7 +591,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Charging a client a fee for referring them to another registered representative.",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-ER1-39",
@@ -567,7 +606,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: b) To provide a comprehensive disclosure document detailing the fund's investment objectives, fees, risks, and performance history.",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-ER1-40",
@@ -581,7 +621,8 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: To offer comprehensive services, including clearing, settlement, and financing, to hedge funds and other large institutional investors.",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-ER1-41",
@@ -595,6 +636,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Selling borrowed securities with the expectation that their price will fall, allowing them to be repurchased later at a lower price.",
-  "source": "YouTube: Series 7 Guru (er1)"
+  "source": "YouTube: Series 7 Guru (er1)",
+  "topic": "Orders & Trade Execution"
  }
 ];

@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Considered joint property”. Certain account assets between spouses may be considered joint property depending on state law and account registration.",
-  "source": "YouTube: Series 7 Guru (guru63)"
+  "source": "YouTube: Series 7 Guru (guru63)",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "yt-guru63-1",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “If the accountant is also registered as an agent for the broker-dealer or for one in direct or indirect common control”. An accountant who is also registered as an agent of a broker-dealer (or one under common control) is subject to securities regulation in that capacity.",
-  "source": "YouTube: Series 7 Guru (guru63)"
+  "source": "YouTube: Series 7 Guru (guru63)",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "yt-guru63-2",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “If the accountant is also registered as an agent for direct or indirect common control”. An accountant who is also registered as an agent of a broker-dealer (or one under common control) is subject to securities regulation in that capacity.",
-  "source": "YouTube: Series 7 Guru (guru63)"
+  "source": "YouTube: Series 7 Guru (guru63)",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "yt-guru63-3",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “A person who trades based upon material non-public information”. Insider trading is prohibited when trading on material nonpublic information; it is not excused by merely following SEC Rule 144 (which governs restricted-stock resales).",
-  "source": "YouTube: Series 7 Guru (guru63)"
+  "source": "YouTube: Series 7 Guru (guru63)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "yt-guru63-4",
@@ -67,7 +71,8 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Regulation D”. Large, frequent, round-number cash deposits are a classic red flag for money laundering and must be monitored and reported under BSA/AML rules.",
-  "source": "YouTube: Series 7 Guru (guru63)"
+  "source": "YouTube: Series 7 Guru (guru63)",
+  "topic": "AML & SARs"
  },
  {
   "id": "yt-guru63-5",
@@ -81,7 +86,8 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   },
   "answer": "C",
   "explanation": "Correct answer: 100",
-  "source": "YouTube: Series 7 Guru (guru63)"
+  "source": "YouTube: Series 7 Guru (guru63)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru63-6",
@@ -95,7 +101,8 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Business continuity plan”. FINRA requires member firms to maintain a business continuity plan (BCP) to ensure they can continue critical operations during a disruption.",
-  "source": "YouTube: Series 7 Guru (guru63)"
+  "source": "YouTube: Series 7 Guru (guru63)",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "yt-guru63-7",
@@ -109,7 +116,8 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Individual participant of a qualified plan”. Qualified plan participants (e.g., 401(k) participants) are not themselves accredited investors by that status alone.",
-  "source": "YouTube: Series 7 Guru (guru63)"
+  "source": "YouTube: Series 7 Guru (guru63)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-guru63-8",
@@ -123,7 +131,8 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Exceeds $10,000”. Currency transactions (or aggregations) exceeding $10,000 must be reported to FinCEN via Currency Transaction Reports under the BSA.",
-  "source": "YouTube: Series 7 Guru (guru63)"
+  "source": "YouTube: Series 7 Guru (guru63)",
+  "topic": "AML & SARs"
  },
  {
   "id": "yt-guru63-9",
@@ -137,7 +146,8 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   },
   "answer": "A",
   "explanation": "Correct answer: 12%",
-  "source": "YouTube: Series 7 Guru (guru63)"
+  "source": "YouTube: Series 7 Guru (guru63)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru63-10",
@@ -151,7 +161,8 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Tender offer”. A tender offer is a public bid by an acquirer to buy shareholders' stock at a premium, governed by SEC tender-offer rules.",
-  "source": "YouTube: Series 7 Guru (guru63)"
+  "source": "YouTube: Series 7 Guru (guru63)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-guru63-11",
@@ -165,7 +176,8 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Disclose all important facts about the issues on which shareholder are asked to vote”. Proxy solicitors must disclose all material facts about the matters on which shareholders are asked to vote.",
-  "source": "YouTube: Series 7 Guru (guru63)"
+  "source": "YouTube: Series 7 Guru (guru63)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-guru63-12",
@@ -179,7 +191,8 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   },
   "answer": "A",
   "explanation": "Correct answer: The dealer sells at the bid",
-  "source": "YouTube: Series 7 Guru (guru63)"
+  "source": "YouTube: Series 7 Guru (guru63)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru63-13",
@@ -193,7 +206,8 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Must file retail communications with FINRA at least 10 business days prior to first use”. Firms must file retail communications (advertisements) with FINRA at least 10 business days before first use unless an exception applies.",
-  "source": "YouTube: Series 7 Guru (guru63)"
+  "source": "YouTube: Series 7 Guru (guru63)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "yt-guru63-14",
@@ -207,7 +221,8 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Require the customer to write a letter to opt out”. For certain communications, the firm must give customers the ability to opt out rather than requiring them to opt in by writing a letter.",
-  "source": "YouTube: Series 7 Guru (guru63)"
+  "source": "YouTube: Series 7 Guru (guru63)",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "yt-guru63-15",
@@ -221,7 +236,8 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Sole proprietorship",
-  "source": "YouTube: Series 7 Guru (guru63)"
+  "source": "YouTube: Series 7 Guru (guru63)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru63-16",
@@ -235,7 +251,8 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Freeriding",
-  "source": "YouTube: Series 7 Guru (guru63)"
+  "source": "YouTube: Series 7 Guru (guru63)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "yt-guru63-17",
@@ -249,7 +266,8 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Traditional IRA contributions are always tax deductible”. Traditional IRA contributions are not always deductible — deductibility depends on the taxpayer's income and whether they are covered by a workplace plan.",
-  "source": "YouTube: Series 7 Guru (guru63)"
+  "source": "YouTube: Series 7 Guru (guru63)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-guru63-18",
@@ -263,7 +281,8 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   },
   "answer": "B",
   "explanation": "Correct answer: He must give written notice to the firm carrying the account of his relationship with his employing firm",
-  "source": "YouTube: Series 7 Guru (guru63)"
+  "source": "YouTube: Series 7 Guru (guru63)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru63-19",
@@ -277,6 +296,7 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Regressive”. Regressive taxes take a larger share from lower-income taxpayers; the SIE tests the difference among progressive, proportional, and regressive tax structures.",
-  "source": "YouTube: Series 7 Guru (guru63)"
+  "source": "YouTube: Series 7 Guru (guru63)",
+  "topic": "Taxation of Investments"
  }
 ];

@@ -11,7 +11,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "B",
   "explanation": "Since May 2024, regular-way settlement for corporate securities (stocks and corporate bonds) is T+1 — trade date plus ONE business day. (It was T+2 before the 2024 rule change; the SIE now tests T+1.)",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-guru26-2",
@@ -25,7 +26,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Securities and Exchange Commission (SEC)”. The SEC is the federal agency charged with enforcing the federal securities laws and regulating the securities industry.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru26-3",
@@ -39,7 +41,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “100%”. A zero-coupon bond pays no periodic interest (0% current yield) and returns principal at maturity.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru26-4",
@@ -53,7 +56,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Hedge funds”. Hedge funds are lightly regulated private pooled investments; saying they are 'highly regulated' is false.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru26-5",
@@ -67,7 +71,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Non-systematic risk”. Systematic (market) risk affects the whole market and cannot be eliminated through diversification.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru26-6",
@@ -81,7 +86,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Execute the order but document that it was unsolicited and the representative's concerns.”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru26-7",
@@ -95,7 +101,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “6 years”. Broker-dealers must file summaries of customer complaints with FINRA no later than the 15th of the month following the calendar quarter in which they occurred.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru26-8",
@@ -109,7 +116,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “A period of sustained growth and rising security prices.”. A bull market is a period of sustained rising prices and investor optimism, opposite of a bear market.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru26-9",
@@ -123,7 +131,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Currency risk”. Currency (exchange-rate) risk is the risk that adverse movements in foreign exchange rates will reduce the value of an investment.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru26-10",
@@ -137,7 +146,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “The highest price a buyer is willing to pay for a security.”. The bid is the highest price a buyer (or dealer) is willing to pay; the ask/offer is what a seller wants.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru26-11",
@@ -151,7 +161,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "C",
   "explanation": "Distractors A/B/D reconstructed; only choice C was readable on screen.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru26-12",
@@ -165,7 +176,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “To protect customers against losses resulting from the bankruptcy or insolvency of a broker-dealer.”. SIPC protects customers against the loss of securities and cash held at a failed broker-dealer; it does not protect against market losses.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "yt-guru26-13",
@@ -179,7 +191,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “A compliance officer who has access to nonpublic information regarding client transactions.”. A compliance officer or other employee with access to material nonpublic information is an 'insider' subject to trading restrictions.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru26-14",
@@ -193,7 +206,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “A situation where the municipal bond dealer, or an officer or employee of the dealer, is in a position to influence the issuer of the municipal bond.”. An MFP (municipal finance professional) is someone able to influence a municipal issuer; pay-to-play rules then limit political contributions.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "yt-guru26-15",
@@ -207,7 +221,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “The premium received”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru26-16",
@@ -221,7 +236,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Executing trades on behalf of clients.”. Executing client trades for compensation is the core function of a broker-dealer; it must be done in the customer's best interest.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru26-17",
@@ -235,7 +251,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Market order”. A market order executes immediately at the best available price but guarantees neither price nor full execution.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-guru26-18",
@@ -249,7 +266,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Within 30 days of opening the account.”. FINRA requires a new account to be approved (by a principal) within a reasonable time, often cited as by the first trade; some documents reference 30 days for specific approvals.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru26-19",
@@ -263,7 +281,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Short sale”. A short sale is selling borrowed shares to profit from an anticipated price decline; it carries unlimited loss potential.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-guru26-20",
@@ -277,7 +296,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Its yield to maturity is higher than its coupon rate.”. YTM is the total return an investor earns if the bond is held to maturity, incorporating coupon, price, par, and time to maturity.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru26-21",
@@ -291,7 +311,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “To write rules for municipal securities firms and professionals.”. The MSRB writes rules for municipal securities firms and professionals; it has no enforcement authority (FINRA/SEC enforce).",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru26-22",
@@ -305,7 +326,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Purchasing power risk (inflation risk)”. Inflation (purchasing-power) risk is the chance that rising prices erode the real value of fixed-income returns.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru26-23",
@@ -319,7 +341,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “The customer provides written consent to receive electronic delivery.”. A customer must consent (in writing or electronically) to receive documents such as confirmations and statements electronically.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru26-24",
@@ -333,7 +356,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Common stock has voting rights, while preferred stock typically does not.”. Preferred stock generally has no voting rights (unlike common) but carries a fixed dividend and priority over common in liquidation.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru26-25",
@@ -347,6 +371,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU26 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “The issuer of the securities”. In a primary-market (new-issue) transaction, the issuer receives the proceeds from the sale of its securities.",
-  "source": "YouTube: Series 7 Guru (guru26)"
+  "source": "YouTube: Series 7 Guru (guru26)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  }
 ];

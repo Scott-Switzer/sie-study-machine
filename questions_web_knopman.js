@@ -11,7 +11,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "A",
   "explanation": "Acting as an agent, broker-dealers norm they markup securities sold from their o",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-KNOPMAN-2",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "According to the Investment Company A be sent to shareholders on a semiannual b",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-KNOPMAN-3",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "B",
   "explanation": "The credit quality of an exchange-trade issuer, usually an investment bank that str the credit quality is not based on the und the investment is based upon. See textbo",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-KNOPMAN-4",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "B",
   "explanation": "Customers that open margin accounts m their securities as collateral for loans purchases. The broker-dealer may then re that they are pledged to the bank as collat customers. See textbook section 11.2.2.5",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-KNOPMAN-5",
@@ -67,7 +71,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "D",
   "explanation": "Cold calls can be made between 8am and 7:30pm in California, it is actually 10:30 time zones. Therefore, this call is prohibi",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-KNOPMAN-6",
@@ -81,7 +86,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "Investors would now be facing reinvest will be difficult to find another investm prior to the bond being called. See textbo",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-KNOPMAN-7",
@@ -95,7 +101,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "D",
   "explanation": "Roth contributions are always made with See textbook section 12.2.2.1",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "web-KNOPMAN-8",
@@ -109,7 +116,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "D",
   "explanation": "One of the most attractive benefits of a va accumulation period. All dividends, i accumulation period may be reinvested ta",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Variable Annuities & Insurance Products"
  },
  {
   "id": "web-KNOPMAN-9",
@@ -123,7 +131,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "There are no federal dollar limits on co amount necessary to provide for the qu Many states do impose dollar limits o beneficiary. See textbook section 12.4.1. nswers & Rationales lly charge commissions. Acting as principals, n inventory. See textbook section 9.2.1.2 t of 1940, financial statements are required to sis at the minimum. See textbook section 4.2.1 note is based on the creditworthiness of the ctures the note and sets its terms. Importantly, rlying portfolio for which the performance of k section 5.5.1 st sign a hypothecation agreement to pledge from the broker-dealer for margin account ypothecate the securities to the bank, meaning ral for loans to the broker-dealer for lending to w a shareholder to purchase the stock below its es after 4-6 weeks. They are issued to existing hip interest, so that if exercised, they allow the e of ownership, or protect against dilution. re often used as sweeteners in corporate bond rom dilution. See textbook section 1.1.1.8 pm in the customer's time zone. Although it is m in New Jersey because of the difference in ed. See textbook section 11.1.1 ent rate risk, as bonds have been called and it nt offering the same return that was available k section 7.2.2 after-tax dollars and are never tax-deductible. iable annuity is tax-deferred growth during the terest, and capital gains earned during the -free. See textbook section 12.3.3.4 tributions as long as they do not exceed “the lified education expenses of the beneficiary.” total contributions made on behalf of one ctice Exam Explanations – 2018 V.12 1",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-KNOPMAN-10",
@@ -137,7 +146,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "B",
   "explanation": "Closed-end company shares trade in the are determined by market supply and de or discount to their NAV. See textbook s",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-KNOPMAN-11",
@@ -151,7 +161,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "D",
   "explanation": "A firm may hold customer mail upon wr months. See textbook section 11.5.2",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-KNOPMAN-12",
@@ -165,7 +176,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "B",
   "explanation": "Restricted persons include immediate fa family members under this rule include s Grandparents, aunts, uncles, cousins, and and therefore can freely invest in IPOs. S",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "web-KNOPMAN-13",
@@ -179,7 +191,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "The order of liquidation in a limited bondholder, limited partner, and lastly ge",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-KNOPMAN-14",
@@ -193,7 +206,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "A",
   "explanation": "The healthcare industry is considered a r remains constant regardless of the ups an 10.2.5.1",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-KNOPMAN-15",
@@ -207,7 +221,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "D",
   "explanation": "The discount rate is set by the Fed, and is depository institutions on loans they rece lending facility--the discount window. T not actually set the rate - it is set by the textbook section 10.3.3.3",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-KNOPMAN-16",
@@ -221,7 +236,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "D",
   "explanation": "Under Regulation S-P, a privacy notice an agreement to engage in business with t section 11.6.1",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "web-KNOPMAN-17",
@@ -235,7 +251,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "D",
   "explanation": "A statutory disqualification occurs if th securities related misdemeanor within the",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-KNOPMAN-18",
@@ -249,7 +266,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "B",
   "explanation": "Investors make after-tax contributions to free and any distributions for qualified e level. Additionally, registered representat benefits for opening a plan inside your sta of your state income taxes. Conversely, i their state, their state of residency might See textbook section 12.4.1.6",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-KNOPMAN-19",
@@ -263,7 +281,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "A",
   "explanation": "The MSRB creates rules, but does not enf by FINRA for securities firms. Within ba Comptroller of the Currency, and the FDI",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-KNOPMAN-20",
@@ -277,7 +296,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "D",
   "explanation": "Ginnie Mae is a government agency that while Fannie Mae and Freddie Mac have textbook section 3.3.1 econdary market on exchanges. Their prices and and therefore may be priced at a premium ction 4.3.2.2 tten request. Mail can be held for up to three ily members of restricted persons. Immediate ouses, siblings, children, parents, and in-laws. x-spouses are not considered restricted persons e textbook section 8.3.6 artnership is secured bondholder, unsecured eral partner. See textbook section 5.2.4 cession-proof (i.e. defensive) sector because it downs of the economy. See textbook section he rate charged to commercial banks and other ve from their regional Federal Reserve Bank's e Fed influences the Fed Funds Rate, but does market. The prime rate is set by banks. See ust be sent to a customer prior to entering into at client and annually thereafter. See textbook individual has been convicted a felony or a past 10 years. See textbook section 13.3.7 529 Plans. The earnings in the plan grow tax- ucational expenses are tax-free at the federal ves must disclose that there may be certain tax e of residency, for example, tax deductions off an individual invests in a 529 Plan outside of ake they pay taxes on the growth of the plan. rce its own rules. The MSRB rules are enforced ks, they are enforced by the Federal Reserve, . See textbook section 13.1.2 as the explicit backing of the US Government, n ‘implied’ backing of the US government. See ctice Exam Explanations – 2018 V.12 2",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-KNOPMAN-21",
@@ -291,7 +311,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "D",
   "explanation": "Front-running is defined as trading on imminent block sale in the same or relate",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "web-KNOPMAN-22",
@@ -305,7 +326,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "D",
   "explanation": "This is the framework behind Keynesia Keynes in the 1930’s. See textbook secti",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-KNOPMAN-23",
@@ -319,7 +341,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "D",
   "explanation": "For a short sale, the customer must deposit Reg T initial margin of 50% of the $1,500 market value ($750) PLUS 100% of the sale proceeds ($1,500). However, the minimum equity required is $2,000, and since 50% of the value ($750) is below that floor, the customer must deposit $2,000.",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "web-KNOPMAN-24",
@@ -333,7 +356,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "A",
   "explanation": "When an investor buys a call to protect a when the stock price is equal to the price premium paid. 61 – 1.50 = $59.50. The when the short position can be covered at that was paid for the call. See textbook se",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Options"
  },
  {
   "id": "web-KNOPMAN-25",
@@ -347,7 +371,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "B",
   "explanation": "Preferred stock pays dividends if declar generally does not have voting rights. event of a corporate liquidation, it does debentures. See textbook section 1.5.1",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-KNOPMAN-26",
@@ -361,7 +386,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "A",
   "explanation": "The Options Clearing Corporation (OCC) house. As a clearinghouse, the OCC also of the contracts it clears are fulfilled. See",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-KNOPMAN-27",
@@ -375,7 +401,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "B",
   "explanation": "The social security number of the minor assets. See textbook section 11.3.3.1",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "web-KNOPMAN-28",
@@ -389,7 +416,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "B",
   "explanation": "JoeBrokerDealer will be subject to the ba even if the MFP leaves the firm. JaneBro period, even though the contribution w another municipal securities firm. See tex",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-KNOPMAN-29",
@@ -403,7 +431,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "An investor must own stock as of the payment. To own stock by the record da date which is 1 business day before the r there are two business days for settlem settlement process. See textbook section",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-KNOPMAN-30",
@@ -417,7 +446,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "A",
   "explanation": "Total return on a bond is determined by a to any capital gain, then dividing this res textbook section 7.6.1.2",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "web-KNOPMAN-31",
@@ -431,7 +461,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "B",
   "explanation": "Freeriding is the prohibited practice of ent the following day without having had suf See textbook section 11.2.1.1",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-KNOPMAN-32",
@@ -445,7 +476,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "B",
   "explanation": "Corporate securities are not exempt fro They must be SEC registered. See textbo aterial non-public information ahead of an securities. See textbook section 9.5.7 economic theory, founded by John Maynard n 10.3.1.2 st deposit $2,000 even if the full value of the INRA rule separate from the Federal Reserve n 11.2.2.2 hort stock position, the investor will breakeven t which the stock was sold short minus the call investor is bearish and will make money only price below this point because of the premium tion 6.2.4 d by the Board of Directors. Preferred stock hile it has priority over common stock in the ot have priority over corporate debt, including s the world's largest equity derivatives clearing acts as guarantor, ensuring that the obligations textbook section 6.6.1 is used, as the minor is the legal owner of the for two years after the contribution was made erDealer is also subject to the ban for the same s made while the MFP was associated with book section 14.4.13.2 ate of record in order to receive a dividend e, it must be purchased before the ex-dividend cord date. By purchasing before the ex-date, nt to occur, in accordance with regular way .7 ding the interest earned during the time period lt by the initial purchase price of the bond. See ring a trade to buy securities, then selling them icient funds in the account to pay for the trade. registration under the Securities Act of 1933. k section 8.2.1 ctice Exam Explanations – 2018 V.12 3",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-KNOPMAN-33",
@@ -459,7 +491,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "B",
   "explanation": "A communication made available to retai If the number of retail recipients is up t correspondence. For larger audiences (m communication. See textbook section 14.",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Communications with the Public"
  },
  {
   "id": "web-KNOPMAN-34",
@@ -473,7 +506,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "B",
   "explanation": "Industrial development bonds are issue corporations. Revenue streams raised by are a form of conduit bond. Projects fun industrial parks, and sports stadiums. See",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-KNOPMAN-35",
@@ -487,7 +521,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "A “breakpoint sale” is a violation that oc the customer the opportunity to take “breakpoint”. See textbook section 4.2.5.",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-KNOPMAN-36",
@@ -501,7 +536,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "B",
   "explanation": "Accrued interest is measured from the las not including the settlement date of the accrued interest computations because leg date and this is the date from which the interest. See textbook section 2.4",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-KNOPMAN-37",
@@ -515,7 +551,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "An upward sloping, or normal yield cu higher than short-term interest rates. This with long-term maturities demand more textbook section 10.2.2",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-KNOPMAN-38",
@@ -529,7 +566,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "A",
   "explanation": "Penny stocks are stocks priced below $5 are frequently thinly traded, which mean customers want to liquidate their posit disclosure must be made to all buyers of",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-KNOPMAN-39",
@@ -543,7 +581,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "A",
   "explanation": "FINRA rules prohibits broker-dealers fr customer and broker for purposes of avoi or to generate additional fees and commi",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "web-KNOPMAN-40",
@@ -557,7 +596,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "D",
   "explanation": "Debt maturing in one year or less trades in are attractive to investors because they o market through money market mutual fu",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-KNOPMAN-41",
@@ -571,7 +611,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "Firms must verify customer information requirement is to ensure that the account i still accurate. See textbook section 11.1.5",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-KNOPMAN-42",
@@ -585,7 +626,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "D",
   "explanation": "Stock splits and reverse splits do not ch example, if the investor owned 800 shares he/she will own 80 shares at about $10 1.7.4",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-KNOPMAN-43",
@@ -599,7 +641,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "B",
   "explanation": "Outside business activity requires the fir It does not, however, require permission members does not require permission fro investors cannot be classified as institutional. and including 25 persons, it is classified as re than 25 retail persons), it is considered retail .1 by governments for the benefit of private the facilities pay principal and interest. They ed by IDRs include parking garages, factories, textbook section 3.4.6.3 urs when a registered rep does not disclose to advantage of a sales charge discount, or interest payment date (coupon date) up to but rade. Settlement date is not included in these l ownership of the bond changes on settlement ew owner of the bond begins earning his own ve, indicates that long-term interest rates are s considered normal as investors holding bonds interest for taking on the increased risk. See er share that do not trade on an exchange. They that there may be no market for the stock if ons. Because of this market risk additional enny stock. See textbook section 1.2.2 m interpositioning a third party between the ing or evading the best execution requirement, sions. See textbook section 9.5.1.1 the money market. Money market investments fer high liquidity. Many investors access this ds. See textbook section 3.6 t least once every 36 months. The point of this still appropriate and the information on file is nge the total value of investors' holdings. For at $1 per share before the 1-for-10 reverse split, er share after the event. See textbook section to be notified of the full details of the activity. from the firm. Borrowing money from family a broker dealer. See textbook section 14.4.4 ctice Exam Explanations – 2018 V.12 4",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-KNOPMAN-44",
@@ -613,7 +656,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "D",
   "explanation": "A bond's current yield is calculated by di market price. $50/$950 = 5.26%. See tex",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-KNOPMAN-45",
@@ -627,7 +671,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "Because zero coupon bonds pay no intere other types of bonds in the secondary mar because their rates adjust to current inter more volatile than short-term bonds. See",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-KNOPMAN-46",
@@ -641,7 +686,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "B",
   "explanation": "Common stock is purchased by inve Historically it has kept pace with the objectives. It is most junior in terms of does not protect investors from investme",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-KNOPMAN-47",
@@ -655,7 +701,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "A",
   "explanation": "Nasdaq is a negotiated market where customers and broker-dealers. See textbo",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-KNOPMAN-48",
@@ -669,7 +716,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "A Currency Transaction Report (CTR) any cash deposits in excess of $10,000 in",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "AML & SARs"
  },
  {
   "id": "web-KNOPMAN-49",
@@ -683,7 +731,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "REITs can avoid double taxation on prof by concentrating their investments in rea real estate, and at least 75% of gross inco must pass through at least 90% of their g",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-KNOPMAN-50",
@@ -697,7 +746,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "B",
   "explanation": "QIBs generally are institutions or other e discretionary basis) at least $100 million i trade private placements among themselv",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "web-KNOPMAN-51",
@@ -711,7 +761,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "A",
   "explanation": "Under a Tenancy in Common (or Joints specified percentage of the entire accoun account is liquidated and distributed to hi",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-KNOPMAN-52",
@@ -725,7 +776,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "When a bond is trading at a discount (m be the highest yield, then YTM, then C textbook section 2.2.5",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-KNOPMAN-53",
@@ -739,7 +791,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "Interest income received by holders of m income tax and from state and local inco is issued. See textbook section 3.4.6",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-KNOPMAN-54",
@@ -753,7 +806,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "D",
   "explanation": "Short options positions have obligations the contract. Put writers have the obligati exercise the right to sell at the strike pric",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Options"
  },
  {
   "id": "web-KNOPMAN-55",
@@ -767,7 +821,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "B",
   "explanation": "ETFs are not redeemed by the issuer. Ins on an exchange. See textbook section 4.5",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-KNOPMAN-56",
@@ -781,7 +836,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "D",
   "explanation": "For regular way trades in equities, the ex record date. See textbook section 1.7 iding the annual interest income by the current book section 2.2.2 t until maturity, their prices fluctuate more than et. Variable bonds have little price fluctuation st rates. Also, long-term bonds are generally extbook section 2.3.1 tors for its capital appreciation potential. ate of inflation and is used to meet growth laims to assets in a corporate liquidation, and t risk. See textbook section 1.1.1.5 market-makers negotiate a price with other k section 9.3.3.1 ust be filed with FINCEN within 15 days for a single day. See textbook section 14.3.1 ts passed through as dividends to shareholders estate. At least 75% of total assets must be in e must be derived from real estate. Also, they ins to shareholders. See textbook section 5.1.1 tities that, in aggregate, own and invest (on a securities. Under Rule 144A, QIBs can freely s. See textbook section 8.2.5 enants in Common account), each owner has a . At each owner's death, his/her portion of the /her beneficiary. See textbook section 11.3.2.1 rket price lower than par value), the YTC will , and the nominal yield the lowest yield. See nicipal bonds is generally exempt from federal e taxes for residents of the state in which debt hat must be performed if the holder exercises n to buy stock at exercise when the put holders . See textbook section 6.1 ead, investors liquidate shares by selling them 1 -dividend date is one business days before the ctice Exam Explanations – 2018 V.12 5",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "AML & SARs"
  },
  {
   "id": "web-KNOPMAN-57",
@@ -795,7 +851,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "A stock split doesn't affect the total value worth $9,000 before and after the split. calculate the new number of shares, mul and divide by the second number of the the $9,000 is now divided among 300 sh See textbook section 1.7.4",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-KNOPMAN-58",
@@ -809,7 +866,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "Only employee deferrals, not employer c employer contributions go into the regula",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Options"
  },
  {
   "id": "web-KNOPMAN-59",
@@ -823,7 +881,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "Roth IRAs are not available to everyone who earn below a certain threshold can co earned income is eligible to invest in a tr",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "web-KNOPMAN-60",
@@ -837,7 +896,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "Unsecured bonds are also known as debe",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-KNOPMAN-61",
@@ -851,7 +911,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "The SEC never approves or disapprov distribution for public sale. See textbook",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-KNOPMAN-62",
@@ -865,7 +926,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "D",
   "explanation": "The options account agreement must be approval. See textbook section 11.2.3",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Options"
  },
  {
   "id": "web-KNOPMAN-63",
@@ -879,7 +941,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "SIPC coverage protects customers from f of a broker-dealer. It protects each sepa more than $250,000 in cash. Importantly See textbook section 1.6.3",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "web-KNOPMAN-64",
@@ -893,7 +956,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "D",
   "explanation": "Under Regulation D, for a married coupl excluding home equity, of $1 million. income of $300,000 in each of the two m See textbook section 8.2.3",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-KNOPMAN-65",
@@ -907,7 +971,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "A",
   "explanation": "An individual who is retired, or in the lat investment that could result in the comple a long-term investment horizon. See text",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-KNOPMAN-66",
@@ -921,7 +986,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "B",
   "explanation": "Passive losses may be used to offset ea cannot be used to offset investment inco",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "web-KNOPMAN-67",
@@ -935,7 +1001,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "D",
   "explanation": "Annuity units in variable annuity contrac of separate account assets. The number fluctuate. See textbook section 12.3.3.2",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Variable Annuities & Insurance Products"
  },
  {
   "id": "web-KNOPMAN-68",
@@ -949,7 +1016,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "The “third market” is where exchange list handled by a broker-dealer through its o",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-KNOPMAN-69",
@@ -963,7 +1031,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "Inflation risk is a major concern for in investments for funding retirement incom of their fixed coupon will fall. See textbo of stock owned. In this example, the shares are ut three times as many shares are owned. To iply the shares by the first number of the split plit: 100 shares x 3 / 1 = 300 shares. Because res, the new stock price will be $30 per share. ntributions, may go into the Roth account. All 401(k). See textbook section 12.1.1.3 with earned income. Instead, only individuals tribute to a Roth. In contrast, any investor with ditional IRA. See textbook section 12.2.2 tures. See textbook section 3.1.2.2 s of securities. Instead, the SEC clears the ection 8.1 igned and returned within 15 days of account nancial loss in the event of the financial failure ate customer for up to $500,000 total, but no SIPC does not protect against market losses. to be accredited they must have a net worth, he income test for married persons is a joint st recent years. This couple meets neither test. r stages of life, would not be likely to make an e loss of their capital, or one that would require ook section 7.3.1 nings from other passive sources only. They e or ordinary income. See textbook section 5.2 s fluctuate in value based on the performance of units is fixed but their value continues to d securities trade in the OTC market, typically n trading system. See textbook section 9.3.5.1 estors who hold portfolios of fixed income . As inflation increases, the purchasing power k section 2.3.4 ctice Exam Explanations – 2018 V.12 6",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "web-KNOPMAN-70",
@@ -977,7 +1046,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "A",
   "explanation": "A market order gives the broker instru securities immediately, as soon as the or order is assured but the execution price is",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-KNOPMAN-71",
@@ -991,7 +1061,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "Under monetary policy, an increase to eit will deter lending, which will result in a spending by the U.S. government will als spending is a tool of fiscal policy. When more money goes into circulation, so thi section 10.3.3.3",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-KNOPMAN-72",
@@ -1005,7 +1076,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "A",
   "explanation": "Confirmations must be delivered to custo (aka by settlement). See textbook section",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-KNOPMAN-73",
@@ -1019,7 +1091,8 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "C",
   "explanation": "The regulatory element of continuing anniversary of initial registration, and ev 13.3.8.1",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-KNOPMAN-74",
@@ -1033,6 +1106,7 @@ SIE_QUESTIONS_WEB_KNOPMAN = [
   },
   "answer": "B",
   "explanation": "Investors sell their shares at the net asse received, which is the concept of forward tions to buy or sell a specified quantity of er reaches the market. A full execution of the unknown. See textbook section 9.4.2 er the reserve requirement or the discount rate ightening of the money supply. A decrease in reduce the amount of money, but government he Fed purchases securities in the open market would ease the money supply. See textbook ers at or before completion of each transaction 1.5.2 ducation must be completed on the second ry third year thereafter. See textbook section value price next calculated after the order is pricing. See textbook section 4.2.5.1 ctice Exam Explanations – 2018 V.12 7",
-  "source": "Knopman Marks SIE Practice Exam"
+  "source": "Knopman Marks SIE Practice Exam",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  }
 ];

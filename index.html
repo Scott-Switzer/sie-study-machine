@@ -464,10 +464,14 @@
 <script src="questions_youtube_pm3.js?v=20260727a"></script>
 <script src="questions_youtube_sw1.js?v=20260727a"></script>
 <script src="questions_youtube_sw2.js?v=20260727a"></script>
+<script src="questions_gapfill.js?v=20260727b"></script>
 
 <script>
 /* Concatenate all banks */
 var SIE_QUESTIONS = [];
+if (typeof SIE_QUESTIONS_GAPFILL !== "undefined") {
+  SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_GAPFILL);
+}
 if (typeof SIE_QUESTIONS_ACH !== "undefined") {
   SIE_QUESTIONS = SIE_QUESTIONS.concat(SIE_QUESTIONS_ACH);
 }

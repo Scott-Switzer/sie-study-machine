@@ -11,7 +11,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU70 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Their market value will decrease.”. When market interest rates rise, the value of existing fixed-rate bonds falls because new issues offer higher yields.",
-  "source": "YouTube: Series 7 Guru (guru70)"
+  "source": "YouTube: Series 7 Guru (guru70)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru70-1",
@@ -25,7 +26,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU70 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “The total assets of the fund divided by the number of outstanding shares.”. NAV equals the fund's total assets minus liabilities divided by shares outstanding, computed at the end of each trading day.",
-  "source": "YouTube: Series 7 Guru (guru70)"
+  "source": "YouTube: Series 7 Guru (guru70)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru70-2",
@@ -39,7 +41,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU70 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “The client's financial situation, investment objectives, and risk tolerance.”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
-  "source": "YouTube: Series 7 Guru (guru70)"
+  "source": "YouTube: Series 7 Guru (guru70)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru70-3",
@@ -53,7 +56,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU70 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Unlimited profit potential, limited loss.”. An option contract gives the holder the right, but not the obligation, to buy (call) or sell (put) the underlying at a strike price.",
-  "source": "YouTube: Series 7 Guru (guru70)"
+  "source": "YouTube: Series 7 Guru (guru70)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru70-4",
@@ -67,7 +71,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU70 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “They can be bought and sold throughout the trading day at market prices.”. ETFs trade on exchanges throughout the day at market prices and can be bought/sold intraday, unlike open-end mutual fund shares.",
-  "source": "YouTube: Series 7 Guru (guru70)"
+  "source": "YouTube: Series 7 Guru (guru70)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru70-5",
@@ -81,7 +86,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU70 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Blue Sky Laws.”. Blue Sky Laws are state laws regulating the offer and sale of securities within each state; they are administered by state securities regulators.",
-  "source": "YouTube: Series 7 Guru (guru70)"
+  "source": "YouTube: Series 7 Guru (guru70)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru70-6",
@@ -95,7 +101,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU70 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Municipal Securities Rulemaking Board (MSRB)”. The MSRB writes rules for municipal securities dealers and advisors but has no enforcement power; FINRA and the SEC enforce them.",
-  "source": "YouTube: Series 7 Guru (guru70)"
+  "source": "YouTube: Series 7 Guru (guru70)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru70-7",
@@ -109,7 +116,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU70 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Maintenance margin call.”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
-  "source": "YouTube: Series 7 Guru (guru70)"
+  "source": "YouTube: Series 7 Guru (guru70)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru70-8",
@@ -123,7 +131,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU70 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “3 months”. FINRA permits a firm to hold a customer's mail for up to 3 months without a special reason; beyond that, a valid reason and documentation are required.",
-  "source": "YouTube: Series 7 Guru (guru70)"
+  "source": "YouTube: Series 7 Guru (guru70)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru70-9",
@@ -137,7 +146,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU70 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “The full faith and credit and taxing power of the issuer.”. GO bonds are backed by the full faith, credit, and taxing power of the issuer, whereas revenue bonds are backed by a specific project's revenues.",
-  "source": "YouTube: Series 7 Guru (guru70)"
+  "source": "YouTube: Series 7 Guru (guru70)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru70-10",
@@ -151,7 +161,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU70 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “After-tax dollars, and earnings grow tax-deferred.”. Employer contributions to qualified plans are generally tax-deductible and not subject to FICA/FUTA when made.",
-  "source": "YouTube: Series 7 Guru (guru70)"
+  "source": "YouTube: Series 7 Guru (guru70)",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "yt-guru70-11",
@@ -165,7 +176,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU70 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Nominal Yield < Current Yield < Yield to Maturity.”. Current yield = annual dollar interest / market price; a 12% coupon bond at 120 ($1,200) yields $120/$1,200 = 10%.",
-  "source": "YouTube: Series 7 Guru (guru70)"
+  "source": "YouTube: Series 7 Guru (guru70)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru70-12",
@@ -179,7 +191,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU70 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “An individual who is an officer or director of the issuer.”. Regulation D defines accredited investors (e.g., officers/directors of the issuer, or individuals meeting income/net-worth thresholds) who may buy private placements.",
-  "source": "YouTube: Series 7 Guru (guru70)"
+  "source": "YouTube: Series 7 Guru (guru70)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-guru70-13",
@@ -193,6 +206,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU70 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Rehypothecation.”. Before margin trading, the customer must sign a margin (hypothecation) agreement and the firm must approve the account.",
-  "source": "YouTube: Series 7 Guru (guru70)"
+  "source": "YouTube: Series 7 Guru (guru70)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  }
 ];

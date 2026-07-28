@@ -11,7 +11,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "The federal funds rate is the rate commercial money center banks charge each other for an overnight, unsecured loan. It is considered a barometer of the direction of short-term interest rates such as commercial paper and Treasury bills, which often move up or down roughly in parallel with the funds rate.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET2-2",
@@ -25,7 +26,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Supply-side fiscal policy seeks to create a better environment for business to thrive. The end goal is a growing economy that creates jobs. Sometimes called trickle-down economics, the emphasis is on the business side much more than the consumer side.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET2-3",
@@ -39,7 +41,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "All SROs, including FINRA, the MSRB, and all listed exchanges, are accountable to the Securities and Exchange Commission (SEC). The SEC is the securities industry's primary government body, not an SRO.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET2-4",
@@ -53,7 +56,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "The Uniform Securities Act provides a legal framework for the state registration of securities, as well as the registration requirements applicable to broker-dealers, investment advisers, investment adviser representatives, and registered representatives.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET2-5",
@@ -67,7 +71,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Any record of written complaints must be kept for four years after resolution.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-QUIZLET2-6",
@@ -81,7 +86,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "The steel plant is an example of a cyclical industry and will likely do well in the upcoming expansion. Daisy and Dino are both producers of consumable goods and the defensive industry; the gold miner is countercyclical.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Investment Risks"
  },
  {
   "id": "web-QUIZLET2-7",
@@ -95,7 +101,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "In a firm commitment underwriters contract with the issuer to buy its securities, acting as principals rather than agents. They are committing to purchase any unsold shares for the syndicate account. In this type of underwriting, it is the underwriters who are at risk for any shares they cannot sell to the public, not the issuer. The issuer knows that ultimately all of the securities will be sold, and all of the capital needed will be raised.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET2-8",
@@ -109,7 +116,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "When prices for goods and services are rising (inflation) during times when the economy isn't growing (stagnation), the economy is known to be in a period of stagflation.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET2-9",
@@ -123,7 +131,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "The Securities Act of 1933, is also known as the Paper Act, Prospectus Act, or New Issues Act. This federal law requires that issuers who want to raise capital by making a public offering of securities to the public, provide full and fair disclosure of all material facts about the company and the securities being offered.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET2-10",
@@ -137,7 +146,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "The term red herring is derived from the disclaimer printed in red on the cover page of a preliminary prospectus. Some key information that would be found in a final prospectus, such as price, is not found in the preliminary",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-QUIZLET2-11",
@@ -151,7 +161,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Carrying firms, also known as clearing firms, execute trades, clear and settle transactions, take custody of customer funds and securities, and handle all back-office tasks such as sending trade confirmations and statements for themselves as well as for other broker-dealers classified as introducing or fully disclosed firms.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-QUIZLET2-12",
@@ -165,7 +176,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Lagging indicators tend to change direction after a change in the overall economy. GDP is the most common indicator for economic activity. When you have studied for eight hours straight and can not keep your eyes open; that is a flagging indicator. Take a break, flagging indicator is not on the exam.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET2-13",
@@ -179,7 +191,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Treasury bills have a maturity of less than one year, Treasury notes mature in 2 to 10 years, and Treasury bonds mature in 10 years or more. Therefore, in ascending order, short-term to long-term, they are T-bills, T-notes, T-bonds.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-QUIZLET2-14",
@@ -193,7 +206,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "All U.S. government issues are delivered in book entry.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Investment Risks"
  },
  {
   "id": "web-QUIZLET2-16",
@@ -207,7 +221,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Liquidation and payment of dividends are two areas in which preferred stock has a benefit over common stock. Dividends are not guaranteed and rising interest rates are a negative. Preferred gets paid after debt, wages, and",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET2-17",
@@ -221,7 +236,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "For callable bonds trading at a discount, YTC will be the highest possible yield, higher than YTM, CY, and the coupon (stated or nominal) yield.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-QUIZLET2-18",
@@ -235,7 +251,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "A fixed UIT typically has bonds in its portfolio that mature on a specific date. Before that date, the trust buys and redeems units of beneficial ownership in the portfolio. When the bonds mature and pay off, the trust distributes the remaining interest and principal to the current unit holders and dissolves.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET2-19",
@@ -249,7 +266,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "No corporation must issue any class of preferred stock. Preferred shareholders have no voting rights or preemptive rights, but they are paid before common shareholders in the event of a corporate dissolution.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET2-20",
@@ -263,7 +281,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "The buyer of the contract pays the premium and loses it if the contract expires. The buyer has a right to exercise the contract. It is the seller who has an obligation if the buyer decides to exercise.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-21",
@@ -277,7 +296,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "The current yield is calculated by dividing the annual interest payment amount by the current price of the bond. The others are all the same as the stated rate and are calculated by dividing the annual interest payment amount by $1,000.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-QUIZLET2-22",
@@ -291,7 +311,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Interest-rate risk is one of the systematic risks that cannot be reduced by diversification. It is the risk that fluctuating interest rates will impact bond prices. Primarily, when interest rates are rising, bond prices will be pushed lower.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Investment Risks"
  },
  {
   "id": "web-QUIZLET2-23",
@@ -305,7 +326,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "The order from high to low is coupon rate, current yield, yield to maturity, yield to call.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-QUIZLET2-24",
@@ -319,7 +341,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "The YTM is greater than the nominal yield, or coupon yield. Therefore, the bond is trading at a discount.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-QUIZLET2-25",
@@ -333,7 +356,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "In this case, the strike price is less than the current market value, so a call option would be in the money by the difference between the strike price and the market price (6 points, in this case). At the money means the strike price and the market price are the same; at parity means the premium equals the intrinsic value.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-26",
@@ -347,7 +371,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Corporations issue short-term, unsecured commercial paper, known as promissory notes. The proceeds from these notes are generally used to fund such items as pending accounts receivable and seasonal inventory gluts.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-QUIZLET2-27",
@@ -361,7 +386,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "All U.S. government issues are delivered in book entry.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-QUIZLET2-28",
@@ -375,7 +401,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "For puts, the breakeven is found by subtracting the premium (3) from the strike price (35). Put sellers are bullish; therefore, the short put contract is profitable at or above the breakeven at expiration.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-29",
@@ -389,7 +416,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "A $1,000 par value bond purchased at $725 is bought at a discount to par. Whenever a bond is purchased for an amount less than will be received at maturity ($1,000 par), the discount initially paid increases the return. In other words, in addition to receiving the coupon interest payments, the investor will also receive at maturity an additional $275 more than the $725 paid when the bond matures.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-QUIZLET2-30",
@@ -403,7 +431,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Secured debt is considered the safest type of corporate debt, but the investor accepts a lower rate of interest for that safety.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-QUIZLET2-31",
@@ -417,7 +446,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Corporate bonds with convertible features allow the bondholders to convert the debt obligation they hold into shares of stock. Stock gives the holders an equity position in the company with ownership rights.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-QUIZLET2-32",
@@ -431,7 +461,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "All debt securities are senior to equity securities.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-QUIZLET2-33",
@@ -445,7 +476,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "A fund's expenses are expressed as a percentage of net assets.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET2-34",
@@ -459,7 +491,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "The owner (buyer) of the call would have paid 3 ($300) for the contract. If the contract expires unexercised, the owner loses the $300 premium paid.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-35",
@@ -473,7 +506,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Buyers pay option contract premiums, and the sellers of the contract receive those premiums. The premium is paid by the buyer for the right to exercise the contract.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-36",
@@ -487,7 +521,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "When legislation is passed that affects the income received on an investment, the investor is exposed to legislative risk. Only a legislature can change tax rates.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Investment Risks"
  },
  {
   "id": "web-QUIZLET2-37",
@@ -501,7 +536,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "NAV is calculated by dividing the net assets of the fund by the number of outstanding shares. In this question the net assets are given; the liabilities are already in the figure. The math is 120 million / 5 million = $24 per share.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET2-38",
@@ -515,7 +551,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "If the agreement is not returned signed in 15 days, only closing transactions to offset those positions already open would be allowed.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-39",
@@ -529,7 +566,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Treasury bills, bonds, and notes are backed in full by the U.S. government. Treasury STRIPS are also backed in full by the U.S. government but Treasury receipts are not because they are issued by broker-dealers. Therefore the government's backing can only be as good as the credit rating of the broker-dealer that issued them.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-QUIZLET2-40",
@@ -543,7 +581,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "When shares are held in street name, they are being held in the name of the broker-dealer for the beneficial owner. This is done to facilitate payments and delivery. This does not encumber the shares regarding receipts of dividends or their transferability if sold.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "web-QUIZLET2-41",
@@ -557,7 +596,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "A signed hypothecation agreement permits the pledging of customer securities as collateral for margin loans.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-QUIZLET2-42",
@@ -571,7 +611,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Only the good-til-canceled (GTC) order will live past today. All the others will cancel if unexecuted by the end of the day. If there is no qualifier then it is a day order. Fill-or-kill (FOK) orders that cannot be filled immediately are cancelled. An all-or-none order would need to also be marked GTC to go into the next day.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET2-43",
@@ -585,7 +626,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Bonds pay interest. Stocks can share profits by paying dividends.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET2-44",
@@ -599,7 +641,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "For an investor with a long stock position, the risk is that the stock falls in value. Maximum loss occurs at zero and is therefore limited to the amount paid for the stock when purchased.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Investment Risks"
  },
  {
   "id": "web-QUIZLET2-45",
@@ -613,7 +656,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "When a BD acts as a principal (dealer, market maker), they are selling securities from the firm's inventory to a customer or buying a security from a customer for the dealer's inventory. The firm profits on the difference between what the firm paid for the security and what the customer pays, which is called the spread (or mark-up). There is no commission when a firm acts in a principal capacity. When acting as a broker (agent), the firm is acting on behalf of the customer and charges a commission for the service.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET2-46",
@@ -627,7 +671,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "A warrant grants its owner the right to purchase securities from the issuer at a specified price, normally higher than the current market price at the time the warrants are issued and at some time in the future. A warrant is usually a long-term instrument, normally five years or more until expiration. Warrants are usually offered in connection with other securities, such as debt instruments (bonds) or preferred stock, to make those securities more attractive.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET2-47",
@@ -641,7 +686,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "When selling at a limit price (23), the customer will accept that price or better (higher for sell orders). Given the customer is willing to accept 23, any price of 23 or higher (in this case 23.50) is an acceptable execution.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-QUIZLET2-48",
@@ -655,7 +701,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Prompt compliance with regulatory requests is required. By becoming a member, or registering with regulators, a broker-dealer agrees to provide documents and other evidence on request.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET2-49",
@@ -669,7 +716,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "A customer would need to buy the shares in order to close this short position. Borrowing the shares does not close the short, nor does buying the call. They could buy the call and then exercise, but the buy, alone, does not close the position. If they closed the position at $10 they would have a gain.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-50",
@@ -683,7 +731,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Opening a margin account requires that the customer sign the credit agreement and the hypothecation agreement. The loan consent form (agreement) is optional. While the risk disclosure document must be received and attested to as read by signing the credit agreement, it need not be signed.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-QUIZLET2-51",
@@ -697,7 +746,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Short against the box is when a customer owns the shares she wants to sell, but borrows some additional shares, sells the borrowed shares, and then covers the short position with shares already owned. Historically it was a tax strategy, but it doesn't work as well anymore with the tax law change. There is no loss potential. Buying to open can cause a loss of the amount invested; selling short has unlimited loss potential.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET2-52",
@@ -711,7 +761,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "For the holding period to be long term it must be more than one year.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "web-QUIZLET2-53",
@@ -725,7 +776,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Because GTC orders are no longer accepted by the NYSE, the handling of these orders (if they are accepted at all) are handled according to the policies and procedures of the broker-dealer accepting the trade. The old rule that all GTC orders, if unexecuted, will be automatically canceled on the last business day of April and the last business day of October no longer applies and is not tested.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET2-54",
@@ -739,7 +791,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "The customer's action are rather suspicious and have the hallmarks of money laundering activity. Your firm should file a suspicious activity report (SAR) with the Financial Intelligence Center (FinCEN). A currency transaction report (CTR) would be used if the transactions involved currency (which they don't). You are not supposed to inform the subject of a SAR that one has been filed.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "AML & SARs"
  },
  {
   "id": "web-QUIZLET2-55",
@@ -753,7 +806,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "This can be done by shorting the stock to push the price down. It is illegal if it is used to manipulate the market.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "web-QUIZLET2-56",
@@ -767,7 +821,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "The MSCI EAFE index is designed to measure the equity market performance of developed (first world) markets outside of the U.S. and Canada. It is maintained by MSCI, Inc. EAFE stands for Europe, Australasia, and Far East. This is the most widely recognized index for foreign equities.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET2-57",
@@ -781,7 +836,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "The consent to a loan agreement is not a regulatory requirement. Note this is a new account, so the regular account agreement is required in addition to the margin documents.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "web-QUIZLET2-58",
@@ -795,7 +851,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "With no other positions in LMN stock, the purchase was an opening transaction. Having purchased the stock in an opening transaction, the investor now has a long position in LMN stock and is bullish—wanting to see the stock rise in value.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET2-59",
@@ -809,7 +866,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "In a short margin account, equity must be maintained at 30% or $2,000 whichever is greater.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "web-QUIZLET2-60",
@@ -823,7 +881,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "If the private securities transaction involves compensation, the employing member may approve or disapprove the associated person's participation. While the employing member firm is responsible for all supervision regarding the transaction, it is not obligated and normally is not in a position to provide any services related to accommodating the transaction.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-QUIZLET2-61",
@@ -837,7 +896,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Rules within the Investment Advisers Act of 1940 are designed to deter what is commonly called the practice of pay to play or play for pay. In other words, gaining political favor via contributions made to political parties, elected officials, or candidates. If a political contribution to certain elected officials or candidates is made, an adviser may not provide advisory services to any government the adviser represents for a fee, for a period of two years.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET2-62",
@@ -851,7 +911,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Misstatements willfully made in an application for membership or registration as an associated person will automatically disqualify an applicant from membership. A felony conviction (not charge), either domestic or foreign, or a misdemeanor conviction involving securities or money within the past 10 years will also automatically disqualify an applicant from membership. Note that FINRA will examine the circumstances around a disqualifying event before a final decision is made, but they take willful misstatements on the U4 very seriously.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET2-63",
@@ -865,7 +926,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "The Form U4 contains the applicant's name as well as any aliases used. Residence history is shown for the past five years and employment history for the past 10 years. Charges, and convictions for securities related violations must be disclosed, not arrests.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-QUIZLET2-64",
@@ -879,7 +941,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "The license is place in a special inactive status. After her military service is complete, she has 90 days to affiliate with a firm. If she does not affiliate within 90 days, the two-year window to affiliate before retesting begins. Note that suspended is not the correct term; a suspension is a punitive action taken by a regulator. Continuing education requirements are not enforced until after the person again affiliates with a firm.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-QUIZLET2-65",
@@ -893,7 +956,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Those who manage any part of a member's securities activities must be registered as a principal with FINRA, including those involved solely in training associated persons.",
-  "source": "Quizlet 844966467"
+  "source": "Quizlet 844966467",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-QUIZLET2-66",
@@ -907,7 +971,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "SIPC was set up to protect customer ACCOUNTS in the event of a broker-dealer bankruptcy, not protect investments against loss. Be careful of the wording in this question. Cash & securities in customer accounts are 'insured' up to $500,000 in the event the B/D goes bankrupt and the cash and securities can't be located and properly returned to the customer.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "web-QUIZLET2-67",
@@ -921,7 +986,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Federal securities laws typically supersede State laws.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET2-68",
@@ -935,7 +1001,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Since the 'money market' includes short term debt instruments only, and since ADRs represent ownership (equity) in foreign stocks, ADRs are not debt.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-QUIZLET2-69",
@@ -949,7 +1016,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Going public means sharing equity ownership (common stock) with public investors, for the first time (Initial public offering, IPO).",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET2-70",
@@ -963,7 +1031,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Whether one considers answers A, B, or C partially accurate, the last answer, D is the most complete therefore best answer.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-QUIZLET2-71",
@@ -977,7 +1046,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "This is one of the functions of a Transfer Agent. Registrars make sure that a company does not issue more shares than authorized in the Charter.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-QUIZLET2-72",
@@ -991,7 +1061,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "You cannot lose more than you've put at risk. A common stockholder cannot be held liable for any debts of the corporation, therefore they have limited liability.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET2-73",
@@ -1005,7 +1076,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Splitting a stock provides each shareholder with more shares and the CMV (current market value) of the stock will decline proportionately. Because of the reduced price in the market, it becomes more 'affordable.'",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-QUIZLET2-74",
@@ -1019,7 +1091,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Stock dividends are not Cash dividends - they are dividends in the form of additional shares.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET2-75",
@@ -1033,7 +1106,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "All three are correct - in fact, Regular and Statutory are the same.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET2-76",
@@ -1047,7 +1121,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Call option contracts go 'in the money' (intrinsic value) when the current market value of the underlying security exceeds the exercise price (strike price) of the option. If a call option's exercise price is $20, and the underlying stock is trading at $25, the intrinsic value of the call option is $5.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-77",
@@ -1061,7 +1136,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Since with a Zero coupon instrument there is no annual income to 'reinvest,' Zeroes have no reinvestment risk.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-QUIZLET2-78",
@@ -1075,7 +1151,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Exchange traded funds trade on exchanges at market prices determined by supply and demand - the same as regular corporate stocks.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "web-QUIZLET2-79",
@@ -1089,7 +1166,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Variable annuities sell 'accumulation units' to purchasers, whose price each day is based upon the 4 pm net asset value of the separate account.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET2-80",
@@ -1103,7 +1181,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "The maximum maturity is 9 months or 270 days.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-QUIZLET2-81",
@@ -1117,7 +1196,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "This SIE exam enables the candidate to take one of several different FINRA registered reps exam.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-QUIZLET2-82",
@@ -1131,7 +1211,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Regulation T does not permit margin under normal circumstances on Option contracts.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "web-QUIZLET2-84",
@@ -1145,7 +1226,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "The best (inside) bid is the price at which a client's liquidation (sell) order will be executed.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET2-85",
@@ -1159,7 +1241,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Market making firms post firm quotes during the trading day at which they are obligating themselves to do business with other firms as well as retail customers.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET2-86",
@@ -1173,7 +1256,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "With more active trading in a stock (high volume), the spread between the bid and ask prices usually narrows.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET2-87",
@@ -1187,7 +1271,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "The FINRA markup markdown and commission policy does not apply to new issues as well as municipal bonds --- MSRB has its own such policy.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET2-88",
@@ -1201,7 +1286,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Syndicate implies a firm commitment; group implies best efforts.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET2-89",
@@ -1215,7 +1301,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Stabilizing implies keeping the price steady, which SEC allows in a new issue if done in accordance with strict guidelines of SEC---anti-manipulation guidelines.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET2-90",
@@ -1229,7 +1316,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "SHO are the first 3 letters of the word 'short.' Answer C. best describes the basics of this regulation.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET2-91",
@@ -1243,7 +1331,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "SIPC was never intended to guarantee customers against investment loss. It's an insurance program providing ½ million dollars of account insurance in the event a customer's brokerage firm goes bankrupt, with the maximum CASH coverage the same as bank FDIC coverage: $250K.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "web-QUIZLET2-92",
@@ -1257,7 +1346,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Investors seeking 'tax shelter' or 'tax advantage' are often suitable for the flow through benefits of DPPs (direct participation program--- limited partnerships).",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-QUIZLET2-93",
@@ -1271,7 +1361,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Defensive: stable, utilities, basic food, the basic needs of life, these are NOT growth industries.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-QUIZLET2-94",
@@ -1285,7 +1376,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "When an investor shorts/writes/sells a put option, they agree to be OBLIGATED to BUY the underlying instrument at the strike price.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-95",
@@ -1299,7 +1391,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "NYSE hours and CBOE hours are the same. 9:30 to 4 ET for the NYSE is the same as 8:30 to 3:00 CT. Make sure you KNOW your time zones!",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-96",
@@ -1313,7 +1406,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "The term 'STOCK' dividend tells you this is a distribution, NOT of cash, but of more shares of STOCK.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "web-QUIZLET2-97",
@@ -1327,7 +1421,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "A written allegation: this is formally known as a complaint.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-QUIZLET2-98",
@@ -1341,7 +1436,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Pink sheets: the Pinks: the Pink quotes: All these terms in your textbook speak of thinly traded, closely-held, low daily volume stocks, where liquidity is not especially present when compared to NYSE and NASDAQ stocks.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-QUIZLET2-99",
@@ -1355,7 +1451,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "The stock split lowers the market price of a stock, which makes buying a round lot (100 sh.) more 'affordable.'",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-QUIZLET2-100",
@@ -1369,7 +1466,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Each of these when associated with a bond issue makes the bond more attractive from a client's point of view.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET2-101",
@@ -1383,7 +1481,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Only the closed-end investment company trades at supply & demand pricing on an Exchange, and has no specific relationship to the fund's underlying asset value.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-102",
@@ -1397,7 +1496,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "The 'trick' with this question is that anytime a company is selling NEW previously unissued shares from their Authorized shares maximum, those shares are NEW ---- Primary distribution means the shares being sold are NEW, never before issued, not previously owned by anyone.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET2-103",
@@ -1411,7 +1511,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "The terms 'clearing' and 'carrying' have to do with a brokerage firm's performance of certain functions most other firms are not permitted to do, such as have physical possession and custody of customers' cash and securities.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-QUIZLET2-105",
@@ -1425,7 +1526,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: All of these",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "web-QUIZLET2-106",
@@ -1439,7 +1541,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Though a very simplistic way of describing Keynesian theory, it focuses on government taxation and spending policies, which are fiscal in nature. Answer A would be more appropriate if we were asking about monetary policies, which would be the work of the Federal Reserve.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET2-107",
@@ -1453,7 +1556,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "The term Secondary Offering is used to describe a situation in which already-issued shares are being resold into the marketplace, usually by insiders, officers, and directors of a company. The shares being sold are NOT new shares coming from the company. A follow-on offering, also called an APO (additional public offering) is where a company is issuing and selling more new shares to the public.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET2-108",
@@ -1467,7 +1571,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "M&A means mergers and acquisitions. This department assists companies in their efforts to buy another company or sell their company to an interested buyer.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-QUIZLET2-109",
@@ -1481,7 +1586,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "A client who owns stock is exposed to 100% loss of invested principal, unless the client engages is one of a number of strategies designed to mitigate/reduce the risk of loss. One such strategy is the sell stop order, in which the client picks a price at which he or she will exit/liquidate their stock position if the stock falls to that price level, 'stopping' the loss from getting any worse.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET2-110",
@@ -1495,7 +1601,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Any investor who writes a call or a put option, also known as selling an option, also known as 'shorting' an option, is obligated to perform in accordance with the terms of the contract, but only if the option is exercised by the person who had purchased the option, referred to as the holder of the option, or the long option position.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-QUIZLET2-111",
@@ -1509,7 +1616,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "A notice of sale is an advertisement published by a municipality in order to get bids from interested broker-dealers who wish to underwrite the sale of that issuer's upcoming bond offering. The other answers are different names for documents which make full disclosure to purchases of securities.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Communications with the Public"
  },
  {
   "id": "web-QUIZLET2-112",
@@ -1523,7 +1631,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Securities Investor Protection Act of 1970 created an insurance entity called the Securities Investor Protection Corporation. Its purpose is to provide protection to customers of bankrupt brokerage firms in the event the customers' cash and or securities have not been found during the bankruptcy proceedings. It is not investment insurance.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-QUIZLET2-113",
@@ -1537,7 +1646,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "CCO = Chief Compliance Officer",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET2-114",
@@ -1551,7 +1661,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "When the term blue chip stocks is used, think of the long-establish most well-known companies that consistently perform well and have done so for a very long time. Most if not all of these are listed on the NYSE.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET2-115",
@@ -1565,7 +1676,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Occasionally, a client will be told that a trade was done at a transaction price which turns out to be incorrect. This can happen for a number of reasons, usually clerical, not intentional. Federal law and FINRA rules state clearly that the client will be told about the erroneous report, and the transaction will be done at the actual price at which it took place, not at the erroneous price. Since every transaction is a legal contract, the actual price at which the trade was executed is the legally binding price.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-QUIZLET2-116",
@@ -1579,7 +1691,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Exchange traded funds; Exchange traded Notes; Equity Linked Notes are all traded on the NYSE.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET2-117",
@@ -1593,7 +1706,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "A customer can open a joint account with their registered rep. In that event, sharing in the performance of the account is permitted, in proportion to the contribution made by each party.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET2-118",
@@ -1607,7 +1721,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "You generally have to start taking withdrawals from your IRA, SEP IRA, SIMPLE IRA, or retirement plan account when you reach age 72. Roth IRAs do not require withdrawals until after the death of the owner.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "web-QUIZLET2-119",
@@ -1621,7 +1736,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "The Office of Financial Asset Control (OFAC) maintains the list",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "AML & SARs"
  },
  {
   "id": "web-QUIZLET2-120",
@@ -1635,7 +1751,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Once a person passes their RR exam, within 2 years from that anniversary date, a FINRA required continuing education test must be taken and passed. Then the CE tests are every three years thereafter.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-QUIZLET2-121",
@@ -1649,7 +1766,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Selling away is a violation. It means selling securities which are not authorized to be sold by the employing broker-dealer.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-QUIZLET2-122",
@@ -1663,7 +1781,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Front running is the illegal placing of an order just prior to placing a client's order so as to take advantage of the anticipated market price move.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "web-QUIZLET2-123",
@@ -1677,7 +1796,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Knowing your customer is the single most important step in the suitability of recommendations.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-QUIZLET2-124",
@@ -1691,7 +1811,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "8 am to 9 pm in the prospect's time zone is the law",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET2-126",
@@ -1705,7 +1826,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Government budget, spending and taxation policies are fiscal policies. Federal Reserve policies are monetary.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET2-127",
@@ -1719,7 +1841,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "TIC, tenants in common, holds that each co-tenant in the account will have their % share of the account go to their estate upon death. In joint tenancy with rights of survivorship (JTWROS), the survivor receives the share of the other co-tenant upon death.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "web-QUIZLET2-128",
@@ -1733,7 +1856,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Think of the letters S-P as Security account Privacy",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "web-QUIZLET2-129",
@@ -1747,7 +1871,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "All State securities Administrators are part of the North American Securities Administrators Association (NASAA).",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET2-130",
@@ -1761,7 +1886,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "The federal funds rate of interest is the interbank overnight loan rate.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET2-131",
@@ -1775,7 +1901,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Slowdown in the economy implies the economy is contracting, beginning to 'shrink.'",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET2-132",
@@ -1789,7 +1916,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Trades in the 3rd market are trades in stocks which are executed off the floor of the stock exchange on which those stocks are listed.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET2-133",
@@ -1803,7 +1931,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Cyclical companies tend to follow the business cycle: defensive companies tend to perform in a consistent stable way regardless of the cycle; growth companies are expected to grow faster than the economy in general.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET2-134",
@@ -1817,7 +1946,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Firm commitment implies the syndicate is purchasing the new issue from the issuer with a view to retailing it to the investing public....this is acting in a principal/dealer capacity. Best efforts underwritings are being done on an agency/brokerage basis.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET2-135",
@@ -1831,7 +1961,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Regulation D covers Private Placement offerings",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET2-136",
@@ -1845,7 +1976,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "A 'weak' US dollar makes US goods 'cheaper' for foreign buyers to buy, since their currency becomes 'stronger.' This leads to an increase in the export of US manufactured goods.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET2-137",
@@ -1859,7 +1991,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "What do many homeowners do when interest rates decline? They refinance their mortgage at the lower interest rate. This means the high-interest mortgages in the portfolio of the mortgage-backed product will vanish.....one term used to describe the risk of this occurring is prepayment risk.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET2-138",
@@ -1873,7 +2006,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "A unit investment trust typically has a fixed portfolio of securities, whereas an open end (mutual fund) makes purchases of additional securities for the portfolio on a regular and frequent basis.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET2-139",
@@ -1887,7 +2021,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Non-systematic risk is business risk --- the risk of putting all your eggs in one basket, in one company, in one business sector.....and if that business does badly, you lose. Diversification is a good way of mitigating this risk.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Investment Risks"
  },
  {
   "id": "web-QUIZLET2-140",
@@ -1901,7 +2036,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "As described in the explanation to question #67 above, diversification is an effective way to reduce exposure to business risk.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Investment Risks"
  },
  {
   "id": "web-QUIZLET2-141",
@@ -1915,7 +2051,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "The 529 plans are considered by the SEC and FINRA to be municipal fund securities.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "web-QUIZLET2-142",
@@ -1929,7 +2066,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Short term debt reacts the least in price when rates change.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-QUIZLET2-143",
@@ -1943,7 +2081,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "A letter of intent is not an obligation but rather a show on one's intent to invest an amount equal or more than a mutual fund's breakpoint level so as to qualify for the reduced sales charge. LOI gives 13 months to do so.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET2-144",
@@ -1957,7 +2096,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Investment grade ratings end with the BBB rating. Below that are speculative grade ratings. BB+ would be the higher speculative rating from among these multiple choice answers. Ba1 is a Moody's rating, not S&P.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-QUIZLET2-145",
@@ -1971,7 +2111,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "American Depository Receipts are receipts for foreign stock and are a best way for American investors to take beneficial ownership in shares of foreign corporations.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET2-146",
@@ -1985,7 +2126,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Shorting an option contract is doing an opening sale transaction, which is writing an option contract, generating premium income.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-147",
@@ -1999,7 +2141,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Trades are to be reported to the appropriate 'tape' within 10 seconds of execution of the transaction.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-QUIZLET2-148",
@@ -2013,7 +2156,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Not only do the past unpaid dividends have to be brought current, but the current year's dividend must also be paid. Common stock cannot get any dividend payment until the cumulative preferred has been brought completely current. Therefore, a total of $5 is past due covering the shortfall in the prior 2 years, and $5 is due for the current year: $10 must be paid to get current.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-QUIZLET2-149",
@@ -2027,7 +2171,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "An illustration is the best way to show why limited profit/limited loss is correct:",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-150",
@@ -2041,7 +2186,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "This is the industry's definition of a 'shelf' offering - register more shares now than you intend to sell now, and save the balance for a later time, putting them 'on the shelf.'",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET2-151",
@@ -2055,7 +2201,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Think of a funnel. Big institutional investors are doing many trades every day through numerous broker-dealers with which they have accounts. But all the transactions and the cash and securities clearing and settlement are 'funneled' through one firm for accounting simplicity. The prime broker is the bottom part of the funnel.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET2-154",
@@ -2069,7 +2216,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Hedging investment risks involves strategies to mitigate and to reduce exposure to investment loss. Hedging is not a concept of maximizing profits.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "web-QUIZLET2-155",
@@ -2083,7 +2231,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "This practice is known as 'payment for order flow' and is perfectly legal as long as the firm makes full disclosure to public customers that such an agreement exists.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET2-156",
@@ -2097,7 +2246,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "The purchase needs to be paid for in a timely way or the law does not consider the purchaser to be the 'owner' of the shares and entitled to any profit on them. Regulation T refers to the use of sale proceeds to pay for the purchase as 'free-riding.' It is not acceptable.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "web-QUIZLET2-157",
@@ -2111,7 +2261,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Answer A is accurate --- short call means writing a call, which puts the investor in an obligated position to sell 100 shares of the stock at the exercise price if exercised..... assuming it's an equity option.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-159",
@@ -2125,7 +2276,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "The regular corporation, known as the C corp., has its profits taxed under the Internal Revenue Code. The other three business types in this question are not subject to IRS taxation of their profits.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "web-QUIZLET2-160",
@@ -2139,7 +2291,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Businesses can take advantage of annual tax-deductible write-offs according to specific schedules in the internal revenue code, referred to as depreciation schedules.",
-  "source": "Quizlet 771718602"
+  "source": "Quizlet 771718602",
+  "topic": "Investment Risks"
  },
  {
   "id": "web-QUIZLET2-161",
@@ -2153,7 +2306,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Quarterly",
-  "source": "Quizlet 542374420"
+  "source": "Quizlet 542374420",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-QUIZLET2-162",
@@ -2167,7 +2321,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Call date and call price",
-  "source": "Quizlet 542374420"
+  "source": "Quizlet 542374420",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-QUIZLET2-164",
@@ -2181,7 +2336,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: 1,200 shares at $41.67",
-  "source": "Quizlet 542374420"
+  "source": "Quizlet 542374420",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-QUIZLET2-165",
@@ -2195,7 +2351,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: a premium",
-  "source": "Quizlet 542374420"
+  "source": "Quizlet 542374420",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET2-166",
@@ -2209,7 +2366,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: a market maker",
-  "source": "Quizlet 542374420"
+  "source": "Quizlet 542374420",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET2-167",
@@ -2223,7 +2381,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Buy 2,500 shares at $10 and sell 1,000 shares at $10.10",
-  "source": "Quizlet 542374420"
+  "source": "Quizlet 542374420",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET2-168",
@@ -2237,7 +2396,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: 1,000",
-  "source": "Quizlet 542374420"
+  "source": "Quizlet 542374420",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-QUIZLET2-173",
@@ -2251,7 +2411,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Mutual fund shares",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET2-178",
@@ -2265,7 +2426,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Being paid a commission by the employing broker-dealer",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-QUIZLET2-180",
@@ -2279,7 +2441,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Net asset value",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET2-181",
@@ -2293,7 +2456,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Exchange-traded fund",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-182",
@@ -2307,7 +2471,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Passive losses",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "web-QUIZLET2-183",
@@ -2321,7 +2486,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Issuers",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET2-184",
@@ -2335,7 +2501,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Purchase securities in the open market",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET2-185",
@@ -2349,7 +2516,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: An inverse exchange-traded fund (ETF)",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-QUIZLET2-186",
@@ -2363,7 +2531,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Securities listed on an exchange, but traded in the OTC market",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET2-187",
@@ -2377,7 +2546,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Mortgage bonds",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-QUIZLET2-188",
@@ -2391,7 +2561,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Stop order",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET2-189",
@@ -2405,7 +2576,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: The market makers for stocks that are not listed on either the NYSE or Nasdaq",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET2-190",
@@ -2419,7 +2591,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Syndicator",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "web-QUIZLET2-191",
@@ -2433,7 +2606,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Buying and selling securities for both customers and the firm's own account",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "AML & SARs"
  },
  {
   "id": "web-QUIZLET2-192",
@@ -2447,7 +2621,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: FINRA fines",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "web-QUIZLET2-193",
@@ -2461,7 +2636,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Is a complaint and must be maintained by the broker-dealer",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET2-194",
@@ -2475,7 +2651,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Official statements are not required to be approved by a regulator.",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET2-195",
@@ -2489,7 +2666,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: The suspension of a registration",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-QUIZLET2-196",
@@ -2503,7 +2681,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Over par value that the issuer must pay to exercise the call privilege",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-197",
@@ -2517,7 +2696,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: An unrealized capital gain",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "web-QUIZLET2-198",
@@ -2531,7 +2711,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: 1,680 shares",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET2-199",
@@ -2545,7 +2726,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: They have the right to sell 100 shares of stock.",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-200",
@@ -2559,7 +2741,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Principal capacity and charged the customer a markdown",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "web-QUIZLET2-201",
@@ -2573,7 +2756,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Systematic risk",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET2-202",
@@ -2587,7 +2771,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Equity options",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-203",
@@ -2601,7 +2786,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: $2,000",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "web-QUIZLET2-204",
@@ -2615,7 +2801,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Must provide written notice of her affiliation with another member firm to the firm with which she intends to opens the account and must obtain the written approval from her employing firm",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-QUIZLET2-205",
@@ -2629,7 +2816,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: $150,000 from a married couple if no further contributions are made for the next five years.",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-QUIZLET2-206",
@@ -2643,7 +2831,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Liquidation of a stock on the NYSE",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET2-207",
@@ -2657,7 +2846,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Principal capacity and charged the client a markup",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET2-208",
@@ -2671,7 +2861,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Buying a put",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-209",
@@ -2685,7 +2876,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Prime rate",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET2-210",
@@ -2699,7 +2891,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Higher than the current market price of the stock",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET2-211",
@@ -2713,7 +2906,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: One business day after the trade date",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-QUIZLET2-212",
@@ -2727,7 +2921,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Tax-deferred growth",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET2-213",
@@ -2741,7 +2936,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: A quotation system for securities that are not listed on either the NYSE or Nasdaq",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET2-214",
@@ -2755,7 +2951,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: If the power system declares bankruptcy, the bonds will go into default",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-QUIZLET2-215",
@@ -2769,7 +2966,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: A neutral strategy that's considered a conservative means of generating income when prices are stable.",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-216",
@@ -2783,7 +2981,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: The purchaser limits the amount of money he could lose if the underlying stock declines",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-217",
@@ -2797,7 +2996,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Offer information on the firm's products and services to clients",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET2-218",
@@ -2811,7 +3011,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: $20.50 minus a commission",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET2-219",
@@ -2825,7 +3026,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Opportunity risk",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-QUIZLET2-220",
@@ -2839,7 +3041,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Short a call",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-221",
@@ -2853,7 +3056,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Contributions are made in after-tax dollars.",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "web-QUIZLET2-222",
@@ -2867,7 +3071,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: In a particular industry or geographical area",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET2-223",
@@ -2881,7 +3086,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: The SEC website address",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-QUIZLET2-224",
@@ -2895,7 +3101,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: American Depositary Receipts (ADRs)",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-QUIZLET2-225",
@@ -2909,7 +3116,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Convertible preferred stock",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET2-226",
@@ -2923,7 +3131,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: The Securities Exchange Commission (SEC)",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET2-227",
@@ -2937,7 +3146,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: The maximum loss is limited",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-QUIZLET2-228",
@@ -2951,7 +3161,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Bond anticipation notes",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-QUIZLET2-229",
@@ -2965,7 +3176,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Trust account",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-QUIZLET2-230",
@@ -2979,7 +3191,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Inflationary risk",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET2-231",
@@ -2993,7 +3206,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Gross Domestic Product will decrease.",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET2-232",
@@ -3007,7 +3221,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Execute a closing purchase",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-233",
@@ -3021,7 +3236,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: The money supply has been increased.",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-QUIZLET2-234",
@@ -3035,7 +3251,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Credit risk",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Investment Risks"
  },
  {
   "id": "web-QUIZLET2-235",
@@ -3049,7 +3266,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: A corporation that has its principal office located in the state of the offering",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET2-236",
@@ -3063,7 +3281,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Keynesian theory",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET2-237",
@@ -3077,7 +3296,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Investment banking department",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET2-238",
@@ -3091,7 +3311,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: The agreement gives the broker-dealer permission to pledge a customer's securities to a bank as collateral for a margin loan.",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-QUIZLET2-239",
@@ -3105,7 +3326,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: The tender of stock in a short margin account that has been borrowed by a customer",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "web-QUIZLET2-240",
@@ -3119,7 +3341,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Bullish",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-241",
@@ -3133,7 +3356,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Only the contributions that are made to a qualified variable annuity are deductible.",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Variable Annuities & Insurance Products"
  },
  {
   "id": "web-QUIZLET2-242",
@@ -3147,7 +3371,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Capital risk",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-243",
@@ -3161,7 +3386,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Long",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET2-244",
@@ -3175,7 +3401,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: $971.56",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-QUIZLET2-245",
@@ -3189,7 +3416,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: OCC",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-246",
@@ -3203,7 +3431,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: The coupon rate will be higher if the bonds are issued at par.",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-QUIZLET2-247",
@@ -3217,7 +3446,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Investment risk",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET2-248",
@@ -3231,7 +3461,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: STRIPS are backed by the full faith and credit of the U.S. government, but Treasury receipts are not.",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-QUIZLET2-249",
@@ -3245,7 +3476,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Adviser",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET2-250",
@@ -3259,7 +3491,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Private placement",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET2-251",
@@ -3273,7 +3506,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Introducing firm with an omnibus account",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-QUIZLET2-252",
@@ -3287,7 +3521,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: High growth potential",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Investment Risks"
  },
  {
   "id": "web-QUIZLET2-253",
@@ -3301,7 +3536,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: After-tax dollars",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "web-QUIZLET2-254",
@@ -3315,7 +3551,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: The spread",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET2-255",
@@ -3329,7 +3566,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Business risk",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Investment Risks"
  },
  {
   "id": "web-QUIZLET2-256",
@@ -3343,7 +3581,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Trustee and issuer",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-QUIZLET2-257",
@@ -3357,7 +3596,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: If the firm intends to disclose information about the consumer",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "web-QUIZLET2-258",
@@ -3371,7 +3611,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: The individual assumes the investment risk",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Variable Annuities & Insurance Products"
  },
  {
   "id": "web-QUIZLET2-259",
@@ -3385,7 +3626,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: It's the full faith and credit of another company.",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-QUIZLET2-260",
@@ -3399,7 +3641,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: The settlement date",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-QUIZLET2-261",
@@ -3413,7 +3656,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Cannot share any commissions with the CPA",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-QUIZLET2-262",
@@ -3427,7 +3671,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Settling transactions with customers",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-QUIZLET2-263",
@@ -3441,7 +3686,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Market maker",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET2-264",
@@ -3455,7 +3701,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: There is no holding period.",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET2-265",
@@ -3469,7 +3716,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Credit risk",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-QUIZLET2-266",
@@ -3483,7 +3731,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Qualifying distributions are tax-free.",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "web-QUIZLET2-267",
@@ -3497,7 +3746,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Hedge fund",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET2-268",
@@ -3511,7 +3761,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Contingent deferred sales charge",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET2-269",
@@ -3525,7 +3776,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Market Risk",
-  "source": "Quizlet 557711163"
+  "source": "Quizlet 557711163",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET2-289",
@@ -3539,7 +3791,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: FDIC",
-  "source": "Quizlet 417183220"
+  "source": "Quizlet 417183220",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "web-QUIZLET2-291",
@@ -3553,7 +3806,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: $38",
-  "source": "Quizlet 417183220"
+  "source": "Quizlet 417183220",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET2-292",
@@ -3567,7 +3821,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: 30/360",
-  "source": "Quizlet 382698097"
+  "source": "Quizlet 382698097",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-QUIZLET2-293",
@@ -3581,7 +3836,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: the policies to protect the security of nonpublic information",
-  "source": "Quizlet 382698097"
+  "source": "Quizlet 382698097",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-QUIZLET2-294",
@@ -3595,7 +3851,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: minor",
-  "source": "Quizlet 382698097"
+  "source": "Quizlet 382698097",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "web-QUIZLET2-295",
@@ -3609,7 +3866,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: buy 2,500 shares at $10 and sell 1,000 shares at $10.10",
-  "source": "Quizlet 382698097"
+  "source": "Quizlet 382698097",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET2-296",
@@ -3623,7 +3881,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: an accredited investor",
-  "source": "Quizlet 382698097"
+  "source": "Quizlet 382698097",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET2-297",
@@ -3637,7 +3896,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: treasury bonds",
-  "source": "Quizlet 382698097"
+  "source": "Quizlet 382698097",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET2-298",
@@ -3651,7 +3911,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: they are exempt from registration under the Securities Act of 1933",
-  "source": "Quizlet 382698097"
+  "source": "Quizlet 382698097",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-QUIZLET2-299",
@@ -3665,7 +3926,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: designating an AML compliance officer",
-  "source": "Quizlet 382698097"
+  "source": "Quizlet 382698097",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET2-300",
@@ -3679,7 +3941,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: qualified distributions are excluded from federal income tax",
-  "source": "Quizlet 382698097"
+  "source": "Quizlet 382698097",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "web-QUIZLET2-302",
@@ -3693,7 +3956,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: bid and asked prices",
-  "source": "Quizlet 382698097"
+  "source": "Quizlet 382698097",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET2-303",
@@ -3707,7 +3971,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: file a Currency Transaction Report (CTR)",
-  "source": "Quizlet 382698097"
+  "source": "Quizlet 382698097",
+  "topic": "AML & SARs"
  },
  {
   "id": "web-QUIZLET2-304",
@@ -3721,7 +3986,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: nonsystematic",
-  "source": "Quizlet 382698097"
+  "source": "Quizlet 382698097",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-QUIZLET2-305",
@@ -3735,7 +4001,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: the ownership of the decedent's assets is governed by their will or state law",
-  "source": "Quizlet 382698097"
+  "source": "Quizlet 382698097",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "web-QUIZLET2-306",
@@ -3749,7 +4016,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: 13 months",
-  "source": "Quizlet 382698097"
+  "source": "Quizlet 382698097",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET2-307",
@@ -3763,7 +4031,8 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: $2,000",
-  "source": "Quizlet 382698097"
+  "source": "Quizlet 382698097",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "web-QUIZLET2-308",
@@ -3777,6 +4046,7 @@ var SIE_QUESTIONS_WEB_QUIZLET2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: it is issued stock that has been subsequently reacquired by the corporation",
-  "source": "Quizlet 382698097"
+  "source": "Quizlet 382698097",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  }
 ];

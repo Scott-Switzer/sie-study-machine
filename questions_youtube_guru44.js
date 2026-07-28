@@ -11,7 +11,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"U.S. trading in foreign securities.\" ADRs let U.S. investors buy and sell foreign-company shares in U.S. markets, facilitating U.S. trading in foreign securities.",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru44-1",
@@ -25,7 +26,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"The gain is taxable at both the state and federal level.\" Capital gains from selling municipal bonds are taxable at both the federal and state level (only the interest is tax-exempt).",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru44-2",
@@ -39,7 +41,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"ESA.\" Only an ESA (Coverdell) is set up exclusively for a child; 529 plans and others may name older beneficiaries.",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-guru44-3",
@@ -53,7 +56,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Debenture.\" Equipment trust certificates are secured by rolling stock such as airplanes or railcars.",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru44-4",
@@ -67,7 +71,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"Dividends and capital gains.\" Mutual fund shareholders receive income as dividends (from earnings) and capital gains distributions (from portfolio trades).",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru44-5",
@@ -81,7 +86,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Business risk.\" A single concentrated stock position like inherited Costco exposes Matt mainly to business (company-specific) risk.",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru44-6",
@@ -95,7 +101,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Market.\" A portfolio of only equities is exposed primarily to overall market risk.",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-guru44-7",
@@ -109,7 +116,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"Interests.\" Ownership interests in a limited partnership are called interests (not shares or units in the corporate sense).",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "yt-guru44-8",
@@ -123,7 +131,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"100 shares of ABC.\" To cover a short call the writer must deliver 100 shares of the underlying stock if assigned.",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru44-9",
@@ -137,7 +146,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Sell the shares of the one company and invest in an S&P 500 index fund.\" Holding one company's stock concentrates business risk; diversifying into an S&P 500 index fund reduces it.",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru44-10",
@@ -151,7 +161,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"The bond must be from the investor's home state.\" Municipal bond interest is tax-free at the state level only if the bond is issued by the investor's home state.",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru44-11",
@@ -165,7 +176,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"The commission.\" A variable annuity separate account deducts mortality, investment management, and expense-risk fees, but not the sales commission (paid from the premium).",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "Variable Annuities & Insurance Products"
  },
  {
   "id": "yt-guru44-12",
@@ -179,7 +191,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"A money market mutual fund purchased at the bank.\" Money market mutual funds are not FDIC-insured; bank deposits and CDs are.",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "yt-guru44-13",
@@ -193,7 +206,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"When the shares are sold.\" Stock dividends are generally not taxed until the shares are sold (they are a non-taxable distribution).",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-guru44-14",
@@ -207,7 +221,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"There must be one or more general partners.\" DPPs are illiquid, limited partners have limited liability, and losses pass through to offset ordinary income.",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-guru44-15",
@@ -221,7 +236,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Cumulative.\" Cumulative preferred accumulates omitted dividends and must be paid before common dividends resume.",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru44-16",
@@ -235,7 +251,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"They offer more investment flexibility than UGMA accounts.\" Most states ARE UTMA states, so 'most states are not UTMA states' is the false statement.",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru44-17",
@@ -249,7 +266,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"Beta.\" Beta measures a stock's market (systematic) risk relative to the overall market.",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru44-18",
@@ -263,7 +281,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"Common stock.\" Common stockholders have voting rights; preferred stockholders generally do not.",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru44-19",
@@ -277,7 +296,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Inflation.\" Bank CDs are exposed to inflation (purchasing power) risk eroding real returns.",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru44-20",
@@ -291,7 +311,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"Management company.\" A management company (open- or closed-end fund) has an investment adviser; UITs and face-amount certificate companies do not.",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "yt-guru44-21",
@@ -305,7 +326,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"$1,100.\" Max loss = cost ($80 + $5 premium = $85) minus put protection ($74) = $11 per share, or $1,100.",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-guru44-22",
@@ -319,6 +341,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU44 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"Risk that cannot be diversified away.\" Systematic risk is market-wide risk that cannot be eliminated through diversification.",
-  "source": "YouTube: Series 7 Guru (guru44)"
+  "source": "YouTube: Series 7 Guru (guru44)",
+  "topic": "Variable Annuities & Insurance Products"
  }
 ];

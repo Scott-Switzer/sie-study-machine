@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Trading of previously issued securities between investors”. The secondary market is where investors trade already-issued securities among themselves; the issuer receives no proceeds from these trades.",
-  "source": "YouTube: Series 7 Guru (guru65)"
+  "source": "YouTube: Series 7 Guru (guru65)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-guru65-1",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Limit order”. A limit order specifies a maximum buy or minimum sell price; it is not guaranteed to execute but protects on price.",
-  "source": "YouTube: Series 7 Guru (guru65)"
+  "source": "YouTube: Series 7 Guru (guru65)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "yt-guru65-2",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Common stockholders typically have voting rights.”. Common stockholders typically have voting rights (e.g., electing the board) and a residual claim on assets.",
-  "source": "YouTube: Series 7 Guru (guru65)"
+  "source": "YouTube: Series 7 Guru (guru65)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru65-3",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   },
   "answer": "C",
   "explanation": "Correct answer: SEC (Securities and Exchange Commission)",
-  "source": "YouTube: Series 7 Guru (guru65)"
+  "source": "YouTube: Series 7 Guru (guru65)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru65-4",
@@ -67,7 +71,8 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Joint Tenancy with Right of Survivorship (JTWROS)”. In a TIC account, a deceased tenant's interest passes to their estate (not the survivors); the decedent's share goes by will/intestacy.",
-  "source": "YouTube: Series 7 Guru (guru65)"
+  "source": "YouTube: Series 7 Guru (guru65)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "yt-guru65-5",
@@ -81,7 +86,8 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Disclosing material, nonpublic information to a client who then trades on it.”. Tipping material nonpublic information to a client who trades on it is a form of illegal insider trading.",
-  "source": "YouTube: Series 7 Guru (guru65)"
+  "source": "YouTube: Series 7 Guru (guru65)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "yt-guru65-6",
@@ -95,7 +101,8 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “It is secured by the full faith and credit of the issuing municipality, backed by its taxing power.”. Interest on municipal bonds is exempt from federal income tax and is typically exempt from state/local tax for residents of the issuing state.",
-  "source": "YouTube: Series 7 Guru (guru65)"
+  "source": "YouTube: Series 7 Guru (guru65)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru65-7",
@@ -109,7 +116,8 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “They can buy and sell a broad range of securities, including stocks, bonds, options, and investment company products.”. A broker-dealer can facilitate trading in a broad range of securities for customers, acting as agent or principal.",
-  "source": "YouTube: Series 7 Guru (guru65)"
+  "source": "YouTube: Series 7 Guru (guru65)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru65-8",
@@ -123,7 +131,8 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “The carrying firm”. The carrying (clearing) firm holds customer accounts and securities and is responsible for clearance and settlement.",
-  "source": "YouTube: Series 7 Guru (guru65)"
+  "source": "YouTube: Series 7 Guru (guru65)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-guru65-9",
@@ -137,7 +146,8 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Margin Disclosure Statement”. Before opening a margin account, the firm must provide a Margin Disclosure Statement describing the risks of margin trading.",
-  "source": "YouTube: Series 7 Guru (guru65)"
+  "source": "YouTube: Series 7 Guru (guru65)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru65-10",
@@ -151,7 +161,8 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Credit risk”. Credit (default) risk is the risk the issuer fails to make promised payments; lower-rated bonds carry more of it.",
-  "source": "YouTube: Series 7 Guru (guru65)"
+  "source": "YouTube: Series 7 Guru (guru65)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru65-11",
@@ -165,7 +176,8 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “To detect and deter money laundering and terrorist financing.”. Large, frequent, round-number cash deposits are a classic red flag for money laundering and must be monitored and reported under BSA/AML rules.",
-  "source": "YouTube: Series 7 Guru (guru65)"
+  "source": "YouTube: Series 7 Guru (guru65)",
+  "topic": "AML & SARs"
  },
  {
   "id": "yt-guru65-12",
@@ -179,7 +191,8 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “The interest earned on municipal bonds may be exempt from federal, state, and local taxes for residents of the issuing state.”. Interest on municipal bonds is exempt from federal income tax and is typically exempt from state/local tax for residents of the issuing state.",
-  "source": "YouTube: Series 7 Guru (guru65)"
+  "source": "YouTube: Series 7 Guru (guru65)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru65-13",
@@ -193,7 +206,8 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “To maintain records of stock and bond owners and handle dividend and interest payments.”. The transfer agent maintains the shareholder records and handles the issuance of split shares and dividend payments.",
-  "source": "YouTube: Series 7 Guru (guru65)"
+  "source": "YouTube: Series 7 Guru (guru65)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-guru65-14",
@@ -207,7 +221,8 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Short",
-  "source": "YouTube: Series 7 Guru (guru65)"
+  "source": "YouTube: Series 7 Guru (guru65)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru65-15",
@@ -221,7 +236,8 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “When a transaction or series of transactions raises suspicion of money laundering or other illegal activity.”. Large, frequent, round-number cash deposits are a classic red flag for money laundering and must be monitored and reported under BSA/AML rules.",
-  "source": "YouTube: Series 7 Guru (guru65)"
+  "source": "YouTube: Series 7 Guru (guru65)",
+  "topic": "AML & SARs"
  },
  {
   "id": "yt-guru65-16",
@@ -235,7 +251,8 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Seeks to maintain a stable Net Asset Value (NAV) of $1.00 per share.”. Money market funds seek to maintain a stable $1.00 NAV by investing in short-term, high-quality debt.",
-  "source": "YouTube: Series 7 Guru (guru65)"
+  "source": "YouTube: Series 7 Guru (guru65)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru65-17",
@@ -249,7 +266,8 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “To facilitate the efficient clearing and settlement of securities transactions.”. Clearing agencies (e.g., NSCC) facilitate the efficient, guaranteed clearance and settlement of securities transactions.",
-  "source": "YouTube: Series 7 Guru (guru65)"
+  "source": "YouTube: Series 7 Guru (guru65)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru65-18",
@@ -263,7 +281,8 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Selling equities and buying fixed income to return to the original allocation.”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
-  "source": "YouTube: Series 7 Guru (guru65)"
+  "source": "YouTube: Series 7 Guru (guru65)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru65-19",
@@ -277,7 +296,8 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Secondary offering”. A secondary offering/secondary market transaction involves outstanding shares and the issuer receives no proceeds.",
-  "source": "YouTube: Series 7 Guru (guru65)"
+  "source": "YouTube: Series 7 Guru (guru65)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-guru65-20",
@@ -291,6 +311,7 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Government National Mortgage Association (Ginnie Mae)”. Ginnie Mae (GNMA) is a government agency whose securities are backed by the full faith and credit of the U.S. government.",
-  "source": "YouTube: Series 7 Guru (guru65)"
+  "source": "YouTube: Series 7 Guru (guru65)",
+  "topic": "US Government & Agency Securities"
  }
 ];

@@ -12,7 +12,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "A. I, II, and IV\n\nLimited partnerships pass through gains and income to the limited partners, who are responsible for reporting those gains and losses to the IRS. Certain real estate limited partnerships may receive federal tax credits from the U.S. government. DPPs do not have free transferability of shares because all limited partners must go through an approval process.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "DPP / Limited Partnerships"
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "udemy3-02",
@@ -40,7 +40,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "B",
   "explanation": "D. Corporate bonds\n\nYour client is looking for total return, which is growth and income. At the current time, 100% of their portfolio is invested in stocks, which provide only growth potential. They also need to invest in fixed-income securities, like corporate bonds, which provide income to meet their investment objective.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Mutual funds / DPPs"
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "udemy3-04",
@@ -52,7 +52,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "D. Treasury STRIPS\n\nReinvestment risk is the additional risk taken with interest and dividends received each year. All securities making interest or dividend payments have reinvestment risk. Treasury STRIPS have no reinvestment risk because they're issued at a discount and mature at par value without making interest payments along the way.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Bond types / munis"
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy3-05",
@@ -67,7 +67,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "A. pink market\n\nThe pink market (pink sheets) is for corporations too small to be placed on the OTCBB (Over The Counter Bulletin Board). Corporations on the pink market are not required to meet listing requirements or file with the SEC.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Markets / structure"
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "udemy3-06",
@@ -79,7 +79,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "D. Running a business\n\nDividends from stocks and interest from bonds are both investment income. However, any earnings made from running a business is considered earning income.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Bond types / munis"
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy3-07",
@@ -91,7 +91,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "D. economists\n\nAccording to the Investment Advisers Act of 1940, lawyers, accountants, teachers, and engineers are professionals excluded from the definition of investment adviser. Therefore, an economist is not specifically excluded based on the law.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Regulatory / registration"
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "udemy3-08",
@@ -105,7 +105,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "C",
   "explanation": "D. Nothing.\n\nUntil a corporation has filed a registration statement with the Securities and Exchange Commission (SEC) for a new issue, an account executive can't do anything. After the registration statement has been filed, account executives can start obtaining indications of interest.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Regulatory / registration"
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "udemy3-09",
@@ -120,7 +120,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "B",
   "explanation": "B. Cumulative\n\nCumulative voting gives smaller shareholders a better chance to gain representation on the board of directors. Statutory (regular) voting gives you one vote per share owned times the number of vacancies on the BOD, which have to be split evenly. Cumulative voting gives you the same number of votes, but they don't have to be split evenly.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Voting / corp governance"
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "udemy3-10",
@@ -135,7 +135,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "A. a percentage of dollar price\n\nTerm bonds are also called dollar bonds because they're quoted according to a percentage of dollar price. For example, a term bond that's trading for $990 would be quoted as 99 (99% of $1,000 par).",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Bond types / munis"
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy3-11",
@@ -147,7 +147,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "D. I, II, III, and IV\n\nAll of the choices listed are important. General obligation (GO) bonds are backed by the full faith, credit, and taxing power of the municipality. Although the largest backing for GO bonds is property (ad valorem) taxes, they're also backed by items such as license fee and fines. The issuer's home state is important because if purchasing a tax-free municipal bond within your own home state, the interest will be triple tax-free. You'd also want to see a growing population trend because that means that more people will be backing the bonds. Obviously, bonds being backed by a wealthy community are better than ones backed by a poor community. You'd also want to see a diversity of industry within the tax base because that would help a community grow.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Bond types / munis"
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy3-12",
@@ -160,7 +160,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "C. Growth fund\n\nAll of the other funds listed will provide investors with current income because they invest in bonds paying interest and possibly stocks paying dividends. However, growth funds invest in companies that are trying to expand their business. This means that they don't pay much in the way of dividends; they reinvest their profits back into the company.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Mutual funds / DPPs"
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "udemy3-13",
@@ -174,7 +174,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "B. General partners assume more risk.\n\nThe risk assumed by a limited partner is limited to the amount invested plus any additional loans. However, because general partners can be sued as a result of the partnership, they assume unlimited risk.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "DPP / Limited Partnerships"
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "udemy3-14",
@@ -204,7 +204,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "A. The registered representative must determine the client's suitability.\n\nThe registered representative should get the customer's investment objectives and suitability prior to making a recommendation. A principal's approval isn't required for a registered representative to make an investment recommendation to a client.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Suitability"
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "udemy3-16",
@@ -218,7 +218,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "B. I and IV\n\nLiquidity relates to how tradable a security is. Securities with low liquidity are hard to trade and, therefore, aren't desirable for most investors. This question asks for bonds with the least liquidity risk, so the correct answers are bonds with a high credit rating and bonds with a short-term maturity.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Bond types / munis"
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy3-17",
@@ -231,7 +231,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "C. broker or dealer\n\nDesignated market makers work on an exchange and execute trades for their own accounts as a dealer and for others as a broker.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Markets / structure"
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "udemy3-18",
@@ -246,7 +246,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "A. I and III\n\nDividends received from stock which was held for more than 60 days during a 121-day holding period prior to the ex-dividend date are taxed as qualified dividends (0%, 15%, or 20%). Passive income is income that an investor receives from limited partnerships only. Long-term capital gains are for securities held for longer than one year. Because this investor held the stock for exactly one year, it's taxed as a short-term capital gain.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Taxation"
+  "topic": "Taxation of Investments"
  },
  {
   "id": "udemy3-19",
@@ -261,7 +261,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "FINRA is the SRO responsible for regulating the OTC market and member-firm activity on exchanges such as the NYSE. The SEC is a government agency (not an SRO); the CBOE governs options; the MSRB writes municipal rules.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Markets / structure"
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "udemy3-20",
@@ -276,7 +276,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "A. selling group members\n\nA tombstone ad is print notice typically placed in newspapers or magazines. Companies use tombstone ads to make an announcement of a new issue of securities. Believe it or not, it got the name tombstone ad because the shape of the ad is typically in the shape of a headstone. The ad displays the names of the issuer, syndicate manager, and syndicate members but not selling group members.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Markets / structure"
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "udemy3-21",
@@ -291,7 +291,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "A. Ayla can vote by proxy.\n\nIf a stockholder is unable to attend the actual vote, they can vote by proxy (absentee ballot).",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Other"
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "udemy3-22",
@@ -305,7 +305,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "B. Term\n\nTerm bonds are all issued at one time, and they all mature at one time.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Bond types / munis"
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy3-23",
@@ -318,7 +318,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "C. Municipal bonds\n\nThe interest received on municipal bonds is federally tax-free. Because Gary is in the highest income-tax bracket, they can save more money by investing in municipal bonds. This strategy will put Gary on equal footing with other investors because neither high-income no low-income investors have to pay federal taxes on the interest received from municipal bonds. Therefore, municipal bonds are more advantageous to investors in high income-tax brackets.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Bond types / munis"
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy3-24",
@@ -333,7 +333,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "A. I and II\n\nFixed unit investment trusts invest in a portfolio of debt securities, and the trust terminates when all of the debt securities held mature. A participating unit investment trust chooses a portfolio of mutual funds to hold, which remain fixed, and the trust terminates at a predetermined date. The return on the participating unit investment trusts depends on the performance of the funds held.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Mutual funds / DPPs"
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "udemy3-25",
@@ -345,7 +345,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "D. investment objectives\n\nAlthough all of the choices listed are important, investor's should start at a fund's investment objectives. For example, is the customer looking for growth, income, growth and income, a tax-advantaged investment (municipal bond fund), and so on? When the client determines the type of fund, they can then start comparing the performance and expenses of those types of funds from several issuers prior to making a decision.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Mutual funds / DPPs"
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "udemy3-26",
@@ -357,7 +357,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "D. Real estate\n\nNon-recourse debt is available to limited partners in real estate direct participation programs (DPPs) only. Non-recourse debt involves pledging partnerships' assets as collateral for a loan, and the limited partners aren't held personally responsible.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "DPP / Limited Partnerships"
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "udemy3-27",
@@ -384,7 +384,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "C. The stock of new corporations\n\nInvestors looking for capital growth are more speculative investors. These investors are looking to invest money now, hoping that the investment will grow at a rapid rate. To meet that objective, the investor should invest in stock of new corporations.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Bond types / munis"
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy3-29",
@@ -399,7 +399,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "A. Treasury bills\n\nAlthough your client has a main investment objective of aggressive growth, they may have to put that on hold for a short while because they're purchasing a home. Actually, Choices (B), (C), and (D) are ideal for an aggressive growth strategy; they're too risky for someone purchasing a home in the near term. In this case, you should let your client know that purchasing Treasury bills is a safe investment, which ensures that they have the funds available when needed to purchase the new home.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Mutual funds / DPPs"
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "udemy3-30",
@@ -412,7 +412,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "C. II and III\n\nThe capacity (whether the firm is acting as a broker or dealer) must be disclosed on the confirmation (receipt of trade). If the firm is acting as a broker, the commission must always be disclosed. If the firm is acting as a dealer, the markup or markdown does not need to be disclosed.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Other"
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "udemy3-31",
@@ -427,7 +427,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "A. Department of the Treasury\n\nThe U.S. Department of Treasury (USDT) was established to manage U.S. government revenue. As such, the USDT oversees the printing of all currency and minting of coins. In addition, it is responsible for collecting taxes through the IRS, managing U.S. government debt securities, and assisting other branches of the U.S. government in helping set fiscal policy.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Other"
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "udemy3-32",
@@ -442,7 +442,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "A. I, III, and IV\n\nIssuers can register securities on the state level by filing (notification), through coordination, or through qualification. The Series 63 and Series 66 exams explore this topic in much more detail. Communication was just thrown in there as a bogus answer choice because it looks something like the other words.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Regulatory / registration"
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "udemy3-33",
@@ -456,7 +456,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "B. by telephone\n\nCommon shareholders who wish to vote can do so either in person or by proxy, which is basically an absentee ballot. However, common shareholders cannot vote by telephone.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Voting / corp governance"
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "udemy3-34",
@@ -471,7 +471,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "B",
   "explanation": "B. term bond\n\nTerm bonds are all issued at one time and all mature at one time so the issuer will have a big payment due at the maturity date. In order to have the funds available for that big payment, the issuer will put money aside in a sinking fund. Typically, the money in the sinking fund is invested in safe securities such as U.S. Treasury securities.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Bond types / munis"
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy3-35",
@@ -484,7 +484,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "B",
   "explanation": "D. I, II, III, and IV\n\nActually, all of the choices given are important. The higher your client's tax bracket, the bigger the advantage for buying municipal bonds. If a client purchases municipal bonds issued from within his home state, he'll have the advantage of them being triple tax-free. The bond's rating and maturity are important depending on the risk tolerance of your client.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Bond types / munis"
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy3-36",
@@ -499,7 +499,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "B",
   "explanation": "B. investors are prohibited from redeeming the money market fund for a year\n\nMoney market funds are types of mutual funds that hold short-term debt securities. The NAV of the fund is set at $1. They do offer a check-writing feature; they are no load (no sales charge); and the compute dividends daily and credit them monthly. However, investors are not prohibited from redeeming their funds for a year; they can redeem at any time.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Mutual funds / DPPs"
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "udemy3-37",
@@ -513,7 +513,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "B. General partners\n\nSince general partners are the ones who manage the partnership, they are the last ones to be paid when the partnership is dissolved. Secured creditors are the first to be paid; then general creditors; after that, limited partners; and finally, general partners.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "DPP / Limited Partnerships"
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "udemy3-38",
@@ -543,7 +543,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "A. I and II\n\nLiquidity has to do with ease of trading. The more liquid a security is, the easier it is to trade. To get the answer for this question, you have to find the two answers that aren't liquid. Municipal bonds usually aren't very liquid because they're usually thinly traded. Direct participation programs are some of the most difficult investments to get in and out of, so they're not liquid.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "DPP / Limited Partnerships"
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "udemy3-40",
@@ -557,7 +557,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "B. I, III, and IV\n\nIf one of your customers has a primary investment objective of preservation of capital, you wouldn't recommend speculative investments, such as an exploratory direct participation program. However, AAA-rated corporate bonds, blue chip stocks (such as IBM, Ford, and GE), and U.S. government bonds are all proper recommendations.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "DPP / Limited Partnerships"
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "udemy3-41",
@@ -571,7 +571,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "B. a negotiated market\n\nThe over-the-counter (OTC) market is a negotiated market where buyers and sellers negotiate the trading price of a security. Exchanges are considered auction markets where prices and trading volumes are shouted out on the exchange floor.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Markets / structure"
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "udemy3-42",
@@ -586,7 +586,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "A. Interest received from corporate bonds, interest received from T-bonds, and cash dividends\n\nInterest received from corporate bonds, T-bonds (Treasury bonds), and cash dividends are all taxable for the year they were received. Investors are not taxed for stock splits or stock dividends because the investor didn't receive a cash payment.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Taxation"
+  "topic": "Taxation of Investments"
  },
  {
   "id": "udemy3-43",
@@ -601,7 +601,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "B",
   "explanation": "B. II, III, and IV\n\nAs self-regulatory organizations (SROs), FINRA and the NYSE can fine, expel, and/or censure members. However, because FINRA and the NYSE aren't affiliated with the government, they can't imprison members.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Regulatory / registration"
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "udemy3-44",
@@ -615,7 +615,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "B",
   "explanation": "C. Qualification\n\nThe three types of state securities registration are notification (registration by filing), coordination, and qualification. If the securities are exempt from federal (SEC) registration but still must be filed with the state, the issuer would use registration by qualification.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Regulatory / registration"
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "udemy3-45",
@@ -630,7 +630,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "Treasury stock is stock that was ISSUED and later repurchased by the company — not authorized-but-unissued stock. Treasury shares have no voting rights and receive no dividends.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Voting / corp governance"
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "udemy3-46",
@@ -644,7 +644,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "B",
   "explanation": "C. Serial\n\nTerm bonds are all issued at one time and all mature at one time, so they typically have a sinking fund available to pay off the debt. Serial bonds have one issue date, but an equal amount of bonds mature each year sometime in the future (such as 20% on year 26, 20% on year 27, 20% on year 28, 20% on year 29, and 20% on year 30). Balloon issues are issued at the same time and mature in subsequent years like serial bonds but have a balloon payment at the end (such as 10% on year 26, 10% on year 27, 10% on year 28, 10% on year 29, and 60% on year 30). Series bonds are kind of the opposite of serial bonds because they're issued on different dates but all mature on the same date.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Other"
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "udemy3-47",
@@ -657,7 +657,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "C. default risk\n\nMunicipal bond insurance is a credit enhancer that insures municipal bonds against default risk. Default risk is the risk that interest and principal payments won't be received. In the event that the issuer fails to make expected payments, the insurance company will make them. Insured municipal bonds are typically rated AAA.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Bond types / munis"
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy3-48",
@@ -669,7 +669,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "D. income fund\n\nAlthough hedge funds, growth funds, and aggressive growth funds have capital appreciation potential, they don't provide current income. Income funds invest in stocks paying dividends and bonds paying interest. Therefore, the best choice for this investor would be an income fund or some sort of bond fund.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Mutual funds / DPPs"
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "udemy3-49",
@@ -682,7 +682,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "C. I, III, and IV\n\nTangible assets are for items such as equipment. They may be depreciated on either a straight-line basis (writing off the same amount each year) or an accelerated basis (writing off more in the early years and less in the later years). Typically, these assets will have salvage value at the end of the partnership and can be sold.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "DPP / Limited Partnerships"
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "udemy3-50",
@@ -709,7 +709,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "B. Municipal bonds\n\nBecause your client is in the highest tax bracket, they should have some tax-advantaged investments, like municipal bonds or municipal bond funds, in their portfolio. Because the interest received from municipal bonds is federally tax-free, high income tax bracket investors save more tax money by investing in them.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Bond types / munis"
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy3-52",
@@ -723,7 +723,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "B",
   "explanation": "C. amount\n\nWhen looking at a client's portfolio of securities, you should make sure that they're diversified. A client shouldn't have too many of their eggs in one basket, so to say. Relating to municipal bonds, diversification could be buying bonds of different types (revenue, GO, notes), buying bonds with different credit ratings (AAA, A, BBB), buying bonds from different geographical locations (New York, California, Guam), buying bonds with different maturities (short term, intermediate term, long term), and so on. However, buying a different amount of one security doesn't figure into the diversified portfolio mix.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Bond types / munis"
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy3-53",
@@ -738,7 +738,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "A. the difference between bid and asked prices of a security\n\nThe spread is the difference between the bid and asked price of a security.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Markets / structure"
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "udemy3-54",
@@ -752,7 +752,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "B. Their cost basis on the stock owned will be reduced.\n\nUnlike receiving a cash dividend, receiving a stock dividend is not a taxable event. When receiving a stock dividend, the market price and the cost basis of the stock will be reduced.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Taxation"
+  "topic": "Taxation of Investments"
  },
  {
   "id": "udemy3-55",
@@ -766,7 +766,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "B",
   "explanation": "C. I, II, and III\n\nThe SEC has the authority to punish individuals inside or outside of the brokerage industry. The NYSE and FINRA may penalize an individual within the industry. However, because the MSRB doesn't enforce MSRB rules, the MSRB may not punish any individual for rules violations.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Regulatory / registration"
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "udemy3-56",
@@ -781,7 +781,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "A. Notification\n\nThe three types of state securities registration are notification (registration by filing), coordination, and qualification. If securities are to be sold by an established issuer who has previously sold securities within the state, they would register by notification (filing).",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Regulatory / registration"
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "udemy3-57",
@@ -793,7 +793,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "D. repurchased stock\n\nChoices (A) and (B) are wrong because stock represents ownership, and you can't own a percentage of the government. Treasury stock is stock that was outstanding in the market and subsequently repurchased by the issuer. Corporations repurchase their own stock sometimes to increase the demand for their outstanding shares or to avoid a takeover.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Voting / corp governance"
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "udemy3-58",
@@ -806,7 +806,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "C. Balloon\n\nA balloon issue has a portion of the bonds maturing prior to the final maturity date. At the final maturity date, the largest payment (a balloon payment) is due.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Other"
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "udemy3-59",
@@ -821,7 +821,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "D",
   "explanation": "D. a state\n\nOverlapping (coterminous) debt is important to not only taxpayers but also purchasers of municipal general obligation (GO) bonds. Overlapping debt has to do with debt being shared by more than one municipality. An example would be a town that's responsible for a portion of the county's debt. People who live in a county are also responsible for a portion of the state's debt. However, states can't be overlapped because one state isn't responsible for a portion of another state's debt.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Bond types / munis"
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy3-60",
@@ -835,7 +835,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "B. Aggressive growth fund\n\nAggressive growth funds invest in the common stock of relatively new companies or companies with a high chance of growth looking for capital gains for their investors.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Mutual funds / DPPs"
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "udemy3-61",
@@ -849,7 +849,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "B. II and III\n\nWhen a real estate DPP owns apartments, houses, or buildings, they can rent them out and receive current income. Additionally, they hope to have capital growth by way of the value of the properties they own going up in value.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "DPP / Limited Partnerships"
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "udemy3-62",
@@ -874,7 +874,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "C. I and IV\n\nAn investor who has an investment objective of speculation (aggressive growth) would purchase securities that have a potential for growth, such as sector funds or technology stocks. The risk of investing in sector funds and technology stocks is high, but if the investments become profitable, the reward can be quite high. Speculative investors are looking to purchase securities at a low price and sell them at a much higher price.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Mutual funds / DPPs"
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "udemy3-64",
@@ -889,7 +889,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "A. Purchasing several different mutual funds\n\nBecause this investor has no other investments and has only $10,000 to invest, it's impossible to build a diversified portfolio without mutual funds. Mutual funds are designed for investors who don't have enough money and/or expertise to build a diversified portfolio. Each mutual fund in itself is diversified because the fund invests in several different securities.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Suitability"
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "udemy3-65",
@@ -901,7 +901,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "D. market maker\n\nA market maker (designated market maker) is responsible to keep trading as active as possible for a particular security. They execute trades for other firms and will purchase or sell out of their own account.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Regulatory / registration"
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "udemy3-66",
@@ -913,7 +913,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "D. $4,500\n\nCash dividends are always fully taxable for the year in which they were received.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Taxation"
+  "topic": "Taxation of Investments"
  },
  {
   "id": "udemy3-67",
@@ -926,7 +926,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "C. I and IV\n\nAn individual who has been convicted (not charged) within the past ten years of any felony is prohibited from working in the securities industry. In addition, an individual who has been convicted of any securities- or money-related misdemeanors can't work in the securities industry. Just because an individual is charged doesn't mean that they'll be convicted.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Regulatory / registration"
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "udemy3-68",
@@ -940,7 +940,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "B. Coordination\n\nWhen an issuer wishes to register securities to be sold with the SEC and states at the same time, they would do it by coordination. This type of registration is most often used for IPOs (initial public offerings).",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Regulatory / registration"
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "udemy3-69",
@@ -955,7 +955,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "A. series\n\nBonds can be issued with term, serial, or balloon maturity but not series maturity. Bonds may be issued in series, but they are each their own separate bond issue.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Other"
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "udemy3-70",
@@ -970,7 +970,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "A. property tax\n\nThe largest backing for municipal general obligation (GO) bonds is property taxes. The credit rating of GO bonds is highly dependent on the municipality's tax collection record, the number of people living in the municipality, property values, whether it's a limited tax GO bond or unlimited tax GO bond, and so on. Unlike revenue bonds, GO bonds typically require voter approval prior to being issued.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Bond types / munis"
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy3-71",
@@ -985,7 +985,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "A. Hedge funds can purchase commodities and foreign currencies while mutual funds cannot.\n\nAnswers (B), (C), and (D) are applicable to both hedge funds and mutual funds. However, hedge funds are allowed to make more speculative investments and purchase things that aren't securities such as commodities and currencies.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Mutual funds / DPPs"
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "udemy3-72",
@@ -1000,7 +1000,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "The general partner runs the partnership: manages it, pays its expenses, and admits new limited partners. The LIMITED partners are the ones who provide the bulk of the capital.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "DPP / Limited Partnerships"
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "udemy3-73",
@@ -1028,7 +1028,7 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "A. MMA would open a numbered account for Chael.\n\nNumbered (street-named) accounts are very common at brokerdealers. If Chael wants to remain anonymous, they can have the broker-dealer set up their account as a numbered account. All order tickets would contain a number or code; however, the broker-dealer must have a signed document on file by Chael, stating that they are the owner of the account.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Account opening"
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "udemy3-75",
@@ -1040,6 +1040,6 @@ var SIE_QUESTIONS_UDEMY1 = [
   "answer": "A",
   "explanation": "D. All of the above\n\nDiversification helps investors mitigate investment risk. All the choices listed are ways investors can lessen risk. When dealing with clients, you should always help them diversify their portfolio. It's the old \"don't put all of your eggs in one basket\" theory.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
-  "topic": "Regulatory / registration"
+  "topic": "Registration & Licensing (U4/U5, CE)"
  }
 ];

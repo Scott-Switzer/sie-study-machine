@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "D",
   "explanation": "Correct answer: All of your money goes to work since there is no up-front sales charge.",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-SW1-2",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Efficient frontier",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-SW1-3",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Allow flow-through of losses",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "yt-SW1-4",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Commit to underwritings",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-SW1-5",
@@ -67,7 +71,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "D",
   "explanation": "Correct answer: The reallocation of assets among subaccounts after the initial purchase",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-SW1-6",
@@ -81,7 +86,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "D",
   "explanation": "Correct answer: The corporation that leases the facility",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-SW1-7",
@@ -95,7 +101,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "D",
   "explanation": "Correct answer: $5 MM group and $5 MM designated",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-SW1-8",
@@ -109,7 +116,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Only qualified institutional buyers (QIBs)",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-SW1-9",
@@ -123,7 +131,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: After six months",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-SW1-11",
@@ -137,7 +146,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Call risk",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-SW1-12",
@@ -151,7 +161,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Any advertising distributed by a broker-dealer that's limited to municipal fund securities is NOT required to be approved by the principal.",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "yt-SW1-13",
@@ -165,7 +176,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Can use a buy stop order to limit losses if the stock advances",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-SW1-15",
@@ -179,7 +191,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: A put spread created for a net debit is bearish",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-SW1-16",
@@ -193,7 +206,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: The underwriting syndicate",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-SW1-17",
@@ -207,7 +221,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: They produce tax-free interest",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "yt-SW1-18",
@@ -221,7 +236,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Highest expected return for the lowest level of risk",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-SW1-19",
@@ -235,7 +251,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Price-earnings ratio",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-SW1-20",
@@ -249,7 +266,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "A",
   "explanation": "Correct answer: $5,300",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Options"
  },
  {
   "id": "yt-SW1-21",
@@ -263,7 +281,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Portfolio-based margin",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-SW1-22",
@@ -277,7 +296,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "A",
   "explanation": "Correct answer: The sale of investment company shares in dollar amounts just below the point at which the sales charge is reduced on quantity transactions",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-SW1-23",
@@ -291,7 +311,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: $17.50",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "yt-SW1-24",
@@ -305,7 +326,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Moral obligation bond",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Options"
  },
  {
   "id": "yt-SW1-25",
@@ -319,7 +341,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Obtain the prior written consent of the employing firm in order to open the account",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-SW1-26",
@@ -333,7 +356,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Joint and last survivor annuity",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-SW1-28",
@@ -347,7 +371,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Convert the bond to common stock and sell the common stock",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-SW1-29",
@@ -361,7 +386,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: It will have a negative impact on the security",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-SW1-30",
@@ -375,7 +401,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "A",
   "explanation": "Correct answer: $21.50 plus a commission",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-SW1-31",
@@ -389,7 +416,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Its market value would decrease",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-SW1-32",
@@ -403,7 +431,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Undeveloped land",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "yt-SW1-33",
@@ -417,7 +446,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: $500 capital loss in 2014",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "yt-SW1-34",
@@ -431,7 +461,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Rise",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Options"
  },
  {
   "id": "yt-SW1-35",
@@ -445,7 +476,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Either written or electronic form",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-SW1-36",
@@ -459,7 +491,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Short straddle",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Options"
  },
  {
   "id": "yt-SW1-37",
@@ -473,7 +506,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Geographical diversification",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-SW1-38",
@@ -487,7 +521,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: A+",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-SW1-39",
@@ -501,7 +536,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "A",
   "explanation": "Correct answer: The name of the lead underwriter that conducted the issuance",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-SW1-41",
@@ -515,7 +551,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Prepayment risk",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-SW1-42",
@@ -529,7 +566,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Bond anticipation notes",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-SW1-43",
@@ -543,7 +581,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Securities quoted on the OTCBB",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-SW1-44",
@@ -557,7 +596,8 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Treat the discount as ordinary income",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "yt-SW1-45",
@@ -571,6 +611,7 @@ SIE_QUESTIONS_YOUTUBE_SW1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Must pay 28.75",
-  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)"
+  "source": "YouTube: Series 7 Whisperer (sw1 final exam walkthrough)",
+  "topic": "Account Opening, Suitability & KYC"
  }
 ];

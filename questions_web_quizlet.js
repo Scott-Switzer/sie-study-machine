@@ -11,7 +11,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: build an order book and allocate the stock",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "web-QUIZLET-2",
@@ -25,7 +26,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Lower management fees due to passive management of the fund",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET-3",
@@ -39,7 +41,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: A primary distribution involves a sale of newly issued shares by the issuer while a secondary distribution involves the sale of already issued and outstanding shares.",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "AML & SARs"
  },
  {
   "id": "web-QUIZLET-4",
@@ -53,7 +56,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: 30/360",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-QUIZLET-5",
@@ -67,7 +71,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: exposure to non-correlated assets",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET-6",
@@ -81,7 +86,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: rising",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-QUIZLET-7",
@@ -95,7 +101,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: The price per share of common stock decreases",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-QUIZLET-8",
@@ -109,7 +116,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: maturities of the debt securities are short.",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET-9",
@@ -123,7 +131,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: Designating an AML compliance officer",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-10",
@@ -137,7 +146,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Engaging in private securities transactions without written prior consent of the employing BD",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-QUIZLET-11",
@@ -151,7 +161,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: 1,200 shares at $41.67",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET-12",
@@ -165,7 +176,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Qualified distributions are excluded from federal income tax",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "web-QUIZLET-13",
@@ -179,7 +191,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: Provide account opening forms to a new customer",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-QUIZLET-14",
@@ -193,7 +206,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: a premium",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET-15",
@@ -207,7 +221,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: A registered principal of the RR's firm",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-QUIZLET-16",
@@ -221,7 +236,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: 13 months",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET-17",
@@ -235,7 +251,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: Rights",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET-18",
@@ -249,7 +266,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: Call date and call price",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET-19",
@@ -263,7 +281,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: 2 quarters",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET-20",
@@ -277,7 +296,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: next business day",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-QUIZLET-21",
@@ -291,7 +311,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: The ownership of the decedent's assets is governed by their will or state law.",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-QUIZLET-22",
@@ -305,7 +326,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: It is issued stock that has been subsequently reacquired by the corporation",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET-23",
@@ -319,7 +341,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Market risk",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Variable Annuities & Insurance Products"
  },
  {
   "id": "web-QUIZLET-24",
@@ -333,7 +356,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Transfer agent",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-25",
@@ -347,7 +371,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: minor",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "web-QUIZLET-26",
@@ -361,7 +386,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: $2,000",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "web-QUIZLET-27",
@@ -375,7 +401,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: Money market instruments",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-QUIZLET-28",
@@ -389,7 +416,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: The potential deductibility of contributions from state taxes",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET-29",
@@ -403,7 +431,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: a closing purchase",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "web-QUIZLET-30",
@@ -417,7 +446,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: $50",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET-31",
@@ -431,7 +461,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: Secured debt holders",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET-32",
@@ -445,7 +476,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: 50 shares at $100 per share",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-QUIZLET-33",
@@ -459,7 +491,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: Nonsystematic",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "AML & SARs"
  },
  {
   "id": "web-QUIZLET-34",
@@ -473,7 +506,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: Literature providing 10-year performance information to support predictions of future performance",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "AML & SARs"
  },
  {
   "id": "web-QUIZLET-35",
@@ -487,7 +521,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: FDIC",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-QUIZLET-36",
@@ -501,7 +536,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: exchange",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "web-QUIZLET-37",
@@ -515,7 +551,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: NAV computed after the order is received",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "web-QUIZLET-38",
@@ -529,7 +566,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Send written notice to his supervisor outlining the activity and compensation structure",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-QUIZLET-39",
@@ -543,7 +581,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: a market maker",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET-40",
@@ -557,7 +596,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Buy bonds in the open market",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET-41",
@@ -571,7 +611,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: bid and asked prices",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET-42",
@@ -585,7 +626,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: The kind of annuity selected partly determines the payment amounts to the annuitant",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-43",
@@ -599,7 +641,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: The spot exchange rate",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET-44",
@@ -613,7 +656,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: Buy 2,500 shares at $10.00 and sell 1,000 shares at $10.10",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET-45",
@@ -627,7 +671,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: No-load funds are not permitted to charge a 12b-1 fee greater than 25 basis points",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET-46",
@@ -641,7 +686,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: commissions",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-47",
@@ -655,7 +701,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Quarterly",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-QUIZLET-48",
@@ -669,7 +716,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Qualified institutional buyers (QIBs)",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET-49",
@@ -683,7 +731,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Driving part time for a transportation network company on weekends",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "web-QUIZLET-50",
@@ -697,7 +746,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Variable rate demand note",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-QUIZLET-51",
@@ -711,7 +761,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Asset-backed securities",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET-52",
@@ -725,7 +776,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: The same stock in a cash account without paying for the stock in full",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "web-QUIZLET-53",
@@ -739,7 +791,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: State securities regulators",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-54",
@@ -753,7 +806,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: 1,000",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-55",
@@ -767,7 +821,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: They are exempt from registration under the Securities Act of 1933",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Investment Risks"
  },
  {
   "id": "web-QUIZLET-56",
@@ -781,7 +836,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: File a Currency Transaction Report (CTR)",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "AML & SARs"
  },
  {
   "id": "web-QUIZLET-57",
@@ -795,7 +851,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: the Bank Secrecy Act",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "AML & SARs"
  },
  {
   "id": "web-QUIZLET-58",
@@ -809,7 +866,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: American Depositary Receipts (ADRs)",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET-59",
@@ -823,7 +881,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: The net asset value (NAV) of the shares when the owner dies",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET-60",
@@ -837,7 +896,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: Semiannually",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-QUIZLET-61",
@@ -851,7 +911,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: $38",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Investment Risks"
  },
  {
   "id": "web-QUIZLET-62",
@@ -865,7 +926,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: Treasury bonds",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET-63",
@@ -879,7 +941,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: Warrants",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET-64",
@@ -893,7 +956,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: Exchange-traded notes (ETNs)",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET-65",
@@ -907,7 +971,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: A felony conviction for a driving under the influence (DUI) charge",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-QUIZLET-66",
@@ -921,7 +986,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: declared stock dividends",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "web-QUIZLET-67",
@@ -935,7 +1001,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: The policies to protect the security of nonpublic information",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "web-QUIZLET-68",
@@ -949,7 +1016,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: registration is effective",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-QUIZLET-69",
@@ -963,7 +1031,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: an agent",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET-70",
@@ -977,7 +1046,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: prohibited as fraudulent and manipulative",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET-71",
@@ -991,7 +1061,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: Cash",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-QUIZLET-72",
@@ -1005,7 +1076,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: an accredited investor",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET-73",
@@ -1019,7 +1091,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: shares owned by the stockholder",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET-74",
@@ -1033,7 +1106,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: Profit limited and loss limited",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET-75",
@@ -1047,7 +1121,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: ETF",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET-76",
@@ -1061,7 +1136,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Wilshire 5000",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET-77",
@@ -1075,7 +1151,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Certificate of deposit",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET-78",
@@ -1089,7 +1166,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Fixed UIT",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "AML & SARs"
  },
  {
   "id": "web-QUIZLET-79",
@@ -1103,7 +1181,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: Spread",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET-80",
@@ -1117,7 +1196,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Cash flow",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET-81",
@@ -1131,7 +1211,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Income statement",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET-82",
@@ -1145,7 +1226,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: Does not carry a sales charge and does not charge more than 25 bps in annual 12b-1 fees",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET-83",
@@ -1159,7 +1241,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Securities Exchange Act of 1934",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET-84",
@@ -1173,7 +1256,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Quantitative easing",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET-85",
@@ -1187,7 +1271,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Efficient market hypothesis",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-86",
@@ -1201,7 +1286,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Growth stock",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET-87",
@@ -1215,7 +1301,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Inverse ETFs",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET-88",
@@ -1229,7 +1316,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: Conviction of a securities-related misdemeanor 9 years ago",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-89",
@@ -1243,7 +1331,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: Three years",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET-90",
@@ -1257,7 +1346,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Market order",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET-91",
@@ -1271,7 +1361,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: Rights",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-92",
@@ -1285,7 +1376,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Bond prices move INVERSELY to interest rates: rates up → price down. Current yield = annual coupon ÷ market price, so as the price falls the current yield RISES. The coupon rate itself never changes.",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-QUIZLET-93",
@@ -1299,7 +1391,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: Liquidity risk",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Investment Risks"
  },
  {
   "id": "web-QUIZLET-94",
@@ -1313,7 +1406,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Investment Company Act of 1940",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET-95",
@@ -1327,7 +1421,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: Official statement",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-QUIZLET-96",
@@ -1341,7 +1436,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: STRIPS",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-QUIZLET-97",
@@ -1355,7 +1451,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: A breakpoint sale and is prohibited",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET-98",
@@ -1369,7 +1466,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: 30/360",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-QUIZLET-99",
@@ -1383,7 +1481,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: Buy and sell the shares at quoted bid and ask prices.",
-  "source": "Quizlet Comprehensive SIE Practice Exam"
+  "source": "Quizlet Comprehensive SIE Practice Exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET-100",
@@ -1397,7 +1496,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: Statutory voting",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-QUIZLET-101",
@@ -1411,7 +1511,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: Third market",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET-102",
@@ -1425,7 +1526,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: The investor's potential loss is unlimited",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET-103",
@@ -1439,7 +1541,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: Securities Exchange Act of 1934",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET-104",
@@ -1453,7 +1556,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: BrokerCheck",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET-105",
@@ -1467,7 +1571,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: It sets monetary policy, but does not set tax policy",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-106",
@@ -1481,7 +1586,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Rights offering",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-107",
@@ -1495,7 +1601,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: conversion premium",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-QUIZLET-108",
@@ -1509,7 +1616,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: participating preferred stock",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "web-QUIZLET-109",
@@ -1523,7 +1631,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: they can be invested entirely in company stock",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET-110",
@@ -1537,7 +1646,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: Designated Market Makers",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET-111",
@@ -1551,7 +1661,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: 3 quarters",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET-112",
@@ -1565,7 +1676,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Blue chip common stocks because they provide a hedge against inflation",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET-113",
@@ -1579,7 +1691,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Promissory note",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET-114",
@@ -1593,7 +1706,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: a country exporting more than it imports",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET-115",
@@ -1607,7 +1721,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: 401(k) from Epsilon Inc",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET-116",
@@ -1621,7 +1736,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: it is a publicly traded open-end investment company (it is closed-end)",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "AML & SARs"
  },
  {
   "id": "web-QUIZLET-117",
@@ -1635,7 +1751,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Letter of intent",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET-118",
@@ -1649,7 +1766,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Fixed exchange rate system",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET-119",
@@ -1663,7 +1781,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: The gain is taxed as ordinary income, and a 10% penalty is applied",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET-120",
@@ -1677,7 +1796,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Defensive stock because they tend to outperform during economic downturns",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET-121",
@@ -1691,7 +1811,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: Because they are growing and expanding, growth stocks typically do not pay large dividends",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-QUIZLET-122",
@@ -1705,7 +1826,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Clearing broker",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-QUIZLET-123",
@@ -1719,7 +1841,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: U5",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-QUIZLET-124",
@@ -1733,7 +1856,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: sell stop order",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET-125",
@@ -1747,7 +1871,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Regulation SHO",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "web-QUIZLET-126",
@@ -1761,7 +1886,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Ponzi scheme",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET-127",
@@ -1775,7 +1901,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: CBOE (Chicago Board Options Exchange)",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-128",
@@ -1789,7 +1916,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: Real return = Nominal return - inflation",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "web-QUIZLET-129",
@@ -1803,7 +1931,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: FinCEN (Financial Crime Exchange Network)",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "AML & SARs"
  },
  {
   "id": "web-QUIZLET-131",
@@ -1817,7 +1946,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: Correspondence, Institutional communication, and Retail communication",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "web-QUIZLET-132",
@@ -1831,7 +1961,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Reclamation",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "AML & SARs"
  },
  {
   "id": "web-QUIZLET-133",
@@ -1845,7 +1976,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Omitting prospectus",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "web-QUIZLET-134",
@@ -1859,7 +1991,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: RAN (Revenue Anticipation Note)",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-QUIZLET-135",
@@ -1873,7 +2006,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: Dutch Auction",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET-136",
@@ -1887,7 +2021,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: Blue Sky Laws",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-137",
@@ -1901,7 +2036,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: Regulated investment company",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET-138",
@@ -1915,7 +2051,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: NAV = (Total value of investment - liabilities) / shares outstanding",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET-139",
@@ -1929,7 +2066,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: cash flow from financing activities, investing activities, and operating activities",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "web-QUIZLET-140",
@@ -1943,7 +2081,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: equity",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET-141",
@@ -1957,7 +2096,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Preferred stock (it has both common stock and fixed-income investments)",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET-142",
@@ -1971,7 +2111,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: deflation",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET-143",
@@ -1985,7 +2126,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: April 15",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "web-QUIZLET-144",
@@ -1999,7 +2141,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Actuary",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET-145",
@@ -2013,7 +2156,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: $10,000",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "AML & SARs"
  },
  {
   "id": "web-QUIZLET-146",
@@ -2027,7 +2171,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: 208 shares",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET-147",
@@ -2041,7 +2186,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: the S&P 500 is a price-weighted index",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-QUIZLET-148",
@@ -2055,7 +2201,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: indenture",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET-149",
@@ -2069,7 +2216,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: open-end mutual funds issue new shares and redeem existing shares from shareholders",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET-150",
@@ -2083,7 +2231,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Hypothecate",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "web-QUIZLET-151",
@@ -2097,7 +2246,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: private elementary school expenses are permitted to be paid from an ESA",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-QUIZLET-152",
@@ -2111,7 +2261,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: 9 months, longer than 1 year",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-QUIZLET-153",
@@ -2125,7 +2276,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: low coupon",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET-154",
@@ -2139,7 +2291,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: It derives its authority from Congress; it operates and oversees the US payment system; it supervises and regulates banks",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET-155",
@@ -2153,7 +2306,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Global fund",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET-156",
@@ -2167,7 +2321,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: TIPS are taxed at the federal level only",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-QUIZLET-158",
@@ -2181,7 +2336,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: A 3-for-1 stock split will decrease a stock's market price per share; a reverse stock split is intended to increase a stock's market price per share",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-QUIZLET-159",
@@ -2195,7 +2351,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Total risk - Systematic risk = unsystematic risk",
-  "source": "Quizlet SIE Practice Exam (aba0445)"
+  "source": "Quizlet SIE Practice Exam (aba0445)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET-160",
@@ -2209,7 +2366,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: 600",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET-161",
@@ -2223,7 +2381,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: M3",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET-162",
@@ -2237,7 +2396,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: No load funds",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET-163",
@@ -2251,7 +2411,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: have direct contact with the public",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-QUIZLET-164",
@@ -2265,7 +2426,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: keeps the $400 received when the call was written",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "web-QUIZLET-165",
@@ -2279,7 +2441,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: 2%",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET-166",
@@ -2293,7 +2456,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: ex dividend",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-QUIZLET-167",
@@ -2307,7 +2471,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: $25 per share",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET-168",
@@ -2321,7 +2486,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: the 3rd Friday of the expiration month",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-169",
@@ -2335,7 +2501,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: Serial",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET-170",
@@ -2349,7 +2516,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: 3 months",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET-171",
@@ -2363,7 +2531,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: the firm's ROP",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET-172",
@@ -2377,7 +2546,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: The member firm may vote the shares as it wishes on minor matters",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-QUIZLET-173",
@@ -2391,7 +2561,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: a forward, uneven split",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "web-QUIZLET-174",
@@ -2405,7 +2576,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: If the loss was due to an error on the part of the firm",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "web-QUIZLET-175",
@@ -2419,7 +2591,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: sell short and write uncovered call options",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "web-QUIZLET-176",
@@ -2433,7 +2606,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: noncallable bonds",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET-177",
@@ -2447,7 +2621,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: Half as many shares at twice the original price",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-QUIZLET-178",
@@ -2461,7 +2636,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: They will be involved in extensive fundraising activities for a charitable institution",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET-179",
@@ -2475,7 +2651,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: currency risk",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "web-QUIZLET-180",
@@ -2489,7 +2666,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: the broker call loan rate",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "web-QUIZLET-181",
@@ -2503,7 +2681,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: private (nonpublic) securities offering",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "web-QUIZLET-182",
@@ -2517,7 +2696,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: accrued taxes first, subordinated bondholders last",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET-183",
@@ -2531,7 +2711,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: this would be permitted with FINRA's approval",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET-184",
@@ -2545,7 +2726,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: OCC",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET-185",
@@ -2559,7 +2741,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: the US attorney general",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-QUIZLET-186",
@@ -2573,7 +2756,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: common shareholders only",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-QUIZLET-187",
@@ -2587,7 +2771,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: depletion allowances",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET-188",
@@ -2601,7 +2786,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: market price less than $5 per share and unlisted",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET-189",
@@ -2615,7 +2801,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: stock certificate books",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET-190",
@@ -2629,7 +2816,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: T-bills are purchased at a discount, while T-bonds are purchased as a percentage of par",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-QUIZLET-191",
@@ -2643,7 +2831,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: bullish, hoping the stock will rise",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET-192",
@@ -2657,7 +2846,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: code of procedure",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-193",
@@ -2671,7 +2861,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: the securities and exchange commission",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-194",
@@ -2685,7 +2876,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: freeriding",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "web-QUIZLET-195",
@@ -2699,7 +2891,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: the federal open market committee (FOMC)",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET-196",
@@ -2713,7 +2906,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: receipts, STRIPS, and bills",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-QUIZLET-197",
@@ -2727,7 +2921,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: Oil and gas income program",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "web-QUIZLET-198",
@@ -2741,7 +2936,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: whenever a new account is opened and annually thereafter",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "web-QUIZLET-199",
@@ -2755,7 +2951,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: the name of the investment adviser",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "web-QUIZLET-200",
@@ -2769,7 +2966,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: level load shares",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET-201",
@@ -2783,7 +2981,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: mortgage debt",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET-202",
@@ -2797,7 +2996,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: call risk",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Investment Risks"
  },
  {
   "id": "web-QUIZLET-203",
@@ -2811,7 +3011,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: Roth IRA",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-QUIZLET-204",
@@ -2825,7 +3026,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: They should participate in the day to day management of the partnership",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET-205",
@@ -2839,7 +3041,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Until October 7th of the following year",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-QUIZLET-206",
@@ -2853,7 +3056,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: bonus received from employment",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-QUIZLET-207",
@@ -2867,7 +3071,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: rehypothecates the stock to the bank",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "web-QUIZLET-208",
@@ -2881,7 +3086,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: a contemporaneous trader",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "web-QUIZLET-209",
@@ -2895,7 +3101,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: the exchanges where the firm is a member",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "AML & SARs"
  },
  {
   "id": "web-QUIZLET-210",
@@ -2909,7 +3116,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: it is made available between the registration date and the effective date",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET-211",
@@ -2923,7 +3131,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: hedge fund",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-212",
@@ -2937,7 +3146,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: writing calls",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Options"
  },
  {
   "id": "web-QUIZLET-213",
@@ -2951,7 +3161,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: life insurance",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-214",
@@ -2965,7 +3176,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: a spin off",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-QUIZLET-215",
@@ -2979,7 +3191,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: 2 semiannual checks for $35 each",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-QUIZLET-216",
@@ -2993,7 +3206,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: institutional investors",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET-217",
@@ -3007,7 +3221,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: a secondary offering",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET-218",
@@ -3021,7 +3236,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Debenture and Income bond",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-QUIZLET-219",
@@ -3035,7 +3251,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: accept indications of interest regarding potential purchases of shares",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET-220",
@@ -3049,7 +3266,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: funding of terrorist activity and money laundering",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "AML & SARs"
  },
  {
   "id": "web-QUIZLET-221",
@@ -3063,7 +3281,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: physical custody of the fund's portfolio cash and securities",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-QUIZLET-222",
@@ -3077,7 +3296,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: The partnership entity is not responsible for paying taxes on gains",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-223",
@@ -3091,7 +3311,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: a forward, uneven split",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-QUIZLET-224",
@@ -3105,7 +3326,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Financial industry regulatory authority",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-225",
@@ -3119,7 +3341,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: sell short and write uncovered call options",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "web-QUIZLET-226",
@@ -3133,7 +3356,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: They are not an expense to the fund, but to the investor and they are used to compensate the fund's underwriter and sales representatives",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-QUIZLET-227",
@@ -3147,7 +3371,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: Pre approval by a principal of the broker dealer is required",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "web-QUIZLET-228",
@@ -3161,7 +3386,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "A",
   "explanation": "Correct answer: noncallable bonds",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-229",
@@ -3175,7 +3401,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "B",
   "explanation": "Correct answer: Bulletin Board stock trading at $4 per share and OTC pink stock trading at $4 per share",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-QUIZLET-230",
@@ -3189,7 +3416,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: the broker call loan rate",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-QUIZLET-231",
@@ -3203,7 +3431,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: the nature of the audience (age, investment experience) need not to be a consideration at an open seminar",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "web-QUIZLET-232",
@@ -3217,7 +3446,8 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "D",
   "explanation": "Correct answer: can be redeemed before maturity at the issuer's option",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-QUIZLET-233",
@@ -3231,6 +3461,7 @@ var SIE_QUESTIONS_WEB_QUIZLET = [
   },
   "answer": "C",
   "explanation": "Correct answer: solicitation of sales may not be made and deficiency letters, if issued, are sent to the issuer",
-  "source": "Quizlet SIE practice exam (joe_king590)"
+  "source": "Quizlet SIE practice exam (joe_king590)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  }
 ];

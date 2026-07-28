@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE_GURU43 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Profit limited and loss limited”. A covered call writer's gain is limited (premium + upside to strike) and loss is limited (stock can only fall to zero).",
-  "source": "YouTube: Series 7 Guru (guru43)"
+  "source": "YouTube: Series 7 Guru (guru43)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru43-13",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE_GURU43 = [
   },
   "answer": "D",
   "explanation": "Correct answer: maturities of the debt securities are short.",
-  "source": "YouTube: Series 7 Guru (guru43)"
+  "source": "YouTube: Series 7 Guru (guru43)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru43-19",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE_GURU43 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Secured debt holders”. In a Chapter 11 (or 7) liquidation, secured debt holders have the first claim, ahead of unsecured creditors and equity.",
-  "source": "YouTube: Series 7 Guru (guru43)"
+  "source": "YouTube: Series 7 Guru (guru43)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru43-22",
@@ -53,6 +56,7 @@ SIE_QUESTIONS_YOUTUBE_GURU43 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “declared stock dividend.”. Trading on material nonpublic information is illegal insider trading; such information must be kept confidential until publicly disclosed.",
-  "source": "YouTube: Series 7 Guru (guru43)"
+  "source": "YouTube: Series 7 Guru (guru43)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  }
 ];

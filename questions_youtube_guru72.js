@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE_GURU72 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Zero coupon bond",
-  "source": "YouTube: Series 7 Guru (guru72)"
+  "source": "YouTube: Series 7 Guru (guru72)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-GURU72-28",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE_GURU72 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Discretionary",
-  "source": "YouTube: Series 7 Guru (guru72)"
+  "source": "YouTube: Series 7 Guru (guru72)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "yt-GURU72-29",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE_GURU72 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Nervousness when answering questions about account objectives",
-  "source": "YouTube: Series 7 Guru (guru72)"
+  "source": "YouTube: Series 7 Guru (guru72)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-GURU72-57",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_YOUTUBE_GURU72 = [
   },
   "answer": "A",
   "explanation": "Correct answer: The amount withdrawn is considered income and is subject to income taxes at the individual's rate",
-  "source": "YouTube: Series 7 Guru (guru72)"
+  "source": "YouTube: Series 7 Guru (guru72)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-GURU72-65",
@@ -67,6 +71,7 @@ SIE_QUESTIONS_YOUTUBE_GURU72 = [
   },
   "answer": "B",
   "explanation": "Correct answer: I, III, and IV",
-  "source": "YouTube: Series 7 Guru (guru72)"
+  "source": "YouTube: Series 7 Guru (guru72)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  }
 ];

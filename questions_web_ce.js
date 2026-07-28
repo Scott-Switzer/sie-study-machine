@@ -11,7 +11,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "A preferred stock's annual dividend payment is its fixed rate of return, unlike that of common shares where the dividend is subject to variation.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-2",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "While common shareholders could realize potential capital appreciation, current income via dividend declarations and a potential hedge against inflation, protection of the initial investment is not guaranteed. Common shareholders have limited liability, meaning that while they cannot lose more than was initially invested, they could still lose all of it.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-CE-3",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "The distribution of profits to shareholders would generally be in the form of dividends to be received at the discretion of the board of directors (BOD). Bonds and warrants are other types of securities a company might issue, while options are a derivative product that would not be issued by the company.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Options"
  },
  {
   "id": "web-CE-4",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Common and preferred stock are examples of an equity security. Bonds of any type by comparison are certificates of indebtedness—debt instruments.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-CE-5",
@@ -67,7 +71,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Low dissolution priority refers to being paid last in the event of a corporate dissolution (bankruptcy). Obviously, this is not a benefit. However, price appreciation and the receipt of dividends are potential benefits and limited liability is guaranteed, only being able to lose what one has invested.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-6",
@@ -81,7 +86,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Penny stocks are generally defined as those with a market price below $5 per share that are not listed (traded) on any exchange or Nasdaq.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-CE-7",
@@ -95,7 +101,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Interest payments are paid to bond holders but not on common stock. Common shareholders may receive dividends if declared by the board of directors. They may also expect to vote on certain critical issues facing the company such as its leadership. Common shareholders have a liability limited to the amount invested.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-CE-8",
@@ -109,7 +116,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Securities that have an agreed rate of return, such as bonds, notes, money market instruments, and other debt instruments, are deemed fixed-income securities. Preferred stock acts in many ways like a bond in that it has a fixed dividend rate, making it a fixed-income security. Common stock may or may not pay a dividend depending on the board of directors. Common stock is not deemed a fixed-income security.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-CE-9",
@@ -123,7 +131,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Common stock is freely transferable to anyone who wants to buy it or receive it as a gift. In this regard, shareholders have the right to sell or give away their shares without permission of the corporation.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-CE-10",
@@ -137,7 +146,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Securities and Exchange Commission (SEC) rules define penny stocks as those that are unlisted on an exchange or Nasdaq trading at less than $5 per share.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-11",
@@ -151,7 +161,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "In owning common shares, the investor stands to lose current income through dividend reduction or suspension (current income risk), as well as capital loss, should the market price decline (market risk).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-12",
@@ -165,7 +176,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Declaration, record, and payment dates are determined by the board of directors (BOD), but FINRA, or the exchange, determines the ex-dividend date.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-13",
@@ -179,7 +191,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Common stockholders enjoy limited liability in that they can only lose what was invested. They are in no way responsible for any debt of the corporation. Voting rights are one of the key benefits for common shareholders.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-14",
@@ -193,7 +206,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "By virtue of owning the company's common stock, shareholders have a limited right to review the company's books and records. For example, they have the right to examine the minutes of meetings of the board of directors (BOD).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-15",
@@ -207,7 +221,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Shareholders have the right to sell or give away their shares without permission of the corporation.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-16",
@@ -221,7 +236,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Both common and preferred shares are equity securities. Each of the other choices represents a debt instrument.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-17",
@@ -235,7 +251,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "All corporations will issue common stock, of which there can be only one class, but not all corporations issue preferred stock. Corporations that choose to issue preferred shares can issue more than one class.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-18",
@@ -249,7 +266,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Established customers are exempt from the suitability statement requirement but not from the disclosure requirements when penny stocks are being solicited. An established customer is someone who has held an account with the broker-dealer for at least one year (and has made a deposit of funds or securities); or has made at least three penny stock purchases of different issuers on different days.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-CE-19",
@@ -263,7 +281,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "According to penny stock rules, registered representatives must provide disclosure information to all penny stock buyers which customers must sign. In addition, they must determine suitability based on financial information, investor experience, and objectives supplied by the buyer. Investors who are not considered established customers (new customers, as in this case) must sign a suitability statement as well. No rule prohibits penny stock purchases on margin, but there is no requirement that they be done in a margin account either.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-20",
@@ -277,7 +296,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "One of the differences between common and preferred shareholders is that preferred shareholders generally have (with few rare exceptions) no voting rights.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-21",
@@ -291,7 +311,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Shareholders must be owners of the stock on or before the record date in order to receive the current dividend.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-22",
@@ -305,7 +326,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "For common shareholders, having a residual right to corporate assets means that they will only be paid in the event of a corporate dissolution if there are any funds left after debtholders and preferred shareholders are paid.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-23",
@@ -319,7 +341,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "If unable to attend a shareholder meeting, shareholders can vote by an absentee ballot, known as a proxy. Delivery of the proxy can be made online or by mail.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-CE-24",
@@ -333,7 +356,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "While a company can supply this information as often as they want to shareholders, it is only required that an audited report be received on an annual basis.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-25",
@@ -347,7 +371,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "By electing a BOD, stockholders have a say in the company's management but are not involved in the day-to-day details of its operations",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-26",
@@ -361,7 +386,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "A penny stock is an unlisted (not listed on a U.S. stock exchange) security offered at less than $5 per share.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-CE-27",
@@ -375,7 +401,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "The decision to pay a dividend rests with the BOD but is not guaranteed. The declaration to pay a dividend may or may not occur. When it does occur, the amount can decrease, increase, or remain unchanged from the previous dividend.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-CE-28",
@@ -389,7 +416,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Unsolicited transactions (those not recommended by the broker-dealer or registered representative) are exempt from the penny stock rules. Solicited transactions are nonexempt, and the rules therefore apply.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-29",
@@ -403,7 +431,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "While the potential to share in the company's profits by receiving dividends is considered one of the benefits of equity ownership, one of the risks is the possibility of dividend income decreasing or ceasing entirely. Dividends are not guaranteed in any way.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-CE-30",
@@ -417,7 +446,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Investors in common stock face market risk, in that the market value of the security may fall, and business difficulties may lead to possible reduction or elimination of the dividend—and even bankruptcy leading to loss of principal. If the firm is bankrupted, a company's debt and preferred shares are considered senior securities and will have residual rights to corporate assets upon dissolution prior to common shareholders. Interest rate risk applies to preferred shares, bonds, and other fixed-income securities, but common stock generally bears little risk due to fluctuations in interest rates.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-31",
@@ -431,7 +461,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Utility stocks generally pay quarterly dividends, whereas corporate and Treasury bonds pay interest semiannually. STRIPS pay at maturity.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-CE-32",
@@ -445,7 +476,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "A long-term capital gain would require a holding period of more than one year. Rights expire four–six weeks after issue, so this would not be possible.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "web-CE-33",
@@ -459,7 +491,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "The rule requires customer complaints to be kept on file for four years.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-CE-34",
@@ -473,7 +506,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Restricted securities are those acquired through some means other than a registered public offering. Securities purchased via a private placement are an example. These securities may not be sold (are restricted) until they have been held fully paid for six months.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-35",
@@ -487,7 +521,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Existing shareholders have what is known as a preemptive right, which is the right to maintain their proportionate share of ownership in the corporation if the company wants to issue additional shares.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-36",
@@ -501,7 +536,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "The declaration date is the day the board of directors meets to declare the dividend. The ex-dividend date is the first day that a purchaser of the stock is too late to get the dividend. The record date is the day the shareholder must be on the records of the company to receive the dividend, and the checks are mailed on the pay date.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-37",
@@ -515,7 +551,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "If a 10% or more interest is held by immediate family members, then all those family members owning voting stock are control persons. In this instance the combined ownership is more than 10% (2% + 9% = 11%).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-38",
@@ -529,7 +566,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Restricted securities may not be sold until they have been held fully paid for a period of six months. This applies to both affiliates and nonaffiliates, but affiliates would be subject to volume restrictions.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-39",
@@ -543,7 +581,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Established customers are exempt from the penny stock suitability statement requirement. An established customer is someone who has held an account with the broker-dealer for at least one year (and has made a deposit of funds or securities); or has made three purchases of qualifying penny stocks that occurred on separate days and involved different issuers. No one is exempt from the risk disclosure requirements.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "web-CE-40",
@@ -557,7 +596,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "The holding period rule applies only to unregistered stock, which may or may not be control stock. Unregistered stock results from either private placements or the exercise of a corporate stock option. Because this question asked which securities were not subject to the Rule 144 holding period, only stock acquired in the OTC market by a corporate affiliate is the correct answer. However, the affiliated person is subject to volume restrictions.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-41",
@@ -571,7 +611,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Control stock would be registered shares held by an affiliate. There is no holding period, but there will always be volume limits for as long as the individual is an affiliate.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-42",
@@ -585,7 +626,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Under penny stock rules, investors are established customers if they have deposited funds or securities in an account for at least one year before the penny stock transaction, or have purchased at least three different penny stocks from the same broker-dealer.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-43",
@@ -599,7 +641,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Common dividends may be declared, increased, reduced, or suspended at the discretion of the BOD. Shareholders have no vote on these dividend matters.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-CE-44",
@@ -613,7 +656,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "A rights certificate is a very short-term security that grants the holder the right to buy the common stock of the company at a price lower than the current market price. A warrant is a long-term security that grants its owner the right to purchase securities from the issuer at a specified price that is higher than the current market price at the time the warrants are issued and at some point, in the future. Note that while the exercise price is higher than the current market value when the warrants are issued, it is hoped that the exercise price will be below current market value when the warrants are eventually exercised.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-CE-45",
@@ -627,7 +671,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "A security with a termination, maturity, or expiration date that is one year or less from the date of issue is said to be short term. Rights offerings have a lifetime of four to six weeks, which makes them short term. If the end date is more than a year from the issue date, the security is long term. Warrants have expiration dates typically two to five years from the date of issue, which makes them long term.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-46",
@@ -641,7 +686,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Callable preferred is a benefit to the issuer—not the investor—so callable has to pay a higher dividend than the others because the other features are neutral or benefit the investor.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-47",
@@ -655,7 +701,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "ADRs are a type of equity security designed to simplify foreign investing for Americans. An ADR is created when shares are purchased in the foreign company's home market. These shares are then deposited in a foreign branch of a U.S. bank and a receipt (the ADR) is created. The ADR provides U.S. investors with a convenient way to diversify their holdings beyond domestic companies.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-48",
@@ -669,7 +716,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Stock rights, also known as preemptive rights or subscription rights, are issued to current stockholders in the event more stock is to be sold. This allows them to purchase the new stock at below the current market price for a period of four to six weeks before the stock is offered to the public. Hence, they are short term. Warrants may be issued at any time and allow the holder to purchase the stock at a price above the current market, for a period of typically two years or more. Hence, they are long term. The hope with warrants, of course, is that the market price will rise above the exercise price before the warrant expires.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-49",
@@ -683,7 +731,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Once an investor has received stock rights, the rights may be exercised in whole or in part, sold on the open market in whole or in part, allowed to expire in whole or in part, or some combination of these. The discount, however, stands as offered and may not be manipulated.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-50",
@@ -697,7 +746,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Preferred shareholders have no voting rights, nor do they have preemptive rights, which is the right to maintain the same percentage ownership in the corporation should additional shares be issued.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-51",
@@ -711,7 +761,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "ADRs are a type of equity security designed to simplify foreign investing for Americans. An ADR is created when common shares are purchased in the foreign company's home market. These shares are then deposited in a foreign branch of a U.S. bank and a receipt (the ADR) is created. The ADR trades in the U.S and is denominated in U.S. currency making the process of buying a foreign stock much easier for an American investor. ADRs are subject to U.S. securities regulations.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-52",
@@ -725,7 +776,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Remember that the fixed dividends received by preferred shareholders are a stated percentage of par value. Purchasing power risk is the possibility that the income produced via the fixed dividend received will not purchase as much in the future for preferred shareholders as it does today due to inflation.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-CE-53",
@@ -739,7 +791,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "When the BOD declares dividends, owners of preferred shares must be paid before any payment is made to common shareholders. This is known as the dividend preference allotted to preferred shareholders. There is no relationship between the amounts paid to preferred shareholders and common shareholders.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-CE-54",
@@ -753,7 +806,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Dividends paid to a U.S. investor may be subject to a withholding tax by the home country of the underlying foreign stock issuer. In many cases, the amount of tax withheld by the foreign government is applied as a credit against the investor's U.S. tax liability. Note: Any trading profits (capital gains) from the ADR would only be taxable here in the United States.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-55",
@@ -767,7 +821,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Preemptive rights entitle existing common stockholders to maintain their proportionate ownership shares in a company by buying newly issued shares before the company offers them to the general public. They are offered with an exercise price lower than the current market value and are issued (typically) for a period of four to six weeks (30–45 days). Existing shareholders who receive rights have three options: they may be exercised, sold in the secondary market, or allowed to expire at the end of their subscription.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-CE-56",
@@ -781,7 +836,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Adjustable rate preferred dividend resets when interest rates change so the price remains stable.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-57",
@@ -795,7 +851,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Control securities are those owned by directors, officers, or persons (which include corporations, trusts, etc.) who own or control 10% or more of the issuer's equity securities. Those persons who own 5% or more of the total beneficial interest of a company's common stock are not deemed control persons under this rule.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-58",
@@ -809,7 +866,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Although held fully paid for six months, the sales of these shares would be subject to volume restrictions for as long as this individual is an affiliate. If the individual was not an affiliate, the shares held fully paid for six months could now be sold completely unrestricted.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-59",
@@ -823,7 +881,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "ADRs facilitate the trading of foreign stocks in U.S. markets.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-60",
@@ -837,7 +896,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Because the dividend payment adjusts to current interest rates, the price of the stock remains relatively stable. In other words, it is the return that fluctuates rather than the price.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-61",
@@ -851,7 +911,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "ADRs are often listed on a securities exchange such as the NYSE or Nasdaq and trade throughout the day. Trades in these securities are dollar denominated. ADRs trade and settle in the same fashion as a traditional U.S.-based common stock.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-62",
@@ -865,7 +926,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Because it pays a fixed dividend, preferred stock is interest-rate sensitive. As rates rise, prices of preferred stocks tend to fall and vice versa.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-63",
@@ -879,7 +941,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Rule 144 allows an affiliate to sell the greater of 1% of the outstanding shares or the average of the last four weeks' trading volume with each Form 144 filing. The filing is good for 90 days (three months), which would allow for as many as four filings per year.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-64",
@@ -893,7 +956,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Rule 144 stipulates that after holding restricted stock fully paid for six months, an affiliate may begin selling shares but is subject to volume restrictions within any 90-day period.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-65",
@@ -907,7 +971,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Cumulative preferred stock accrues payments due its shareholders that have been missed in the event dividends are reduced or suspended.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-66",
@@ -921,7 +986,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "A preferred shareholders priority claim on assets is the preferred shareholders priority standing over common shareholders only. Employees of the corporation, debt (bond) holders and other creditors would all have claims on assets settled before preferred shareholders.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-67",
@@ -935,7 +1001,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "If a preferred stock is described as 4% preferred participating to 6%, the company pays its holders up to 2% in additional dividends in profitable years if the board of directors declares it.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-CE-68",
@@ -949,7 +1016,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Additional dividends in profitable years payable to participating preferred shareholders is at the direction of the BOD. Just as a dividend is declared, the BOD would declare any participating dividend to be paid.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-69",
@@ -963,7 +1031,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Priority at dissolution refers to the priority that preferred stockholders have over the claims of common stockholders on any assets remaining after creditors have been paid when assets are being liquidated.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-CE-70",
@@ -977,7 +1046,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Fixed-dollar investments, such as bonds and preferred stock, are subject to inflation risk, which is the risk that the fixed interest or dividend payments will be worth less over time in terms of purchasing power. The ability to convert to common stock, which tends to keep pace with inflation, offsets this risk.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-CE-71",
@@ -991,7 +1061,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "The conversion feature for preferred shares has fixed terms allowing the owner to convert the shares (exchange them) for a specified number of the same issuers common shares.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-72",
@@ -1005,7 +1076,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Any trading profits (capital gains) from an ADR would only be taxable here in the United States. A capital gain is the profit realized when buying then selling the shares. Remember, dividends paid to a U.S. investor may be subject to a withholding tax by the home country of the underlying foreign stock issuer. In many cases, the amount of tax withheld by the foreign government is applied as a credit against the investor's U.S. tax liability.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-73",
@@ -1019,7 +1091,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Which of the following securities is the underlying asset used to create an American depositary receipt (ADR)?",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-74",
@@ -1033,7 +1106,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "In addition to the fixed stated dividend, participating preferred stock offers its owners the possibility of receiving a share of corporate profits that remain after all dividends and interest due other securities are paid.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-75",
@@ -1047,7 +1121,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "For preferred shares, the annual dividend is stated as a percentage of par. In this case, 4% of par value of $60 equals $2.40.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-76",
@@ -1061,7 +1136,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "ADRs are issued and pay dividends in U.S. dollars eliminating the complications of currency conversion. However, ADRs are still subject to currency risk. Why? The company pays dividends in its home currency, and the issuing bank pays out those dividends in U.S. dollars. When the exchange rate changes, the amount these dividends (in U.S. dollar terms) will fluctuate as well. Also, the value of the ADR itself will rise and fall with the value of the underlying foreign stock which is partially due to currency swings.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-CE-77",
@@ -1075,7 +1151,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "The dividend on an adjustable-rate preferred stock is tied to a particular benchmark interest rate, and the Treasury bill rate is a common benchmark. The CPI, the PPI, and the DJIA are not interest rates.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-CE-78",
@@ -1089,7 +1166,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Preferred shares are equity securities, but not only do they have the characteristics of equity securities, they share some of the characteristics of debt securities as well. The most notable characteristic is that a preferred stock's annual dividend represents its fixed rate of return, like the fixed rate of return for a bond (debt security).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-79",
@@ -1103,7 +1181,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "When interest rates fall, callable preferred shares are likely to be called. This allows the issuer to cease the higher dividend payments and reissue shares with lower dividend payments that align more with the current interest-rate environment. With interest rates now at 3%, the issuer would have no desire to issue more 7% shares, nor could they reduce the fixed dividend on these 7% shares. If the shares were convertible, conversion would be at the discretion of the shareholders, not the issuer.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-80",
@@ -1117,7 +1196,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "When a corporation calls in preferred shares, the shares stop trading and dividend payments cease on the call date.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-81",
@@ -1131,7 +1211,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Separate categories of preferred shares may differ in several ways, including dividend rate and profit participation privileges. However, all maintain preference over common stock shares issued.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-82",
@@ -1145,7 +1226,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "A preferred stock dividend is stated as a percentage of its par value, which is assumed as $100 for preferred shares, unless it has been stated differently.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-83",
@@ -1159,7 +1241,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Capital markets are a source of financing for corporations, municipalities, and governments. Capital can be raised by issuing equities or debt and offering the securities to investors in an initial public offering (IPO) or an additional public offering (APO). Note that bonds might be issued by a municipality or the federal government to raise money, but corporations (as noted in this question) do not issue government bonds, either federal or municipal.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-84",
@@ -1173,7 +1256,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Issuers wanting relief (exemption) from the registration provisions of the Securities Act of 1933 can offer securities privately. These securities offerings are often called private placements.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-85",
@@ -1187,7 +1271,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "All types of financial assets and investment instruments are traded among buyers and sellers on securities exchanges. Stocks (equity securities), bonds (debt securities), options (derivative securities), currencies, and more are traded on exchanges and other securities markets every business day. Life insurance is not a security and may not be traded.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Options"
  },
  {
   "id": "web-CE-86",
@@ -1201,7 +1286,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "The primary market is where securities are sold to the investing public through issuer transactions. It is regulated by the Securities Act of 1933. The NYSE is an example of a secondary market where price is determined by supply and demand.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-CE-87",
@@ -1215,7 +1301,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "The primary market is where securities are sold to the investing public by the issuer wishing to raise capital. These are known as primary market or issuer transactions.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-CE-88",
@@ -1229,7 +1316,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Capital markets are a source of financing for corporations, municipalities, and governments.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-CE-89",
@@ -1243,7 +1331,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "The primary purpose of the Securities Act of 1933 is to require full and fair disclosure in connection with the sale of securities to the public.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-90",
@@ -1257,7 +1346,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "While a corporation can have only one IPO, there is no limit to the number of SPOs or APOs it can issue. IPOs, SPOs, and APOs are all primary offerings—those where the offering proceeds go to the issuer.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-91",
@@ -1271,7 +1361,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "While some new issues can be exempt from registration, the Securities Act of 1933 requires that a new issue, unless it is specifically exempted from the act, be registered with SEC before public sales can be made.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-92",
@@ -1285,7 +1376,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Institutional investors are the overwhelming majority of buyers in private placements, although private placement securities may be sold to small numbers of wealthy individuals who meet certain criteria (accredited investors).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-93",
@@ -1299,7 +1391,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Nonexempt securities are those that must be registered with the Securities and Exchange Commission (SEC) under the Securities Act of 1933. The Securities Act of 1933 mandates that offerings of these securities must be made by prospectus.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-94",
@@ -1313,7 +1406,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "The Securities and Exchange Commission (SEC) requires full and fair disclosure of all material information and facts regarding the issuance of securities. This disclosure is done via a prospectus, which is required to provide investors enough information to make fully informed buying decisions.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-95",
@@ -1327,7 +1421,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Equities (stocks), bonds, currencies, and derivative products like options can be offered and traded in the financial markets. Insurance is not an asset that can be traded in the financial markets.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Options"
  },
  {
   "id": "web-CE-96",
@@ -1341,7 +1436,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "The first time that a company issues shares to the public, it engages in an IPO. Later offerings are known as subsequent primary offerings (SPOs) or APOs. The IPO and any SPO or APO are all issuer transactions and are, therefore, done in the primary market.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-97",
@@ -1355,7 +1451,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "A primary offering is one in which the proceeds raised go to the issuing corporation, municipality, or government. The corporation in this case looks to increase its liquid capital by offering bonds. Primary offerings of bonds may be made by an issuer publicly, as is the case, or privately. This question points to an additional public offering (APO) of securities, not an initial public offering.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-98",
@@ -1369,7 +1466,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "The Exchange Act is the Securities Exchange Act of 1934 and covers the secondary markets. The Securities Act of 1933 covers the primary market and requires full and fair disclosure on new issues by providing a prospectus to the investor.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-99",
@@ -1383,7 +1481,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Restricted persons include Financial Industry Regulatory Authority (FINRA) member firms and their associated persons, such as a salesperson working for an underwriter, plus immediate family members. Immediate family members do not include aunts and uncles or grandparents.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-100",
@@ -1397,7 +1496,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Persons characterized as restricted persons are prohibited from purchasing shares of new issues in any quantity. If one is already restricted, working for a bank or a broker-dealer does not exempt them from the rule.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-101",
@@ -1411,7 +1511,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Working for a broker-dealer, the registered representative is considered restricted. While grandparents of restricted persons are generally not considered restricted, anyone being provided financial support and/or living under the same roof as a restricted person (as is the case here) is also restricted.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-102",
@@ -1425,7 +1526,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "The Securities Act of 1933 (also known as the Paper Act, Full Disclosure Act, New Issues Act, Truth in Securities Act, and Prospectus Act) ensures that the investing public is fully informed about a security and its issuer when the security is offered on the primary market. The act provides criminal penalties for fraud in the issuance of new securities. The SEC review period, known as the cooling-off period, must last a minimum of 20 days before the SEC releases the securities for sale to the public (effective date). Solicitations and the acceptance of orders may never occur before the effective date.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-103",
@@ -1439,7 +1541,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "No rule limits the number of shares that an issuer can direct to persons who are employees of the issuer.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-104",
@@ -1453,7 +1556,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "The Securities Act of 1933 permits issuers to quickly raise money in the capital markets when needed or when market conditions are just right. For example, if a company files a shelf registration statement with the Commission, there is no intention to immediately sell the securities. However, when the right time arrives—either interest rates are at a likely low point or funds are needed to complete a project—the company can in essence, take the securities from the shelf without the delay of registering with the Securities and Exchange Commission (SEC), as that has already been done. Shelf registration (shelf offering) is available for both primary and secondary offerings.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-105",
@@ -1467,7 +1571,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "During the cooling off period, sales are not allowed.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-106",
@@ -1481,7 +1586,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "No selling or soliciting is allowed during the cooling off period. Distributing a red herring (a preliminary prospectus) is allowed.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-107",
@@ -1495,7 +1601,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "In capital markets, both public and private sectors sell securities in order to raise funds. These securities can be bought and sold (traded) in the capital markets by individuals and institutions alike.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-108",
@@ -1509,7 +1616,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Under the rules regarding the purchase of new issues, bank officers would generally be characterized as restricted persons. They may not, therefore, purchase new issues.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-109",
@@ -1523,7 +1631,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "As restricted persons, officers of broker-dealer firms or other institutional investors are prohibited from purchasing a new issue (IPO) at the public offering price.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-110",
@@ -1537,7 +1646,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "In the primary market, the issuer of the securities receives the proceeds generated by the sale of the securities. In the secondary markets, such as an exchange or over-the-counter (OTC) securities trade between investors, one sells securities to another, and the issuer is not involved in the transaction.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-CE-111",
@@ -1551,7 +1661,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "In a public offering, securities are offered and sold to the investing public. Public offerings of securities are regulated under the Securities Act of 1933.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-112",
@@ -1565,7 +1676,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "The Securities Act of 1933, also known as the Paper Act or Prospectus Act, is the bedrock of all modern securities law. It requires issuers looking to make a public offering of securities to provide full and fair disclosure of all material facts about the company and the securities being offered. The company does this by registering its securities with the U.S. Securities and Exchange Commission (SEC), often with the aid of accountancy firms, securities attorneys, and underwriters. Part of the registration process for newly offered securities is the publishing of a prospectus which all prospective investors must receive at or prior to purchase.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-113",
@@ -1579,7 +1691,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "The primary market, regulated by the 1933 Securities Act, is where securities are offered by issuers (issuer transactions) at an offering price. The sales proceeds of these transactions go to the issuer.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-CE-114",
@@ -1593,7 +1706,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "A prospectus will not contain performance predictions, may not imply endorsement of the SEC, nor will it contain guarantees of gains or guarantees against loss.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-115",
@@ -1607,7 +1721,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Rules prohibit member firms from selling public offering stock in equities to any account in which restricted persons are beneficial owners. Restricted persons include Financial Industry Regulatory Authority (FINRA) members, employees of member firms, finders and fiduciaries acting on behalf of the underwriters, portfolio managers, and any person owning 10% or more of a member firm. Also included are the immediate family members of any restricted persons.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-116",
@@ -1621,7 +1736,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Both stocks and bonds can be made available to the investing public through an offering. Different types of offerings are identified by who is selling the securities—an issuer or another investor. Securities offered by corporations for sale to the investing public are sold to investors through either public or private securities offerings.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "web-CE-117",
@@ -1635,7 +1751,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "The Securities Act of 1933, is also known as the Paper Act, Prospectus Act, or New Issues Act. This federal law requires that issuers who want to raise capital by making a public offering of securities to the public, provide full and fair disclosure of all material facts about the company and the securities being offered.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-118",
@@ -1649,7 +1766,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Companies looking to offer securities to the public must provide a prospectus to those who are approached to purchase the shares. This requirement ensures that the investing public is fully informed about a new security and its issuing company.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-119",
@@ -1663,7 +1781,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "The Securities Act of 1933 requires the registration of most new issues; the Securities Exchange Act of 1934 created the SEC; the Securities Investor Protection Act of 1970 created the SIPC; the Securities Market Improvement Act of 1975 created the MSRB.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-120",
@@ -1677,7 +1796,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "A preliminary prospectus cannot be distributed before the registration date. Between the registration and effective dates, it is used to solicit or gauge indications of interest. After the effective date, sales can be solicited and a final prospectus would be available and must be used to do so.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-121",
@@ -1691,7 +1811,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "No offer to sell can be made with a tombstone announcement. A tombstone is just information that an offer is coming to the market.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-122",
@@ -1705,7 +1826,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "An indication of interest given by an investor during the cooling-off period is the investor's declaration of a nonbinding potential interest to purchase some of the issue after the security comes out of registration (after the effective date).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-123",
@@ -1719,7 +1841,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "While underwriters (broker-dealers and investment bankers) may assist the issuer in preparing and filing the registration statement, the accuracy and adequacy of the registration documents is the responsibility of the issuer. Full disclosure is also made on a number of issues, including but not limited to names and addresses of company officers and a description of how the sale proceeds will be used.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-124",
@@ -1733,7 +1856,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Commonly known as the Securities and Exchange Commission's disclaimer, the SEC mandates that it be found in the final prospectus.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Communications with the Public"
  },
  {
   "id": "web-CE-125",
@@ -1747,7 +1871,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "A preliminary prospectus is also known as a red herring. The red herring does not include key information about the issue such as price and the number of shares offered. The term is derived from the disclaimer printed in red on the cover page.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Communications with the Public"
  },
  {
   "id": "web-CE-126",
@@ -1761,7 +1886,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "The preliminary prospectus (red herring) is a prospecting tool used to gauge indications of interest. It is made available to those who request it between the registration date and the effective date (cooling-off period). Receiving it is not a commitment to purchase shares and making it available is not a commitment to sell shares to the recipient. No final price would be found on a preliminary prospectus.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-127",
@@ -1775,7 +1901,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Information on a tombstone, those advertisements allowed to be placed prior to the effective date, is limited to; name of issuer, type of security, number of shares to be sold, public offering price or expected range, and names of the underwriters or group.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Communications with the Public"
  },
  {
   "id": "web-CE-128",
@@ -1789,7 +1916,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "The agreement among underwriters is not a part of a prospectus.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-129",
@@ -1803,7 +1931,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Restricted persons will be able to have an interest in an account (one that is not wholly their own) that purchases new equity issues as long as no more than 10% of the account's beneficial owners are restricted persons.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-CE-130",
@@ -1817,7 +1946,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "A follow-on public offer (FPO) is an issue of shares by a public company [registered and reporting to the Securities and Exchange Commission (SEC)] that is currently listed on an exchange and has previously gone through the IPO process. FPOs are popular methods for companies to raise additional equity capital in the capital markets through a stock issue.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-131",
@@ -1831,7 +1961,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "A primary corporate offering is one in which the proceeds raised go to the issuing corporation. Primary offerings of bonds may be made by an issuer to the general public as an initial public offering (IPO) or, as is the case here, in an additional public offering (APO). Both are primary offerings.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-132",
@@ -1845,7 +1976,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Public securities offerings must be registered under the Securities Act of 1933. These would include IPOs, APOs, and shelf offerings. Issuers choosing to offer securities privately may find relief (are exempt) from the registration provisions of the Securities Act of 1933.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-133",
@@ -1859,7 +1991,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Licensing of individuals associated with broker-dealers is mandated under the Securities Exchange Act of 1934. The Securities Act of 1933 protects investors who buy new issues regulating, among other things, registration of new issues, underwriting, full disclosure, and the potential for fraud in the issuance of securities.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-134",
@@ -1873,7 +2006,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Rules regarding restricted persons define immediate family as spouses, parents, siblings, in-laws, and children. Aunts and uncles and grandparents are excluded (not considered immediate family).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "web-CE-135",
@@ -1887,7 +2021,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "In a split offering, shares are sold to the public. These shares come from both the corporation (issuer) and existing shareholders. These offers are also called combination offers.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-136",
@@ -1901,7 +2036,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "The issuance of stock or bonds by corporations to raise new funds takes place in the capital market.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-CE-137",
@@ -1915,7 +2051,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Immediate family to a restricted person is a restricted person. This includes parents, in-laws, spouses, siblings, children, or any other individual to whom the person provides material support. Aunts and uncles as well as grandparents are not considered immediate family. If, however, one of these individuals lives in the same household as a restricted person, that individual would be a restricted person.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-138",
@@ -1929,7 +2066,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "A corporation's bylaws state the maximum number of shares authorized to be issued. Therefore, issued shares, those in the hands of public shareholders (outstanding shares) can never exceed the number of shares that were authorized. While those outstanding shares can therefore never be greater than the number of shares issued they could equal the number of shares issued.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-139",
@@ -1943,7 +2081,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Because the restricted person's interest in the club's brokerage account does not exceed 10%, the investment club account is not considered a restricted account. If not restricted, the club can purchase shares of an equity issue at the public offering price if it chooses to.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-140",
@@ -1957,7 +2096,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "When the issuer submits the corrections necessary to satisfy the deficiency letter, the 20-day cooling-off period picks up where it left off; in this case, from six days, which means that the issue should be effective 14 days later.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-141",
@@ -1971,7 +2111,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "While any inherent risks associated with the issuer or the securities the issuer is offering would be expected to be shown in a prospectus, they would not be expected to be found nor is it required that they be shown in a tombstone advertisement. Each of the remaining answer choices shows information expected to be shown in these ads.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Communications with the Public"
  },
  {
   "id": "web-CE-142",
@@ -1985,7 +2126,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Brokerage reports may not be distributed while a security is in registration. Expected dates for pricing and road shows (due diligence meetings) may be communicated to potential buyers. The underwriters are named in the issue's registration statement.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-143",
@@ -1999,7 +2141,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "The SEC neither approves nor disapproves a final prospectus; they allow the issue to become effective. Beware of any approval language when referring to a regulator.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-144",
@@ -2013,7 +2156,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "The SEC neither approves nor disapproves a final prospectus; they allow the issue to become effective. Beware of any approval language when referring to a regulator.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-145",
@@ -2027,7 +2171,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Purchases and sales that are unsolicited (unsolicited transactions) are exempt under the blue-sky (state securities) laws. Municipal bonds and U.S. government bonds are examples of exempt securities, not transactions.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-146",
@@ -2041,7 +2186,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "The Securities Act of 1933, which provides for criminal penalties for fraud in the issuance of new securities, ensures that investors are fully informed about a security and its issuer when the security is offered to the public. The SEC review or cooling-off period must last a minimum of 20 days before the SEC releases the securities for sale to the public (effective date). Solicitations and the acceptance of orders may never occur before the effective date.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-147",
@@ -2055,7 +2201,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "The SEC does not verify the adequacy or accuracy of any information found in the prospectus. To the contrary, the prospectus will contain the SEC disclaimer which reads: \"These securities have not been approved or disapproved by the SEC nor have any representations been made about the accuracy or the adequacy of the information.\"",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-148",
@@ -2069,7 +2216,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Beyond physical delivery of a paper prospectus, access equals delivery is the industry standard for meeting the final prospectus delivery requirements. It is deemed to be satisfied when the final prospectus has been filed with the SEC and is therefore available on the SEC's website for investors to log in and see. This standard does not apply to delivery of a preliminary prospectus before the effective date.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-149",
@@ -2083,7 +2231,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "In a firm commitment underwriters contract with the issuer to buy its securities, acting as principals rather than agents. They are committing to purchase any unsold shares for the syndicate account. In this type of underwriting, it is the underwriters who are at risk for any shares they cannot sell to the public, not the issuer. The issuer knows that ultimately all of the securities will be sold, and all of the capital needed will be raised.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-150",
@@ -2097,7 +2246,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "A syndicate is two or more broker-dealers (investment bankers) which work with an issuer through, for example, the registration process in the case of corporate securities and bring the issuer's securities to the market by selling them to investors. There are syndicates that specialize in underwriting municipal bonds. The members of a syndicate are also known as the underwriters or collectively the underwriting group.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-151",
@@ -2111,7 +2261,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Tombstone ads are the only form of advertising that is permitted from the time the registration statement is filed with the Securities and Exchange Commission (SEC) and the effective date of the offering. While they are not mandatory for new issues, they can be used as an announcement and description of the securities to be offered, showing only minimal information. They are not an offer to sell the securities.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Communications with the Public"
  },
  {
   "id": "web-CE-152",
@@ -2125,7 +2276,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "In a firm commitment, the underwriter buys the entire offer into inventory and then redistributes it to the public.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-153",
@@ -2139,7 +2291,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "In a split offering, shares are issued to the public. These shares come from both the corporation and existing shareholders—hence the split.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-154",
@@ -2153,7 +2306,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "When receiving an order to buy a new equity issue, a member must obtain a written representation that purchasers are in compliance with rules regarding sales of new issues to restricted persons (i.e., they are not restricted persons).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-155",
@@ -2167,7 +2321,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "A mini-max offering is a best efforts underwriting setting a floor or minimum, which is the least amount the issuer needs to raise in order to move forward with the underwriting, and a ceiling or maximum on the dollar amount of securities the issuer is willing to sell.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-156",
@@ -2181,7 +2336,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "In capital markets, both public and private sectors sell securities (stocks and bonds) to raise funds to finance both long-and short-term initiatives. Both individuals and institutions can trade securities in these markets.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-157",
@@ -2195,7 +2351,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "A municipal advisor is a person that provides advice to or on behalf of a municipal entity with respect to municipal products or the issuance of municipal securities.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-CE-158",
@@ -2209,7 +2366,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "An accredited investor is defined as a natural person who has a net worth of $1 million or more, not including net equity in a primary residence; or has had an annual income of $200,000 or more in each of the two most recent years (or $300,000 jointly with a spouse) and who has a reasonable expectation of reaching the same income level during the current year.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-159",
@@ -2223,7 +2381,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "In an AON underwriting, the issuing company has determined that it wants the underwriter to sell all of the shares required to raise all of the capital needed or cancel the underwriting. Because of the uncertainty over the outcome of an AON offering, any funds collected from investors during the offering period must be held in escrow pending final disposition of the underwriting.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-160",
@@ -2237,7 +2396,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "A broker-dealer (investment banker) that works with an issuer to bring the issuer's securities to the market by offering the securities for sale to investors is best described in this context as an underwriter.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-161",
@@ -2251,7 +2411,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "When an issuer is selling its securities, that is a primary market transaction.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-CE-162",
@@ -2265,7 +2426,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "A municipal advisor acts under contract with a municipality, providing advice on the structure and sale of the municipality's securities. A municipal advisor may not switch from that role to the role of an underwriter on an issue the advisor has consulted on.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-163",
@@ -2279,7 +2441,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "The access equals delivery rule applies to the final prospectus and aftermarket prospectus delivery obligations. It does not apply to preliminary prospectuses. No prospectus can be delivered before the registration date.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-164",
@@ -2293,7 +2456,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Market makers are broker-dealers who sell out of their own account in the secondary market. Underwriters are broker-dealers who help issuers bring their securities to market in the primary market.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-165",
@@ -2307,7 +2471,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "In a best efforts underwriting the underwriters (syndicate) buy securities from the issuer acting simply as an agent, not as principal. This means that the underwriter is not committed to purchasing the shares and is therefore not at risk. The underwriter acts as an agent contingent on its ability to sell shares in either a public offering or a private placement.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-166",
@@ -2321,7 +2486,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Sales can only be solicited after the cooling-off period (upon the effective date). Solicitations of all sales must be done with a final prospectus.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-167",
@@ -2335,7 +2501,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "The effective date is when the SEC clears an issue to be sold to the public; the registration becomes effective. At no time does the SEC approve, disapprove, or make any representation that the information in the registration documents is accurate.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-168",
@@ -2349,7 +2516,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "The Securities Act of 1933 is also known as the Prospectus Act. With limited exceptions, companies looking to offer securities to the public must provide a prospectus to those who are approached about purchasing those securities. A prospectus is a disclosure document that provides key information about the company.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-169",
@@ -2363,7 +2531,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "A prospectus is a disclosure document meant for distribution to the public. It must constitute full and fair disclosure of all material facts about the issuer and the security. Only a preliminary prospectus or tombstone ads can be used during the cooling-off period.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-170",
@@ -2377,7 +2546,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "The preliminary prospectus (red herring) can be used as a prospecting tool, allowing issuers and underwriters to gather nonbinding indications of interest. It must be made available and is intended to be distributed to any customer who expresses interest in the securities during the cooling-off period. There is no final price shown in a preliminary prospectus.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-171",
@@ -2391,7 +2561,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "These are state laws that pertain to the issuance and trading of securities within that state. They are known as blue-sky laws because of a statement made by a Kansas Supreme Court justice who referred to \"speculative schemes that have no more basis than so many feet of blue sky.\"",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-172",
@@ -2405,7 +2576,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Tombstone advertisements can be placed by either the issuer or the underwriters and are the only ads that can be placed before the registration's effective date. They are not an offer or solicitation to sell the securities.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Communications with the Public"
  },
  {
   "id": "web-CE-173",
@@ -2419,7 +2591,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "The time between the registration filing date with the SEC and the effective date is known as the cooling-off period. During this time, a preliminary prospectus may be distributed to gauge investor interest but no offers to sell the securities can be made and no orders to purchase the securities can be taken. While a preliminary prospectus and tombstone ad can be used, sales and advertising literature specific to the securities cannot be.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Communications with the Public"
  },
  {
   "id": "web-CE-174",
@@ -2433,7 +2606,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Sell limit orders are placed above the current market price and fill at the stated price or higher. Market orders fill at the next available price. Sell stop and sell stop limit orders are not triggered until the market drops to or through the stop price.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-175",
@@ -2447,7 +2621,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Market orders carry the idea of immediate execution at the best available price. A market order to buy would require execution at the lowest available price.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-176",
@@ -2461,7 +2636,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Sell stop orders are placed below the current market price and become market orders once the price touches or passes through the stop price.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-177",
@@ -2475,7 +2651,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Because Anderson already owns the stock, this would be a closing transaction, and because she is bearish it would be a sell.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-178",
@@ -2489,7 +2666,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "A buy stop order becomes a market order and fills at the next available price once it touches or passes through the stop price.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-179",
@@ -2503,7 +2681,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Because there are no other positions, this would be an opening transaction and selling the stock would be bearish.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "web-CE-180",
@@ -2517,7 +2696,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Market orders can be either directions to buy or sell and are executed at the next available price. Market orders have no limits regarding price paid (buy) or received (sell).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-181",
@@ -2531,7 +2711,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "All GTC orders if unexecuted will be automatically canceled on the last business day of April and the last business day of October. If the customer wishes to have the order continue working beyond that date, it must be reentered after the automatic cancelation.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-182",
@@ -2545,7 +2726,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Good 'til canceled orders historically have been canceled at the end of April and October. Some firms will cancel them more frequently, but for the order to stay in effect longer than six months, the customer would need to reinstate or reconfirm the order.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-CE-183",
@@ -2559,7 +2741,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Buying to close will eliminate his existing position, but if he now wants to engage in a bullish strategy on LMN, he would need to buy additional shares.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-184",
@@ -2573,7 +2756,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Market order always get the next available price, regardless of if it is a buy or sell and regardless of price.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-185",
@@ -2587,7 +2771,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Good 'til canceled orders historically have been canceled at the end of April and October. Some firms will cancel them more frequently, but for the order to stay in effect longer than six months, the customer would need to reinstate the order.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-CE-186",
@@ -2601,7 +2786,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "This is according to a FINRA rule.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-187",
@@ -2615,7 +2801,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "The size of a quote is the number of shares a dealer has available to trade or is willing to buy at the quoted price.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-CE-188",
@@ -2629,7 +2816,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "GTC orders are valid until executed or canceled. Any GTC orders left unexecuted are automatically canceled on the last business day of April and the last business day of October. If the customer wishes to have the order remain working beyond those specific days, the customer must reenter the order.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-189",
@@ -2643,7 +2831,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Customers can purchase at the offer (the lowest price someone else is willing to sell) and sell at the bid (the most someone else is willing to sell). With this in mind, the customer can buy up to 1,200 shares at $17.25 or sell up to 600 shares at $17.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-CE-190",
@@ -2657,7 +2846,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "FINRA and the SEC do not set prices; broker-dealers post their own prices. The broker-dealer buys at the bid and sells at the ask. The customer buys at the ask and sells at the bid.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-CE-191",
@@ -2671,7 +2861,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "SIE Domain 3 (Quiz 1): Understanding Trading, Customer Accounts, and Prohibited Activities",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-CE-192",
@@ -2685,7 +2876,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Earned income includes wages, salary, tips, bonuses, and income from active participation in a trade or business.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-CE-193",
@@ -2699,7 +2891,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Investment income is that which is earned from one's investments. Sometimes called portfolio income, it would include dividends, interest, and short term capital gains derived from the sale of securities. Investment income is included in ordinary income for income tax purposes. Long-term capital gains are taxed at the capital gains tax rate.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "web-CE-194",
@@ -2713,7 +2906,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Signing and returning proxy statements to a broker-dealer for stock held in street name is enough to get the shares voted as recommended by the issuer's management, as long as the broker-dealer receives the statements by the tenth day before a shareholders' meeting. If the shares are to be voted in some other way, the investor must specify the desired changes.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-CE-195",
@@ -2727,7 +2921,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Because the customer ended up owning more shares, the split must have been a forward split. Because the number of shares was increased by an integral factor (three in this case) the split was an even split. Three shares were received for every one previously owned.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-CE-196",
@@ -2741,7 +2936,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Because McCann has no existing position, this would be an opening transaction, and if bullish on the stock it, would be a purchase.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "web-CE-197",
@@ -2755,7 +2951,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Good 'til canceled orders historically have been canceled the end of April and October. Some firms will cancel them more frequently, but for the order to stay in effect longer than six months, the customer would need to reinstate the order.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-CE-198",
@@ -2769,7 +2966,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Buy limit orders are placed below the current market price and fill at the stated price or lower.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-199",
@@ -2783,7 +2981,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Most voting shareholders choose not to undertake the travel, expense, inconvenience, and time away required to attend a shareholders' meeting. Having someone else vote the shares is called voting by proxy and is a way to stay at home but still have a voice in crucial corporate decisions.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "web-CE-200",
@@ -2797,7 +2996,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Scheduled, common events such as dividend declarations, issuance of rights and warrants, and forward and reverse stock splits are accompanied by standardized adjustment of the stock's cost base. Unique events such as corporate mergers, takeovers and spin-offs are dealt with in a nonstandardized case-by-case manner that depends on the individual circumstances. Ideally, the outcome is what is best for the stockholder and the company.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-CE-201",
@@ -2811,7 +3011,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "When selling short, an investor is opening a position (a short position). Selling short means selling shares not yet owned. In order to do so, the shares must be borrowed first.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-202",
@@ -2825,7 +3026,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "In order to open a position with a short sale, the shares to be sold must be borrowed or located to be borrowed first. Not doing so is known as selling short naked (naked short sale) and is prohibited.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-203",
@@ -2839,7 +3041,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Short sales involve selling shares not yet owned. This is permitted. When selling short, investors are borrowing the shares to be sold, which must be replaced later by buying them. Investors who sell short are bearish, hoping the shares go down in value so that they can be purchased later at a lower price than they were initially sold for.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-204",
@@ -2853,7 +3056,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "A quote consists of a bid and an ask price. Dealers post their bid price—the price they are willing to pay for a stock—and their ask price—the price at which they are willing to sell the stock. The spread is the difference between the two.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "web-CE-205",
@@ -2867,7 +3071,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Owning a security means that one is long the position. When one is long (owns) the security, the person is bullish, anticipating it will go up in value in the hopes of selling it later at a higher price than it was purchased for.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-CE-206",
@@ -2881,7 +3086,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "An opening transaction can be either a buy or a sell. Which one will determine the investor's market attitude—bullish when buying to open a position and bearish when selling to open a position (selling short).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-207",
@@ -2895,7 +3101,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "The spread is what a dealer makes as a markup when he sells from his inventory if he buys at the bid and sells at the ask. A commission is charged in an agency transaction.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-208",
@@ -2909,7 +3116,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "With no other existing positions, this sale transaction would have to be opening a position. Sell to open a position = short = bearish.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-209",
@@ -2923,7 +3131,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "In order to eliminate a position, long or short, the investor always takes an action opposite that of the one that began (opened) the position. Therefore, we always close the position with a closing order. In the case of a short position, we began with a sale, so we close with a purchase of the same security that was initially sold short—in this case, 500 shares of JKH.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-210",
@@ -2937,7 +3146,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Bullish, anticipating that the security's price will rise, is associated with owning the security—having a long position. Therefore, owning securities that can be converted into the stock, such as being long calls, rights, or warrants, would also be considered bullish positions.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-211",
@@ -2951,7 +3161,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Meeting the location requirements and the borrowing of securities is done by the back office of the broker-dealer on behalf of the short-selling customer. Meeting these requirements is not something the short-selling customer would undertake without a broker-dealer.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-CE-212",
@@ -2965,7 +3176,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Short against the box is when a customer owns the shares she wants to sell, but borrows some additional shares, sells the borrowed shares, and then covers the short position with shares already owned. Historically it was a tax strategy, but it doesn't work as well anymore with the tax law change. There is no loss potential. Buying to open can cause a loss of the amount invested; selling short has unlimited loss potential.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-213",
@@ -2979,7 +3191,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "When a liquid market exists, buy or sell market orders are executed at the best available price immediately.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-214",
@@ -2993,7 +3206,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "A closing transaction can be either a buy or a sell, depending on what the opening (initial) transaction was. The closing transaction will always be the opposite of the opening one—buy to open, sell to close or sell to open, buy to close.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-215",
@@ -3007,7 +3221,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Selling short requires borrowing or locating the shares to be borrowed first. These shares, because they have already been located to be borrowed, are known to be covered.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-216",
@@ -3021,7 +3236,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "When a customer owns a position and then sells that position, that is referred to as selling long or selling to close.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-217",
@@ -3035,7 +3251,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "A customer who is short against the box owns the stock he shorted. As a result, the customer may use his owned stock to cover the short position, buy back the short position in the open market, or any combination of the two. The customer cannot simply deposit funds into his account.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-218",
@@ -3049,7 +3266,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "As a common stockholder, an investor cannot lose more than she invested.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-219",
@@ -3063,7 +3281,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Going long a security means that it was purchased. If a position was opened by purchasing the security, it would be closed by selling it.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-220",
@@ -3077,7 +3296,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Quickly repurchasing a security that was just sold for a loss is recognized as having the intention to take advantage of the loss for tax purposes but not lose the income or potential for future gains from the security. This is known as a wash sale and taking the loss is prohibited. For the loss to be allowed, the investor must wait at least 30 days before repurchase. Matched orders, pegging, and supporting are all prohibited activities meant to manipulate stock prices.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "web-CE-221",
@@ -3091,7 +3311,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Regulation SHO requires that prior to executing any short sale, the broker-dealer must locate the shares borrowed. Shorting stock uncovered is a violation of Regulation SHO and may result in disciplinary action against the member firm.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-222",
@@ -3105,7 +3326,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Gains gotten from the sale of securities is an example of capital gains for tax purposes. All the others are considered ordinary income.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-223",
@@ -3119,7 +3341,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "When a customer is bullish, the customer expects the price to go up. Because trades are profitable when purchases are made at low prices and sales are made when prices are high, a customer would want to buy ABC long. Buying stock short is not a real trading strategy.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-CE-224",
@@ -3133,7 +3356,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Short against the box is when a customer owns the shares she wants to sell but borrows some additional shares, sells the borrowed shares, and then covers the short position with shares already owned. Historically it was a tax strategy, but it doesn't work as well anymore with the tax law change. There is no loss potential. Buying to open can cause a loss of the amount invested; selling short and selling to open have unlimited loss potential.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-225",
@@ -3147,7 +3371,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Short sellers are bearish—wanting to see the stock go down in value. Because stock could only go down as far as zero, the profit for a short seller is limited to the difference between the price the stock was shorted at and zero. By contrast, the risk for a short seller is that the stock goes up in value and there is no limit to how high the stock might rise, giving the short seller potentially unlimited losses.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Investment Risks"
  },
  {
   "id": "web-CE-226",
@@ -3161,7 +3386,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "To close a short position consisting of 1,000 shares of CDT stock, one would need to purchase 1,000 shares—buy 1,000 shares of CDT. Buying the call options would not close the position, but once owned, they could be exercised with the purchased shares then used to close the short position.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Options"
  },
  {
   "id": "web-CE-227",
@@ -3175,7 +3401,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "For an investor with a long stock position, the risk is that the stock falls in value. Maximum loss occurs at zero and is therefore limited to the amount paid for the stock when purchased.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Investment Risks"
  },
  {
   "id": "web-CE-228",
@@ -3189,7 +3416,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "When a client owns a stock and wants to get out of that position, he should sell the stock in a closing transaction.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-229",
@@ -3203,7 +3431,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "or loss Because we do not know if the opening transaction was a buy or a sell from what we are told, this could be either a 2-point gain or loss. If the opening transaction was a buy, this represents a gain (bought at 45, sold at 47). But if the opening transaction was a sell, this represents a 2-point loss (sold at 45, bought back at 47).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-CE-230",
@@ -3217,7 +3446,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "A transaction initiated by an agent or registered representative is known as a solicited transaction. Unsolicited transactions are those initiated by the customer. Order tickets should always be marked solicited or unsolicited.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-231",
@@ -3231,7 +3461,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "When selling short (selling to open), shares must be borrowed from the dealer. The dealer finding those shares that can be loaned to the seller is part of the locate requirement.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-232",
@@ -3245,7 +3476,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "A fiduciary is expected to place the interest of the beneficial owner first and is morally and legally responsible for acting in that capacity.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-CE-233",
@@ -3259,7 +3491,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "For a trade to be unsolicited, the client would need to specifically identify the bonds he wanted to purchase; instead the registered representative is the one who recommended these bonds, making the trade solicited. Suitability must be determined on solicited trades.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-234",
@@ -3273,7 +3506,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "In a nondiscretionary account no order can be entered without the customer's prior approval. In a discretionary account the customer's prior approval is not required. Only the customer can decide if the account should be a discretionary one and grants that discretion with a limited power of attorney giving trading authorization to the registered representative. Even in a discretionary account the customer may still enter their own orders.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-235",
@@ -3287,7 +3521,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Discretion is defined as the authority to decide, what security, the number of shares or units, and whether to buy or sell. Discretion does not apply to decisions regarding only the timing of an investment or the price at which it is bought or sold.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-236",
@@ -3301,7 +3536,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "With a discretionary account the customer can continue to enter orders themselves. A trading authorization or limited power of attorney, not full power of attorney is required. The customer is bound to accept all trades done by the party given the discretion and churning, trades done only for the purpose of generating commissions, is never permitted.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "web-CE-237",
@@ -3315,7 +3551,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "The SEC and FINRA do not approve accounts. Approval of the trade is required promptly afterwards by a principal, not before.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "web-CE-238",
@@ -3329,7 +3566,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "The customer, independent of the registered representative, placed the order, making it unsolicited. While the rep did advise on what an appropriate limit price would be, the customer ultimately placed the order instructions with the limit, and would not be considered discretionary.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-239",
@@ -3343,7 +3581,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Each discretionary order must be identified as such at the time it is entered for execution, a principal, officer or a partner of the BROKER-DEALER must approve each order promptly and in writing, but not necessarily before order entry, a record must be kept of all transactions including discretionary ones, and as with all trading activity, it is subject to frequent and systematic review by a designated supervisor or manager.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "web-CE-240",
@@ -3357,7 +3596,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "FINRA approval is not required for opening accounts.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "web-CE-241",
@@ -3371,7 +3611,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Since May 28, 2024, regular-way settlement for most securities — including agency mortgage-backed securities like GNMA certificates — is T+1 (one business day after trade date).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-242",
@@ -3385,7 +3626,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Cash settlement is same day settlement.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-243",
@@ -3399,7 +3641,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "plus 1 business day U.S. government (Treasury) securities settle T+1 (next business day). Since May 28, 2024, the standard regular-way cycle for stocks and most bonds is also T+1.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-244",
@@ -3413,7 +3656,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "To make settlement, good delivery must be made. Good delivery means that all the conditions of the contract have been met.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-245",
@@ -3427,7 +3671,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "If both parties to the trade agree, and if the buyer has the cash on hand and the seller has the securities on hand, trade and settlement can take place on the same day. This is known as cash settlement.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-246",
@@ -3441,7 +3686,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Since the mid-1980s, all government securities have been in electronic form. All of the paper certificates have matured. Historically, corporate securities were issued in paper form and some still exist, but most of the bonds have matured that were issued in physical form. Some investors still hold paper stock certificates. Virtually all new securities are now issued in electronic form (book entry).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-247",
@@ -3455,7 +3701,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "When securities transactions occur, ownership changes hands between the two parties on the settlement date.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-248",
@@ -3469,7 +3716,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "plus 1 business day Since May 28, 2024, regular-way settlement for common stock is T+1 (one business day after the trade date).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-249",
@@ -3483,7 +3731,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "In order to avoid violating the wash sale rule, investors selling a stock at a loss cannot purchase that same, or substantially identical, security within a 30-day period before or after the sale incurring the loss. Substantially identical would include anything that is exercisable or convertible into the same shares of stock, such as rights, warrants, call options, or a convertible bond. Purchasing the put options would not violate the wash sale rule because these can be exercised to sell the stock, not purchase it.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Options"
  },
  {
   "id": "web-CE-250",
@@ -3497,7 +3746,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Maintained by MSCI Inc., the Europe, Australasia, and Far East (EAFE) Index is designed to track equity markets of developed economies, excluding the United States and Canada.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-CE-251",
@@ -3511,7 +3761,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Application for FINRA membership carries the applying firm's specific agreement to comply with the association's rules and regulations, comply with federal securities law, and pay dues and assessments to FINRA.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-252",
@@ -3525,7 +3776,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Though the new employee furnishes most of the information contained in Form U-4, it is the responsibility of the employing firm to arrange for the information to be placed on the form and filed.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-253",
@@ -3539,7 +3791,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "A willful misstatement or omission made on an application for membership or registration as an associated person is deemed a serious infraction of securities law that would likely lead to a statutory disqualification from the securities industry. The Form U-4 does not ask about motor vehicle fines per se. Felonies convictions have to be disclosed, as do misdemeanor convictions involving money or securities.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-254",
@@ -3553,7 +3806,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Before submitting an application to enroll any person with Financial Industry Regulatory Authority (FINRA) as a registered representative, a member firm must ascertain the person's business reputation, character, education, qualifications, and experience. As part of the application process, the member firm must certify that it has made an investigation and that the candidate's credentials are in order.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-255",
@@ -3567,7 +3821,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Transferring a registration from one member firm to another is not permitted. Should a person resign or be terminated, the member firm must file a Form U-5 with the Central Registration Depository (CRD) within 30 days of the termination date. A Form U-4 must then be filed by the new employer with all of the form's information requirements met.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-256",
@@ -3581,7 +3836,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Among the extensive information required on Form U-4, residence history for the past five years, employment history for the past 10 years, legal name and any aliases and date of birth would all be listed. Educational degrees and marital status are not required, but full-time education is included in the 10-year employment history.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-257",
@@ -3595,7 +3851,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "A fingerprint card is required to be filed with the U.S. Attorney General to ensure that any criminal past that might result in statutory disqualification from association with a member firm is discovered.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-258",
@@ -3609,7 +3866,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Misstatements willfully made in an application for membership or registration as an associated person will automatically disqualify an applicant from membership. A felony conviction (not charge), either domestic or foreign, or a misdemeanor conviction involving securities or money within the past 10 years will also automatically disqualify an applicant from membership. Note that FINRA will examine the circumstances around a disqualifying event before a final decision is made, but they take willful misstatements on the U-4 very seriously.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-259",
@@ -3623,7 +3881,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Any associated person put in a position that would have them handle cash or securities would be required to be fingerprinted.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-260",
@@ -3637,7 +3896,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Although there is a place to disclose certain earned professional designations such as CPA and CFA, there is no requirement to disclose education (degrees or designations). Time spent as a full-time student however would be included in the 10-year employment history.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-261",
@@ -3651,7 +3911,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "All associated persons engaged in the investment banking and securities business are considered registered representatives, including any assistant officer who does not function as a principal; any individual who supervises, solicits, or conducts business in securities; and any individual who trains people to perform functions in those capacities. See the glossary for definitions of associated persons and registered representatives.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-262",
@@ -3665,7 +3926,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "The SEC upon application for registration requires that fingerprint cards be filed with the U.S. Attorney General.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-263",
@@ -3679,7 +3941,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "To register an associated person of a member firm with FINRA, the member fills out and submits Form U-4. Information required on Form U-4 is extensive and includes name, address, any aliases, 5-year residency history, 10-year employment history, and information on any charges, arrests, or convictions relating to the investment business for that individual (not spouses). Finally, registration cannot be effective until the person passes the appropriate qualification exam(s).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-264",
@@ -3693,7 +3956,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "To register an associated person of a member firm with FINRA, the member will fill out and submit a Form U-4. Registration can only be made effective after the person passes the appropriate qualification exam(s).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-265",
@@ -3707,7 +3971,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Applicable to the first two attempts, if an individual fails to pass a FINRA qualification exam, a 30-day waiting period before the next attempt can be made is imposed. An unsuccessful third attempt requires a 180-day waiting period.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-266",
@@ -3721,7 +3986,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Disciplinary sanctions by the SEC, an self-regulatory organization (SRO), a foreign financial regulator, or the foreign equivalent of an SRO may be cause for statutory disqualification of FINRA membership. This would also be the case for willful misstatements made in an application for membership or a felony conviction, either domestic or foreign, or a misdemeanor conviction involving securities or money (not a DUI) within the past 10 years.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-267",
@@ -3735,7 +4001,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Registered broker-dealers must have fingerprint records made for most of their employees, including all directors, officers, and partners, those involved in sales and those who handle cash or customer securities. While a clerk handling all incoming mail is likely to be to in a position to handle cash or securities coming to the broker-dealer, a driver is not.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-268",
@@ -3749,7 +4016,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Firms will be denied membership if the applicant has been expelled or suspended by another self-regulatory organization (SRO) or from the foreign equivalent of an SRO.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-269",
@@ -3763,7 +4031,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "FINRA rules provide for the ability of registered representatives to operate out of their residence in what is known as a home office. Approval from FINRA is required and the same rules that apply to any branch office would apply here.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-270",
@@ -3777,7 +4046,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "If a registered person wants to be employed by or accept compensation from an entity other than the member firm, that person must provide prior written notice to the member. Note that notice must be made, but the employing member's permission is not being requested nor is it required.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-271",
@@ -3791,7 +4061,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "If the private securities transaction involves compensation, the employing member may approve or disapprove the associated person's participation. While the employing member firm is responsible for all supervision regarding the transaction, it is not obligated and normally is not in a position to provide any services related to accommodating the transaction.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-CE-272",
@@ -3805,7 +4076,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Information required on Form U-4 includes name, address, any aliases, 5-year residency history, and 10-year employment history.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-273",
@@ -3819,7 +4091,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "FINRA makes available some key information about firms and representatives through its BrokerCheck service. This is available to anyone by calling the BrokerCheck hotline or online.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-274",
@@ -3833,7 +4106,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Any representative receiving a written customer complaint is required to turn the complaint over to a supervisor or principal without delay.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-275",
@@ -3847,7 +4121,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Any changes such as a change in address require filing an amended Form U4 with the Central Registration Depository (CRD) no later than 30 days after the member becomes aware of the changes.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-276",
@@ -3861,7 +4136,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Registered broker-dealers must have fingerprint records made for most of their employees, and all directors, officers, and partners. Those who are ancillary to the securities business and do not speak about securities with the investing public or who do not handle funds or securities are generally not required to be fingerprinted.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-277",
@@ -3875,7 +4151,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Those who manage any part of a member's securities activities must be registered as a principal with FINRA, including those involved solely in training associated persons.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-278",
@@ -3889,7 +4166,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Firm element requires member firms to prepare an annual training plan, taking into account such factors as recent regulatory developments, the scope of the member's business activities, employee performance in the regulatory element, and its supervisory needs.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-279",
@@ -3903,7 +4181,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Having no authority to enforce the rules it enacts, the MSRB relies on FINRA to enforce its municipal securities rules. This would include the enforcement of the pay to play or play for pay rules regarding political contributions.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-280",
@@ -3917,7 +4196,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "The firm element of a broker-dealer firm's continuing education (CE) requirement is prepared by the member firm. It comprises training for those personnel who have direct contact with the public, and it must be completed by all registered persons. Among other things, it must take into account the scope of the firm's business.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-281",
@@ -3931,7 +4211,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "The Conduct Rules define a private securities transaction, also known as selling away, as any sale of securities outside an associated person's regular business and her employing member.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-CE-282",
@@ -3945,7 +4226,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Since January 1, 2023 (FINRA Rule 1240, amended by Regulatory Notice 21-41), the regulatory element must be completed annually by December 31 for each registration category a person holds. Having just completed this year's regulatory element, she will next be required to complete it the following year.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-283",
@@ -3959,7 +4241,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "A passive investment, such as the purchase of a limited partnership unit, is not considered an outside business activity (OBA). An associated person may make a passive investment for his own account without providing written notice to the employing broker-dealer.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-CE-284",
@@ -3973,7 +4256,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Passive investments, such as the purchase of a limited partnership interest, are not considered outside business activity. An associated person may make a passive investment for his own account without providing written notice to the employing broker-dealer.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-CE-285",
@@ -3987,7 +4271,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "If a registered representative is to be compensated for a trade done through another firm, the employing firm must run the trade on its own books and see to it that the representative is properly supervised. The firm where the outside trade will take place is, of course, responsible only for the actions of its own registered representatives.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-286",
@@ -4001,7 +4286,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "All business should be awarded on the basis of merit only and not political favor gotten via contributions to political parties, elected individuals or candidates, or third parties with connections to those with political affiliations.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-287",
@@ -4015,7 +4301,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Firm element CE is an annual requirement (each firm administers it under its yearly Needs Analysis and Written Training Plan). Since January 1, 2023, the regulatory element is also completed annually, by December 31 each year, for each registration held.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-288",
@@ -4029,7 +4316,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Since January 1, 2023 (FINRA Rule 1240, amended by Regulatory Notice 21-41), the regulatory element must be completed annually, by December 31 each year, for each representative or principal registration category a person holds. This replaced the prior requirement to complete it within 120 days of the 2nd anniversary and every three years thereafter.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-289",
@@ -4043,7 +4331,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Associated persons who wish to enter into a private securities transaction must provide prior written notice to their employer. Approval is only required when compensation will be paid. All supervision for the transaction is the responsibility of the employing member and not the firm accommodating the transaction.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-CE-290",
@@ -4057,7 +4346,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "As per the Municipal Securities Rulemaking Board (MSRB), a municipal finance professional (MFP) is an associated person of a member firm who is primarily engaged in municipal securities representative activities, including underwriting, sales and trading, or any other activity that involves communications with the public regarding municipals.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-291",
@@ -4071,7 +4361,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "If a person fails to complete the regulatory element within the prescribed time period, FINRA will deactivate that person's registration until the requirements of the program have been met.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-292",
@@ -4085,7 +4376,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Contributions of up to $250 per election are permitted to be made by municipal finance professionals (registered persons) eligible to vote for that official.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-293",
@@ -4099,7 +4391,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Whenever a customer complaint is received, it is essential that the proper personnel are notified. Persons who should be notified may include the account's representative, the account's principal, the branch manager, or a member of the compliance department. A notice to Financial Industry Regulatory Authority (FINRA) is required only in regards to certain scenarios, such as allegations of theft, forgery, misappropriation of funds, or securities.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-294",
@@ -4113,7 +4406,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Anyone who manages or supervises any part of a member firm's investment banking or securities business must be registered as a principal with FINRA, including people involved solely in training associated persons.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-295",
@@ -4127,7 +4421,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "An amended U-5 form must be filed and a copy sent to the affected former employee within 30 days of discovery of the inaccuracy. It does not matter how long it has been since the employee's termination.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-296",
@@ -4141,7 +4436,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "A registered person who has left the industry, whether through retirement or otherwise, is no longer registered and may not receive commissions for any new work from a Financial Industry Regulatory Authority (FINRA) member firm. If there are commissions from work done when the person was registered that have not yet been paid, they may be paid, provided that a written contract was signed by both parties specifying precisely what is due. The contract may, but is not required to, direct that continuing commissions be paid to the person's spouse in the event of the formerly registered person's death.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-CE-297",
@@ -4155,7 +4451,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Termination, for whatever reason, requires that the old firm file a Form U-5. Registration, whether for the initial or any subsequent one, requires filing of a Form U-4.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-298",
@@ -4169,7 +4466,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "If a terminated person becomes subject to a customer complaint or charges are brought against that person by FINRA, that person remains subject to FINRA jurisdiction for two years following termination.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-CE-299",
@@ -4183,7 +4481,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Financial Industry Regulatory Authority (FINRA) requires that registered representatives complete both the regulatory and the firm elements of a continuing education (CE) program. In addition to satisfying FINRA requirements for registration, each state has its own requirements that must be satisfied before a representative can act in that state. A representative is not required to file a Form U-5. That form is filed by the member firm upon the termination of a registered representative for any reason. A copy will be provided to the departed representative.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-300",
@@ -4197,7 +4496,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "The rules regarding gifts, gratuities, and compensation to another firm's employees permit occasional noncash expenditures that exceed the $100 limit. These might include dinners, seminars, tickets to entertainment events, or reminder advertising items. However, vacations or season tickets to cultural or sporting events are always violations.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-CE-301",
@@ -4211,7 +4511,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Rules within the Investment Advisers Act of 1940 are designed to deter what is commonly called the practice of pay to play or play for pay. In other words, gaining political favor via contributions made to political parties, elected officials, or candidates. If a political contribution to certain elected officials or candidates is made, an adviser may not provide advisory services to any government the adviser represents for a fee, for a period of two years.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-302",
@@ -4225,7 +4526,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Failure to complete the regulatory element within the allowable time frame will lead to FINRA's deactivating that person's registration until the CE regulatory element is met.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-303",
@@ -4239,7 +4541,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Broker-dealer firms must electronically report information on all customer complaints to FINRA within 15 days of the end of each calendar quarter. Both these filings and the complaints must be retained by the firm for 4 years.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-CE-304",
@@ -4253,7 +4556,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "The rule is designed to deter what is commonly called pay to play. It makes it unlawful for an adviser to receive compensation (fee) for providing advisory services to a government entity for a two-year period after the adviser makes a political contribution to a public official of a government entity.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-305",
@@ -4267,7 +4571,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Broker-dealers often allow registered representatives to operate a home office. Approval of the member firm and registration of the location with its self-regulatory organization (SRO) is required as it would be for any office associated with the broker-dealer. All normal business activities including opening new accounts and taking customer orders for the purchase and sale of securities would be permitted. Additionally, the home office address and telephone number may be advertised in any normal manner such as on business cards or through various media venues like newspapers and websites.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Communications with the Public"
  },
  {
   "id": "web-CE-306",
@@ -4281,7 +4586,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Under FINRA's rules regarding outside business activity (OBA), prior written notice to the employing member is required.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-CE-307",
@@ -4295,7 +4601,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "No member or associated person may give anything of value in excess of $100 per individual per year to any person, principal, employee, or representative of another person where such payment is in relation to the business of the employer of the recipient of the payment or gratuity.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-CE-308",
@@ -4309,7 +4616,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "If a potential bond issue is up for competitive bids, any firm may participate in the bidding process, because the city will select the best arrangement available. If it is a negotiated bid (not competitive), there is a two-year waiting period because a firm that has made a political contribution might have an unfair negotiating advantage over firms that have not.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-309",
@@ -4323,7 +4631,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "A gift of tickets to a single event would be permitted under the Conduct Rules. A scenario where a representative of the firm accompanies the guest would fall under the heading of normal business dealings and the requirement that gifts be of no more than $100 in value is waived. None of the exceptions apply if the gift is contingent upon performance.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-CE-310",
@@ -4337,7 +4646,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "If a registered person wants to be employed by or accept compensation from an entity other than the member firm, that person must provide prior written notice to the member. These affiliations would include serving as an officer or director of a company or owning any interest in another financial services company.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-311",
@@ -4351,7 +4661,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "The Form U-4 collects the applicant's name and any aliases, a five-year residency history, and a 10-year employment history. It also requires disclosure of arrests and convictions (not just convictions) for securities-related violations. So II (which says two years) is false; I, III, and IV are true.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-312",
@@ -4365,7 +4676,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Non-securities-related misdemeanor convictions (such as a driving infraction) do not have to be reported on an applicant's Form U-4 when applying for registration. Securities- or money-related misdemeanors and felony convictions within the past 10 years must be reported. These disqualifies an applicant from registering (statutory disqualification).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-313",
@@ -4379,7 +4691,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Firms must agree in their membership application that they will comply with all federal securities laws and make payment of dues and assessments when requested. Although qualification exams must be passed by individuals representing the firm, there is nothing requiring the firm itself to do so, nor is attendance at FINRA conferences required.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-314",
@@ -4393,7 +4706,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Political contributions may never be used to procure or enhance business.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-CE-315",
@@ -4407,7 +4721,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "A private securities transaction (selling away) is any sale of securities outside the scope of the representative's regular business and the firm's. Transactions executed for the firm's customers in the normal course (I) are NOT selling away. Helping a sibling, friend, or acquaintance with personal securities transactions outside the firm (II, III, IV) are selling away and must be approved by the firm.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-316",
@@ -4421,7 +4736,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "FINRA divides private securities transactions into two categories. If the associated person will receive compensation, the rules are more comprehensive requiring approval or disapproval. If approved, the firm must record the transaction on its books and records and supervise as if it were executed on behalf of the member firm. Trades with immediate family members are not included if there is no compensation. In other transactions where there is no compensation, written notice to the employer member is still required.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-317",
@@ -4435,7 +4751,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Associated persons whose activities are limited solely to sales or have only clerical or ministerial functions are not MFPs. All the other activities would be associated with an MFP.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-318",
@@ -4449,7 +4766,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Continuing commissions are permitted, but there is no requirement that they be offered. In order for a former registered representative to receive them, the terms must be spelled out in a contract entered into before termination. The contract may call for payment to heirs but cannot provide any compensation for business referred or introduced by an employee after that person ceases to be registered with the member.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-319",
@@ -4463,7 +4781,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "A private securities transaction is any sale of securities outside an associated person's regular business and his employing member. Private securities transactions are also known as selling away. However, in this example, the representative simply directed the customer to a firm that could handle the customer's request. As long as the representative recieved no compensation for this activity, the recommendation to go to another firm does not violate any industry regulation.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-320",
@@ -4477,7 +4796,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "FINRA retains jurisdiction over a registered person for two years after the person leaves the industry.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-321",
@@ -4491,7 +4811,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "FINRA deems payment or reimbursement by sponsors in connection with meetings held to train or educate representatives acceptable as long as certain requirements are met. These would include, but are not limited to, the following: the representative obtains the member firm's prior permission to attend, the location of the meeting is appropriate to the purpose of the meeting, there is no payment or reimbursement for a guest (e.g., a spouse) of the representative attending the meeting, and there is no payment or reimbursement for certain expenses incurred in connection with meetings, such as golf outings.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-322",
@@ -4505,7 +4826,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "The rule requires notification within 10 days if the information involves statutory disqualification.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-323",
@@ -4519,7 +4841,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "If a registered representative works from home, the office must be subject to site review and visits to the premises by principals of the firm and Financial Industry Regulatory Authority (FINRA) examiners, may be specified in advertising of various kinds as a business office, and function in all ways like any other branch office of the firm.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-324",
@@ -4533,7 +4856,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "A representative of a dealer firm who gave any amount to the election campaign and then solicits a negotiated underwriting would likely cause a two-year ban on performing any work for that municipality. There are some exceptions. For example, if the representative lives in the municipality and is eligible to vote there, he may give up to $250 per election without triggering a ban.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-325",
@@ -4547,7 +4871,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "The U-5 form must be filed by the former employer within 30 days.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-326",
@@ -4561,7 +4886,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Registered persons must undergo regular training in the securities industry. The regulatory element of this training is determined by FINRA and, since January 1, 2023, is completed annually (by December 31) for each registration category held. The firm element is determined by the broker-dealer firm and is also delivered annually. Together, the two elements meet the firm's continuing education (CE) requirement.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-327",
@@ -4575,7 +4901,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Financial Industry Regulatory Authority (FINRA) member firms may not give business-related compensation to associated persons of other firms – compensation directly tied to sales or promises of sales – but may give an individual gifts whose value does not exceed $100 in a 12-month period. Tickets to a sporting event or dinner at an expensive restaurant may exceed the $100 limit if it is occasional, someone from the rewarding firm is present, and the employing firm has given its permission. Reminder advertising, items with the broker-dealer's name and/or logo, may also exceed the $100 limit, within reason, because it has a business purpose.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-CE-328",
@@ -4589,7 +4916,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Firms may not distribute gifts, gratuities, or compensation to the employees of other member firms unless the compensation is not conditional on sales or promises of sales, it has the employing member's prior approval, and the compensation's total value does not exceed the annual limit of $100 per person. Approval of the self-regulatory body the firm reports to is not a requirement or condition.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-CE-329",
@@ -4603,7 +4931,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Whenever a registered employee leaves a member firm under any circumstance, it is the employing member firm that is responsible for filing Form U-5.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-330",
@@ -4617,7 +4946,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Registered representatives are allowed to operate out of a home or residence, advertising the address and contact numbers. All normal business activities, including taking customer orders for the purchase and sale of securities, would be permitted. Additionally, it would be subject to a premise visit and review by principals of the firm and FINRA examiners as often as needed.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-331",
@@ -4631,7 +4961,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "The trip itself is acceptable in principle, because it has a business purpose. Having it in the Canary Islands would be inappropriate. Side tours, outings, and so on are acceptable, provided the guests pay their own expenses for them. Paying the expenses of guests would be inappropriate as well. Permission of the employing firm to attend is always required.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-332",
@@ -4645,7 +4976,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Registered persons are required to participate in continuing education (CE) programs. The CE requirement has two components: a regulatory element and a firm element. Since January 1, 2023, the regulatory element must be completed annually, by December 31, for each registration category the person holds. The firm element requires member firms to prepare an annual training plan that takes into account such factors as recent regulatory developments, the scope of the member's business activities, the performance of its personnel in the regulatory element, and its supervisory needs.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-CE-333",
@@ -4659,7 +4991,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "The capital market serves as a source of intermediate to long-term financing. The money market, on the other hand, provides short-term financing.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-334",
@@ -4673,7 +5006,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "A bond purchased at a premium will have a current yield below the coupon rate.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-335",
@@ -4687,7 +5021,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Though a customer may be ill-advised, complying with it does not constitute improper use. To lend securities without a signed loan consent agreement does constitute improper use, as does borrowing the client's funds without permission of the client, no matter how briefly the funds will be held.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-CE-336",
@@ -4701,7 +5036,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "All bonds must pay principal when due. Income bonds, however, are not required to pay interest when due unless the earnings of the issuer are deemed to be sufficient and the board of directors (BOD) declares that interest payments be made.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-337",
@@ -4715,7 +5051,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Sole proprietorship accounts, partnership accounts, and limited liability companies are not incorporated. Corporations are incorporated.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "web-CE-338",
@@ -4729,7 +5066,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Equity securities represent ownership in an issuing company and debt securities represent a loan to the issuing company, but derivative products, such as options, represent neither.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Options"
  },
  {
   "id": "web-CE-339",
@@ -4743,7 +5081,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Common shareholders wanting to vote at a shareholder meeting can do so in person or in absentia, using a proxy delivered by mail or online. Voting by text or telephone would not be permitted.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-CE-340",
@@ -4757,7 +5096,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Unsolicited transactions (those not recommended by the broker-dealer or registered representative) are exempt from the penny stock rules. Solicited transactions are nonexempt and the rules therefore apply.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-341",
@@ -4771,7 +5111,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Common shareholders have a number of rights. While they may receive dividends, declaring dividends is a function of the BOD.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-CE-342",
@@ -4785,7 +5126,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Most corporations are organized in such a way that their stockholders regularly vote for and elect individuals to a BOD to oversee company business operations.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-343",
@@ -4799,7 +5141,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "In the event a corporation wants to issue additional shares of stock, the preemptive right given to existing shareholders allows the shareholders to maintain their proportionate ownership in the corporation by purchasing shares before the shares are available to new investors.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-344",
@@ -4813,7 +5156,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Each share of stock entitles its owner to a portion of the company's earnings through dividends when distributed and a proportionate vote in major management decisions such as electing individuals to the BOD.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-345",
@@ -4827,7 +5171,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "While stockholders have a voice in how the company is run, that voice is exercised through their vote for those who serve on the board of directors. Essentially, by electing a board of directors, stockholders have a say in the company's management but are not involved in the day-to-day details of its operations. However, there is no prohibition preventing a manager or director from owning stock in the company; their position is not directly related to their ownership of company stock.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-346",
@@ -4841,7 +5186,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Because the shares were purchased in the open market (already registered), the transaction is not a private placement and there is no required holding period. The officer, however, is an affiliate and is therefore subject to the reporting and volume limitations imposed when selling under Rule 144.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-347",
@@ -4855,7 +5201,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Selling shares under Rule 144 effectively registers the shares. In other words, buyers of stock being sold subject to Rule 144 are not subject to any restrictions if they choose to resell.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-348",
@@ -4869,7 +5216,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Warrants are sometimes offered as sweeteners attached to bond issues to improve the marketability of bond. Rights offerings and stock dividends do not apply in this case, and selling the bonds at a discount would be self-defeating because the issuer wouldn't be able to raise the needed capital.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-349",
@@ -4883,7 +5231,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "For restricted stock (unregistered) held by a nonaffiliated, a six-month holding period before any sales can be made applies. After the holding period, sales can be made freely.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-350",
@@ -4897,7 +5246,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Securities and Exchange Commission Rule 144 regulates the sale of control and restricted securities in the secondary market. The rule stipulates the holding period, quantity limitations, manner of sale, and filing procedures when divesting of control or restricted shares.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-CE-351",
@@ -4911,7 +5261,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Stock rights (also known as preemptive rights or subscription rights) give current shareholders the ability to preemptively purchase enough shares to maintain their proportionate ownership of the corporation. This prevents their dividend and voting power from being diluted. The shares outstanding in this case will go from 1,000,000 to 1,250,000. This investor must thus go from owning 100 shares out of 1,000,000 to 125 shares out of 1,250,000. This would require that the investor be able to purchase an additional 25 shares.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-CE-352",
@@ -4925,7 +5276,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "If there is a 10% or more interest held by immediate family members, then all those family members owning voting stock are considered to be control persons.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-353",
@@ -4939,7 +5291,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Nonaffiliates holding unregistered shares must wait six months before divesting of those shares, but because they are nonaffiliates, they may sell freely (without volume restrictions) thereafter.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "web-CE-354",
@@ -4953,7 +5306,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "By virtue of their positions, directors and officers are considered control persons and any stock they own, no matter how little, is considered control stock. To be considered a control person, an unaffiliated person would have to own 10% or more of the voting (outstanding) shares.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-355",
@@ -4967,7 +5321,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "For restricted stock (unregistered) held by an affiliate (insider), there is a six-month holding period, with volume limits applicable thereafter. The volume limits would remain in effect for as long as the individual is an affiliate.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-CE-356",
@@ -4981,7 +5336,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "By issuing a callable preferred stock, a corporation can call in a high dividend payment issue and replace it with a lower one when interest rates have fallen. This feature allows the company to take advantage of reduced interest rates by calling in high-rate preferred issues and replacing them with lower ones.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-357",
@@ -4995,7 +5351,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "An annual dividend of $3.50 simply tells you that this is a 3.5% preferred class of stock (3.5%×par ($100) =$3.50) or ($3.50 ÷par ($100) =0.035). The current market value is not used to calculate the fixed dividend, nor does this dividend amount tell us what common shareholders received.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-358",
@@ -5009,7 +5366,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "ADRs are a type of equity security designed to simplify foreign investing for Americans. ADRs provide Americans with an easy way to invest in foreign companies that might otherwise be difficult or impossible to own. This overseas exposure provides investors with additional diversification within their portfolio.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-359",
@@ -5023,7 +5381,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "If a preferred stock is described as 3% preferred participating to 6%, the company pays its holders up to 3% in additional dividends in profitable years if the board of directors declares it.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-CE-360",
@@ -5037,7 +5396,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "With noncumulative preferred stock, missed or skipped dividends need not be paid or made up. However, in order to pay common shareholders in any year, preferred shareholders must receive their full dividend for that year. While it can be paid in one annual payment, quarterly, or however the board approves it to be paid, the total in this case would be $4.00. 4%×$100 par value =$4.00.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-361",
@@ -5051,7 +5411,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "The issuer can pay off callable preferred at any time after the call protection period, and dividends will cease.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-362",
@@ -5065,7 +5426,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "or higher In return for the call privilege, the corporation may pay a premium exceeding the stock's par value at the time of the call. It's reasonable that a shareholder would expect to receive at least par value or higher in the event of a call.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Options"
  },
  {
   "id": "web-CE-363",
@@ -5079,7 +5441,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "No corporation is required to issue any class of preferred stock. Preferred shareholders have no voting rights or preemptive rights but are paid before common shareholders in the event of a corporate dissolution.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-364",
@@ -5093,7 +5456,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Convertible preferred shares can be converted into shares of the issuer's common stock. In this light, the value of a convertible preferred stock is linked to the value of the common stock and the convertible preferred share price tends to fluctuate in line with the common.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-365",
@@ -5107,7 +5471,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Dividends in arrears (those missed) on cumulative preferred have the highest priority of dividends to be paid. Current and unpaid past dividends on cumulative preferred stock must be paid before common stockholders can receive a dividend. Bond interest, however, is always paid before any dividends, preferred or common.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-366",
@@ -5121,7 +5486,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Many ADRs are listed on exchanges such as the NYSE or Nasdaq. ADRs trade throughout the day and settle in the same manner as would the shares of a U.S.-based company. ADRs are priced in U.S. dollars.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-367",
@@ -5135,7 +5501,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "With callable preferred stock, to compensate for the possibility that the shares may be called, the issuer pays a higher dividend than with straight preferred. Cumulative and convertible preferred have positive characteristics that would justify a lower fixed dividend than straight.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-368",
@@ -5149,7 +5516,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "While the growth potential of both common and preferred shares can be tied to a company's financial well-being, preferred share growth is generally less than that of the common shares. The trade-off is that the preferred shares have preference with dividends received, enjoy a fixed rate of return via those dividends, and have a priority claim over common shareholders in the event of bankruptcy and the dissolution of assets.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-369",
@@ -5163,7 +5531,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Preferred shares, like debt securities, are sensitive to and have an inverse relationship to interest rates. Rates up, prices down. Rates down, prices up.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-370",
@@ -5177,7 +5546,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Past-due dividends on cumulative preferred stock accumulate on the company's books until the corporation's board of directors decides to pay them. When the company resumes dividend payments, cumulative preferred stockholders receive current dividends plus the total accumulated dividends in arrears (those that were missed) before any dividends may be distributed to common stockholders. Common shareholders have no claim on preferred dividends.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-371",
@@ -5191,7 +5561,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Adjustable-rate preferred dividends are tied to benchmark interest rates such as Treasury securities. As these rates fluctuate up and down, so do the dividends on the adjustable shares.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-372",
@@ -5205,7 +5576,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Prices of bonds trading in the secondary market have an inverse relationship to interest rates. As interest rates rise in the marketplace, the prices of bonds trading in the secondary market will fall, and as interest rates fall in the marketplace, the prices of bonds trading in the secondary market will rise. Once the coupon rate is established by the issuer, it remains unchanged throughout the life of the bond.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-CE-373",
@@ -5219,7 +5591,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Issuers of bonds are borrowing money from the purchaser of the bond.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-374",
@@ -5233,7 +5606,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "When a bond is priced above par value, it is trading at a premium (premium to par).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-375",
@@ -5247,7 +5621,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "The CY measures a bond's annual coupon payment (interest) relative to its market price, as shown in the following equation: annual coupon payment÷market price=current yield.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-376",
@@ -5261,7 +5636,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "The interest rate the issuer has agreed to pay the investor is the coupon yield. The coupon yield is also called the stated or nominal yield.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-377",
@@ -5275,7 +5651,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "When shares are held in street name, they are being held in the name of the broker-dealer for the beneficial owner. This is done to facilitate payments and delivery. This does not encumber the shares regarding receipts of dividends or their transferability if sold.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "web-CE-378",
@@ -5289,7 +5666,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Regular-way settlement is T+1 (trade date plus one business day) since May 28, 2024. A trade on Tuesday, July 2 settles the next business day, Wednesday, July 3 (July 4 is not reached).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-379",
@@ -5303,7 +5681,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Regular-way settlement is T+1 (trade date plus one business day) since May 28, 2024. A Friday, April 2 trade settles the next business day; skipping the weekend, that is Monday, April 5.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-380",
@@ -5317,7 +5696,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "plus 1 business day An option trade itself settles the next business day. When an option is exercised, the resulting stock transaction settles regular-way — now T+1 (one business day) since May 28, 2024.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-381",
@@ -5331,7 +5711,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "plus 1 business day Treasury and money-market securities settle T+1 (next business day). Since May 28, 2024, the standard regular-way cycle is T+1 across most securities.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-382",
@@ -5345,7 +5726,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "All U.S. government securities no matter what the denomination or amount are delivered, transferred, and have ownership recorded in book-entry form.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "web-CE-383",
@@ -5359,7 +5741,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Since May 28, 2024, regular-way settlement for corporate bonds is T+1 (one business day after trade date).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-384",
@@ -5373,7 +5756,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "plus 1 business day Since May 28, 2024, regular-way settlement for municipal bonds is T+1 (one business day after trade date).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-385",
@@ -5387,7 +5771,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "plus 1 business day Options settle the next business day (T+1). Since May 28, 2024, the standard regular-way cycle is T+1 across most securities.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-386",
@@ -5401,7 +5786,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "plus 1 business day Since May 28, 2024, regular-way settlement for municipal bonds is T+1 (one business day after trade date).",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-387",
@@ -5415,7 +5801,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Positions closed within 12 months or less are considered short term. When a gain is realized, it will be taxed at the same rate as the taxpayer's other ordinary income. By contrast, a long-term capital gain is taxed at a favorable long-term rate.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "web-CE-388",
@@ -5429,7 +5816,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Profits on positions held 12 months or less are considered short-term gains. For those positions held longer than 12 months, the gains are considered long term and taxed at a more favorable rate.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "web-CE-389",
@@ -5443,7 +5831,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "A stock dividend is payment of additional shares of the issuer to the stockholder rather than payment of cash. The price of the stock is adjusted so that the total value of the outstanding stock is the same before and after the dividend is paid. Stock dividends are thus not taxable.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "web-CE-390",
@@ -5457,7 +5846,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Current yield equals the coupon rate (annual income) divided by the current market price. This is a very common formula on the test.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-391",
@@ -5471,7 +5861,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "If a security is sold for less than the original purchase price, the difference is called a capital loss. This would apply to both equity and debt securities.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "web-CE-392",
@@ -5485,7 +5876,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Proceeds minus cost basis equals capital gains. The dividends are not part of the calculation for capital gains.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "web-CE-393",
@@ -5499,7 +5891,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "For the holding period to be long term it must be more than one year.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "web-CE-394",
@@ -5513,7 +5906,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "A bond purchased at a discount will have a current yield above the coupon rate.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-395",
@@ -5527,7 +5921,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Investment income, which includes capital gains realized on securities positons, is taxable. Depending on how long a security was held, the gains might be taxable at the investor's ordinary income tax rate (for short-term gains) or at a more favorable long-term rate if the position was held for longer than 12 months.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "web-CE-396",
@@ -5541,7 +5936,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "The formula to calculate a gain or loss for tax purposes is the proceeds minus the cost basis. Smith bought the shares at $55 and sold at $50. The dividends are not included in the calculation of gain or loss for tax purposes.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "web-CE-397",
@@ -5555,7 +5951,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "The coupon rate (the fixed rate, the nominal rate, the stated rate) is fixed when the bond is issued and does not change.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-398",
@@ -5569,7 +5966,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "With a term bond, the entire offer matures at the same time. A serial bond has portions maturing over a period of years. A balloon is a hybrid of a term and a serial maturity. Series is not a type of bond maturity.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-399",
@@ -5583,7 +5981,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "The order from low to high is yield to call, yield to maturity, current yield, nominal yield.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-400",
@@ -5597,7 +5996,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Bond prices have an inverse relationship to interest rates. If interest rates go up, bond prices for those bonds trading in the secondary markets will go down. Conversely, if interest rates decline, bond prices rise. Par value is a fixed number for the life of the bond.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-CE-401",
@@ -5611,7 +6011,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "The three types of maturities that bonds can typically be issued with are term, serial, or balloon maturities. Note that there is no series maturity type.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-402",
@@ -5625,7 +6026,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "The call feature allows the issuer to call in old bonds at a high rate of interest and then issue new bonds at a lower rate, similar to refinancing a high interest rate loan. The put feature allows the investor to sell the bond back to the issuer at par when the bond market value has declined, thus avoiding a loss.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Options"
  },
  {
   "id": "web-CE-403",
@@ -5639,7 +6041,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Bond prices can be impacted by the usual market forces that impact securities in general, such as supply and demand. Additionally bond prices, they have an inverse relationship to interest rates.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-CE-404",
@@ -5653,7 +6056,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "Bonds are redeemed at par. When a bond is purchased at a discount (less than will be received at the time the bond matures), that discounted amount will increase the overall return of the bond, making it greater than the coupon rate. If the discount bond is called before it matures, the increased return due to the discount purchase would still occur but would now be accelerated.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-405",
@@ -5667,7 +6071,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "While 5- to 30-year maturities are common, the length of time to maturity can be shorter or longer.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-406",
@@ -5681,7 +6086,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Term bonds are structured so that the principal of the entire issue is all payable on the same date—the maturity date.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-407",
@@ -5695,7 +6101,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "A bond's yield expresses the cash interest payments in relation to the bond's value. Yield is determined by the issuer's credit quality, prevailing interest rates, time to maturity, and any features the bond may have. The number of bonds in a single issue is generally determined by how much capital the issuer needs to borrow at the time of issue, while its yield is something that will fluctuate as the bond trades in the secondary market and gets closer to maturity.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-CE-408",
@@ -5709,7 +6116,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "A bond is best described as a certificate stating a borrower's obligation to pay back a specific amount of money on a specific date to an investor. A bond certificate also states the borrower's obligation to pay the investor a specific rate of interest for the use of the funds.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-409",
@@ -5723,7 +6131,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "The coupon rate on a debt security represents the interest rate the issuer has agreed to pay the investor for use of the funds loaned to the issuer.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-410",
@@ -5737,7 +6146,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "The features most commonly attached to a bond issue would be having the bond be callable, puttable ( a bond with a put feature), or convertible. Each of these features in its own way might make the issue more attractive to an investor. All bonds have a stated maturity, and as such, this would not be considered an additional feature.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-411",
@@ -5751,7 +6161,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "For callable bonds trading at a discount, YTC will be the highest possible yield, higher than YTM, CY, and the coupon (stated or nominal) yield.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-412",
@@ -5765,7 +6176,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Liquidation and payment of dividends are two areas in which preferred stock has a benefit over common stock. Dividends are not guaranteed and rising interest rates are a negative. Preferred gets paid after debt, wages, and taxes.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-413",
@@ -5779,7 +6191,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "The coupon rate is also called the stated or nominal yield. It is the rate of interest the issuer has agreed to pay the investor for use of the funds loaned to the issuer.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-414",
@@ -5793,7 +6206,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "For any bond priced at par, all of the yields are equal; nominal = CY = YTM = YTC if callable.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-415",
@@ -5807,7 +6221,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "The current yield on a bond is calculated by dividing the annual interest (coupon) payment by the current market price of the bond: Annual coupon payment÷market price=current yield.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-416",
@@ -5821,7 +6236,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "A serial bond issue schedules portions of the principal to mature at intervals over a period of years until the entire balance has been repaid.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-417",
@@ -5835,7 +6251,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Debentures are unsecured. Mortgage bonds are backed by property. Equipment trust certificates are backed by equipment. Collateral trust certificates are backed by securities.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-418",
@@ -5849,7 +6266,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Par value (usually $1,000) is the face value of a bond or the amount a bond will be redeemed for by the investor at maturity.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-419",
@@ -5863,7 +6281,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Interest is the rate of return above the principal sum received by a lender (investor) from a borrower. Interest is rate of return the investor receives for use of the funds over the life of the loan.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-420",
@@ -5877,7 +6296,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "The date that the principal amount of a loan is due to be paid back to an investor is known as the maturity date.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-421",
@@ -5891,7 +6311,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "The coupon rate on a bond is calculated as a percentage of par value. While par value can be any amount the issuer determines it to be, it is usually $1,000 for bonds and should be assumed to be so, unless it is indicated otherwise.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-422",
@@ -5905,7 +6326,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "When a bond purchased at a premium (105) is called before it matures, the accelerated premium loss is reflected in the calculated yield to call (YTC). In this light, remember that the YTC is always the lowest of all possible yields for premium bonds, less than the coupon, CY, and YTM.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Options"
  },
  {
   "id": "web-CE-423",
@@ -5919,7 +6341,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "For bonds trading at a premium (101), the nominal yield (or coupon) is higher than the basis (YTM). For bonds at a premium, yields from lowest to highest are yield to call (YTC), YTM, current yield, and nominal yield.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-CE-424",
@@ -5933,7 +6356,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "With a balloon maturity, the issuer repays part of the bond's principal before the final maturity date over scheduled serial maturity dates, but pays off the major portion of the bond principal on the final maturity date.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-425",
@@ -5947,7 +6371,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "The CY measures a bond's annual coupon payment (interest) relative to its market price, as shown in the following equation: annual coupon payment÷market price=current yield.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-426",
@@ -5961,7 +6386,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "A bond with a nominal yield of 3.5% pays $35 in interest annually (3.5%×$1,000 par value). Given the bond makes semiannual interest payments, each of those payments would be in the amount of $17.50.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-CE-427",
@@ -5975,7 +6401,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "The coupon rate, the stated rate, the fixed rate, and the nominal rate all mean the same thing. It is the amount the bond will pay each year. On a discount bond the current yield is always higher than the coupon rate.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-428",
@@ -5989,7 +6416,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "The price paid for a security is known as the cost base for the transaction. If the security is later sold for more than the cost base, the difference is a capital gain; if for less, it is a capital loss. This investor paid $20 per share, the cost base. Later, selling the stock for $28, the investor made an $8 capital gain per share. Of the total $28 price of the security, upon sale, $20 could also be called return of capital.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "web-CE-429",
@@ -6003,7 +6431,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "When a bond trades at a premium (above par), its current yield is lower than the coupon rate, because the fixed annual coupon is divided by a market price higher than $1,000 par.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-CE-430",
@@ -6017,7 +6446,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "The investor's intent with this wash sale is to declare a $50 capital loss without changing positions on the bond. Immediate repurchase is not illegal, but it precludes declaring the loss for tax purposes. The investor must wait at least 30 days before buying the bond back, or the loss will be disallowed.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "web-CE-431",
@@ -6031,7 +6461,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "The Russell tracks 2,000 small company stocks.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-432",
@@ -6045,7 +6476,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "D",
   "explanation": "Earned income is received as the result of participating in trade or business, the generation and/or sale of goods and/or services—in other words, from work. The other choices are earnings from investments and are known as portfolio income.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-433",
@@ -6059,7 +6491,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "C",
   "explanation": "Earnings from running a business is considered earned income.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-CE-434",
@@ -6073,7 +6506,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Upon the purchase of a security, the investors may receive dividends or interest, which are forms of income, or they may sell the security for a different price than was paid for it, which represents a capital gain or loss.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "web-CE-435",
@@ -6087,7 +6521,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "A",
   "explanation": "The Standard and Poor's 500 Index is an index of 500 large companies.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-436",
@@ -6101,7 +6536,8 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Indexes such as the DJIA or the S&P 500 are hypothetical portfolios, not single stocks. While there's no single standard or benchmark, an index can be used as a performance standard one can monitor and therefore judge the performance of a portfolio or investment against. When we refer to the stock market's performance in general, we are most likely referring to the performance of an index or average that tracks stocks or bonds. These benchmarks can serve as an indicator of the overall direction of the market as a whole, or the direction of individual market sectors.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-CE-437",
@@ -6115,6 +6551,7 @@ SIE_QUESTIONS_WEB_CE = [
   },
   "answer": "B",
   "explanation": "Earned income includes wages, salary, tips, bonuses, and income from active participation in a trade or business.",
-  "source": "careeremployer.com SIE free practice exam"
+  "source": "careeremployer.com SIE free practice exam",
+  "topic": "US Government & Agency Securities"
  }
 ];

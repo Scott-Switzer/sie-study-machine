@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: A designated market maker (DMM) or specialist",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "yt-ER2-1",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: It is fully exempt from federal income tax and potentially state/local taxes for residents.",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-ER2-2",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: A unit investment trust (UIT)",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-ER2-3",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Their yield to maturity will be higher than their coupon rate.",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-ER2-4",
@@ -67,7 +71,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: A corporation issuing new shares to the public in an Initial Public Offering (IPO).",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-ER2-5",
@@ -81,7 +86,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Interest rate risk",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-ER2-6",
@@ -95,7 +101,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: A preferential long-term capital gains tax rate",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "yt-ER2-7",
@@ -109,7 +116,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Using exaggerated or misleading statements in an advertisement.",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "yt-ER2-8",
@@ -124,7 +132,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "answer": "C",
   "explanation": "Correct answer: Sell the stock short",
   "source": "YouTube: Series 7 Guru (er2)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-ER2-9",
@@ -138,7 +147,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Debenture",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-ER2-10",
@@ -153,7 +163,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "answer": "B",
   "explanation": "Correct answer: Buy put options on a broad market index ETF.",
   "source": "YouTube: Series 7 Guru (er2)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Options"
  },
  {
   "id": "yt-ER2-11",
@@ -168,7 +179,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "answer": "C",
   "explanation": "Correct answer: A prospectus",
   "source": "YouTube: Series 7 Guru (er2)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-ER2-12",
@@ -183,7 +195,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "answer": "D",
   "explanation": "Correct answer: Common stockholders",
   "source": "YouTube: Series 7 Guru (er2)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-ER2-13",
@@ -198,7 +211,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "answer": "B",
   "explanation": "Correct answer: Buy put options on a broad market index ETF.",
   "source": "YouTube: Series 7 Guru (er2)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Options"
  },
  {
   "id": "yt-ER2-14",
@@ -212,7 +226,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Recommends a mutual fund purchase just below the dollar amount that would qualify for a reduced sales charge.",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-ER2-15",
@@ -226,7 +241,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: The Municipal Securities Rulemaking Board (MSRB)",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-ER2-16",
@@ -240,7 +256,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: The present value of its future dividend payments.",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-ER2-17",
@@ -254,7 +271,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: A closed-end management company",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-ER2-18",
@@ -268,7 +286,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: A customer making a large, uncharacteristic cash deposit and wanting to immediately wire it overseas.",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "AML & SARs"
  },
  {
   "id": "yt-ER2-19",
@@ -283,7 +302,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "answer": "C",
   "explanation": "Correct answer: Long-term fixed-rate bonds",
   "source": "YouTube: Series 7 Guru (er2)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-ER2-20",
@@ -297,7 +317,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: The price at which the dealer is willing to buy the security from an investor.",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-ER2-21",
@@ -311,7 +332,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: They allow existing shareholders to purchase new shares at a discount to the current market price.",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-ER2-22",
@@ -325,7 +347,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: They allow existing shareholders to purchase new shares at a discount to the current market price.",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-ER2-23",
@@ -340,7 +363,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "answer": "C",
   "explanation": "Correct answer: High-yield (junk) bonds",
   "source": "YouTube: Series 7 Guru (er2)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-ER2-24",
@@ -354,7 +378,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: $6,000",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-ER2-25",
@@ -368,7 +393,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "B",
   "explanation": "Correct answer: They allow existing shareholders to purchase new shares at a discount to the current market price.",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-ER2-26",
@@ -382,7 +408,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Reinvestment risk",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-ER2-27",
@@ -397,7 +424,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "answer": "B",
   "explanation": "Correct answer: Qualified withdrawals are entirely tax-free.",
   "source": "YouTube: Series 7 Guru (er2)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-ER2-28",
@@ -411,7 +439,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Reinvestment risk",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-ER2-29",
@@ -425,7 +454,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Maturity date",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-ER2-30",
@@ -440,7 +470,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "answer": "B",
   "explanation": "Correct answer: Directly matching buy and sell orders without a middleman.",
   "source": "YouTube: Series 7 Guru (er2)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "yt-ER2-31",
@@ -454,7 +485,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Payment is generally due by the end of the first business day (T+1) after the trade date.",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-ER2-32",
@@ -468,7 +500,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Treasury Inflation-Protected Securities (TIPS)",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-ER2-33",
@@ -482,7 +515,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Treasury Inflation-Protected Securities (TIPS)",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-ER2-34",
@@ -496,7 +530,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: A money market mutual fund",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-ER2-35",
@@ -510,7 +545,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: A money market mutual fund",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-ER2-36",
@@ -525,7 +561,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "answer": "B",
   "explanation": "Correct answer: The general partner",
   "source": "YouTube: Series 7 Guru (er2)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "yt-ER2-37",
@@ -539,7 +576,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Investing in a short-term U.S. Treasury fund",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-ER2-38",
@@ -553,7 +591,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Investing in a short-term U.S. Treasury fund",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-ER2-39",
@@ -567,7 +606,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "A",
   "explanation": "Correct answer: They have obtained written consent from the customer and the firm, and share proportionally to their capital contribution.",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "yt-ER2-40",
@@ -581,7 +621,8 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "D",
   "explanation": "Correct answer: A puttable bond",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-ER2-41",
@@ -595,6 +636,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   },
   "answer": "C",
   "explanation": "Correct answer: A market order",
-  "source": "YouTube: Series 7 Guru (er2)"
+  "source": "YouTube: Series 7 Guru (er2)",
+  "topic": "Orders & Trade Execution"
  }
 ];

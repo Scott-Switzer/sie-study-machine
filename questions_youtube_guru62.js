@@ -11,7 +11,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU62 = [
   },
   "answer": "B",
   "explanation": "The correct choice (A) is: “At the end of that December”. New agent registrations are effective for the remainder of the year and renew at the end of December, so a mid-December registration renews at year-end.",
-  "source": "youtube:guru62:dM3JI9ldcog"
+  "source": "youtube:guru62:dM3JI9ldcog",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "yt-guru62-2",
@@ -25,7 +26,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU62 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Investing as a limited partner in a limited partnership”. Registered representatives must give written notice to their firm before engaging in certain outside business activities such as part-time driving/ride-share work.",
-  "source": "youtube:guru62:dM3JI9ldcog"
+  "source": "youtube:guru62:dM3JI9ldcog",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru62-3",
@@ -39,7 +41,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU62 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “They must notify the Administrator that Tim is no longer employed by the firm”. When a registered person leaves a firm, the employing broker-dealer must promptly notify the state Administrator (and file a Form U5).",
-  "source": "youtube:guru62:dM3JI9ldcog"
+  "source": "youtube:guru62:dM3JI9ldcog",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru62-4",
@@ -53,7 +56,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU62 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Fingerprints are required by the state securities Administrator for registration as an agent”. Fingerprints are required by FINRA (not state Administrators) for registration; a member must submit them within 30 days of the Form U4 or registration is deemed inactive.",
-  "source": "youtube:guru62:dM3JI9ldcog"
+  "source": "youtube:guru62:dM3JI9ldcog",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru62-4-1",
@@ -67,7 +71,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU62 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Fingerprints are required by the state securities Administrator for registration as an agent”. Fingerprints are required by FINRA (not state Administrators) for registration; a member must submit them within 30 days of the Form U4 or registration is deemed inactive.",
-  "source": "youtube:guru62:dM3JI9ldcog"
+  "source": "youtube:guru62:dM3JI9ldcog",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru62-6",
@@ -81,7 +86,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU62 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “No later than the 15th of the month following the calendar quarter being reported”. Broker-dealers must file summaries of customer complaints with FINRA no later than the 15th of the month following the calendar quarter in which they occurred.",
-  "source": "youtube:guru62:dM3JI9ldcog"
+  "source": "youtube:guru62:dM3JI9ldcog",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru62-7",
@@ -95,6 +101,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU62 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “10 years”. BrokerCheck discloses registration, disciplinary, and employment history for current and former registered representatives going back 10 years.",
-  "source": "youtube:guru62:dM3JI9ldcog"
+  "source": "youtube:guru62:dM3JI9ldcog",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  }
 ];

@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"Address.\" Under Reg S-P, a customer's address is generally treated as publicly available and is not the core 'non-public personal information' the rule protects (SSN, account number, DL number are).",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "yt-pm1-4",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Prepaid tuition plans and college savings plans.\" The two 529 plan types are prepaid tuition plans and college savings (investment) plans.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-pm1-5",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"Annualize the returns for comparison purposes.\" To compare returns over different holding periods, annualize them to a common basis.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-pm1-7",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"Should not be considered in making an investment decision as nothing can recover them.\" Sunk costs are unrecoverable and should be ignored when making forward-looking investment decisions.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-pm1-8",
@@ -67,7 +71,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"This is illegal.\" Structuring cash deposits to avoid BSA reporting is suspicious and triggers an SAR, but it is not automatically 'illegal' in itself.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "AML & SARs"
  },
  {
   "id": "yt-pm1-10",
@@ -81,7 +86,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"The order will be adjusted to 200 shares of XYZ at $30.\" A 2:1 stock split adjusts an open buy order to 200 shares at $30 (double shares, halve price).",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-pm1-12",
@@ -95,7 +101,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"Clearing firm.\" A carrying (clearing) broker-dealer holds and settles customer assets; an introducing firm delegates this to it.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-pm1-13",
@@ -109,7 +116,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"Business.\" Purchasing power (inflation) risk is systematic; business, regulatory, and political risks are unsystematic.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-pm1-15",
@@ -123,7 +131,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"An obligation to sell.\" Selling a call obligates the writer to sell the underlying at the strike if assigned.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Options"
  },
  {
   "id": "yt-pm1-16",
@@ -137,7 +146,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"They are a type of management company.\" A unit investment trust is not a management company; it has no board, no adviser, and a fixed portfolio.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "yt-pm1-17",
@@ -151,7 +161,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"A know your customer obligation.\" Reg BI's four obligations are Disclosure, Care, Conflict of Interest, and Compliance; 'know your customer' is part of the Care obligation, not a separate named component.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-pm1-18",
@@ -165,7 +176,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"The name of the person who approved the communication.\" Communications records need not identify the person who prepared the communication, only approver, dates, and use.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "yt-pm1-20",
@@ -179,7 +191,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"To preserve capital.\" ADRs are bought for diversification, income, and tax simplicity, not specifically to preserve capital.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-pm1-21",
@@ -193,7 +206,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "B",
   "explanation": "Until her registration is actually granted, Wanda may perform only clerical/administrative work. Soliciting, taking orders, or selling requires an EFFECTIVE registration — passing the exam alone is not enough.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-pm1-26",
@@ -207,7 +221,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"Benchmark index.\" A benchmark index is a measuring standard, not a market-sentiment gauge like the VIX or advance/decline line.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-pm1-27",
@@ -221,7 +236,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"Issue redeemable securities.\" ETFs are investment companies whose shares trade on an exchange like a stock.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Options"
  },
  {
   "id": "yt-pm1-29",
@@ -235,7 +251,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"At the discretion of the company's Board of Directors.\" Dividends are declared and paid at the discretion of the board of directors.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-pm1-30",
@@ -249,7 +266,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "A",
   "explanation": "Municipal bonds are exempt securities under the Securities Act of 1933, so no prospectus is required — instead, purchasers of new municipal issues receive an OFFICIAL STATEMENT (the muni disclosure document).",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-pm1-33",
@@ -263,7 +281,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"Business.\" Business risk is the risk of loss from the failure or poor performance of a specific company.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-pm1-34",
@@ -277,7 +296,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"III.\" A BCP must include relocation procedures, books-and-records backup/recovery, and alternate communications (I, II, III); audited statements are not required.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "yt-pm1-36",
@@ -291,7 +311,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Ex-dividend date.\" To receive a declared dividend the customer must own the stock as of the ex-dividend date.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-pm1-38",
@@ -305,7 +326,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"May 30.\" ESA contributions for a tax year may be made until April 15 of the following year.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-pm1-40",
@@ -319,7 +341,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Emails include electronic communications as well as electronic correspondence.\" Under supervision rules, emails are electronic communications and are subject to review alongside correspondence.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "yt-pm1-42",
@@ -333,7 +356,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Securities Exchange Act of 1934",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "yt-pm1-44",
@@ -347,7 +371,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "B",
   "explanation": "Proxy statements must be provided before EVERY shareholder meeting where votes are solicited — not on a fixed calendar schedule.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-pm1-49",
@@ -361,7 +386,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"Take orders.\" Unregistered persons may perform clerical and administrative tasks but not solicit, take orders, or receive commissions.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-pm1-56",
@@ -375,7 +401,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"I, II, III, IV.\" The CBOE conducts fingerprint-based background checks on directors, employees, officers, and all temporary/contract personnel.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-pm1-57",
@@ -389,7 +416,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"Through private placements.\" DPP interests are predominantly sold through private placements (Regulation D) rather than public offerings.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-pm1-58",
@@ -403,7 +431,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"Sole proprietorship.\" A sole proprietorship is the hardest form to raise capital because it cannot sell equity or issue debt like a corporation.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-pm1-59",
@@ -417,7 +446,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"Disability.\" Roth IRA penalty-free withdrawals (qualified) are allowed for death, disability, first-time home purchase, and certain expenses, but not a discretionary trip.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "AML & SARs"
  },
  {
   "id": "yt-pm1-61",
@@ -431,7 +461,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"The trustee may be any person.\" A trustee must be a competent adult, so 'the trustee may be any person' is the untrue statement.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-pm1-64",
@@ -445,7 +476,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"Limited partnerships.\" DPPs are typically organized as limited partnerships with general and limited partners.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "yt-pm1-65",
@@ -459,7 +491,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"All brokers engage in PFOF.\" Not all brokers engage in payment for order flow; it is common among retail zero-commission brokers but not universal.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-pm1-66",
@@ -473,7 +506,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"$40.\" A long call's maximum gain is unlimited as the stock can rise without limit.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-pm1-69",
@@ -487,7 +521,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Reinvestment risk.\" A maturing CD facing much lower rates means the investor must reinvest at lower yields: reinvestment risk.",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-pm1-70",
@@ -501,7 +536,8 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "B",
   "explanation": "Correct answer: The neighbor of the CEO of McDonalds",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-pm1-74",
@@ -515,6 +551,7 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: The SEC",
-  "source": "YouTube: Series 7 Guru (pm1)"
+  "source": "YouTube: Series 7 Guru (pm1)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  }
 ];

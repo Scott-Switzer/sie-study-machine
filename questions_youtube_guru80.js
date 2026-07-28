@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE_GURU80 = [
   },
   "answer": "B",
   "explanation": "Correct answer: To regulate the stock market and protect investors",
-  "source": "YouTube: Series 7 Guru (GURU80)"
+  "source": "YouTube: Series 7 Guru (GURU80)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-GURU80-2",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE_GURU80 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Balance Sheet",
-  "source": "YouTube: Series 7 Guru (GURU80)"
+  "source": "YouTube: Series 7 Guru (GURU80)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-GURU80-3",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE_GURU80 = [
   },
   "answer": "B",
   "explanation": "Correct answer: The legal obligation to act in the best interest of another party",
-  "source": "YouTube: Series 7 Guru (GURU80)"
+  "source": "YouTube: Series 7 Guru (GURU80)",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "yt-GURU80-4",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_YOUTUBE_GURU80 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Gross Domestic Product",
-  "source": "YouTube: Series 7 Guru (GURU80)"
+  "source": "YouTube: Series 7 Guru (GURU80)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-GURU80-5",
@@ -67,7 +71,8 @@ SIE_QUESTIONS_YOUTUBE_GURU80 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Equities (Stocks)",
-  "source": "YouTube: Series 7 Guru (GURU80)"
+  "source": "YouTube: Series 7 Guru (GURU80)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-GURU80-7",
@@ -81,7 +86,8 @@ SIE_QUESTIONS_YOUTUBE_GURU80 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Expansion",
-  "source": "YouTube: Series 7 Guru (GURU80)"
+  "source": "YouTube: Series 7 Guru (GURU80)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-GURU80-8",
@@ -95,7 +101,8 @@ SIE_QUESTIONS_YOUTUBE_GURU80 = [
   },
   "answer": "C",
   "explanation": "Correct answer: To reduce overall risk by spreading investments across various assets",
-  "source": "YouTube: Series 7 Guru (GURU80)"
+  "source": "YouTube: Series 7 Guru (GURU80)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-GURU80-9",
@@ -109,7 +116,8 @@ SIE_QUESTIONS_YOUTUBE_GURU80 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Accounts Payable",
-  "source": "YouTube: Series 7 Guru (GURU80)"
+  "source": "YouTube: Series 7 Guru (GURU80)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-GURU80-10",
@@ -123,7 +131,8 @@ SIE_QUESTIONS_YOUTUBE_GURU80 = [
   },
   "answer": "B",
   "explanation": "Correct answer: To conduct the nation's monetary policy",
-  "source": "YouTube: Series 7 Guru (GURU80)"
+  "source": "YouTube: Series 7 Guru (GURU80)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-GURU80-11",
@@ -137,7 +146,8 @@ SIE_QUESTIONS_YOUTUBE_GURU80 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Product, Price, Place, Promotion",
-  "source": "YouTube: Series 7 Guru (GURU80)"
+  "source": "YouTube: Series 7 Guru (GURU80)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-GURU80-12",
@@ -151,7 +161,8 @@ SIE_QUESTIONS_YOUTUBE_GURU80 = [
   },
   "answer": "B",
   "explanation": "Correct answer: The ease with which an asset can be converted into cash without affecting its price",
-  "source": "YouTube: Series 7 Guru (GURU80)"
+  "source": "YouTube: Series 7 Guru (GURU80)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-GURU80-13",
@@ -165,7 +176,8 @@ SIE_QUESTIONS_YOUTUBE_GURU80 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Oligopoly",
-  "source": "YouTube: Series 7 Guru (GURU80)"
+  "source": "YouTube: Series 7 Guru (GURU80)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "yt-GURU80-14",
@@ -179,7 +191,8 @@ SIE_QUESTIONS_YOUTUBE_GURU80 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Business Plan",
-  "source": "YouTube: Series 7 Guru (GURU80)"
+  "source": "YouTube: Series 7 Guru (GURU80)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-GURU80-15",
@@ -193,7 +206,8 @@ SIE_QUESTIONS_YOUTUBE_GURU80 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Return on Investment",
-  "source": "YouTube: Series 7 Guru (GURU80)"
+  "source": "YouTube: Series 7 Guru (GURU80)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-GURU80-16",
@@ -207,7 +221,8 @@ SIE_QUESTIONS_YOUTUBE_GURU80 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Income Tax",
-  "source": "YouTube: Series 7 Guru (GURU80)"
+  "source": "YouTube: Series 7 Guru (GURU80)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-GURU80-17",
@@ -221,7 +236,8 @@ SIE_QUESTIONS_YOUTUBE_GURU80 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Overseeing employee recruitment, relations, and compliance",
-  "source": "YouTube: Series 7 Guru (GURU80)"
+  "source": "YouTube: Series 7 Guru (GURU80)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-GURU80-18",
@@ -235,7 +251,8 @@ SIE_QUESTIONS_YOUTUBE_GURU80 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Expenses be recorded in the same period as the revenues they help generate",
-  "source": "YouTube: Series 7 Guru (GURU80)"
+  "source": "YouTube: Series 7 Guru (GURU80)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-GURU80-19",
@@ -249,7 +266,8 @@ SIE_QUESTIONS_YOUTUBE_GURU80 = [
   },
   "answer": "A",
   "explanation": "Correct answer: A market experiencing prolonged price declines",
-  "source": "YouTube: Series 7 Guru (GURU80)"
+  "source": "YouTube: Series 7 Guru (GURU80)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-GURU80-20",
@@ -263,6 +281,7 @@ SIE_QUESTIONS_YOUTUBE_GURU80 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Limited Liability Company (LLC)",
-  "source": "YouTube: Series 7 Guru (GURU80)"
+  "source": "YouTube: Series 7 Guru (GURU80)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  }
 ];

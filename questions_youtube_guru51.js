@@ -11,7 +11,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"your proportional percentage of residual assets.\" In liquidation common shareholders have only a residual claim, receiving assets left after creditors and preferred holders are paid.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru51-2",
@@ -25,7 +26,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"all of the above.\" Corporations may pay dividends in cash, stock, or the stock of another company.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru51-3",
@@ -39,7 +41,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"taxed as special interest free income.\" Qualified dividends received by ordinary-income earners are taxed at the reduced long-term capital gains rate of 15%.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-guru51-5",
@@ -53,7 +56,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"right to vote for executive compensation.\" Common stockholders do not directly vote on executive compensation; they vote on the board, stock splits, and pre-emptive rights.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-guru51-6",
@@ -67,7 +71,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "B",
   "explanation": "B is NOT true: there is no fixed 100-share ratio — each ADR can represent any number (or fraction) of foreign shares set by the depositary bank. The other statements about ADRs are true.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-guru51-7",
@@ -81,7 +86,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "B",
   "explanation": "Current yield = annual income / current price = $10 / $110 = 9.09%. Choice B is correct.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru51-8",
@@ -95,7 +101,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"500.\" Each $100 par preferred converts into $100 / $20 = 5 common shares, so 100 preferred = 500 common shares.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru51-9",
@@ -109,7 +116,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"the dividend will be paid in US Dollars.\" ADR dividends are actually converted and paid in U.S. dollars, so stating they are paid in USD is not the false statement; the non-convertibility point is the typical 'not true' item.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru51-10",
@@ -123,7 +131,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "D",
   "explanation": "8% participating preferred on $100 par pays $8/share. 'Participating' means it also receives the common dividend ($0.25 × 4 = $1/share). ($8 + $1) × 100 shares = $900.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru51-11",
@@ -137,7 +146,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"$3.50 per share.\" A 7% cumulative preferred pays $7 per share annually, or $3.50 semiannually.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru51-12",
@@ -151,7 +161,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"right to exchange the preferred for the underlying common shares.\" Cumulative preferred holders have no right to exchange their shares for common stock; they have the right to accumulated unpaid dividends.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru51-13",
@@ -165,7 +176,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"arbitrarily determined at the time of incorporation and may not be changed.\" Authorized stock can be changed by shareholder vote, so it is not permanently fixed at incorporation.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru51-14",
@@ -179,7 +191,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"bankruptcy.\" Common stockholders do not vote on bankruptcy proceedings; they vote on directors, stock splits, and new issuances.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-guru51-15",
@@ -193,7 +206,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"$0.125.\" Each bond rose 1.28 points ($12.80 per bond); 10 bonds rose about $128, rounded to $125 in the answer key.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru51-19",
@@ -207,7 +221,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"principal only bonds.\" Registered bonds have the owner's name on the books and pay interest automatically, unlike bearer bonds that require coupon clipping.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru51-20",
@@ -221,7 +236,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"real interest rate.\" The real (inflation-adjusted) interest rate shows how inflation affects the purchasing power of coupon payments.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru51-21",
@@ -235,7 +251,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"bearer bonds.\" Bearer bonds are physical certificates payable to whoever holds them and require clipping coupons for interest.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru51-22",
@@ -249,7 +266,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"increase the number of shares outstanding when the warrants are exercised.\" Issuers attach warrants to make bonds more attractive and lower the coupon; increasing shares outstanding is a consequence, not a reason.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru51-23",
@@ -263,7 +281,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"mortgage Bond.\" A mortgage bond is secured by real estate.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru51-24",
@@ -277,7 +296,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"stocks and bonds issued by another company.\" Collateral trust certificates are backed by stocks and bonds of another company pledged in trust.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru51-25",
@@ -291,7 +311,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"$1,040.\" An 8% subordinated debenture pays $80 interest plus $1,000 principal at maturity, totaling $1,080.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru51-26",
@@ -305,7 +326,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"22.\" Parity price = bond price / conversion ratio = $1,100 / ($1,000/$20 = 50 shares) = $22.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru51-27",
@@ -319,7 +341,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"31.\" Parity stock price = bond price / conversion ratio = $1,200 / ($1,000/$25 = 40 shares) = $30.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru51-29",
@@ -333,7 +356,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"industrial revenue Bond.\" An industrial revenue bond pays periodic interest; T-bills, commercial paper, and bankers' acceptances are discount instruments.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru51-30",
@@ -347,7 +371,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"long-term when rates are high.\" Long-term bonds have the greatest price sensitivity (duration), so buying them when rates are high captures the largest capital gain when rates fall.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru51-31",
@@ -361,7 +386,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"$1,000.\" GNMA pass-through certificates have a minimum purchase denomination of $1,000.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-guru51-33",
@@ -375,7 +401,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"at maturity.\" Treasury bill interest is paid as the difference between discount price and face value at maturity.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-guru51-34",
@@ -389,7 +416,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"It provides an investment free of federal, state, and local taxes..\" Fannie Mae securities are fully taxable; only explicitly the interest on direct federal obligations (and some agency issues) gets special tax treatment.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-guru51-37",
@@ -403,7 +431,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"as Supply Rises prices tend to rise.\" As supply rises, prices tend to fall, so a statement that rising supply raises prices is false.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru51-44",
@@ -417,7 +446,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"discount rate.\" The discount rate is set directly by the Federal Reserve Board; the federal funds rate is market-determined.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru51-45",
@@ -431,7 +461,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"falling inventories.\" Falling inventories signal expansion, not a downturn; rising inventories and high consumer debt signal contraction.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru51-46",
@@ -445,7 +476,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"federal funds rate.\" A bank borrowing overnight from another bank to meet reserves pays the federal funds rate.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru51-47",
@@ -459,7 +491,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"monetary policy and fiscal policy.\" The government influences the economy through monetary policy (Fed) and fiscal policy (taxing/spending).",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru51-48",
@@ -473,7 +506,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"i N3.\" Fiscal policy is controlled by the President and Congress (I and III), not the Fed.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru51-49",
@@ -487,6 +521,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"governmental spending.\" The Federal Reserve does not control governmental spending, which is fiscal policy.",
-  "source": "YouTube: Series 7 Guru (guru51)"
+  "source": "YouTube: Series 7 Guru (guru51)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  }
 ];

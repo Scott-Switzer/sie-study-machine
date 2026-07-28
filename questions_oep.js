@@ -11,7 +11,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Common stock represents ownership (equity) in a corporation. Stockholders are part-owners of the company and have voting rights. Bonds are debt instruments where the holder is a creditor, not an owner.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "qb-eq-002",
@@ -25,7 +26,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Preferred stockholders have priority over common stockholders for dividend payments. However, bondholders (creditors) must be paid interest before any dividends are distributed to shareholders.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-eq-003",
@@ -39,7 +41,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Common stockholders have voting rights, typically one vote per share, on major corporate matters such as electing the board of directors and approving mergers.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "qb-eq-004",
@@ -53,7 +56,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Cumulative preferred stock accumulates any unpaid dividends (dividends in arrears). These must be paid before any dividends can be paid to common stockholders.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-eq-005",
@@ -67,7 +71,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "ADRs are certificates issued by U.S. banks representing shares of foreign companies. They allow U.S. investors to easily invest in foreign companies through U.S. exchanges.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-eq-006",
@@ -81,7 +86,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Both rights and warrants give holders the right to purchase common stock at a specified price. Rights are short-term (weeks) while warrants are long-term (years).",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-debt-001",
@@ -95,7 +101,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Bond prices and interest rates have an inverse relationship. When interest rates rise, existing bonds with lower coupon rates become less attractive compared to new bonds issued at higher rates, causing their prices to fall.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-debt-002",
@@ -109,7 +116,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Municipal bond interest is exempt from federal income tax. If the bond is issued in your state of residence, it may also be exempt from state and local taxes (triple tax-free).",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "qb-debt-003",
@@ -123,7 +131,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Bond prices are quoted as a percentage of par (face value). A bond at 95 is trading at 95% of par ($950 for a $1,000 bond), which is a discount. Premium = above 100, discount = below 100.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-debt-004",
@@ -137,7 +146,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Treasury securities (T-bills, T-notes, T-bonds) are backed by the full faith and credit of the U.S. government, making them the safest fixed-income investments.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "qb-debt-005",
@@ -151,7 +161,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Current yield = Annual Interest / Current Market Price. It measures the income return on a bond based on what you actually pay, not the par value.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-debt-006",
@@ -165,7 +176,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "BBB (or Baa for Moody's) is the lowest investment grade rating. Anything below BBB/Baa is considered speculative or \"junk\" grade.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-debt-007",
@@ -179,7 +191,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Zero-coupon bonds pay no periodic interest. They are sold at a deep discount and the investor's return comes from the difference between purchase price and par value at maturity.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-reg-001",
@@ -193,7 +206,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "FINRA (Financial Industry Regulatory Authority) is the self-regulatory organization (SRO) that regulates broker-dealers and their registered representatives.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "qb-reg-002",
@@ -207,7 +221,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Blue sky laws are STATE-level securities regulations designed to protect investors from fraud. Each state has its own blue sky laws, which may differ from federal regulations.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "qb-reg-003",
@@ -221,7 +236,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The Securities Act of 1933 (Paper Act) regulates the PRIMARY market - new issues of securities. It requires registration and disclosure through a prospectus.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-reg-004",
@@ -235,7 +251,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The Securities Exchange Act of 1934 created the SEC and regulates secondary market trading, broker-dealers, and exchanges.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "qb-reg-005",
@@ -249,7 +266,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Suitability requires that recommendations be based on the customer's investment profile, including risk tolerance, financial situation, investment objectives, time horizon, and other factors.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "qb-opt-001",
@@ -263,7 +281,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A call option gives the holder (buyer) the RIGHT to BUY the underlying asset at the strike price before expiration. The call buyer is bullish - expecting the price to rise.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-opt-002",
@@ -277,7 +296,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A put option gives the holder the RIGHT to SELL the underlying asset at the strike price. Put buyers are bearish - they profit when the price falls below the strike price.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-opt-003",
@@ -291,7 +311,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "The maximum loss for a call buyer is limited to the premium paid for the option. If the stock price stays below the strike price, the option expires worthless, and the buyer loses only the premium.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-opt-004",
@@ -305,7 +326,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A bullish investor expects the stock price to rise. Buying a call option profits when the stock goes up - it gives the right to buy at a fixed price while the stock rises.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-opt-005",
@@ -319,7 +341,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "For a call buyer, breakeven = Strike Price + Premium. The stock must rise above this point for the buyer to profit. At exactly this price, gains from exercise equal the premium paid.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-pkg-001",
@@ -333,7 +356,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Open-end mutual funds use forward pricing - shares are priced once daily after the market closes based on Net Asset Value (NAV). Orders placed during the day execute at the next calculated NAV.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-pkg-002",
@@ -347,7 +371,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "ETFs trade on exchanges throughout the day at market prices, just like stocks. They can be bought/sold anytime during market hours, unlike mutual funds.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-pkg-003",
@@ -361,7 +386,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "Closed-end funds issue a fixed number of shares through an IPO, which then trade on exchanges. They do NOT continuously issue or redeem shares like open-end funds.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-pkg-004",
@@ -375,7 +401,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "The sales charge on a mutual fund is called a \"load.\" Front-end loads are paid at purchase, back-end loads (CDSC) are paid at redemption. No-load funds have no sales charges.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-pkg-005",
@@ -389,7 +416,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Variable annuities are securities because the return varies based on the performance of underlying sub-accounts (similar to mutual funds). This investment risk makes them securities requiring registration.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-sie-ch1-001",
@@ -403,7 +431,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "FINRA administers qualification exams including the SIE, Series 7, Series 63, and others. The SEC oversees FINRA but does not directly administer licensing exams. The MSRB only writes rules for municipal securities, and SIPC handles customer protection when firms fail.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-sie-ch1-002",
@@ -417,7 +446,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "SIPC protects customers when a brokerage firm fails and customer assets are missing — up to $500,000 per customer. SIPC does NOT cover market losses, bad advice, or fraud. It only addresses the failure of the brokerage firm itself.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "qb-sie-ch1-003",
@@ -431,7 +461,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The MSRB is a rulemaking body that writes rules for municipal securities transactions, but it does not enforce those rules. Enforcement is handled by FINRA (for broker-dealers) and the SEC. The MSRB is a self-regulatory organization, not a government agency.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "qb-sie-ch1-004",
@@ -445,7 +476,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Blue Sky Laws got their name from early concerns about promoters selling investments with \"no more basis than so many feet of blue sky\" — meaning worthless, speculative schemes. The term reflects the laws' purpose of protecting investors from fraud.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "qb-sie-ch1-005",
@@ -459,7 +491,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "NASAA (North American Securities Administrators Association) coordinates state securities regulation and developed the Uniform Securities Act to bring consistency across states. The SEC is a federal regulator, FINRA regulates broker-dealers, and the MSRB focuses on municipal securities.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "qb-sie-ch1-006",
@@ -473,7 +506,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Securities listed on national exchanges like the NYSE or NASDAQ are \"federal covered securities\" under NSMIA. States cannot require registration for these securities, though they may require notice filings and retain anti-fraud authority.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "qb-sie-ch1-007",
@@ -487,7 +521,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "When a broker-dealer sells from its own inventory, it acts as a dealer (principal). When it executes trades on behalf of customers without using its own inventory, it acts as a broker (agent). The capacity affects how the firm is compensated — markup/markdown for principal transactions, commission for agency transactions.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "qb-sie-ch1-008",
@@ -501,7 +536,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Investment advisers with $110 million or more in assets under management must register with the SEC. Those with less than $100 million register with state regulators. FINRA regulates broker-dealers, not investment advisers, and the MSRB focuses on municipal securities.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "qb-sie-ch1-009",
@@ -515,7 +551,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The transfer agent maintains the issuer's official shareholder records, including who owns shares and their contact information. Custodians hold securities for safekeeping, clearing corporations settle trades, and market makers provide liquidity.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "qb-sie-ch1-010",
@@ -529,7 +566,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The primary market is where new securities are issued, and the issuing company receives the proceeds. In the secondary market, investors trade with each other and the company receives nothing from those transactions.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "qb-sie-ch1-011",
@@ -543,7 +581,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "In an auction market (like NYSE), buyers and sellers compete directly, with the highest bid matched to the lowest ask. In a dealer market (like NASDAQ), dealers quote bid and ask prices and trade from their own inventory. Both types trade stocks and both are regulated.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "qb-sie-ch1-012",
@@ -557,7 +596,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "NASDAQ operates as a dealer market where market makers quote bid and ask prices for securities. The NYSE, by contrast, is an auction market. Both are secondary markets where previously issued securities trade.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "qb-sie-ch1-013",
@@ -571,7 +611,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The NYSE operates as an auction market where buyers and sellers compete on price, facilitated by Designated Market Makers. NASDAQ is a dealer market where multiple market makers quote prices and trade from inventory. The NYSE has a physical trading floor (though most trading is electronic), while NASDAQ is fully electronic.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "qb-sie-ch1-014",
@@ -585,7 +626,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Designated Market Makers (DMMs) on the NYSE are responsible for maintaining fair and orderly markets in the stocks assigned to them. They provide liquidity, set opening prices, and step in during imbalances. They do not underwrite IPOs or regulate on behalf of the SEC.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-sie-ch1-015",
@@ -599,7 +641,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Both NYSE and NASDAQ require listed companies to maintain a minimum share price (typically $1.00). Companies that fall below this threshold for an extended period and fail to regain compliance may be delisted from the exchange.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "qb-sie-ch1-016",
@@ -613,7 +656,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "OTCQX is the highest tier of OTC Markets, requiring companies to be current in SEC reporting (or equivalent), meet minimum financial standards, and have a third-party sponsor. OTCQB is the middle tier for venture companies, and the Pink Market has minimal requirements.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "qb-sie-ch1-017",
@@ -627,7 +671,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Pink Market securities carry significant risks including limited liquidity (difficulty selling), price volatility, limited financial disclosure, and higher incidence of fraud and manipulation. They have no holding period requirements and can be purchased by retail investors, but they are not guaranteed by SIPC beyond normal coverage.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "qb-sie-ch1-018",
@@ -641,7 +686,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "When selling penny stocks (generally under $5), broker-dealers must provide risk disclosure documents to customers, obtain signed suitability statements, and disclose information about bid-ask spreads and compensation. They cannot guarantee against loss and penny stocks can be sold to non-accredited investors.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "qb-sie-ch1-019",
@@ -655,7 +701,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "The Federal Reserve (the Fed) is responsible for monetary policy, which involves managing interest rates and money supply. Fiscal policy (taxes and spending) is controlled by Congress and the President. The Treasury Department manages government finances but does not set monetary policy.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-sie-ch1-020",
@@ -669,7 +716,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "To stimulate the economy (expansionary monetary policy), the Fed lowers interest rates and buys securities through open market operations. This increases the money supply and makes borrowing cheaper. Raising rates and selling securities would be contractionary. Taxes and spending are fiscal policy tools controlled by Congress.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-sie-ch1-021",
@@ -683,7 +731,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Congress gave the Federal Reserve a dual mandate: maximum employment and price stability (controlling inflation). The Fed uses monetary policy tools to balance these sometimes competing goals. Bank regulation and currency are Fed functions, but not the mandate. Taxes/spending are Congressional, and securities oversight is the role of the SEC.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-sie-ch1-022",
@@ -697,7 +746,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Bond prices and interest rates have an inverse relationship. When rates rise, new bonds offer higher yields, making existing bonds (with lower coupon rates) less attractive. To compete, existing bond prices must fall until their yields match the new market rates.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-sie-ch1-023",
@@ -711,7 +761,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "An inverted yield curve occurs when investors expect future interest rates to fall, typically because they anticipate economic slowdown. Historically, inverted yield curves have preceded most U.S. recessions, making them an important economic indicator.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-sie-ch1-024",
@@ -725,7 +776,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Duration measures how sensitive a bond price is to interest rate changes. A bond with 10-year duration would decline approximately 10% for a 1% rate increase, while a 5-year duration bond would decline about 5%, and a 2-year duration bond about 2%. Longer duration means greater rate sensitivity.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-sie-ch1-025",
@@ -739,7 +791,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "The contraction phase (also called recession when severe) is characterized by falling economic output (GDP), rising unemployment, declining consumer spending and confidence, and reduced business investment. This is the opposite of expansion, which features rising GDP and employment.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-sie-ch1-026",
@@ -753,7 +806,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "The stock market is a leading indicator because it reflects investor expectations about future economic conditions. Stock prices typically rise before the economy recovers and fall before recessions, making them useful for predicting economic direction.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-sie-ch1-027",
@@ -767,7 +821,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Consumer staples (food, household products, toiletries) are defensive because people need these items regardless of economic conditions. During contractions, consumers cut back on discretionary spending (luxury goods, cars, travel) but continue buying necessities, making staples stocks more resilient.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "qb-sie-ch1-028",
@@ -781,7 +836,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A stronger dollar means U.S. importers can buy more foreign goods with fewer dollars, reducing their costs. U.S. exporters are hurt because their products become more expensive for foreign buyers. U.S. tourists also benefit abroad because their dollars buy more foreign currency.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-sie-ch1-029",
@@ -795,7 +851,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "An ADR is a certificate issued by a U.S. bank that represents shares of a foreign company. ADRs trade on U.S. exchanges or OTC, are priced in dollars, and pay dividends in dollars, making it convenient for U.S. investors to own foreign stocks without dealing with foreign exchanges.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-sie-ch1-030",
@@ -809,7 +866,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Currency movements affect returns on foreign investments. While the stock gained 8% in euros, the 10% decline of the euro against the dollar more than offset this gain. The approximate dollar return is 8% - 10% = -2% (the actual calculation is slightly different due to compounding, but negative 2% is the closest answer).",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-sie-ch2-001",
@@ -823,7 +881,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Common stockholders have the right to vote for the board of directors. Dividends are not guaranteed, common stockholders are last in line during bankruptcy (after bondholders), and common stock has no maturity date or redemption price.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-sie-ch2-002",
@@ -837,7 +896,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "In liquidation, creditors (bondholders) are paid first, followed by preferred stockholders, with common stockholders receiving any remaining assets last. This order reflects the risk hierarchy of securities.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-sie-ch2-003",
@@ -851,7 +911,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Preemptive rights give existing shareholders the opportunity to purchase newly issued shares before they are offered to the public. This allows shareholders to maintain their proportional ownership in the company and avoid dilution.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-sie-ch2-004",
@@ -865,7 +926,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "In a 3-for-1 split, the number of shares triples (200 x 3 = 600) while the price is divided by 3 ($60 / 3 = $20). The total value remains unchanged at $12,000.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "qb-sie-ch2-005",
@@ -879,7 +941,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "To receive a dividend, an investor must purchase shares before the ex-dividend date. Buying on or after the ex-dividend date means the seller, not the buyer, receives the dividend. Under T+1 settlement (since May 2024), the ex-dividend date and record date are the same day.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "qb-sie-ch2-006",
@@ -893,7 +956,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "In a 1-for-5 reverse split, shares are divided by 5 (500 / 5 = 100 shares) and the price is multiplied by 5 ($4 x 5 = $20). The total value stays the same at $2,000.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "qb-sie-ch2-007",
@@ -907,7 +971,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Cumulative preferred stock requires all missed dividends (dividends in arrears) plus the current dividend to be paid before common shareholders receive anything. Two years of arrears ($10) plus the current year dividend ($5) equals $15 per share.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-sie-ch2-008",
@@ -921,7 +986,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Preferred stock has priority over common stock for dividend payments. Preferred stockholders typically do not have voting rights (common stockholders do), preferred stock has limited growth potential, and preferred stock is not convertible to bonds (though it may be convertible to common stock).",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-sie-ch2-009",
@@ -935,7 +1001,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Preferred stock prices move inversely to interest rates. When interest rates rise, newly issued preferred stocks offer higher dividends, making existing fixed-rate preferred stocks less attractive, which causes their prices to fall.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-sie-ch2-011",
@@ -949,7 +1016,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Only Level III ADRs can raise new capital through public offerings in the U.S. Level I ADRs trade OTC with minimal SEC registration, and Level II ADRs can list on exchanges but cannot raise capital. Level III requires full SEC registration and a prospectus for capital raising.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-sie-ch2-012",
@@ -963,7 +1031,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Although ADRs trade in U.S. dollars, they represent foreign shares valued in foreign currency. When the foreign currency weakens against the dollar, the value of the underlying shares decreases in dollar terms, causing the ADR price to decline.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-sie-ch2-013",
@@ -977,7 +1046,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Annual interest is calculated as par value multiplied by the coupon rate: $1,000 x 0.05 = $50 per year. Most bonds pay this semi-annually, so the investor would receive $25 every six months.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-sie-ch2-014",
@@ -991,7 +1061,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Bond prices and interest rates have an inverse relationship. When market interest rates rise, existing bonds with lower coupon rates become less attractive, causing their prices to fall. Coupon rates on existing bonds are fixed and do not change.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-sie-ch2-015",
@@ -1005,7 +1076,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Bond quotes are expressed as a percentage of par value. A quote of 97 means 97% of par value: $1,000 x 0.97 = $970. This bond is trading at a discount (below par).",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-sie-ch2-016",
@@ -1019,7 +1091,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Current yield = Annual Interest / Market Price. A 5% coupon on $1,000 par pays $50 annually. Current Yield = $50 / $900 = 5.56%. Since the bond trades at a discount, the current yield is higher than the nominal yield.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-sie-ch2-017",
@@ -1033,7 +1106,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "For premium bonds, the yield order from lowest to highest is: YTC < YTM < CY < NY. Yield to call is lowest because if the bond is called, the investor loses the premium faster and receives fewer interest payments.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-ch2-018",
@@ -1047,7 +1121,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "When a bond trades at par value, all four yields (nominal, current, YTM, and YTC) are equal. There is no capital gain or loss to affect the total return calculations.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-sie-ch2-019",
@@ -1061,7 +1136,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Treasury bills (T-bills) are sold at a discount from face value and pay no periodic interest. The investor's return is the difference between the purchase price and the par value received at maturity. T-notes, T-bonds, and TIPS all pay semi-annual interest.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "qb-sie-ch2-020",
@@ -1075,7 +1151,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "TIPS (Treasury Inflation-Protected Securities) protect against purchasing power risk by adjusting the principal based on the Consumer Price Index (CPI). As inflation rises, the principal increases, providing inflation protection. However, TIPS are still subject to interest rate risk.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-sie-ch2-021",
@@ -1089,7 +1166,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Treasury interest is subject to federal income tax but exempt from state and local income taxes. This tax advantage makes Treasuries especially attractive for investors in high-tax states.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "qb-sie-ch2-022",
@@ -1103,7 +1181,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A debenture is an unsecured bond backed only by the issuer's ability and promise to pay. Mortgage bonds, equipment trust certificates, and collateral trust bonds are all secured by specific assets that bondholders can claim if the issuer defaults.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-sie-ch2-023",
@@ -1117,7 +1196,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "BBB is the lowest investment-grade rating from S&P. Bonds rated BBB- or higher (Baa3 for Moody's) are considered investment grade. Bonds rated BB+ or lower are non-investment grade, also known as junk or high-yield bonds.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-sie-ch2-024",
@@ -1131,7 +1211,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Conversion price = Par Value / Conversion Ratio. $1,000 / 20 = $50. This means the bondholder effectively pays $50 per share when converting. If the stock price rises above $50, conversion becomes attractive.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-sie-ch2-025",
@@ -1145,7 +1226,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "General obligation (GO) bonds are backed by the full faith and credit of the issuer, including its power to levy taxes. Revenue bonds are backed only by income from a specific project, not by taxing authority.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "qb-sie-ch2-026",
@@ -1159,7 +1241,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "Tax-equivalent yield = Muni yield / (1 - tax rate) = 4% / (1 - 0.32) = 4% / 0.68 = 5.88%. This means the investor would need a taxable bond yielding 5.88% to equal the 4% municipal bond on an after-tax basis.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "qb-sie-ch2-028",
@@ -1173,7 +1256,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Commercial paper has a maximum maturity of 270 days. This limit allows issuers to avoid SEC registration requirements. If maturity exceeded 270 days, the issuer would need to register the securities with the SEC.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-sie-ch2-029",
@@ -1187,7 +1271,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Banker's acceptances (BAs) are primarily used in international trade. They are time drafts guaranteed by a bank, allowing exporters to receive payment assurance and importers to defer payment. BAs can be sold in the secondary market.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "qb-sie-ch2-030",
@@ -1201,7 +1286,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "In a repo, the borrower sells securities to a lender and agrees to repurchase them at a higher price on a specified date. The difference between the sale price and repurchase price represents the interest earned by the lender.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-sie-ch2-031",
@@ -1215,7 +1301,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A call option is in the money when the market price of the underlying stock is above the strike price. This means the holder could exercise the option to buy at the lower strike price and immediately sell at the higher market price for a profit.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-ch2-033",
@@ -1229,7 +1316,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Intrinsic value = Market price - Strike price = $48 - $45 = $3. Time value = Premium - Intrinsic value = $5 - $3 = $2. The $5 premium consists of $3 intrinsic value and $2 time value.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-ch2-034",
@@ -1243,7 +1331,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A protective put (also called a married put) involves owning stock and buying a put option on that stock. The put provides downside protection by giving the investor the right to sell shares at the strike price, regardless of how far the stock falls.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-ch2-035",
@@ -1257,7 +1346,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Covered call writing is best for investors with a neutral to slightly bullish outlook. The premium income provides some downside cushion, but the strategy caps gains if the stock rises above the strike price. It is not ideal for strongly bullish investors.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-ch2-036",
@@ -1271,7 +1361,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A collar involves owning stock, buying a protective put (for downside protection), and selling a covered call (to offset the put cost). The put creates a floor, and the call creates a ceiling for the stock position.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-ch2-037",
@@ -1285,7 +1376,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Open-end mutual fund shares are always bought and sold at the net asset value (NAV), calculated at the end of each trading day. Unlike closed-end funds or stocks, mutual fund shares do not trade on exchanges at fluctuating market prices.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-sie-ch2-038",
@@ -1299,7 +1391,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Only closed-end funds can trade at a discount (or premium) to NAV because they trade on exchanges at market prices determined by supply and demand. Open-end mutual funds always transact at NAV.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-sie-ch2-039",
@@ -1313,7 +1406,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "The 75-5-10 rule requires that no more than 5% of a diversified fund's assets be invested in any single company. Additionally, 75% of assets must be diversified, and the fund cannot own more than 10% of any company's voting stock.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-sie-ch2-040",
@@ -1327,7 +1421,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Class B and C shares typically have higher 12b-1 fees (up to 1%) because they do not charge upfront sales loads. Class A shares charge a front-end load but have lower ongoing 12b-1 fees (usually 0.25% or less).",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-sie-ch2-041",
@@ -1341,7 +1436,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "The expense ratio includes ongoing fees: management fees, 12b-1 fees, and administrative expenses. Sales loads (front and back-end) and trading costs are not included in the expense ratio.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-sie-ch2-042",
@@ -1355,7 +1451,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A breakpoint sale is a prohibited practice where a representative intentionally keeps an investment below a breakpoint to earn a higher commission. The representative should inform the customer about the breakpoint and the benefit of investing slightly more to qualify for the lower sales charge.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "qb-sie-ch2-043",
@@ -1369,7 +1466,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "ETFs trade on exchanges throughout the day like stocks. Orders execute immediately at the current market price, not at end-of-day NAV like mutual funds. This intraday trading is a key distinction between ETFs and mutual funds.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-sie-ch2-044",
@@ -1383,7 +1481,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "ETFs are more tax-efficient primarily due to the in-kind creation/redemption process. When authorized participants redeem shares, they receive underlying securities rather than cash, avoiding the need to sell securities and trigger capital gains that would be distributed to shareholders.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-sie-ch2-045",
@@ -1397,7 +1496,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Investors can place limit orders for ETFs because they trade on exchanges at real-time prices. Mutual fund orders can only be market orders executed at end-of-day NAV. Both ETFs and mutual funds offer dividends, diversification, and index investing options.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "qb-sie-ch2-046",
@@ -1411,7 +1511,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "UITs hold a fixed portfolio of securities that does not change after creation and have a predetermined termination date when the trust dissolves. Unlike mutual funds, UITs are not actively managed and have no board of directors or investment adviser.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "qb-sie-ch2-047",
@@ -1425,7 +1526,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "REITs must distribute at least 90% of their taxable income to shareholders annually to maintain their special tax status. This requirement is why REITs typically offer high dividend yields.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "qb-sie-ch2-048",
@@ -1439,7 +1541,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "REIT dividends are generally taxed as ordinary income, not at the lower qualified dividend tax rate that applies to most corporate stock dividends. This is an important distinction for tax planning purposes.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "qb-sie-ch2-049",
@@ -1453,7 +1556,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "DPPs can pass through both income AND losses to investors, while REITs can only pass through income (not losses). This flow-through of losses is a key tax benefit that distinguishes DPPs from other investment vehicles.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "qb-sie-ch2-050",
@@ -1467,7 +1571,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The general partner (GP) has unlimited personal liability for partnership obligations. Limited partners have liability limited to their investment amount, as long as they do not participate in management decisions.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "qb-sie-ch2-051",
@@ -1481,7 +1586,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Under IRS passive activity rules, losses from DPPs can only offset passive income (such as rental income or income from other DPPs). DPP losses cannot be used to offset wages, salary, or portfolio income like dividends and interest.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "qb-sie-ch2-052",
@@ -1495,7 +1601,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Federal Reserve interest rate changes affect the entire market and economy, making it systematic (market) risk. The other options are company-specific events that represent unsystematic risk, which can be reduced through diversification.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-sie-ch2-053",
@@ -1509,7 +1616,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A beta of 1.5 means the stock is 50% more volatile than the market. If the market moves 10%, this stock would be expected to move 15% (1.5 x 10%) in the same direction.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-sie-ch2-054",
@@ -1523,7 +1631,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Systematic risk is measured by beta, which indicates a security volatility relative to the overall market. Systematic risk cannot be eliminated through diversification (that is unsystematic risk), affects all securities including stocks, and is also called market risk (not business risk).",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Investment Risks"
  },
  {
   "id": "qb-sie-ch2-055",
@@ -1537,7 +1646,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A product recall affects only one company, making it unsystematic (company-specific) risk. Inflation, recession, and Fed interest rate changes affect the entire market and are systematic risks.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-sie-ch2-056",
@@ -1551,7 +1661,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Research shows that 20-30 properly diversified stocks (across different sectors) can eliminate most unsystematic risk from a portfolio. Beyond this number, additional diversification provides diminishing benefits.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Investment Risks"
  },
  {
   "id": "qb-sie-ch2-057",
@@ -1565,7 +1676,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Financial risk is a type of unsystematic risk related to how a company finances its operations, particularly its debt levels and ability to meet interest payments. It is company-specific, not a market-wide factor.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-sie-ch2-058",
@@ -1579,7 +1691,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Diversification across many securities is the most effective way to reduce unsystematic (company-specific) risk. By holding 20-30 different stocks across various sectors, the impact of any single company problems is minimized.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-ch2-059",
@@ -1593,7 +1706,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Dollar-cost averaging reduces timing risk by investing fixed amounts at regular intervals. This approach eliminates the need to time the market and results in buying more shares when prices are low and fewer when prices are high.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "qb-sie-ch2-060",
@@ -1607,7 +1721,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Rebalancing maintains the intended risk level of a portfolio. When stocks outperform and grow to 70% of the portfolio, the risk has increased beyond the target. Selling stocks and buying bonds brings the portfolio back to the desired 60/40 allocation and risk profile.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Investment Risks"
  },
  {
   "id": "qb-sie-ch3-001",
@@ -1621,7 +1736,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A sell stop order placed below the current market price protects a long position. If the stock declines to the stop price, the order triggers and sells the shares to limit losses. Remember \"BLiSS\" - Buy Limit and Sell Stop go below the market.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "qb-sie-ch3-002",
@@ -1635,7 +1751,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A market order guarantees execution at the next available price but does not guarantee a specific price. Limit orders guarantee price but not execution. GTC refers to order duration, not order type.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "qb-sie-ch3-003",
@@ -1649,7 +1766,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "SLoBS stands for \"Sell Limit or Buy Stop\" - these orders are placed ABOVE the market. A sell limit is placed above because you want to sell at a higher price. A buy stop is placed above to protect a short position if prices rise.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "qb-sie-ch3-004",
@@ -1663,7 +1781,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "As of May 28, 2024, regular way settlement for most securities including corporate stocks is T+1 (one business day after trade date). The SEC shortened the cycle from T+2 to reduce market risk and improve efficiency.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "qb-sie-ch3-005",
@@ -1677,7 +1796,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "With T+1 settlement, the ex-dividend date is the SAME day as the record date. To receive the dividend, an investor must purchase the stock at least one business day before the record date so the trade settles by the record date.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "qb-sie-ch3-006",
@@ -1691,7 +1811,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Regulation T requires customer payment within 2 business days after settlement (S+2). With T+1 settlement, this means payment is due by T+3. In a cash account, the customer must pay 100% of the purchase price.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "qb-sie-ch3-007",
@@ -1705,7 +1826,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "When buying, customers pay the ask (offer) price. The ask of $45.75 is the price at which the market maker is willing to sell. The bid of $45.50 is what the market maker would pay to buy from a customer.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "qb-sie-ch3-008",
@@ -1719,7 +1841,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A narrow (tight) spread indicates high liquidity and an efficient market. When trading volume is high and many market makers compete, spreads narrow. Wide spreads typically indicate less liquid securities with fewer market makers.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "qb-sie-ch3-009",
@@ -1733,7 +1856,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Nasdaq is a dealer (negotiated) market where multiple market makers compete to trade securities. Each market maker posts their own bid-ask quotes. The NYSE, in contrast, is an auction market with a single Designated Market Maker (DMM) per stock.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "qb-sie-ch3-010",
@@ -1747,7 +1871,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Regulation T requires a 50% initial margin for most securities purchases. This means the customer must deposit at least 50% of the purchase price. The 25% figure is the FINRA minimum maintenance margin for long positions.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "qb-sie-ch3-011",
@@ -1761,7 +1886,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "In a JTWROS account, when one owner dies, the assets automatically pass to the surviving owner(s), avoiding probate. This differs from Tenants in Common (TIC), where the deceased owners share goes to their estate.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "qb-sie-ch3-012",
@@ -1775,7 +1901,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "UGMA/UTMA custodial accounts have specific restrictions: gifts are irrevocable (cannot be taken back), margin trading is not permitted, and there can only be one custodian and one minor per account.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "qb-sie-ch3-013",
@@ -1789,7 +1916,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "FINRA Rule 4512 requires firms to make a reasonable effort to obtain the name and contact information of a Trusted Contact Person (TCP) age 18 or older for non-institutional accounts. The TCP helps protect investors, especially seniors, from financial exploitation.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "qb-sie-ch3-014",
@@ -1803,7 +1931,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "FINRA and SEC rules require broker-dealers to maintain customer account records for 6 years after the account is closed. This includes the original or final account information and any updates made while the account was active.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "qb-sie-ch3-015",
@@ -1817,7 +1946,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "The TCP is a resource the firm may contact when there are concerns about the customer, such as possible financial exploitation or diminished capacity. The TCP does NOT have authority to trade and does not need to be related to the customer or be a registered representative.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-sie-ch3-016",
@@ -1831,7 +1961,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Traditional IRA contributions may be tax-deductible (depending on income and workplace plan status), with withdrawals taxed as ordinary income. Roth IRA contributions are made with after-tax dollars, but qualified withdrawals are tax-free. Both have the same contribution limits.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "qb-sie-ch3-017",
@@ -1845,7 +1976,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "Under the SECURE Act 2.0, Required Minimum Distributions (RMDs) must begin at age 73. This was increased from age 72 (SECURE Act) and 70 1/2 (pre-SECURE Act). Roth IRAs do not require RMDs during the owners lifetime.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "qb-sie-ch3-018",
@@ -1859,7 +1991,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The IRS allows 60 days to complete an indirect rollover. If the funds are not deposited into another qualified retirement account within 60 days, the distribution is taxable and may be subject to a 10% early withdrawal penalty if under age 59 1/2.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "qb-sie-ch3-019",
@@ -1873,7 +2006,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "Coverdell ESAs have an annual contribution limit of $2,000 per beneficiary. This is much lower than 529 plans, which have no federal annual limit. However, Coverdell ESAs offer more flexibility for K-12 expenses.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "qb-sie-ch3-020",
@@ -1887,7 +2021,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "529 plans limit K-12 tuition expenses to $10,000 per year. Unlike Coverdell ESAs, 529 plans have no income limits for contributors, no age restrictions, and anyone can contribute to an account.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "qb-sie-ch3-021",
@@ -1901,7 +2036,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "If the beneficiary receives a scholarship, up to the scholarship amount can be withdrawn without the 10% penalty. However, the earnings portion would still be subject to income tax. This is one of several exceptions to the early withdrawal penalty.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "qb-sie-ch3-022",
@@ -1915,7 +2051,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A CTR must be filed with FinCEN for any cash transaction exceeding $10,000, whether its a deposit, withdrawal, or exchange. Multiple cash transactions by the same person on the same day must be aggregated.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "AML & SARs"
  },
  {
   "id": "qb-sie-ch3-023",
@@ -1929,7 +2066,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Structuring (also called \"smurfing\") is intentionally breaking up transactions to avoid the $10,000 CTR reporting threshold. This is illegal and should be reported via a Suspicious Activity Report (SAR), even though individual transactions are below the threshold.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "AML & SARs"
  },
  {
   "id": "qb-sie-ch3-024",
@@ -1943,7 +2081,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Safe harbor protection shields financial institutions and employees who file SARs in good faith from civil and criminal liability. It is actually prohibited to notify (\"tip off\") the customer about the SAR filing, and customer consent is never required.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "AML & SARs"
  },
  {
   "id": "qb-sie-ch3-025",
@@ -1957,7 +2096,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Spoofing and layering involve placing non-bona fide orders to manipulate other traders behavior, then canceling before execution. Placing multiple orders at different price levels to move the market is specifically called layering.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "AML & SARs"
  },
  {
   "id": "qb-sie-ch3-026",
@@ -1971,7 +2111,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Front running is trading ahead of a known customer order to profit from the expected price movement. The representative is using confidential information about the customers pending order to benefit personally, which is a breach of fiduciary duty.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "qb-sie-ch3-027",
@@ -1985,7 +2126,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Pump and dump schemes involve artificially inflating (\"pumping\") a stocks price through false or misleading positive statements, then selling (\"dumping\") shares at the inflated price. Innocent investors are left holding devalued stock when the truth emerges.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "qb-sie-ch3-028",
@@ -1999,7 +2141,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Information is considered \"material\" if a reasonable investor would consider it important when making an investment decision. This includes information about earnings, mergers, major contracts, or other significant events that could affect the stock price.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "qb-sie-ch3-029",
@@ -2013,7 +2156,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "This is insider trading - the executive traded on material nonpublic information (MNPI). The pending earnings announcement is material (would affect investment decisions) and nonpublic (not yet announced). Trading while aware of this information violates SEC Rule 10b-5.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "qb-sie-ch3-030",
@@ -2027,7 +2171,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Rule 10b5-1 trading plans provide an affirmative defense against insider trading liability. If an insider establishes a written trading plan when they do not possess MNPI, and the plan specifies the trades in advance, they can execute the trades even if they later acquire MNPI.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "qb-sie-ch3-031",
@@ -2041,7 +2186,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "SEC Rule 15c3-3 (Customer Protection Rule) requires broker-dealers to maintain possession or control of customer securities and keep customer cash in a separate reserve account. This protects customer assets if the firm experiences financial difficulties.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "qb-sie-ch3-032",
@@ -2055,7 +2201,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Suitability analysis focuses on customer factors: investment objectives, risk tolerance, financial situation, time horizon, liquidity needs, and tax status. While conflicts of interest (including compensation) must be disclosed under Reg BI, they are not part of the suitability analysis itself.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "qb-sie-ch3-033",
@@ -2069,7 +2216,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Regulation Best Interest requires broker-dealers to act in the best interest of the retail customer when making recommendations. This includes a care obligation (understanding risks, considering customer profile), conflict mitigation, and proper disclosure through Form CRS.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "qb-sie-ch4-001",
@@ -2083,7 +2231,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "SIE exam results are valid for 4 years. During this time, a candidate can become associated with a firm and take a representative-level exam (like Series 6 or 7) to complete registration. After 4 years, the SIE must be retaken.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-sie-ch4-002",
@@ -2097,7 +2246,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Form U5 (Uniform Termination Notice) is filed when a registered representative leaves a firm, whether voluntarily or involuntarily. Form U4 is for registration, Form BD is for broker-dealer registration, and Form ADV is for investment advisers.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-sie-ch4-003",
@@ -2111,7 +2261,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "If a person leaves the industry for 2-4 years, they must retake the representative-level exam (like Series 7) but not the SIE, which remains valid for 4 years. After 4 years out of the industry, both the SIE and representative exam must be retaken.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-sie-ch4-004",
@@ -2125,7 +2276,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Beginning January 1, 2023, FINRA requires registered persons to complete the Regulatory Element annually by December 31. Failure to complete by the deadline results in CE Inactive status.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-sie-ch4-005",
@@ -2139,7 +2291,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The Firm Element is developed and administered by each member firm based on their specific business needs and an annual needs analysis. The Regulatory Element is administered by FINRA and covers industry-wide regulatory and compliance topics.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-sie-ch4-006",
@@ -2153,7 +2306,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Registered persons who fail to complete the Regulatory Element by December 31 are designated as CE Inactive by FINRA. While CE Inactive, they cannot engage in any activities requiring registration. If still inactive after 120 days, registration may be suspended.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-sie-ch4-007",
@@ -2167,7 +2321,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "FINRA Rule 3270 requires registered representatives to provide prior written notice to their firm before engaging in any outside business activity. The firm then decides whether to approve, restrict, or deny the activity.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-sie-ch4-008",
@@ -2181,7 +2336,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Selling away is a private securities transaction (PST) conducted without proper firm notice and approval. Under FINRA Rule 3280, all PSTs require prior written notice, and if compensation is involved, the firm must approve and supervise the transaction.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "qb-sie-ch4-009",
@@ -2195,7 +2351,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Under FINRA Rule 3220, registered representatives and member firms are limited to giving gifts valued at no more than $100 per person per year. This includes the aggregate value from all representatives at a firm to a single recipient.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-sie-ch4-010",
@@ -2209,7 +2366,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Correspondence is defined as written communication to 25 or fewer retail investors within a 30-day period. Since the email was sent to only 20 retail customers, it qualifies as correspondence, which has lighter regulatory requirements than retail communications.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "qb-sie-ch4-011",
@@ -2223,7 +2381,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Retail communications generally require principal (supervisor) pre-approval before use because they reach a larger audience (more than 25 retail investors). Correspondence and institutional communications do not require pre-approval, though they are subject to supervision and review.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "qb-sie-ch4-012",
@@ -2237,7 +2396,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "New FINRA member firms (those in their first year of membership) are required to file all retail communications with FINRA's Advertising Regulation Department. This heightened requirement helps FINRA monitor new firms' communications for compliance.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "qb-finra-001",
@@ -2251,7 +2411,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Under FINRA Rule 3280 (Private Securities Transactions), also known as \"selling away,\" an RR must provide WRITTEN notice to the member firm BEFORE participating in any private securities transaction. The notice must describe the proposed transaction and the RR's role, including any compensation to be received.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "qb-finra-001a",
@@ -2265,7 +2426,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "\"Selling away\" refers to an RR participating in private securities transactions outside their firm without proper written notification. This violates FINRA Rule 3280, which requires prior written notice to the member firm.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "qb-finra-002",
@@ -2279,7 +2441,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Rule 144A provides a safe harbor exemption from registration for sales of restricted securities to Qualified Institutional Buyers (QIBs). A QIB is typically an institution that owns and invests at least $100 million in securities.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-finra-002a",
@@ -2293,7 +2456,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A Qualified Institutional Buyer (QIB) must own and invest on a discretionary basis at least $100 million in securities of unaffiliated issuers. This threshold ensures only sophisticated institutional investors participate in Rule 144A transactions.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "qb-finra-003",
@@ -2307,7 +2471,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Under statutory (regular) voting, shareholders receive one vote per share owned for EACH director position. If you own 100 shares and there are 3 positions, you can cast up to 100 votes for each of the 3 positions (but cannot give more than 100 votes to any single candidate).",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "qb-finra-003a",
@@ -2321,7 +2486,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Cumulative voting allows shareholders to multiply their shares by the number of positions being elected and allocate all votes to one candidate. This helps minority shareholders gain board representation.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "qb-finra-004",
@@ -2335,7 +2501,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "Municipal bonds use the 30/360 day count convention, meaning each month is treated as having 30 days and each year as having 360 days. This simplifies accrued interest calculations.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "qb-finra-004a",
@@ -2349,7 +2516,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "U.S. Treasury securities use the actual/actual day count convention, counting the actual number of days in each month and year. This differs from municipal and corporate bonds which use 30/360.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "qb-finra-005",
@@ -2363,7 +2531,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "Regulation S-P requires firms to provide clear disclosure of their policies and procedures for protecting the confidentiality and security of consumers' nonpublic personal information.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "qb-finra-005a",
@@ -2377,7 +2546,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Regulation S-P requires broker-dealers to provide an annual privacy notice to customers, informing them of the firm's privacy policies and their right to opt out of information sharing with nonaffiliated third parties.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "qb-finra-006",
@@ -2391,7 +2561,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "When a broker-dealer charges a commission, it is acting as an AGENT, facilitating a transaction between buyer and seller without taking ownership of the securities. Agents earn commissions.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-finra-006a",
@@ -2405,7 +2576,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "When a broker-dealer trades from its own inventory, it acts as a PRINCIPAL (dealer). In this capacity, it charges a markup (on sales) or markdown (on purchases) rather than a commission.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "qb-finra-007",
@@ -2419,7 +2591,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "Call protection is most valuable when prices are rising (interest rates falling) because issuers are most likely to call bonds to refinance at lower rates. Call protection prevents this, allowing investors to keep their higher-yielding bonds.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-finra-007a",
@@ -2433,7 +2606,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Issuers call bonds when interest rates fall significantly because they can refinance the debt at lower rates, reducing their interest expense. This is similar to a homeowner refinancing a mortgage when rates drop.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-finra-008",
@@ -2447,7 +2621,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Rights (also called preemptive rights or subscription rights) give existing shareholders the privilege to purchase additional shares at a fixed subscription price, typically below market value, to maintain their proportionate ownership.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-finra-008a",
@@ -2461,7 +2636,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "Stock rights typically have a short lifespan of 30 to 45 days. Shareholders must exercise or sell their rights during this window or they will expire worthless.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-finra-009",
@@ -2475,7 +2651,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A 20% stock dividend means the shareholder receives 20% more shares: 1,000 x 1.20 = 1,200 shares. The total value stays the same ($50,000), so the new price per share is $50,000 / 1,200 = $41.67.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "qb-finra-009a",
@@ -2489,7 +2666,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "In a 2-for-1 split, shares double and price halves. 500 shares become 1,000 shares, and the price drops from $80 to $40. Total value remains $40,000.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "qb-finra-010",
@@ -2503,7 +2681,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "Under the Bank Secrecy Act, a Currency Transaction Report (CTR) must be filed with FinCEN within 15 days when a firm receives cash exceeding $10,000 in a single day from one customer. This is an anti-money laundering requirement.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "AML & SARs"
  },
  {
   "id": "qb-finra-010a",
@@ -2517,7 +2696,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A SAR must be filed when a firm suspects money laundering, terrorist financing, or other illegal activity. Unlike CTRs, SARs require a judgment that activity is suspicious, not just a dollar threshold.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "AML & SARs"
  },
  {
   "id": "qb-finra-011",
@@ -2531,7 +2711,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A recession is commonly defined as two consecutive quarters of negative GDP growth. This rule of thumb is widely used, although the official determination by the NBER considers additional factors.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-finra-011a",
@@ -2545,7 +2726,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Building permits are a leading economic indicator because they predict future construction activity. Leading indicators move BEFORE the economy changes direction.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-finra-012",
@@ -2559,7 +2741,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The type of annuity selected (life only, life with period certain, joint and survivor, etc.) significantly affects payment amounts. A life-only annuity pays more per period than one with guarantees because the insurer takes on less risk.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "qb-finra-012a",
@@ -2573,7 +2756,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A life-only (straight life) annuity provides the highest periodic payment because payments stop at death with no beneficiary payments. The insurer assumes no extra risk of paying beyond the annuitant's life.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-finra-013",
@@ -2587,7 +2771,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "During recession with low inflation, the Fed implements expansionary monetary policy by buying bonds in the open market. This injects money into the economy, lowering interest rates and stimulating borrowing and spending.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-finra-013a",
@@ -2601,7 +2786,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "To fight inflation, the Fed implements contractionary policy by selling securities. This removes money from circulation, raising interest rates and slowing economic activity.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-finra-014",
@@ -2615,7 +2801,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Asset-backed securities (ABS), including mortgage-backed securities, are quoted based on average life rather than stated maturity because the underlying loans can be prepaid at any time, making the actual cash flow timing uncertain.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "qb-finra-014a",
@@ -2629,7 +2816,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Mortgage-backed securities (MBS) have significant prepayment risk because homeowners can pay off mortgages early, especially when interest rates fall. This forces investors to reinvest at lower rates.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "qb-finra-015",
@@ -2643,7 +2831,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A felony CHARGE (not just conviction) involving theft, dishonesty, or securities-related misconduct can result in statutory disqualification. Theft is a crime involving dishonesty and moral turpitude.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-finra-015a",
@@ -2657,7 +2846,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "An investment-related customer-initiated complaint, arbitration, or civil litigation alleging sales-practice violations that is settled for $15,000 or more must be disclosed on Form U4 (threshold raised from $10,000 to $15,000, effective May 18, 2009). A $25,000 settlement exceeds that threshold and is reportable.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-finra-016",
@@ -2671,7 +2861,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Exchange rate (currency) risk is unique to foreign investments. Domestic debt is denominated in the home currency, so there's no exchange rate risk. Foreign debt involves converting payments between currencies.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-finra-016a",
@@ -2685,7 +2876,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "ADRs represent foreign stocks and involve currency risk because the underlying shares are denominated in a foreign currency. Changes in exchange rates affect ADR values.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-finra-017",
@@ -2699,7 +2891,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "Index options are cash-settled because delivering all the underlying stocks would be impractical. The holder receives the cash difference between the index level and the strike price.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-finra-017a",
@@ -2713,7 +2906,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Equity options on individual stocks are settled by physical delivery - the buyer receives (calls) or delivers (puts) 100 shares of the underlying stock. Index options use cash settlement.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "qb-finra-018",
@@ -2727,7 +2921,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A price of 102 means 102% of par value ($1,020 for a $1,000 bond). Since this exceeds par (100), the bond is trading at a PREMIUM. This occurs when the coupon rate exceeds current market rates.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-finra-018a",
@@ -2741,7 +2936,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A price of 95 means 95% of par value ($950 for a $1,000 bond). Since this is below par (100), the bond trades at a DISCOUNT. This occurs when market rates exceed the coupon rate.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-finra-019",
@@ -2755,7 +2951,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "529 plan contributions may be deductible for STATE income tax purposes in many states. There is no federal tax deduction for 529 contributions, but qualified withdrawals are tax-free.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "qb-finra-019a",
@@ -2769,7 +2966,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Qualified distributions from 529 plans for education expenses (tuition, room, board, books) are completely tax-free at the federal level and usually at the state level.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "qb-finra-020",
@@ -2783,7 +2981,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "Index funds use passive management, simply tracking an index rather than actively selecting securities. This results in lower management fees (expense ratios) compared to actively managed funds.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-finra-020a",
@@ -2797,7 +2996,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Actively managed funds have higher expense ratios because they employ portfolio managers and analysts to research and select securities. Index funds simply track an index with minimal management.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-finra-021",
@@ -2811,7 +3011,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Regulation T requires 50% initial margin, but FINRA also requires a minimum of $2,000 (or the full purchase price if less than $2,000). For a $3,000 purchase, 50% = $1,500, but the $2,000 minimum applies, so $2,000 is required.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "qb-finra-021a",
@@ -2825,7 +3026,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Regulation T, set by the Federal Reserve, requires an initial margin of 50% for the purchase of marginable securities. The customer must deposit at least half the purchase price.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "qb-finra-022",
@@ -2839,7 +3041,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Variable Rate Demand Notes (VRDNs) are municipal securities with floating rates that reset frequently and include a put feature allowing investors to tender (put back) the notes daily or weekly at par.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-finra-022a",
@@ -2853,7 +3056,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "VRDNs are popular in municipal money market funds because their put feature provides daily/weekly liquidity, and floating rates mean minimal interest rate risk. They effectively trade like short-term instruments.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "qb-finra-023a",
@@ -2867,7 +3071,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "As of May 28, 2024, regular way settlement for corporate securities (stocks and bonds) is T+1 (one business day after the trade date). The SEC shortened the cycle from T+2 to T+1 under amended Rule 15c6-1.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "qb-finra-024",
@@ -2881,7 +3086,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Open-end funds use forward pricing - shares are redeemed at the NAV calculated at the close of business AFTER the order is received. This ensures all investors receive the same price on a given day.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-finra-024a",
@@ -2895,7 +3101,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Under forward pricing rules, mutual fund orders placed before 4:00 PM Eastern are executed at that day's closing NAV (calculated at 4:00 PM). Orders after 4:00 PM get the next day's NAV.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-finra-025",
@@ -2909,7 +3116,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "The spot exchange rate determines the immediate conversion rate between currencies. It represents the current market price for exchanging one currency for another.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-finra-025a",
@@ -2923,7 +3131,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Higher U.S. interest rates attract foreign investment seeking better returns. This increases demand for dollars, strengthening the currency. Capital flows toward higher yields.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-finra2-001",
@@ -2937,7 +3146,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "Under MSRB Rule G-37, municipal finance professionals may contribute up to $250 per election to officials for whom they are entitled to vote without triggering the two-year ban on municipal securities business. Since this is a de minimis contribution and the MFP can vote for the mayor, the $250 limit applies.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "qb-finra2-002",
@@ -2951,7 +3161,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "MSRB Rule G-37 imposes a two-year ban on municipal securities business with a municipality if an MFP contributes more than $250 to an official of that municipality. This \"pay-to-play\" rule is designed to prevent quid pro quo arrangements in municipal finance.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "qb-finra2-003",
@@ -2965,7 +3176,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "Under the Bank Secrecy Act and USA PATRIOT Act, every broker-dealer must have an AML program that includes: (1) internal policies and procedures, (2) designation of a compliance officer, (3) ongoing employee training, and (4) independent testing of the program. The program does not need to be filed with FINRA.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "qb-finra2-004",
@@ -2979,7 +3191,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "An AML program must include written policies/procedures, a designated compliance officer, ongoing training, and independent testing. There is no requirement for monthly reports to FinCEN, though Suspicious Activity Reports (SARs) must be filed when suspicious activity is detected.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "AML & SARs"
  },
  {
   "id": "qb-finra2-005",
@@ -2993,7 +3206,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "In a forward stock split, the number of shares increases and the price per share decreases proportionally. For example, in a 2-for-1 split, an investor with 100 shares at $50 would have 200 shares at $25. The total value and proportionate ownership remain the same.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "qb-finra2-006",
@@ -3007,7 +3221,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "In a 3-for-1 stock split, the number of shares triples and the price is divided by 3. The investor would have 300 shares (100 x 3) at $30 per share ($90 / 3). The total value remains $9,000 before and after the split.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "qb-finra2-007",
@@ -3021,7 +3236,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "Freeriding occurs when a customer buys securities in a cash account, sells them before paying for them, and uses the sale proceeds to pay for the original purchase. This violates Regulation T and results in a 90-day freeze requiring the customer to have cash in the account before placing trades.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "qb-finra2-008",
@@ -3035,7 +3251,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "This is freeriding - buying securities in a cash account and selling them before paying for them in full, using the sale proceeds to cover the purchase. Freeriding violates Regulation T and results in a 90-day freeze on the account, requiring funds to be deposited before placing future trades.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "qb-finra2-009",
@@ -3049,7 +3266,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "An unregistered associated person may perform only clerical functions such as providing account opening forms. Accepting orders, discussing investment products, and prequalifying customers are all activities that require registration as a representative.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-finra2-010",
@@ -3063,7 +3281,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Making securities recommendations to customers is a registered representative function that requires passing appropriate qualification exams. Administrative tasks like distributing approved materials, scheduling appointments, and processing address changes are clerical functions that do not require registration.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-finra2-011",
@@ -3077,7 +3296,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "ETNs are unsecured debt obligations of the issuer, meaning investors are exposed to the issuer's credit risk. If the issuer's credit rating is downgraded, the value of the ETN will likely decline. Mutual funds, UITs, and ETFs hold baskets of securities and are not directly impacted by the credit rating of the fund company.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-finra2-012",
@@ -3091,7 +3311,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The key difference is that ETNs are unsecured debt obligations of the issuing bank, exposing investors to credit risk. ETFs actually hold a portfolio of underlying securities. Both trade on exchanges. ETNs have maturity dates while ETFs do not.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "qb-finra2-013",
@@ -3105,7 +3326,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Market makers provide liquidity by standing ready to buy and sell securities at publicly quoted bid and ask prices. They profit from the spread between these prices. Brokers execute trades for customers, underwriters sell new issues, and transfer agents maintain ownership records.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "qb-finra2-014",
@@ -3119,7 +3341,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Market makers profit from the bid-ask spread - buying at the bid price and selling at the higher ask price. They do not charge commissions (that's how brokers earn money). While some exchanges offer rebates for providing liquidity, the primary profit source is the spread.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "qb-finra2-015",
@@ -3133,7 +3356,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "To be classified as a no-load fund, 12b-1 fees cannot exceed 0.25% (25 basis points). Funds with higher 12b-1 fees must be classified as load funds. No-load funds can still charge 12b-1 fees, just not more than 25 bps. Sales charges are not part of expense ratios.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-finra2-016",
@@ -3147,7 +3371,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Under SEC rules, a fund may be called \"no-load\" only if it has no front-end or back-end sales charges and its 12b-1 fee does not exceed 0.25% (25 basis points). A fund with higher 12b-1 fees cannot market itself as no-load.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-finra2-017",
@@ -3161,7 +3386,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "Selling away occurs when a registered representative engages in securities transactions outside the scope of their employment without written approval from their firm. This violates FINRA Rule 3280. Representatives must notify their firm and receive written permission before engaging in any private securities transactions.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-finra2-018",
@@ -3175,7 +3401,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Private securities transactions (selling away) require written notice to the member firm. If the representative will receive compensation, the firm must approve the transaction in writing and supervise it as if done through the firm. This applies regardless of family relationships.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-finra2-020",
@@ -3189,7 +3416,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Treasury bonds have maturities of 20-30 years, making them long-term instruments rather than money market instruments. Money market instruments mature in one year or less and include T-bills (up to 52 weeks), commercial paper (up to 270 days), and banker's acceptances (up to 180 days).",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "qb-finra2-021",
@@ -3203,7 +3431,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A letter of intent (LOI) allows an investor to receive breakpoint discounts on mutual fund purchases over a 13-month period. The investor signs the LOI agreeing to invest a specified amount, and all purchases within 13 months count toward the breakpoint. The LOI can be backdated 90 days.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-finra2-022",
@@ -3217,7 +3446,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A letter of intent is binding. If the investor fails to meet the commitment within 13 months, shares held in escrow are liquidated to pay the higher sales charge that should have been charged. The investor received a discount based on the expected $50,000 but only invested $30,000.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-finra2-023",
@@ -3231,7 +3461,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "In a protective put (married put) position, the break-even is the stock purchase price plus the put premium paid. The customer paid $35 for the stock plus $3 for the put, so the stock must rise to $38 to break even. The put protects against losses below $35 but costs $3.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-finra2-024",
@@ -3245,7 +3476,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "In a protective put, the maximum loss is limited to the premium paid for the put. The put guarantees the ability to sell at $50, so even if the stock goes to zero, the investor loses only the $4 premium ($400 total). This is the benefit of a protective put - it limits downside risk.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-finra2-025",
@@ -3259,7 +3491,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Treasury notes (and Treasury bonds) pay interest semiannually (every 6 months). Treasury bills do not pay periodic interest - they are sold at a discount and mature at face value. The semiannual payment is standard for most U.S. government and corporate bonds.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "qb-finra2-026",
@@ -3273,7 +3506,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Treasury bills (T-bills) are sold at a discount to face value and do not pay periodic interest. The investor's return is the difference between the discounted purchase price and the face value at maturity. T-notes, T-bonds, and TIPS all pay semiannual interest.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-finra2-027",
@@ -3287,7 +3521,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "This portfolio has significant sector concentration (60% in just two sectors), which exposes it to nonsystematic (unsystematic) risk. Nonsystematic risk is company-specific or sector-specific risk that can be reduced through diversification. A well-diversified portfolio across many sectors would have less nonsystematic risk.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-finra2-028",
@@ -3301,7 +3536,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Unsystematic risk (also called nonsystematic or diversifiable risk) is specific to individual companies or sectors and can be reduced through diversification. Systematic risk (market risk, interest rate risk) affects the entire market and cannot be diversified away.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Investment Risks"
  },
  {
   "id": "qb-finra2-029",
@@ -3315,7 +3551,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "FINRA Rule 3270 requires registered representatives to provide written notice of any outside business activity for which they receive compensation. Driving for a rideshare company is compensated outside employment requiring notification. Volunteer work without compensation does not require notification.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-finra2-030",
@@ -3329,7 +3566,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Working as a real estate agent is an outside business activity requiring prior written notice to the member firm under FINRA Rule 3270. The firm may approve, disapprove, or place conditions on the activity. There is no exemption for real estate or any other profession.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-finra2-031",
@@ -3343,7 +3581,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Warrants typically have the longest expiration periods, often 5-10 years or even perpetual. Rights usually expire in 30-45 days. Exchange-traded options have expirations from 1 week to 3 years, with most being less than 1 year. Repurchase agreements are typically very short-term (overnight to a few weeks).",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-finra2-032",
@@ -3357,7 +3596,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "Stock rights (preemptive rights) typically have short expiration periods of 30-45 days. They allow existing shareholders to purchase new shares in proportion to their holdings before the public offering. Due to their short life, rights must be exercised or sold quickly.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-finra2-033",
@@ -3371,7 +3611,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "Using past performance to predict future results is misleading because past performance is not indicative of future results. FINRA prohibits communications that imply future performance can be predicted from historical data. Factual historical illustrations, product comparisons, and research recommendations based on analysis are permitted.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "qb-finra2-034",
@@ -3385,7 +3626,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Stating that past performance \"will continue\" is a guarantee of future performance, which is prohibited. Communications must not predict or imply that past performance will continue. While the historical 12% return is factual, promising its continuation is misleading and violates FINRA rules.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "qb-finra2-035",
@@ -3399,7 +3641,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "Since only 900,000 shares were tendered (less than the 1 million share maximum), all tendered shares will be purchased. The investor's 1,000 shares will be fully purchased at $10 per share. If more than 1 million shares had been tendered, shares would be purchased on a pro-rata basis.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "qb-finra2-036",
@@ -3413,7 +3656,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "When a tender offer is oversubscribed, shares are purchased on a pro-rata basis from all shareholders who tendered. In this case, 500,000/750,000 = 66.7% of each shareholder's tendered shares would be purchased. This ensures fair treatment of all tendering shareholders.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "qb-finra2-037",
@@ -3427,7 +3671,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The syndicate desk is responsible for building the book of orders (book building) and allocating shares to investors in a new equity offering. Soliciting interest is done by the sales force during the road show. The syndicate desk manages the overall demand and determines allocations.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-finra2-038",
@@ -3441,7 +3686,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Book building is the process where underwriters collect indications of interest and orders from institutional investors to gauge demand and help set the offering price. This is managed by the syndicate desk. It helps determine both the offering price and how shares will be allocated.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-finra2-039",
@@ -3455,7 +3701,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "Agreements to repurchase securities at no less than the original price are prohibited as they constitute a guarantee against loss, which is fraudulent and manipulative. Such guarantees artificially induce customers to purchase securities by eliminating risk, which distorts the market.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "qb-finra2-040",
@@ -3469,7 +3716,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Guaranteeing customers against loss or promising to make up losses is strictly prohibited under FINRA rules. This includes sharing in customer losses. Such promises are fraudulent and manipulative, distorting the customer's perception of investment risk.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "qb-finra2-041",
@@ -3483,7 +3731,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Variable life insurance invests the cash value in separate accounts (similar to mutual funds). The cash value and potentially the death benefit fluctuate based on investment performance. Market risk is the primary concern because poor investment performance can reduce the cash value and may require additional premium payments.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-finra2-042",
@@ -3497,7 +3746,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Variable life insurance cash values are invested in separate accounts (subaccounts) selected by the policyholder, similar to mutual fund options. This differs from whole life insurance, where cash values are invested in the insurer's general account. The separate accounts bear investment risk.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-finra2-043",
@@ -3511,7 +3761,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "An analyst's opinion based on publicly available information and professional judgment is not inside information. Trading based on analyst research is legal. The other scenarios involve material nonpublic information received from insiders or through misappropriation, which would violate insider trading laws.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "qb-finra2-044",
@@ -3525,7 +3776,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Published analyst recommendations are public information, not material nonpublic information. Analysts base recommendations on public data and professional judgment. Upcoming earnings, pending mergers, and undisclosed investigations are material nonpublic information that insiders cannot trade on.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "qb-finra2-045",
@@ -3539,7 +3791,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "In a market maker quote, the first number is the bid (price to buy), the second is the ask (price to sell). The bracketed numbers indicate size in round lots (100 shares). So 25x10 means 25 round lots (2,500 shares) on the bid at $10.00 and 10 round lots (1,000 shares) on the ask at $10.10.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "qb-finra2-046",
@@ -3553,7 +3806,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The bid-ask spread is the difference between the ask price (what you pay to buy) and the bid price (what you receive when selling). In this case, $45.75 - $45.50 = $0.25. The spread represents the market maker's profit on a round-trip transaction.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "qb-finra2-047",
@@ -3567,7 +3821,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "The Federal Deposit Insurance Corporation (FDIC) insures bank deposits including savings accounts, checking accounts, CDs, and money market deposit accounts up to $250,000 per depositor, per bank. SIPC protects securities at broker-dealers, not bank deposits.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "qb-finra2-048",
@@ -3581,7 +3836,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The FDIC insures deposits up to $250,000 per depositor, per insured bank, per ownership category. This limit was permanently increased from $100,000 in 2010. Joint accounts and retirement accounts may provide additional coverage under different ownership categories.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "qb-finra2-049",
@@ -3595,7 +3851,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Under FINRA rules, all retail communications (including advertisements) must be approved by a registered principal of the member firm before use. This is an internal firm review, not a regulatory filing. Some communications may require filing with FINRA, but the approval comes from the firm's principal.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-finra2-050",
@@ -3609,7 +3866,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A registered principal (supervisor with appropriate licenses) must approve retail communications before first use. While FINRA requires certain communications to be filed, the approval responsibility lies with the firm's principal. This ensures the firm is supervising its representatives' communications.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-finra3-001",
@@ -3623,7 +3881,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Treasury bonds (long-term fixed income securities) are most exposed to inflation risk because their fixed payments lose purchasing power over time as prices rise. Short-term instruments like T-bills are less affected because they mature quickly and can be reinvested at higher rates. Stocks, including utilities and blue chips, can potentially raise prices to offset inflation.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-finra3-002",
@@ -3637,7 +3896,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Long-term fixed-rate bonds like 30-year Treasury bonds offer no protection against inflation. REITs and common stocks can increase in value with inflation, and TIPS are specifically designed to protect against inflation by adjusting principal with the CPI.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-finra3-004",
@@ -3651,7 +3911,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Under UTMA, once assets are transferred to the minor, the gift is irrevocable and the assets belong to the minor. There can only be one custodian, the custodian cannot borrow from the account, and each UTMA account is for one minor only with no requirement for equal distributions among siblings.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "qb-finra3-005",
@@ -3665,7 +3926,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "Broker-dealers cannot accept payment for new issues until the SEC declares the registration statement effective. During the cooling-off period, indications of interest may be collected but no sales or payment can occur. The red herring (preliminary prospectus) is used to gauge interest but does not authorize sales.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-finra3-006",
@@ -3679,7 +3941,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "During the cooling-off period (while SEC reviews the registration statement), broker-dealers may distribute the red herring prospectus, collect non-binding indications of interest, and hold due diligence meetings. However, they cannot accept money or make binding sales until the registration becomes effective.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-finra3-007",
@@ -3693,7 +3956,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "Commissions are considered cash compensation, not noncash compensation. Noncash compensation includes gifts, meals, lodging, and entertainment. FINRA has strict rules limiting noncash compensation to prevent conflicts of interest in recommending variable products.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "qb-finra3-008",
@@ -3707,7 +3971,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "FINRA limits noncash compensation (such as gifts, trips, and entertainment) to prevent conflicts of interest that could lead representatives to recommend products based on incentives rather than customer suitability. Limits typically restrict gifts to $100 per person per year.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "qb-finra3-009",
@@ -3721,7 +3986,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "In the OTC market, the spread is the difference between the bid price (what the dealer will pay to buy) and the asked price (what the dealer will sell for). This spread represents the dealer's profit margin on transactions. A narrower spread indicates a more liquid market.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "qb-finra3-010",
@@ -3735,7 +4001,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The spread is the difference between the ask price ($25.10) and the bid price ($25.00), which equals $0.10. The bid is what the market maker pays to buy, and the ask is what they charge to sell. The spread is their compensation for making a market.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "qb-finra3-011",
@@ -3749,7 +4016,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "Both Roth 401(k) and Roth IRA accounts feature tax-free qualified distributions. Contributions are made with after-tax dollars, both have contribution limits, and both are subject to early withdrawal penalties on earnings before age 59-1/2 unless an exception applies.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "qb-finra3-012",
@@ -3763,7 +4031,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Roth IRA earnings grow tax-free, and qualified distributions are not taxable. Contributions are made with after-tax dollars (not deductible), Roth IRAs have no required minimum distributions during the owner's lifetime, and anyone with earned income below the income limits can contribute.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "qb-finra3-013",
@@ -3777,7 +4046,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "FinCEN (Financial Crimes Enforcement Network) is a bureau of the U.S. Treasury that enforces the Bank Secrecy Act (BSA). The BSA requires financial institutions to assist government agencies in detecting and preventing money laundering and terrorist financing through reporting requirements.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "AML & SARs"
  },
  {
   "id": "qb-finra3-014",
@@ -3791,7 +4061,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "The Bank Secrecy Act requires financial institutions to file a Currency Transaction Report (CTR) for any cash transaction exceeding $10,000. Suspicious Activity Reports (SARs) may be filed for suspicious transactions of $5,000 or more, but CTRs specifically apply to cash over $10,000.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "AML & SARs"
  },
  {
   "id": "qb-finra3-015",
@@ -3805,7 +4076,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "When an option writer (seller) wants to close their position, they must buy back the same option. This is called a closing purchase. An opening sale creates a short option position, while a closing purchase eliminates it. Buyers use closing sales to exit long positions.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-finra3-016",
@@ -3819,7 +4091,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "An investor who bought (is long) a call option closes the position by selling the same option, which is a closing sale. Opening transactions establish new positions, while closing transactions eliminate existing ones. Long positions are closed with sales; short positions are closed with purchases.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-finra3-017",
@@ -3833,7 +4106,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "A covered call writer owns the underlying stock and sells a call. Profit is limited to the premium received plus any gain up to the strike price. Loss is limited because they own the stock (it can only go to zero), and the premium received provides some downside protection. Compare to naked calls which have unlimited loss potential.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-finra3-018",
@@ -3847,7 +4121,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Investors write covered calls primarily to generate additional income (the premium) from stocks they already own and are willing to sell at the strike price. This strategy is conservative and used for income enhancement, not speculation. It provides limited downside protection but caps upside potential.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-finra3-019",
@@ -3861,7 +4136,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "The transfer agent maintains the official list of a company's shareholders and their holdings. When a stock split occurs, the transfer agent identifies eligible shareholders and arranges for distribution of additional shares. The issuer declares the split, DTC settles trades, and custodians hold securities.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "qb-finra3-020",
@@ -3875,7 +4151,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The transfer agent issues new stock certificates and cancels old ones when ownership changes. They maintain the official shareholder register for the issuing company. The registrar verifies that outstanding shares match authorized shares, clearing corporations settle trades, and depositories hold securities.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "qb-finra3-021",
@@ -3889,7 +4166,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Once a dividend is declared (publicly announced by the board of directors), it is public information, not insider information. Insider information is material nonpublic information such as undisclosed mergers, undisclosed management changes, or financial problems not yet revealed to the public.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "qb-finra3-022",
@@ -3903,7 +4181,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Insider trading violates the Securities Exchange Act of 1934, specifically Rule 10b-5, which prohibits fraud in connection with the purchase or sale of securities. This includes trading while in possession of material nonpublic information or tipping others to trade on such information.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "qb-finra3-023",
@@ -3917,7 +4196,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "Short-term bonds have less price sensitivity to interest rate changes than long-term bonds. A portfolio of short-maturity bonds will experience smaller price fluctuations as rates change, providing greater stability. Long-term bonds are more volatile because their prices move more dramatically with rate changes.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-finra3-024",
@@ -3931,7 +4211,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "A 1-year Treasury bill has the shortest maturity and therefore the lowest duration and price sensitivity. Longer-term bonds experience greater price swings when interest rates change. The T-bill's short maturity means its price is relatively stable regardless of rate movements.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "qb-finra3-025",
@@ -3945,7 +4226,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "ADRs must be registered under the Securities Act of 1933 because they are issued by U.S. banks representing foreign securities. Municipal securities and U.S. government securities are exempt from registration. Eurodollar bonds issued outside the U.S. may not require SEC registration.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "qb-finra3-026",
@@ -3959,7 +4241,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Municipal bonds are exempt from registration under the Securities Act of 1933. Other exempt securities include U.S. government securities, bank securities, and commercial paper with maturities under 270 days. Corporate bonds, ADRs, and IPO shares all require registration.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-finra3-027",
@@ -3973,7 +4256,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "Inherited securities receive a \"stepped-up\" cost basis equal to the fair market value (NAV for mutual funds) on the date of the original owner's death. This eliminates any unrealized gains that occurred during the decedent's lifetime, potentially saving the heir significant capital gains taxes.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-finra3-028",
@@ -3987,7 +4271,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "The heir receives a stepped-up cost basis equal to the fair market value at the date of death ($50,000). If the heir later sells for $55,000, the taxable gain is only $5,000, not $45,000. This is a significant tax benefit of inherited assets versus gifted assets, which use carryover basis.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "qb-finra3-029",
@@ -4001,7 +4286,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Secured debt holders have the highest priority in bankruptcy because their claims are backed by specific collateral. The liquidation priority order is: secured creditors, unsecured creditors (including bondholders), preferred stockholders, and finally common stockholders. Common and preferred stock are last because they represent ownership, not debt.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-finra3-030",
@@ -4015,7 +4301,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Common stockholders are at the bottom of the priority list in liquidation. They receive any remaining assets only after all creditors (secured and unsecured) and preferred stockholders have been paid. This reflects the higher risk of equity ownership compared to debt.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-finra3-031",
@@ -4029,7 +4316,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "Blue-sky laws are state securities laws enforced by state securities administrators. Each state has its own securities regulations that may require registration of securities, broker-dealers, and investment advisers within that state. The SEC enforces federal securities laws, while FINRA regulates broker-dealers at the national level.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "qb-finra3-032",
@@ -4043,7 +4331,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "NASAA (North American Securities Administrators Association) created the Uniform Securities Act as a model law that states can adopt to bring consistency to state securities regulation. Individual states may adopt it in whole or in part. NASAA coordinates among state regulators but does not enforce rules directly.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "qb-finra3-033",
@@ -4057,7 +4346,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "In a primary distribution, the issuing company sells new shares and receives the proceeds for corporate purposes. In a secondary distribution, existing shareholders sell their already-issued shares, and the issuer receives nothing. Both can involve equity or debt, and pricing varies based on the type of offering.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-finra3-034",
@@ -4071,7 +4361,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "An IPO (Initial Public Offering) is a primary distribution where the company issues new shares to the public for the first time and receives the proceeds. After the IPO, trading among investors occurs in the secondary market. A secondary distribution involves selling existing shares, not new issuance.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-finra3-035",
@@ -4085,7 +4376,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "For inactive accounts with positions but no activity, broker-dealers must send statements at least quarterly. Active accounts with transactions during the month require monthly statements. The quarterly minimum ensures customers can monitor their holdings and detect any unauthorized activity.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "qb-finra3-036",
@@ -4099,7 +4391,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Accounts with activity during the month must receive monthly statements. This includes any purchase, sale, interest or dividend credit, or other transaction. The statement must show all positions, transactions, and any changes to the account during the statement period.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "qb-finra3-037",
@@ -4113,7 +4406,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "In a 1-for-2 reverse split, shareholders receive 1 new share for every 2 old shares, reducing the number of shares by half. The price doubles to maintain the same total value: 100 shares becomes 50 shares, and $50 per share becomes $100 per share. Total value remains $5,000.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "qb-finra3-038",
@@ -4127,7 +4421,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "In a 2-for-1 forward split, shareholders receive 2 new shares for each share owned, doubling the share count. The price is halved to maintain the same total value: 200 shares becomes 400 shares, $80 becomes $40. Total value remains $16,000 (200 x $80 = 400 x $40).",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "qb-finra3-039",
@@ -4141,7 +4436,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A call provision specifies when the issuer can call (redeem) the bond before maturity (the call date) and at what price (the call price, typically at a premium to par). This protects issuers if interest rates decline, allowing them to refinance at lower rates. Investors face reinvestment risk.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-finra3-040",
@@ -4155,7 +4451,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A call provision benefits the issuer when rates decline because they can call the existing high-coupon bonds and reissue new bonds at lower rates, reducing interest costs. Put provisions benefit bondholders. Conversion provisions benefit bondholders when stock prices rise.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-finra3-041",
@@ -4169,7 +4466,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A married couple with joint income exceeding $300,000 for the past two years, with reasonable expectation of the same for the current year, meets the accredited investor definition under Regulation D. Accredited investors can participate in private placements. QIBs require $100 million in securities owned.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-finra3-042",
@@ -4183,7 +4481,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "An individual qualifies as an accredited investor with net worth exceeding $1 million, excluding the value of their primary residence. This change was made by Dodd-Frank to prevent over-reliance on home equity. The income test is $200,000 individual or $300,000 joint for the past two years.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-finra3-043",
@@ -4197,7 +4496,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Treasury stock is previously issued stock that the company has reacquired through buybacks. Treasury shares do not vote, do not receive dividends, and are not counted as outstanding shares for per-share calculations. They can be reissued, retired, or used for employee compensation plans.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "qb-finra3-044",
@@ -4211,7 +4511,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "Outstanding shares equal issued shares minus treasury shares. With 10 million issued and 1 million held as treasury stock, there are 9 million outstanding shares. Outstanding shares are those held by investors and are used to calculate earnings per share and other per-share metrics.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-finra3-045",
@@ -4225,7 +4526,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "DPPs provide exposure to alternative assets like oil and gas, real estate, and equipment leasing that may not correlate with stock and bond markets. This diversification benefit is valuable. However, DPPs are illiquid (not traded on exchanges) and lack the transparency of public securities.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "qb-finra3-046",
@@ -4239,7 +4541,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "DPPs are structured as limited partnerships where tax benefits (deductions, credits) pass through directly to investors' personal tax returns. DPPs are illiquid with no active secondary market, are not traded on exchanges, and offer no guaranteed returns. They are suitable for sophisticated, high-net-worth investors.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "qb-finra3-047",
@@ -4253,7 +4556,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "All U.S. government and government agency securities are exempt from registration under the Securities Act of 1933. However, tax treatment varies: Treasury securities are exempt from state tax, while most agency securities are fully taxable. Most agency securities are not backed by the full faith and credit of the U.S. government.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "qb-finra3-048",
@@ -4267,7 +4571,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "U.S. Treasury securities interest is subject to federal income tax but exempt from state and local income taxes. This makes Treasuries particularly attractive to investors in high-tax states. Municipal bond interest, by contrast, is exempt from federal tax.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "qb-finra3-049",
@@ -4281,7 +4586,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "In a tenants in common (TIC) account, there is no right of survivorship. When one owner dies, their share passes according to their will or state intestacy laws, not automatically to surviving owners. Ownership percentages can be unequal, any number of owners is allowed, and they need not be related.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "qb-finra3-050",
@@ -4295,7 +4601,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "Both Joint Tenants with Right of Survivorship (JTWROS) and Tenancy by the Entirety feature the right of survivorship, where the surviving owner(s) automatically inherit the deceased owner's share. Tenancy by the entirety is available only to married couples. Tenants in common has no survivorship rights.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "qb-siep-001",
@@ -4309,7 +4616,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Call protection is the period during which the issuer cannot call (redeem) the bonds. It is calculated from the issue date to the first call date. From January 1, 2025 to January 1, 2030 is 5 years of call protection.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-siep-002",
@@ -4323,7 +4631,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The first call date determines when the issuer can first exercise its right to redeem the bonds early. The period from issuance until the first call date is the call protection period, during which bondholders are protected from early redemption.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "qb-siep-003",
@@ -4337,7 +4646,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Preferred stock dividends are calculated as a percentage of par value. With a $100 par value and 6% dividend rate: $100 x 6% = $6.00 annual dividend per share.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-siep-004",
@@ -4351,7 +4661,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Preferred stock pays fixed dividends (typically at a stated rate on $100 par value), making it attractive for income-focused investors. It has less price volatility than common stock because its value is based primarily on dividend payments.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-siep-005",
@@ -4365,7 +4676,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "For mutual funds, the Board of Directors sets the ex-dividend date as part of its dividend declaration. This is different from exchange-traded stocks, where the exchange determines the ex-date based on settlement rules.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "qb-siep-006",
@@ -4379,7 +4691,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Unlike exchange-traded securities where the ex-date is determined by exchange rules (typically one business day before record date), mutual fund ex-dates are set by the fund's Board of Directors as part of the dividend declaration.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "qb-siep-007",
@@ -4393,7 +4706,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Time and price discretion (also called \"not held\" orders) only require verbal authorization. A power of attorney is not required because the customer has specified the asset and amount. The representative only has discretion over timing and price.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "qb-siep-008",
@@ -4407,7 +4721,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "When a customer specifies the security (ABC) and quantity (100 shares) but gives the representative discretion only over time and/or price, this is time and price discretion, which requires only verbal authorization - no written POA needed.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "qb-siep-009",
@@ -4421,7 +4736,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The minimum maintenance margin for long stock positions is 25% of the current market value. If equity falls below this level, a maintenance call is issued requiring the customer to deposit additional funds.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "qb-siep-010",
@@ -4435,7 +4751,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Short positions require a 30% minimum maintenance margin because of their unlimited risk potential. This is higher than the 25% requirement for long positions.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "qb-siep-011",
@@ -4449,7 +4766,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "In a cash account, customers must pay for securities in full by the settlement date. For most securities, settlement occurs on T+1 (one business day after trade date).",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "qb-siep-012",
@@ -4463,7 +4781,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The fundamental distinction is that cash accounts require customers to pay 100% of the purchase price by settlement date. No credit is extended, unlike margin accounts where customers can borrow a portion of the purchase price.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "qb-siep-013",
@@ -4477,7 +4796,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Buying call options is a bullish strategy. As the underlying stock price rises, the value of call options increases, allowing the holder to profit from the upward movement with limited risk (maximum loss is the premium paid).",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-siep-014",
@@ -4491,7 +4811,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Long call options increase in value when the underlying stock rises. A market rally would cause call premiums to increase due to higher intrinsic value and potentially higher implied volatility.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-siep-015",
@@ -4505,7 +4826,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "For tax reporting purposes, dividend income is recognized in the year it is received, which is determined by the payable date (the date the dividend is actually paid to shareholders).",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "qb-siep-016",
@@ -4519,7 +4841,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Dividends are taxable in the year they are actually paid (payable date). Since the payable date is January 15, 2025, the dividend income is reported on the 2025 tax return, regardless of when it was declared.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "qb-siep-017",
@@ -4533,7 +4856,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "For premium bonds, yields from lowest to highest are: YTC < YTM < Current Yield < Coupon Rate. The investor paid more than par, so all calculated yields are lower than the stated coupon rate.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-siep-018",
@@ -4547,7 +4871,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "When a bond trades at a premium (105 = $1,050 for a $1,000 par bond), yield to call is the lowest yield because the investor loses the premium faster if called early. The order for premium bonds: YTC < YTM < CY < Coupon.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-siep-019",
@@ -4561,7 +4886,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "In a best efforts underwriting, the underwriter agrees only to make its best effort to sell the securities. Any unsold securities are returned to the issuer, who keeps (retains) them. The underwriter takes no risk of ownership.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-siep-020",
@@ -4575,7 +4901,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "In a best efforts underwriting, the underwriter acts as an agent and bears no risk for unsold securities. Any unsold shares are simply returned to the issuer. The underwriter only commits to trying its best to sell the offering.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "qb-siep-021",
@@ -4589,7 +4916,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Both the tipper (person who provides inside information) and the tippee (person who receives and trades on it) can be held liable for insider trading violations. The tipper breaches a duty of trust, and the tippee knowingly benefits from that breach.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "qb-siep-022",
@@ -4603,7 +4931,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A tippee is someone who receives material nonpublic information from an insider (the tipper) and then trades on that information. Under securities laws, tippees can be held liable for insider trading alongside the tipper who provided the information.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "qb-siep-023",
@@ -4617,7 +4946,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Writing covered calls is appropriate for a mildly bearish or neutral outlook. The investor earns premium income while expecting the stock price to stay flat or decline slightly. If the stock falls, they keep the premium and offset some losses.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-siep-024",
@@ -4631,7 +4961,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A short call (selling a call) profits when the stock price stays the same or declines. The call seller keeps the premium received if the option expires worthless (when the stock price is at or below the strike price at expiration).",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-siep-025",
@@ -4645,7 +4976,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Municipal bonds are exempt securities under the Securities Act of 1933, meaning they do not need to be registered with the SEC before being offered to the public. This exemption applies because municipal issuers (state and local governments) are presumed to act in the public interest.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "qb-siep-026",
@@ -4659,7 +4991,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Municipal bonds (including general obligation bonds issued by cities) are exempt from SEC registration under the Securities Act of 1933. This exemption exists because state and local governments are presumed to be acting in the public interest.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "qb-siep-027",
@@ -4673,7 +5006,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Depletion is a tax deduction unique to natural resources, such as oil, gas, and minerals. Oil and gas limited partnerships pass through depletion deductions to investors. Real estate uses depreciation, not depletion.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "qb-siep-028",
@@ -4687,7 +5021,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Real estate limited partnerships allow investors to claim depreciation deductions on buildings and improvements. Depletion and intangible drilling costs are specific to oil and gas investments, not real estate.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "qb-siep-029",
@@ -4701,7 +5036,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A hostile takeover typically begins with a tender offer, which is a public offer to purchase shares directly from the target company's shareholders at a premium price. This bypasses the board of directors who may oppose the acquisition.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "qb-siep-030",
@@ -4715,7 +5051,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A tender offer is a public bid to purchase shares directly from shareholders, typically at a premium to the current market price. When made without target board approval, it is often part of a hostile takeover attempt.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "qb-siep-031",
@@ -4729,7 +5066,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "For a premium bond, the nominal (coupon) yield is the highest because it is based on par value, not the higher purchase price. The order from highest to lowest is: Coupon > Current Yield > YTM > YTC.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-siep-032",
@@ -4743,7 +5081,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "For a premium bond (purchased at 110 = $1,100 for $1,000 par), the coupon rate (5%) is the highest yield. Since the investor paid more than par, all other yields (current yield, YTM, YTC) will be lower than the stated coupon rate.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-siep-033",
@@ -4757,7 +5096,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Traditional IRA withdrawals due to disability are exempt from the 10% early withdrawal penalty. However, the distribution is still taxable as ordinary income since the contributions were made with pre-tax dollars.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "qb-siep-034",
@@ -4771,7 +5111,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A withdrawal for personal expenses like vacation at age 45 would be subject to both ordinary income tax and the 10% early withdrawal penalty. Exceptions include disability, death, and distributions after age 59 1/2.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "qb-siep-035",
@@ -4785,7 +5126,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Banker's acceptances typically have a maximum maturity of 270 days (9 months). They are short-term money market instruments used to finance international trade, guaranteed by the accepting bank.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-siep-036",
@@ -4799,7 +5141,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Banker's acceptances are time drafts guaranteed by a bank, primarily used in international trade. They have a maximum maturity of 270 days and are traded at a discount in the money market.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "qb-siep-037",
@@ -4813,7 +5156,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Institutional communications are directed exclusively to institutional investors, which include entities with at least $50 million in assets. A pension fund with $75 million qualifies. These communications have fewer approval requirements than retail communications.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "qb-siep-038",
@@ -4827,7 +5171,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Under FINRA rules, an institutional investor is defined as an entity with at least $50 million in total assets. This includes banks, insurance companies, investment companies, pension funds, and similar large organizations.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "qb-siep-039",
@@ -4841,7 +5186,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The maximum annual contribution to a Coverdell ESA is $2,000 per beneficiary. Contributions are not tax-deductible, but earnings grow tax-free when used for qualified education expenses.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "qb-siep-040",
@@ -4855,7 +5201,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The annual contribution limit for a Coverdell ESA is $2,000 per beneficiary from all sources combined. Any person (parents, grandparents, friends, or even the beneficiary) can contribute, subject to income limits.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "qb-siep-041",
@@ -4869,7 +5216,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "An offering memorandum (also called private placement memorandum) is the disclosure document used in Regulation D private placements. Since these offerings are exempt from SEC registration, no prospectus is required, but the offering memorandum provides essential information to investors.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-siep-042",
@@ -4883,7 +5231,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Investors in Regulation D private placements receive an offering memorandum (private placement memorandum) that describes the offering terms, risks, and other material information. This is used instead of a prospectus because the offering is exempt from registration.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-siep-043",
@@ -4897,7 +5246,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Yield to maturity (YTM) is NOT synonymous with coupon rate. YTM accounts for the bond's current price, time to maturity, and reinvestment of interest. Coupon rate, stated rate, nominal yield, and the interest rate printed on the bond all refer to the same thing.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-siep-044",
@@ -4911,7 +5261,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Nominal yield (also called coupon rate or stated rate) is the annual interest payment as a percentage of the bond's par value. It remains fixed throughout the life of the bond, regardless of market price changes.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-siep-045",
@@ -4925,7 +5276,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Guaranteeing to repurchase shares at the purchase price (or any guaranteed price) is prohibited because it shields the investor from normal market risk. Such guarantees against loss are considered fraudulent practices under securities laws.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "qb-siep-046",
@@ -4939,7 +5291,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Guaranteeing to repurchase shares at a specific price is prohibited under FINRA rules. This constitutes a guarantee against loss, which is fraudulent because it eliminates the investment risk that investors should understand and accept.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "qb-siep-047",
@@ -4953,7 +5306,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A Municipal Fund Securities Principal (MFP) is responsible for soliciting municipal issuers (states, cities, school districts) to establish 529 plans and other municipal fund securities programs. They work with issuers, not retail clients.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "qb-siep-048",
@@ -4967,7 +5321,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "MFPs work exclusively with municipal issuers - state and local governments that create 529 plans and similar municipal fund securities. They do not work directly with retail investors or corporate entities.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "qb-siep-049",
@@ -4981,7 +5336,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A life with period certain annuity pays for the greater of the annuitant's lifetime or a specified minimum period (e.g., 10 or 20 years). If the annuitant dies before the period ends, a beneficiary receives payments for the remainder.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Variable Annuities & Insurance Products"
  },
  {
   "id": "qb-siep-050",
@@ -4995,7 +5351,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "With a life with 20-year period certain annuity, payments are guaranteed for at least 20 years. If the annuitant dies after 8 years, the designated beneficiary receives payments for the remaining 12 years of the guaranteed period.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Variable Annuities & Insurance Products"
  },
  {
   "id": "qb-siepb2-001",
@@ -5009,7 +5366,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Form U-5 (Uniform Termination Notice for Securities Industry Registration) must be filed when a registered representative leaves a firm. Form U-4 is for initial registration, Form BD is for broker-dealer registration, and Form ADV is for investment advisers.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-siepb2-002",
@@ -5023,7 +5381,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "SIE exam results remain valid for 4 years from the passing date. If an individual does not become associated with a FINRA member firm within 4 years, they must retake the SIE. This is separate from the 2-year lapse period for top-off exams after leaving the industry.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-siepb2-003",
@@ -5037,7 +5396,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "When short stock with a long call, maximum gain occurs if stock goes to zero. Maximum gain = Sale price - Call premium = $80 - $3 = $77 per share = $7,700 total. The call limits losses if the stock rises but costs $3, reducing profit potential.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-siepb2-004",
@@ -5051,7 +5411,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A short seller faces unlimited loss potential if the stock rises. Buying a call option caps the maximum loss at the strike price minus the short sale price plus the premium paid. The call acts as insurance, guaranteeing the ability to buy shares at the strike price.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "qb-siepb2-005",
@@ -5065,7 +5426,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Medical history and health status are not required for opening a securities account. Required information includes name, address, tax ID, employment status, investment objectives, risk tolerance, net worth, and annual income. Health information would violate privacy concerns.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "qb-siepb2-006",
@@ -5079,7 +5441,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Asking about chronic health conditions is inappropriate and not required for account opening. Know Your Customer rules require financial information, employment, investment objectives, and risk tolerance - not medical information. Health-related questions could also raise discrimination concerns.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "qb-siepb2-007",
@@ -5093,7 +5456,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Treasury notes are quoted in 32nds. The quote 98-24 means 98 and 24/32 = 98 + 0.75 = 98.75% of par value. To convert: 24/32 = 0.75. For a $1,000 par bond, the price would be $987.50.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "qb-siepb2-008",
@@ -5107,7 +5471,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Treasury securities are quoted in 32nds. 102-08 = 102 and 8/32 = 102.25% of par. For $10,000 par value: $10,000 x 1.0225 = $10,225.00. The investor pays a premium of $225 above par value.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "qb-siepb2-009",
@@ -5121,7 +5486,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Risk tolerance is the most critical factor in determining investment suitability. It indicates how much volatility and potential loss a customer can emotionally and financially handle. Recommendations must align with the customer's risk tolerance to be suitable.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "qb-siepb2-010",
@@ -5135,7 +5501,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "Small-cap growth stocks are high-risk investments with significant volatility and potential for loss, completely unsuitable for a conservative investor who cannot tolerate principal loss. Treasury bills, CDs, and money market funds are appropriate for conservative investors.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "qb-siepb2-011",
@@ -5149,7 +5516,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A limited power of attorney authorizes the advisor to execute trades but NOT to withdraw funds or make changes to account registration. Only a full power of attorney would authorize fund withdrawals. Trading authority is the core function of both limited and full POA.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "qb-siepb2-012",
@@ -5163,7 +5531,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The key difference is that full power of attorney allows both trading AND withdrawing funds from the account, while limited power of attorney only authorizes trading. Both allow the agent to make investment decisions, but only full POA permits movement of money.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "qb-siepb2-013",
@@ -5177,7 +5546,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Bond Anticipation Notes (BANs) are short-term municipal securities issued to finance construction projects while the municipality awaits a long-term bond offering. BANs are repaid from the proceeds of the future long-term bond issue.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "qb-siepb2-014",
@@ -5191,7 +5561,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "BANs are repaid from the proceeds of the future long-term bond offering they anticipate. They provide interim financing for construction while the municipality prepares for a larger, permanent bond issue. TANs are repaid from taxes, and RANs from revenue.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "qb-siepb2-015",
@@ -5205,7 +5576,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "In a firm commitment underwriting, the investment bank acts as a principal, purchasing the entire issue from the company at an agreed price and then reselling to investors. The underwriter bears the risk of unsold securities, unlike best efforts where they act as agent.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-siepb2-016",
@@ -5219,7 +5591,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Firm commitment underwriting places the most risk on the investment bank because it purchases the entire issue upfront and assumes the risk of any unsold shares. In best efforts, the underwriter acts as agent and returns unsold shares to the issuer without financial loss.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "qb-siepb2-017",
@@ -5233,7 +5606,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The Uniform Securities Act is state law, enforced by individual state securities administrators. The SEC enforces federal securities laws. Each state adopts its own version of the Uniform Securities Act, and state administrators oversee compliance within their jurisdiction.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "qb-siepb2-018",
@@ -5247,7 +5621,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "The SEC enforces federal securities laws including the Securities Acts of 1933 and 1934, and the Investment Company Act of 1940. The Uniform Securities Act is state law, enforced by state securities administrators, not the SEC.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "qb-siepb2-019",
@@ -5261,7 +5636,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "In a 2-for-1 forward split, shares double and price halves. The investor's 200 shares become 400 shares, and the $90 price becomes $45. Total value remains the same: 200 x $90 = $18,000 = 400 x $45 = $18,000.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-siepb2-020",
@@ -5275,7 +5651,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "In a 4-for-1 forward split, each share becomes 4 shares, and the price is divided by 4. Proportionate ownership remains exactly the same. The split increases shares outstanding 4x and reduces price to 1/4. Market capitalization is unchanged.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "qb-siepb2-021",
@@ -5289,7 +5666,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Rights are issued with intrinsic value because the subscription price (exercise price) is set below the current market price. This creates immediate value for shareholders, who can either exercise the rights to buy discounted shares or sell the rights in the market.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-siepb2-022",
@@ -5303,7 +5681,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Rights are transferable and can be traded in the secondary market. If a shareholder does not want to exercise their rights, they can sell them to another investor who wants to purchase shares at the discounted subscription price. Rights not exercised or sold will expire worthless.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "qb-siepb2-023",
@@ -5317,7 +5696,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Money market instruments are defined by their short-term maturities of one year or less. T-bills mature in 4, 8, 13, 26, or 52 weeks. While government backing is a feature, the defining characteristic for money market classification is the short maturity.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "qb-siepb2-024",
@@ -5331,7 +5711,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A 5-year Treasury note is a capital market instrument because it has a maturity greater than one year. Money market instruments (T-bills, commercial paper, banker's acceptances) mature in one year or less. Capital market instruments provide long-term funding.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "qb-siepb2-025",
@@ -5345,7 +5726,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Class B shares are designed for long-term investors with smaller purchases who cannot reach breakpoints. B shares have no front-end load, a declining CDSC that typically disappears after 6-8 years, and convert to A shares after the CDSC period. For $8,000 held 10 years, B shares are appropriate.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-siepb2-026",
@@ -5359,7 +5741,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Class B shares automatically convert to Class A shares after the CDSC period ends (typically 6-8 years). This conversion benefits investors because Class A shares have lower ongoing 12b-1 fees. Without conversion, long-term B share holders would pay higher expenses indefinitely.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-siepb2-027",
@@ -5373,7 +5756,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Corporate bonds are quoted as a percentage of par value in fractions. 93 1/4 = 93.25% of par. For a $1,000 bond: $1,000 x 0.9325 = $932.50. The bond trades at a discount (below par) because 93.25% is less than 100%.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-siepb2-028",
@@ -5387,7 +5771,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Corporate bond pricing: 104 3/8 = 104.375% of par. For a $1,000 bond: $1,000 x 1.04375 = $1,043.75. The bond trades at a premium (above par). Remember: 3/8 = 0.375.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-siepb2-029",
@@ -5401,7 +5786,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "FINRA Rule 5130 prohibits immediate family members of broker-dealer employees from purchasing shares in a hot IPO (one that trades at a premium immediately). This prevents industry insiders and their families from receiving favorable allocations at the expense of regular investors.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-siepb2-030",
@@ -5415,7 +5801,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Immediate family members of broker-dealer employees are restricted from purchasing hot IPOs under FINRA Rule 5130, regardless of age or whether they have accounts at other firms. The restriction exists to prevent industry insiders from gaining unfair access to profitable new issues.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-siepb2-031",
@@ -5429,7 +5816,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A monopoly has a single seller controlling the entire market with no close substitutes. Because there is no competition, monopolies are heavily regulated to prevent abuse of market power. Utilities are classic examples of regulated monopolies.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "qb-siepb2-032",
@@ -5443,7 +5831,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Monopolies are regulated because without competition, the single seller could charge excessive prices and reduce output. Regulation aims to protect consumers by controlling pricing, ensuring adequate service, and preventing abuse of market power. Utilities are examples of regulated monopolies.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "qb-siepb2-033",
@@ -5457,7 +5846,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "Variable annuities offer maximum flexibility. All combinations of funding (single premium or periodic) and payout timing (immediate or deferred) are available. Single Premium Immediate Annuities (SPIAs), Single Premium Deferred Annuities (SPDAs), and flexible premium deferred annuities are all common products.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Variable Annuities & Insurance Products"
  },
  {
   "id": "qb-siepb2-034",
@@ -5471,7 +5861,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A Single Premium Immediate Annuity (SPIA) is designed for investors who want to make one lump-sum payment and begin receiving periodic income immediately. This is commonly used by retirees to convert assets into a guaranteed income stream.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Variable Annuities & Insurance Products"
  },
  {
   "id": "qb-siepb2-035",
@@ -5485,7 +5876,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "The third market refers to exchange-listed securities that trade over-the-counter (OTC) rather than on the exchange. This allows trading outside of exchange hours and potentially better execution for large orders. The second market is simply the secondary market (exchanges).",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "qb-siepb2-036",
@@ -5499,7 +5891,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "The fourth market consists of direct trading between institutional investors without broker intermediaries, often through electronic communication networks (ECNs). This provides cost savings and anonymity for large trades. Examples include Instinet and POSIT.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "qb-siepb2-037",
@@ -5513,7 +5906,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Mortgage bonds are secured by a lien on real property (land, buildings). If the issuer defaults, bondholders can foreclose on the property. Collateral trust bonds are secured by securities, equipment trust certificates by equipment, and debentures are unsecured.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-siepb2-038",
@@ -5527,7 +5921,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Mortgage bonds offer the best protection against default risk because they are secured by real property. In a bankruptcy, mortgage bondholders have a priority claim on the collateral. Subordinated debentures are unsecured and rank below other debt. Income bonds only pay interest if earnings permit.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-siepb2-039",
@@ -5541,7 +5936,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Fiscal policy involves government decisions about taxation and spending, implemented by Congress and the President. This is distinct from monetary policy, which is controlled by the Federal Reserve and involves managing money supply and interest rates.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-siepb2-040",
@@ -5555,7 +5951,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Congress does not control monetary policy; it controls fiscal policy through taxation and spending decisions. Monetary policy is the domain of the Federal Reserve System, including the FOMC, Board of Governors, and Federal Reserve Banks. The Fed operates independently of Congress.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-siepb2-041",
@@ -5569,7 +5966,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Form U-5 (Uniform Termination Notice) must be filed within 30 days when a registered representative leaves a firm, whether voluntarily or involuntarily. Form U-4 is for registration, Form BD is for broker-dealer registration. There is no Form U-6 in securities registration.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-siepb2-042",
@@ -5583,7 +5981,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "FINRA requires broker-dealers to file Form U-5 within 30 days of a registered representative's termination. This applies whether the departure is voluntary or involuntary. The form discloses the reason for termination and any regulatory issues.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-siepb2-043",
@@ -5597,7 +5996,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Balanced funds invest in both stocks (for growth) and bonds (for income), providing a combination of capital appreciation and current income. Growth funds focus only on appreciation, income funds focus on current income, and sector funds concentrate in specific industries.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-siepb2-044",
@@ -5611,7 +6011,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Balanced funds maintain allocations to both stocks and bonds, typically around 60% stocks and 40% bonds. This diversification across asset classes provides growth potential from equities and income/stability from fixed income, making them less volatile than pure equity funds.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Investment Risks"
  },
  {
   "id": "qb-siepb2-045",
@@ -5625,7 +6026,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "If a registered representative leaves the industry and does not re-associate with a FINRA member firm within 2 years, their representative-level licenses (Series 7, 6, 63, etc.) lapse. The SIE remains valid for 4 years. After lapsing, the individual must retake the qualification exams.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-siepb2-046",
@@ -5639,7 +6041,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Since only 18 months have passed (less than 2 years), the representative's Series 7 license has not lapsed and remains valid. The representative can simply associate with a new FINRA member firm and resume registered activities without retaking any exams.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "qb-siepb2-047",
@@ -5653,7 +6056,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Interest rates and inflation have a positive correlation. When inflation rises, the Federal Reserve typically raises interest rates to slow economic activity and bring inflation under control. Higher rates make borrowing more expensive, reducing spending and investment.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-siepb2-048",
@@ -5667,7 +6071,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Interest rates and inflation have a positive correlation - they tend to move in the same direction. When inflation increases, interest rates typically rise as the Fed tightens monetary policy. This positive relationship is a fundamental concept in economics and investing.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "qb-siepb2-049",
@@ -5681,7 +6086,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Municipal bonds, especially general obligation bonds, are typically quoted on a yield basis (yield to maturity or YTM) in the secondary market. This allows easier comparison between bonds with different coupons and maturities. Corporate bonds are quoted on a dollar price basis.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "qb-siepb2-050",
@@ -5695,7 +6101,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Municipal bonds are quoted on a yield basis. A quote of 4.50 means the bond is offered at a price that would provide a 4.50% yield to maturity. This is different from corporate bonds, which are quoted as a percentage of par (like 104.50 meaning 104.5% of par).",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "qb-sie-b3-051a",
@@ -5709,7 +6116,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Shareholders who cannot attend annual meetings in person can participate in voting by submitting a proxy. A proxy is a written authorization that allows another party (typically company management or a designated proxy holder) to vote on the shareholder's behalf.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "qb-sie-b3-051b",
@@ -5723,7 +6131,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A proxy statement (or proxy card) allows shareholders to transfer their voting rights to another party. Corporations send proxy materials to shareholders before annual meetings, enabling those who cannot attend to still exercise their voting rights.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "qb-sie-b3-052a",
@@ -5737,7 +6146,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "Interest rate risk is directly related to maturity - the shorter the maturity, the lower the interest rate risk. Treasury bills with 13-week maturities have the shortest duration among the options, making them least sensitive to interest rate fluctuations.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-b3-052b",
@@ -5751,7 +6161,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Treasury bills have maturities ranging from 4 to 52 weeks, making them the shortest-term Treasury securities. Short-term securities have minimal interest rate risk because their prices are less sensitive to rate changes due to their short duration.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "qb-sie-b3-053a",
@@ -5765,7 +6176,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A fund investing primarily in corporate bonds is classified as an income fund. Income funds focus on generating regular income through interest payments from bonds and dividends from stocks, rather than capital appreciation.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-sie-b3-053b",
@@ -5779,7 +6191,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A corporate bond income fund is designed for investors seeking regular interest payments. These funds invest in corporate bonds that pay periodic interest, making them ideal for income-oriented investors.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-sie-b3-054a",
@@ -5793,7 +6206,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "The taxable event for dividends occurs on the payable date, which is when the investor actually receives the dividend payment. Even if using cash basis accounting, this is when the income is recognized for tax purposes.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "qb-sie-b3-054b",
@@ -5807,7 +6221,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "Dividends are taxable in the year they are received, which is the payable date. In this case, the investor would report the dividend as taxable income in the year containing April 1, when the dividend was actually paid.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "qb-sie-b3-055a",
@@ -5821,7 +6236,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Rule 147 (and Rule 147A) provides a safe harbor exemption for intrastate offerings. The issuer must be organized and doing business in the state, and all offerees and purchasers must be residents of that same state.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-sie-b3-055b",
@@ -5835,7 +6251,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Rule 147 requires that ALL offerees and purchasers be residents of the same state where the issuer is organized and doing business. Even a single out-of-state purchaser would disqualify the entire offering from the intrastate exemption.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-sie-b3-056a",
@@ -5849,7 +6266,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Coverdell ESA assets must be distributed by the time the beneficiary reaches age 30. If not used for qualified education expenses by then, the remaining balance is subject to income tax plus a 10% penalty on earnings.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "qb-sie-b3-056b",
@@ -5863,7 +6281,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "When a Coverdell ESA beneficiary reaches age 30 without using all the funds for qualified education expenses, the earnings portion of any remaining balance is subject to ordinary income tax plus a 10% penalty. The contribution basis is returned tax-free.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "qb-sie-b3-057a",
@@ -5877,7 +6296,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "The custodian bank (or custodian) holds and safeguards the mutual fund's portfolio securities. This separation of duties protects investors by ensuring the fund's assets are held by an independent third party.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-sie-b3-057b",
@@ -5891,7 +6311,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "The custodian's primary function is holding the fund's cash and securities in safekeeping. Custodians, typically commercial banks, provide a secure location for the fund's assets and handle the physical receipt and delivery of securities.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "qb-sie-b3-058a",
@@ -5905,7 +6326,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A Hybrid REIT combines features of both equity REITs (which own physical properties) and mortgage REITs (which invest in mortgages and mortgage-backed securities). This provides diversification across both property ownership and real estate lending.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "qb-sie-b3-058b",
@@ -5919,7 +6341,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A Hybrid REIT generates income from both sources: rental income from owned properties (like an equity REIT) and interest income from mortgages and real estate loans (like a mortgage REIT). This dual income stream provides diversification.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "qb-sie-b3-059a",
@@ -5933,7 +6356,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "For cash settlement trades (T+0), the ex-dividend date is the same day as the record date. Since the trade settles immediately, the buyer must purchase before the record date to be the owner of record and receive the dividend.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "qb-sie-b3-059b",
@@ -5947,7 +6371,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "With cash settlement (T+0), the trade settles the same day. If the investor purchases on the record date, they become the owner of record that day and will receive the dividend. For cash settlement, the ex-date equals the record date.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "qb-sie-b3-060a",
@@ -5961,7 +6386,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Regulatory risk is the risk that government agencies or regulatory bodies will impose new rules, restrictions, or requirements that negatively impact a company or industry. The FDA imposing stricter requirements is a classic example of regulatory risk.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Investment Risks"
  },
  {
   "id": "qb-sie-b3-060b",
@@ -5975,7 +6401,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Regulatory risk occurs when government agencies impose new rules or regulations that increase costs or restrict business activities. New SEC compliance requirements represent regulatory risk as they directly impact how the firm must operate and its associated costs.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Investment Risks"
  },
  {
   "id": "qb-sie-b3-061a",
@@ -5989,7 +6416,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Commercial paper is typically issued in large denominations ($100,000 or more) and sold primarily to institutional investors like money market funds, banks, and corporations. The high minimum investment effectively excludes most retail investors.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "qb-sie-b3-061b",
@@ -6003,7 +6431,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Commercial paper is typically issued in denominations of $100,000 or more, making it impractical for most retail investors. However, retail investors can gain exposure to commercial paper indirectly through money market funds that invest in these instruments.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "qb-sie-b3-062a",
@@ -6017,7 +6446,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A buy limit order specifies the maximum price the investor is willing to pay. The order will only execute at the limit price ($50) or lower (better). While limit orders guarantee price, they do not guarantee execution.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "qb-sie-b3-062b",
@@ -6031,7 +6461,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A sell limit order sets a minimum acceptable selling price. The order will execute only at the limit price ($75) or higher (better for the seller). This protects the seller from receiving less than their specified price.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "qb-sie-b3-063a",
@@ -6045,7 +6476,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Interpositioning is the unethical practice of inserting an unnecessary intermediary into a transaction, typically resulting in additional costs to the customer. FINRA prohibits this practice when it does not benefit the customer.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "qb-sie-b3-063b",
@@ -6059,7 +6491,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Interpositioning occurs when a broker inserts a third party (middleman) into a transaction without justification, resulting in additional costs to the customer. This violates the broker's duty to seek best execution for customer orders.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "qb-sie-b3-064a",
@@ -6073,7 +6506,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Over-the-counter (OTC) trading occurs through a decentralized network of dealers, not on a centralized exchange like the NYSE. OTC markets include the OTC Bulletin Board and Pink Sheets for stocks, as well as the bond and forex markets.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "qb-sie-b3-064b",
@@ -6087,7 +6521,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Corporate bonds primarily trade over-the-counter through dealer networks rather than on exchanges. Most bond trading occurs OTC, where dealers negotiate prices directly with customers or other dealers.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "qb-sie-b3-065a",
@@ -6101,7 +6536,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "When acting as an agent (broker), the firm facilitates a transaction between buyer and seller without taking ownership of the securities. Brokers are compensated through commissions charged to the customer.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "qb-sie-b3-065b",
@@ -6115,7 +6551,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "When a dealer purchases securities from a customer for its own inventory, it acts as principal. The dealer's compensation is a markdown, which is the difference between the price paid to the customer and the current market value.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "qb-sie-b3-066a",
@@ -6129,7 +6566,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "Interest rate sensitivity increases with maturity. The 30-year Treasury bond has the longest maturity among the options, giving it the highest duration and making it most sensitive to interest rate changes.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-b3-066b",
@@ -6143,7 +6581,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "The 30-year zero-coupon bond would experience the largest price decline for two reasons: it has the longest maturity (greatest duration), and zero-coupon bonds are more sensitive to rate changes than coupon-bearing bonds of the same maturity.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "qb-sie-b3-067a",
@@ -6157,7 +6596,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Custodial accounts (UGMA/UTMA) cannot use margin trading because the custodian has a fiduciary duty to protect the minor's assets. Margin trading introduces the risk of losing more than the original investment, which is inappropriate for minors.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "qb-sie-b3-067b",
@@ -6171,7 +6611,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Margin trading is prohibited in UGMA/UTMA custodial accounts regardless of the account value or documentation provided. The fiduciary duty to the minor beneficiary prevents the use of leverage, which could result in losses exceeding the account value.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "qb-sie-b3-068a",
@@ -6185,7 +6626,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Trading existing securities on exchanges like the NYSE is secondary market activity. The primary market is where new securities are first issued (IPOs), while the secondary market is where previously issued securities are traded among investors.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "qb-sie-b3-068b",
@@ -6199,7 +6641,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "In secondary market transactions, existing securities are traded between investors. The issuing company does not receive proceeds from these trades - the selling investor receives payment from the buying investor.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-sie-b3-069a",
@@ -6213,7 +6656,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Investment banks specialize in underwriting public offerings, including IPOs. They help companies structure the offering, set the initial price, market the securities to investors, and often guarantee the sale by purchasing the shares themselves.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-sie-b3-069b",
@@ -6227,7 +6671,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "In a firm commitment underwriting, the investment bank purchases all the securities from the issuer at a fixed price, assuming the risk of reselling them to the public. The underwriter profits from the spread between the purchase and resale prices.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-sie-b3-070a",
@@ -6241,7 +6686,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "Board of directors meeting minutes must be retained for the lifetime of the firm. These are considered permanent records that document corporate governance decisions and must be preserved as long as the firm exists.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "qb-sie-b3-070b",
@@ -6255,7 +6701,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Minutes of partners' or directors' meetings are classified as lifetime records and must be retained for the life of the firm. These documents record fundamental corporate decisions and governance actions.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "qb-sie-b3-071a",
@@ -6269,7 +6716,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Power of attorney forms are customer account documents that must be retained for 6 years. This retention period applies to most customer-related documentation including account agreements, trading authorizations, and correspondence.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "qb-sie-b3-071b",
@@ -6283,7 +6731,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Trading authorizations and discretionary account agreements are customer account records requiring 6-year retention. This includes power of attorney forms, limited trading authorizations, and any documents granting authority over customer accounts.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "qb-sie-b3-072a",
@@ -6297,7 +6746,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "When rights are issued, they typically have both intrinsic value (the difference between market price and subscription price) AND time value (value based on time until expiration). Both components contribute to the right's total value.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-b3-072b",
@@ -6311,7 +6761,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "The FALSE statement is that rights have no time value. In reality, rights DO have time value at issuance because there is time remaining until expiration. Like options, rights have both intrinsic value (if any) and time value.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "qb-sie-b3-073a",
@@ -6325,7 +6776,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The call premium is the amount above par value that the issuer must pay to call the bond. A call price of 103 means 103% of par ($1,030). The premium is $1,030 - $1,000 = $30 per bond.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-b3-073b",
@@ -6339,7 +6791,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A call price of 105 means 105% of par, or $1,050 per $1,000 bond. The premium per bond is $1,050 - $1,000 = $50. For 10 bonds: $50 x 10 = $500 total call premium.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-b3-074a",
@@ -6353,7 +6806,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Order tickets include time constraints such as day orders, Good-Till-Cancelled (GTC), or specific time limitations. Order tickets do NOT include the customer's SSN, TIN, or the current market price at the time of order entry.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "qb-sie-b3-074b",
@@ -6367,7 +6821,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A customer's Tax Identification Number (TIN) is not included on order tickets. TINs are collected during account opening and maintained in account records. Order tickets contain transaction-specific information like buy/sell, quantity, order type, and time constraints.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "qb-sie-b3-075a",
@@ -6381,7 +6836,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Standard equity options expire at 11:59 PM Eastern Time on the third Friday of the expiration month. This gives investors until the end of the day to make exercise decisions, even after the market closes.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-b3-075b",
@@ -6395,7 +6851,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "While options officially expire at 11:59 PM ET, brokers typically set earlier cutoff times (often 4:00-5:30 PM ET) for exercise instructions. Investors must check their broker's specific requirements to ensure timely exercise notification.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-alt-001",
@@ -6409,7 +6866,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Equity REITs acquire and manage commercial real estate properties such as hotels, apartment complexes, office buildings, and shopping centers. They generate revenue primarily by collecting rent from tenants and businesses that lease the properties. Mortgage REITs, by contrast, invest in mortgages and generate income from interest payments.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "qb-sie-alt-002",
@@ -6423,7 +6881,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Mortgage REITs (also called debt REITs) lend money to real estate buyers and generate revenue by collecting interest on debt instruments such as mortgage loans and mezzanine loans. Unlike equity REITs, mortgage REITs do not own physical real estate, so they cannot benefit from property price appreciation. Equity REITs invest directly in properties.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "qb-sie-alt-003",
@@ -6437,7 +6896,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "REITs are subject to Subchapter M (the conduit rule), which allows them to avoid paying corporate-level taxes on income if they distribute at least 90% of their net investment income to shareholders. This pass-through structure means dividends are taxed only at the investor level, avoiding double taxation.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "qb-sie-alt-004",
@@ -6451,7 +6911,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Mortgage REITs are particularly sensitive to interest rate risk because they invest in mortgages and generate income from interest payments. When interest rates rise, the value of existing mortgage holdings typically declines, and borrowing costs increase. While all REITs can be affected by rate changes, mortgage REITs face the most direct impact.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "qb-sie-alt-005",
@@ -6465,7 +6926,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Non-traded REITs (public non-listed REITs) are registered with the SEC but do not trade on national exchanges. This means they have limited liquidity compared to publicly traded REITs, as investors cannot easily sell shares on a secondary market. Share redemption programs may exist but are often limited or suspended.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "qb-sie-alt-006",
@@ -6479,7 +6941,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The defining feature of DPPs is pass-through taxation. Unlike regular corporations that face double taxation (corporate and shareholder level), DPP profits and losses flow directly through to investors, who report them on their individual tax returns. This single taxation model allows investors to use losses to offset other income.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "qb-sie-alt-007",
@@ -6493,7 +6956,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Intangible drilling costs (IDCs) are tax-deductible expenses not associated with actual drilling equipment, including fuel, relocation costs, and employee wages. These costs can be deducted in the year they are incurred, providing significant upfront tax benefits to investors in oil and gas programs.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "qb-sie-alt-008",
@@ -6507,7 +6971,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Income wells (also called stripper wells) are investments in proven oil wells that are already producing. Since the oil reserves have been confirmed, income wells carry the lowest risk among oil and gas programs. Exploratory (wildcat) wells carry the highest risk as they drill in unproven areas, while developmental wells fall in between.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "qb-sie-alt-009",
@@ -6521,7 +6986,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "D",
   "explanation": "ETFs are not DPPs - they are investment companies that trade on exchanges. Common types of DPPs include real estate limited partnerships (RELPs), oil and gas programs, equipment leasing programs, and non-traded REITs. DPPs are typically organized as limited partnerships, LLCs, or subchapter S corporations.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "qb-sie-alt-010",
@@ -6535,7 +7001,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "DPPs carry significant liquidity risk because there is typically no secondary market for trading limited partnership units. Investors should not invest in DPPs if they need quick access to their funds, as liquidating positions can be extremely difficult or impossible until the program terminates.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "qb-sie-alt-011",
@@ -6549,7 +7016,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The general partner (GP) manages the limited partnership and has unlimited liability, meaning personal assets are at risk for partnership debts. Limited partners (LPs) are passive investors whose liability is limited to the amount of their investment. This is a fundamental distinction tested on the SIE exam.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "qb-sie-alt-012",
@@ -6563,7 +7031,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Limited partners can lose their limited liability protection if they take an active role in managing the business. If a creditor can prove that a limited partner acted in a way that led the creditor to believe the partner was a general partner, that limited partner can be held personally liable. LPs must remain passive investors.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "qb-sie-alt-013",
@@ -6577,7 +7046,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The general partner is responsible for managing the limited partnership, including making investment decisions, overseeing operations, and managing the pooled capital. Limited partners are passive investors who contribute capital but do not participate in management decisions.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "qb-sie-alt-014",
@@ -6591,7 +7061,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The lock-up period is a predetermined time during which hedge fund investors cannot withdraw their capital, typically at least one year but sometimes longer. This allows fund managers to invest in illiquid assets without facing redemption pressures. Lock-up periods contribute to the general illiquidity of hedge fund investments.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "qb-sie-alt-015",
@@ -6605,7 +7076,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Hedge funds often use leverage (borrowed money) to amplify potential investment returns. They may buy securities on margin or use credit lines from third-party lenders. However, leverage is a double-edged sword - while it can increase gains, it also magnifies losses if investments decline in value.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "qb-sie-alt-016",
@@ -6619,7 +7091,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "An accredited investor must have either: (1) a net worth exceeding $1 million (alone or with spouse), excluding the primary residence, OR (2) annual income of at least $200,000 ($300,000 jointly with spouse) for each of the past two years with expectation of the same. Holding certain FINRA licenses (Series 7, 65, or 82) also qualifies individuals.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "qb-sie-alt-017",
@@ -6633,7 +7106,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "Liquidity risk is the most common characteristic of alternative investments. Non-traded REITs are difficult to sell, DPPs typically have no secondary market, and hedge funds impose lock-up periods. Investors in alternative investments must be prepared to have their capital tied up for extended periods and should not need quick access to their funds.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "qb-sie-opt-001",
@@ -6647,7 +7121,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A call option gives the holder (buyer) the RIGHT to BUY 100 shares of the underlying stock at the strike price. In this case, the investor has the right to buy 100 shares at $50 per share, regardless of where the market price moves. Standard equity options contracts represent 100 shares.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-opt-002",
@@ -6661,7 +7136,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "A put option gives the holder (buyer) the RIGHT to SELL shares at a specified price (the strike price). Put buyers are typically bearish, as they profit when the stock price falls below the strike price. The keyword \"right\" is important - buyers have rights, while sellers have obligations.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-opt-003",
@@ -6675,7 +7151,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The premium is the price paid by the option buyer to the option seller (writer) in exchange for the rights conveyed by the option contract. The premium is determined by factors including time value and intrinsic value. This is the cost of acquiring the option.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-opt-004",
@@ -6689,7 +7166,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "A",
   "explanation": "A call option is in-the-money (ITM) when the market price of the underlying stock is ABOVE the strike price. Here, the stock ($52) is trading $7 above the strike price ($45), so the call has $7 of intrinsic value and is $7 in-the-money. The holder could exercise to buy at $45 and immediately sell at $52.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-opt-005",
@@ -6703,7 +7181,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A put option is in-the-money (ITM) when the market price of the underlying stock is BELOW the strike price. The put holder has the right to sell at $60 when the stock is only worth $53, creating $7 of intrinsic value. The option is $7 in-the-money ($60 strike - $53 market = $7).",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-opt-006",
@@ -6717,7 +7196,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Option writers (sellers) have OBLIGATIONS, not rights. The call writer is obligated to sell shares if assigned, and the put writer is obligated to buy shares if assigned. Writers receive the premium in exchange for taking on this obligation. Option buyers (holders) have rights, not obligations.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-opt-007",
@@ -6731,7 +7211,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "The maximum loss for any option BUYER (whether call or put) is limited to the premium paid for the option. If the option expires worthless (out-of-the-money), the buyer loses only the premium. This is a key advantage of buying options versus other bearish strategies.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-opt-008",
@@ -6745,7 +7226,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "The maximum gain for an option seller (writer) is always limited to the premium received. If the option expires worthless, the writer keeps the entire premium as profit. In this case, the maximum gain is the $300 premium received. Writers profit when options expire worthless.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-opt-009",
@@ -6759,7 +7241,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "In a covered call, maximum gain = (Strike price - Stock purchase price) + Premium received. Here: ($45 - $40) + $3 = $5 + $3 = $8 per share. With 100 shares, maximum gain = $8 x 100 = $800. This occurs if the stock rises to or above $45 and the call is exercised or assigned.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-opt-010",
@@ -6773,7 +7256,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "A protective put limits downside risk. Maximum loss = (Stock purchase price - Put strike price) + Premium paid. Here: ($55 - $50) + $2 = $5 + $2 = $7 per share. With 100 shares, maximum loss = $7 x 100 = $700. The put guarantees the ability to sell at $50, limiting losses.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-opt-011",
@@ -6787,7 +7271,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "The Options Clearing Corporation (OCC) is the issuer and guarantor of all listed options contracts in the United States. The OCC standardizes contracts and acts as the counterparty to every options trade, guaranteeing performance and eliminating counterparty risk between buyers and sellers.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "qb-sie-opt-012",
@@ -6801,7 +7286,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "For a put buyer, breakeven = Strike price - Premium. The stock must fall below this point for the buyer to profit. Here: $40 - $3 = $37. At $37, the $3 gain from exercising equals the $3 premium paid. Below $37, the put buyer profits.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-opt-013",
@@ -6815,7 +7301,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Selling a naked call is one of the riskiest options strategies because the maximum loss is theoretically UNLIMITED. Since stock prices can rise indefinitely, the naked call writer may have to buy stock at very high market prices to deliver at the lower strike price. The premium received provides only minimal protection.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-opt-014",
@@ -6829,7 +7316,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "B",
   "explanation": "When an option holder exercises, the OCC randomly assigns the exercise to an option writer who has an open position. The assigned writer MUST fulfill their obligation - a call writer must sell shares at the strike price, and a put writer must buy shares at the strike price. Writers cannot refuse assignment.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-opt-015",
@@ -6843,7 +7331,8 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "Time value is highest when more time remains until expiration. More time means more opportunity for the underlying stock to move favorably, making the option more valuable. The 6-month option has the most time remaining and therefore the highest time value, all else being equal.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Options"
  },
  {
   "id": "qb-sie-opt-016",
@@ -6857,6 +7346,7 @@ var SIE_QUESTIONS_OEP = [
   },
   "answer": "C",
   "explanation": "The OCC does NOT set stock prices - stock prices are determined by supply and demand in the securities markets. The OCC issues and standardizes options contracts, acts as the central counterparty (buyer to sellers, seller to buyers), and guarantees contract performance, but it has no role in determining underlying stock prices.",
-  "source": "OpenExamPrep.com (683 free, no signup)"
+  "source": "OpenExamPrep.com (683 free, no signup)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  }
 ];

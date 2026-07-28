@@ -11,7 +11,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU38 = [
   },
   "answer": "A",
   "explanation": "Regular-way settlement for equities is T+1 (trade date plus one business day) under the settlement cycle effective May 2024. The SIE now tests T+1, not T+2.",
-  "source": "YouTube: Series 7 Guru (guru38)"
+  "source": "YouTube: Series 7 Guru (guru38)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-guru38-4",
@@ -25,7 +26,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU38 = [
   },
   "answer": "A",
   "explanation": "FINRA Rule 3220 caps business-related gifts at $100 per person per year. A $150 gift from a client exceeds the limit, so it must be declined. (Note: firm policies can be stricter, never looser, than the FINRA cap.)",
-  "source": "YouTube: Series 7 Guru (guru38)"
+  "source": "YouTube: Series 7 Guru (guru38)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru38-5",
@@ -39,7 +41,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU38 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Fixed-income securities”. During deflation (falling prices), fixed-income securities preserve purchasing power and typically outperform.",
-  "source": "YouTube: Series 7 Guru (guru38)"
+  "source": "YouTube: Series 7 Guru (guru38)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru38-6",
@@ -53,7 +56,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU38 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Subtracting the fund's liabilities from its assets and dividing by the number of outstanding shares.”. NAV equals the fund's total assets minus liabilities divided by shares outstanding, computed at the end of each trading day.",
-  "source": "YouTube: Series 7 Guru (guru38)"
+  "source": "YouTube: Series 7 Guru (guru38)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru38-7",
@@ -67,7 +71,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU38 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “It typically has voting rights.”. Preferred stock generally has no voting rights (unlike common) but carries a fixed dividend and priority over common in liquidation.",
-  "source": "YouTube: Series 7 Guru (guru38)"
+  "source": "YouTube: Series 7 Guru (guru38)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru38-9",
@@ -81,7 +86,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU38 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Prepayment risk”. CMOs are exposed to prepayment risk — borrowers may refinance when rates fall, returning principal sooner than expected.",
-  "source": "YouTube: Series 7 Guru (guru38)"
+  "source": "YouTube: Series 7 Guru (guru38)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-guru38-10",
@@ -95,7 +101,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU38 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Commercial paper”. Commercial paper is short-term corporate debt (under 270 days) and is a classic money-market instrument.",
-  "source": "YouTube: Series 7 Guru (guru38)"
+  "source": "YouTube: Series 7 Guru (guru38)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru38-12",
@@ -109,7 +116,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU38 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “High-yield (junk) bond”. High-yield (junk) bonds carry the highest default risk and therefore the highest yields among bonds.",
-  "source": "YouTube: Series 7 Guru (guru38)"
+  "source": "YouTube: Series 7 Guru (guru38)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru38-13",
@@ -123,7 +131,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU38 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Rising inflation”. Rising inflation leads the Fed to raise short-term interest rates to cool the economy.",
-  "source": "YouTube: Series 7 Guru (guru38)"
+  "source": "YouTube: Series 7 Guru (guru38)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru38-15",
@@ -137,7 +146,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU38 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Municipal Securities Rulemaking Board (MSRB)”. The SEC is the federal agency that administers the federal securities laws and regulates the industry.",
-  "source": "YouTube: Series 7 Guru (guru38)"
+  "source": "YouTube: Series 7 Guru (guru38)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru38-17",
@@ -151,7 +161,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU38 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Closed-end fund”. A closed-end fund issues a fixed number of shares that trade on an exchange at market-determined prices that can differ from NAV.",
-  "source": "YouTube: Series 7 Guru (guru38)"
+  "source": "YouTube: Series 7 Guru (guru38)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru38-18",
@@ -165,7 +176,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU38 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “The settlement date.”. A prospectus must be delivered no later than the confirmation of sale (or settlement) for a new issue of securities.",
-  "source": "YouTube: Series 7 Guru (guru38)"
+  "source": "YouTube: Series 7 Guru (guru38)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-guru38-21",
@@ -179,7 +191,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU38 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Dealer spread”. The dealer spread is the difference between a bond's bid and ask prices, representing the dealer's markup.",
-  "source": "YouTube: Series 7 Guru (guru38)"
+  "source": "YouTube: Series 7 Guru (guru38)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-guru38-24",
@@ -193,7 +206,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU38 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Spreading false rumors about a company to drive its stock price down.”. Spreading false rumors to move a price is a prohibited manipulative practice under the securities laws.",
-  "source": "YouTube: Series 7 Guru (guru38)"
+  "source": "YouTube: Series 7 Guru (guru38)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "yt-guru38-25",
@@ -207,6 +221,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU38 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “The YTM is lower than the coupon rate.”. YTM is the total return an investor earns if the bond is held to maturity, incorporating coupon, price, par, and time to maturity.",
-  "source": "YouTube: Series 7 Guru (guru38)"
+  "source": "YouTube: Series 7 Guru (guru38)",
+  "topic": "Corporate Debt & Money Market"
  }
 ];

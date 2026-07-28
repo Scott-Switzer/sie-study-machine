@@ -12,7 +12,8 @@ SIE_QUESTIONS_YOUTUBE_GURU75 = [
   "answer": "A",
   "explanation": "Correct answer: Treasury Bills",
   "source": "YouTube: Series 7 Guru (GURU75)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-GURU75-1",
@@ -26,7 +27,8 @@ SIE_QUESTIONS_YOUTUBE_GURU75 = [
   },
   "answer": "D",
   "explanation": "Correct answer: High school",
-  "source": "YouTube: Series 7 Guru (GURU75)"
+  "source": "YouTube: Series 7 Guru (GURU75)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-GURU75-2",
@@ -40,7 +42,8 @@ SIE_QUESTIONS_YOUTUBE_GURU75 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Premium",
-  "source": "YouTube: Series 7 Guru (GURU75)"
+  "source": "YouTube: Series 7 Guru (GURU75)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "yt-GURU75-3",
@@ -54,7 +57,8 @@ SIE_QUESTIONS_YOUTUBE_GURU75 = [
   },
   "answer": "B",
   "explanation": "Correct answer: They are fully taxed",
-  "source": "YouTube: Series 7 Guru (GURU75)"
+  "source": "YouTube: Series 7 Guru (GURU75)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-GURU75-4",
@@ -68,7 +72,8 @@ SIE_QUESTIONS_YOUTUBE_GURU75 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Treasury Bills",
-  "source": "YouTube: Series 7 Guru (GURU75)"
+  "source": "YouTube: Series 7 Guru (GURU75)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-GURU75-5",
@@ -82,7 +87,8 @@ SIE_QUESTIONS_YOUTUBE_GURU75 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Term",
-  "source": "YouTube: Series 7 Guru (GURU75)"
+  "source": "YouTube: Series 7 Guru (GURU75)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-GURU75-6",
@@ -96,7 +102,8 @@ SIE_QUESTIONS_YOUTUBE_GURU75 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Term",
-  "source": "YouTube: Series 7 Guru (GURU75)"
+  "source": "YouTube: Series 7 Guru (GURU75)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-GURU75-7",
@@ -110,7 +117,8 @@ SIE_QUESTIONS_YOUTUBE_GURU75 = [
   },
   "answer": "A",
   "explanation": "Correct answer: AAA",
-  "source": "YouTube: Series 7 Guru (GURU75)"
+  "source": "YouTube: Series 7 Guru (GURU75)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-GURU75-8",
@@ -124,7 +132,8 @@ SIE_QUESTIONS_YOUTUBE_GURU75 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Collateral Trust Bonds",
-  "source": "YouTube: Series 7 Guru (GURU75)"
+  "source": "YouTube: Series 7 Guru (GURU75)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-GURU75-9",
@@ -138,6 +147,7 @@ SIE_QUESTIONS_YOUTUBE_GURU75 = [
   },
   "answer": "C",
   "explanation": "Correct answer: 8.9%",
-  "source": "YouTube: Series 7 Guru (GURU75)"
+  "source": "YouTube: Series 7 Guru (GURU75)",
+  "topic": "Corporate Debt & Money Market"
  }
 ];

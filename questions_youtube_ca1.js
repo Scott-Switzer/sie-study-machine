@@ -11,7 +11,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “The broker-dealer is permitted to charge a markup on both transactions, but is required to compute the markup based on the amount of money involved in the sale to the customer.” In a proceeds transaction (sale followed by a purchase with the proceeds), the firm computes one combined markup based on the total money involved, not separate markups.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-ca1-2",
@@ -25,7 +26,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Contributions are unlimited.” 529 plan contributions are not unlimited; there are aggregate state limits, though there are no income limits on contributors.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-ca1-3",
@@ -39,7 +41,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “A primary distribution involves the sale of new shares by the issuer, while a secondary distribution involves the sale of shares that are already issued and outstanding.” A primary distribution is the issuer selling newly issued securities; a secondary distribution is the sale of already-outstanding shares by existing holders.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-ca1-4",
@@ -53,7 +56,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Total Assets = Total Liabilities + Stockholders' Equity.” The accounting equation is Assets = Liabilities + Stockholders' Equity.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-ca1-5",
@@ -67,7 +71,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Zero-coupon bond.” A zero-coupon bond makes no periodic interest payments; it is bought at a discount and pays face value at maturity.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-ca1-6",
@@ -81,7 +86,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “20.” Conversion ratio = par value / conversion price = $1,000 / $50 = 20 shares.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-ca1-7",
@@ -95,7 +101,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Zero-coupon bond.” A zero-coupon bond's stated (implicit) interest is fixed by its discount and does not change until maturity, unlike floating/adjustable rates.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-ca1-8",
@@ -109,7 +116,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “American Depositary Receipts.” A foreign company lists its stock in the U.S. via American Depositary Receipts (ADRs) created by a U.S. bank.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-ca1-9",
@@ -123,7 +131,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Exchange-traded fund.” SPDRs (Spider ETFs) are exchange-traded funds that track an index and trade like stocks.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Options"
  },
  {
   "id": "yt-ca1-10",
@@ -137,7 +146,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “A letter of intent.” A letter of intent lets an investor reach a sales-charge breakpoint by agreeing to invest the full amount within 13 months, counting current purchases.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-ca1-11",
@@ -151,7 +161,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Proceeds transaction.” The 5% markup policy (dealer's bona fide) applies to principal transactions such as proceeds transactions in the OTC/secondary market.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "yt-ca1-12",
@@ -165,7 +176,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Any amount.” Member firms must keep records of any gift given, regardless of amount, so there is no de minimis threshold for recordkeeping.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "yt-ca1-13",
@@ -179,7 +191,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Passive losses.” REITs offer diversification, liquidity, and income but do not pass through passive losses to investors; that is a DPP feature, not a REIT benefit.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-ca1-14",
@@ -193,7 +206,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “On the trade date.” A cash trade settles on the trade date (same day), as the name implies.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-ca1-15",
@@ -207,7 +221,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Securities listed on an exchange, but traded in the OTC market.” The third market is exchange-listed securities traded OTC (between brokers/institutions) away from the exchange.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "yt-ca1-16",
@@ -221,7 +236,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “The preliminary prospectus (red herring) will contain all the relevant information including the final price of the issue in order to obtain indications of interest.” The preliminary prospectus (red herring) does NOT contain the final offering price; that is set later in the final prospectus.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-ca1-17",
@@ -235,7 +251,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “$100,000.” Negotiable (jumbo) CDs have a minimum denomination of $100,000.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-ca1-18",
@@ -249,7 +266,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Must fulfill the obligation to buy or sell the underlying instrument.” On exercise, the option writer is assigned and must fulfill the obligation to buy (put) or sell (call) the underlying security.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Options"
  },
  {
   "id": "yt-ca1-19",
@@ -263,7 +281,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “An outside research analyst and the employee discuss why the company's earnings per share could be dramatically lower than prior estimates.” Trading on information from an outside analyst's independent research is not insider trading, since the information is public/derived, not material nonpublic inside information.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "yt-ca1-20",
@@ -277,7 +296,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Net asset value.” A no-load fund is sold at its net asset value with no sales charge or commission added.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-ca1-21",
@@ -291,7 +311,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Short-term corporate bond fund.” Short-term corporate bonds have the shortest duration and lowest price volatility of the listed funds.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-ca1-22",
@@ -305,7 +326,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Increase.” Bond prices move inversely to interest rates, so falling rates cause existing bond prices to rise.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-ca1-23",
@@ -319,7 +341,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Subject to federal income tax, but exempt from state income tax.” TIPS pay interest that is subject to federal tax (and the inflation adjustment is taxed annually) but exempt from state income tax as a U.S. government obligation.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-ca1-24",
@@ -333,7 +356,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “January 16.” Government securities (T-bonds) settle on the trade date for cash; buying Friday Jan 16 for cash settles Jan 16.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-ca1-25",
@@ -347,7 +371,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “General account.” Fixed annuity premiums go into the insurer's general account, so the annuitant is concerned with the insurer's general-account strength.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Variable Annuities & Insurance Products"
  },
  {
   "id": "yt-ca1-26",
@@ -361,7 +386,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Deposit cash equal to the difference between the strike price and the value of the index.” Indexed options are cash-settled; the writer pays cash equal to the in-the-money difference between the index level and the strike.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Options"
  },
  {
   "id": "yt-ca1-27",
@@ -375,7 +401,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Ask another RR at your firm to attend the event with the client.” If the RR cannot attend, the best practice is to have another RR attend with the client so the firm maintains supervision of the entertainment.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-ca1-28",
@@ -389,7 +416,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Ordinary income taxes on the amount withdrawn, but not a 10% tax penalty on that same amount.” An IRA premature withdrawal that meets an exception (e.g., disability, medical) avoids the 10% penalty but the earnings are still taxed as ordinary income.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-ca1-29",
@@ -403,7 +431,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Acts as a dealer in a transaction with a customer.” The 5% markup policy governs a member acting as a dealer (principal) in a transaction with a customer.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-ca1-30",
@@ -417,7 +446,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Promote fair and equitable practices among members.” An SRO (like FINRA) exists to promote fair and equitable practices among its members through self-regulation.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-ca1-31",
@@ -431,7 +461,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "A",
   "explanation": "9% cumulative preferred ($100 par) = $9/yr. Missed $2 two years ago ($9−$7) + missed $1 last year ($9−$8) + the full $9 current dividend = $12 in arrears + current that must be paid before any common dividend.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-ca1-32",
@@ -445,7 +476,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “At or prior to the time of the trade.” In municipal transactions, all material information must be disclosed at or before the time of the trade.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-ca1-33",
@@ -459,7 +491,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Passing the SIE Exam and the Series 7 Exam.” Selling corporate (non-exempt) securities requires the Series 7; with the SIE, that means SIE plus Series 7 registration.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-ca1-34",
@@ -473,7 +506,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Research and trading.” Information barriers separate research from trading to prevent the misuse of research (material nonpublic) information.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-ca1-35",
@@ -487,7 +521,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Secured debt holders.” In bankruptcy, secured creditors have the highest priority claim, ahead of administrative, unsecured, and equity holders.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-ca1-36",
@@ -501,7 +536,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Issuers.” MSRB rules regulate broker-dealers, underwriters, and muni advisors, but not the issuers of municipal securities.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-ca1-37",
@@ -515,7 +551,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Sell the entire issue or retain any shares left unsold.” Under a firm-commitment underwriting, the underwriter buys the entire issue and must sell it all or retain any unsold shares itself.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-ca1-38",
@@ -529,7 +566,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Receiving tax benefits received by the employee.” Private-securities-transaction compensation excludes incidental tax benefits to the employee; commissions and warrants are compensation.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "yt-ca1-39",
@@ -543,7 +581,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “A bond maturing in 20 years.” Interest-rate risk rises with maturity; the 20-year bond has the most price sensitivity to rate changes.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-ca1-40",
@@ -557,7 +596,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “A mix of individuals who represent the public and financial industry.” Public-customer arbitration panels are composed of a mix of public and industry arbitrators.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-ca1-41",
@@ -571,7 +611,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Separate account.” Variable annuity subaccounts are in the insurer's separate account, whose investment performance drives returns, so the investor focuses on it.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Variable Annuities & Insurance Products"
  },
  {
   "id": "yt-ca1-42",
@@ -585,7 +626,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “The spot exchange rate.” A currency exchange amount is determined by the spot exchange rate between the two currencies at the time of the trade.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-ca1-43",
@@ -599,7 +641,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “He is only required to notify his firm.” Borrowing from a customer requires written notice to and approval from the employing firm; it is not merely notice.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "yt-ca1-44",
@@ -613,7 +656,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “May be accepted and may be executed anytime that day.” An unsolicited order to buy 'whenever you think the price is right' is a discretionary order and must be marked discretionary and approved by a principal.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "yt-ca1-45",
@@ -627,7 +671,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Is used to prevent the price of newly issued stock from falling.” Stabilization is a permitted practice used to keep a new issue's price from falling during the distribution.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-ca1-46",
@@ -641,7 +686,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “It is responsible for automated book-entry changes in the ownership of securities.” A clearing corporation handles trade comparison, book-entry, and transfers, but does not itself perform automated book-entry ownership changes as its primary stated responsibility (that is the transfer agent); the statement about responsibility for book-entry changes is the false one.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-ca1-47",
@@ -655,7 +701,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “He is required to provide written notice to his broker-dealer.” Operating a no-compensation charitable investment program still requires the associated person to give written notice to the employing firm.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-ca1-48",
@@ -669,7 +716,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Engage in frequent trading.” A fee-based (wrap) account suits frequent traders, since one asset-based fee covers many trades better than per-trade commissions.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "yt-ca1-49",
@@ -683,7 +731,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “A best-efforts underwriting.” In a best-efforts underwriting, the underwriter sells what it can and returns unsold shares to the issuer (or retains none).",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-ca1-50",
@@ -697,7 +746,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “The sale of investment company shares in dollar amounts just below the point at which the sales charge is reduced on quantity transactions.” A breakpoint sale is purchasing just below a sales-charge breakpoint, costing the investor a higher charge unnecessarily.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-ca1-51",
@@ -711,7 +761,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “$17.50.” A 2-for-1 split doubles shares and halves the per-share cost basis: $35 / 2 = $17.50.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "yt-ca1-52",
@@ -725,7 +776,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “May accept the order.” In a joint account with right of survivorship, either owner may place orders; the RR may accept the order from one party.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-ca1-53",
@@ -739,7 +791,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “A unit investment trust.” A UIT has a fixed portfolio with no active management, so it charges no management fee, unlike managed companies.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-ca1-54",
@@ -753,7 +806,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “A state.” 529 plans are sponsored by states (or state agencies) to fund education.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-ca1-55",
@@ -767,7 +821,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “When the account is opened.” Broker-dealers must deliver a privacy notice to each customer when the account is opened.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "yt-ca1-56",
@@ -781,7 +836,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Face-amount certificate company.” A face-amount certificate company sells certificates bought in installments that mature at a fixed dollar amount.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-ca1-57",
@@ -795,7 +851,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “The representative will be placed in inactive status.” If the Regulatory Element CE is not completed within 120 days of the anniversary, the representative is placed in inactive status.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-ca1-58",
@@ -809,7 +866,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Entering competitive cycling events.” Outside business activities like competitive cycling (a hobby with no securities tie) need not be reported to the firm; securities-related or business activities must be.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "yt-ca1-59",
@@ -823,7 +881,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “That the email is a part of a pump and dump scheme.” A penny stock touted by email with no available financials is a classic pump-and-dump manipulation scheme.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "yt-ca1-60",
@@ -837,7 +896,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Increase in property taxes.” Higher property taxes strengthen a municipality's revenue base, improving its credit rating.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-ca1-61",
@@ -851,7 +911,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Must provide written notification to his employer.” Taking an unrelated part-time job (convenience store) requires only written notification to the employer, not permission.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-ca1-62",
@@ -865,7 +926,8 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “A discount.” A bond trading at a basis (yield) above its coupon is priced at a discount to par.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-ca1-63",
@@ -879,6 +941,7 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Between 8:00 a.m. and 9:00 p.m.” Telemarketing rules permit unsolicited calls between 8:00 a.m. and 9:00 p.m. local time.",
-  "source": "YouTube: Series 7 Guru (ca1)"
+  "source": "YouTube: Series 7 Guru (ca1)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  }
 ];

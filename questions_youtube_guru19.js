@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE_GURU19 = [
   },
   "answer": "D",
   "explanation": "Correct answer: I and III",
-  "source": "YouTube: Series 7 Guru (guru19)"
+  "source": "YouTube: Series 7 Guru (guru19)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-guru19-40",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE_GURU19 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “I, II, III, and IV”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
-  "source": "YouTube: Series 7 Guru (guru19)"
+  "source": "YouTube: Series 7 Guru (guru19)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru19-43",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE_GURU19 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Bond fund”. Diversification spreads investments to reduce unsystematic (company-specific) risk without necessarily lowering expected return.",
-  "source": "YouTube: Series 7 Guru (guru19)"
+  "source": "YouTube: Series 7 Guru (guru19)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru19-45",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_YOUTUBE_GURU19 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “a gain of $1,000.”. Option profit/loss is the difference between the proceeds and the premium paid; here the net gain is $1,000.",
-  "source": "YouTube: Series 7 Guru (guru19)"
+  "source": "YouTube: Series 7 Guru (guru19)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru19-63",
@@ -67,7 +71,8 @@ SIE_QUESTIONS_YOUTUBE_GURU19 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “the purchase of securities.”. Buying securities on credit in a margin account creates a debit balance the customer must pay interest on.",
-  "source": "YouTube: Series 7 Guru (guru19)"
+  "source": "YouTube: Series 7 Guru (guru19)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru19-67",
@@ -81,7 +86,8 @@ SIE_QUESTIONS_YOUTUBE_GURU19 = [
   },
   "answer": "D",
   "explanation": "Correct answer: II and III",
-  "source": "YouTube: Series 7 Guru (guru19)"
+  "source": "YouTube: Series 7 Guru (guru19)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru19-77",
@@ -95,7 +101,8 @@ SIE_QUESTIONS_YOUTUBE_GURU19 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “ten ABC 6s of 2045 with a conversion price of $41.67.”. A zero-coupon bond pays no periodic interest (0% current yield) and returns principal at maturity.",
-  "source": "YouTube: Series 7 Guru (guru19)"
+  "source": "YouTube: Series 7 Guru (guru19)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru19-85",
@@ -109,7 +116,8 @@ SIE_QUESTIONS_YOUTUBE_GURU19 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “an employee of a broker-dealer engaged in municipal security representative activities other than retail sales or who solicits municipal securities business for the broker-dealer.”. A municipal securities representative (Series 52) engages in municipal activities other than retail sales or solicitation for the firm.",
-  "source": "YouTube: Series 7 Guru (guru19)"
+  "source": "YouTube: Series 7 Guru (guru19)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru19-88",
@@ -124,7 +132,8 @@ SIE_QUESTIONS_YOUTUBE_GURU19 = [
   "answer": "B",
   "explanation": "Correct answer: I and IV",
   "source": "YouTube: Series 7 Guru (guru19)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru19-100",
@@ -138,7 +147,8 @@ SIE_QUESTIONS_YOUTUBE_GURU19 = [
   },
   "answer": "D",
   "explanation": "Correct answer: consolidation.",
-  "source": "YouTube: Series 7 Guru (guru19)"
+  "source": "YouTube: Series 7 Guru (guru19)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru19-102",
@@ -152,7 +162,8 @@ SIE_QUESTIONS_YOUTUBE_GURU19 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “$20,000.”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
-  "source": "YouTube: Series 7 Guru (guru19)"
+  "source": "YouTube: Series 7 Guru (guru19)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru19-103",
@@ -166,7 +177,8 @@ SIE_QUESTIONS_YOUTUBE_GURU19 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “it is not necessary for J.B. to file a Form 144.”. The secondary market is where investors trade already-issued securities among themselves; the issuer receives no proceeds from these trades.",
-  "source": "YouTube: Series 7 Guru (guru19)"
+  "source": "YouTube: Series 7 Guru (guru19)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "yt-guru19-107",
@@ -180,7 +192,8 @@ SIE_QUESTIONS_YOUTUBE_GURU19 = [
   },
   "answer": "C",
   "explanation": "The correct choice (A) is: “8.5% of the net asset value.”. Sales charge % = (POP - NAV) / POP; with POP $120 and NAV $116.40, SC = 3.60/120 = 3%.",
-  "source": "YouTube: Series 7 Guru (guru19)"
+  "source": "YouTube: Series 7 Guru (guru19)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru19-111",
@@ -194,6 +207,7 @@ SIE_QUESTIONS_YOUTUBE_GURU19 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “money laundering”. Large, frequent, round-number cash deposits are a classic red flag for money laundering and must be monitored and reported under BSA/AML rules.",
-  "source": "YouTube: Series 7 Guru (guru19)"
+  "source": "YouTube: Series 7 Guru (guru19)",
+  "topic": "AML & SARs"
  }
 ];

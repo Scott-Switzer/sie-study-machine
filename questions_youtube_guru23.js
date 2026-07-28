@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “The economy is weakening”. Rising unemployment is a lagging economic indicator: as demand and output slow, businesses cut jobs, so a rising jobless rate signals a weakening (contracting) economy.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru23-2",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Unemployment rate decreases”. Tighter monetary policy slows growth and typically pushes unemployment UP, not down, so a falling jobless rate is the least likely short-term result of a rate hike.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru23-3",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Investors expect a potential recession",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru23-4",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Setting tax rates”. Tax policy is fiscal policy set by Congress, not a Fed monetary tool; the Fed's tools are open-market operations, reserve requirements, and the discount rate.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru23-5",
@@ -67,7 +71,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “The effects may offset each other, making the overall impact uncertain”. Expansionary fiscal policy (more spending) and contractionary monetary policy (higher rates) pull in opposite directions, so their net effect on growth is ambiguous.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru23-6",
@@ -81,7 +86,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Bond prices will increase”. Bond prices and interest rates move inversely, so when the Fed lowers rates, existing fixed-coupon bonds become more valuable and their prices rise.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru23-7",
@@ -95,7 +101,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “The city's borrowing costs may increase”. A large federal tax cut is expansionary — it can swell the deficit and Treasury issuance and stoke inflation, pushing market rates up and raising the city's cost of borrowing.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru23-8",
@@ -109,7 +116,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Federal Reserve Banks",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru23-9",
@@ -123,7 +131,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Open market operations”. The FOMC directly conducts open-market operations (buying/selling Treasuries); the discount rate and reserve requirements are set by the Board of Governors.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru23-10",
@@ -137,7 +146,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Discount rate”. When a bank borrows short-term directly from its regional Federal Reserve Bank, it pays the discount rate — distinct from the interbank federal funds rate.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru23-11",
@@ -151,7 +161,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Long-term Treasury bonds",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-guru23-12",
@@ -165,7 +176,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Bond prices decrease”. Existing fixed-rate bonds fall in price when market rates rise, because newly issued bonds offer higher coupons, making older lower-coupon bonds less attractive.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru23-13",
@@ -179,7 +191,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “There is no relationship that is always true between interest rates and stocks”. Rate changes affect stocks through many channels (discount rates, earnings, sentiment), so no strict always-true rule links the two; absolute 'always' statements are false.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru23-14",
@@ -193,7 +206,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Money market funds”. Money-market yields track short-term rates, so when rates fall their returns decline immediately — making them the least likely to benefit from a rate-cut signal.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru23-15",
@@ -207,7 +221,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Expansion”. Expansion is the business-cycle phase marked by rising employment, growing consumer spending, and increasing industrial production.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru23-16",
@@ -221,7 +236,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Trough”. The trough is the cycle low — high unemployment and low inflation — often with early signs of recovery in some sectors before the next expansion begins.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru23-17",
@@ -235,7 +251,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Peak”. Near the peak, output is near maximum so unemployment is low, but capacity constraints push inflation higher even as growth begins to slow.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru23-18",
@@ -249,7 +266,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"She will have twice as many shares, and the price per share will be halved.\" A 2-for-1 stock split doubles the number of shares owned and halves the per-share price, so total market value is unchanged.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-guru23-19",
@@ -263,7 +281,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “It is backed by specific assets as collateral”. A secured (collateralized) bond is backed by specific pledged assets, giving bondholders a claim on those assets if the issuer defaults — unlike an unsecured/debenture bond.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru23-20",
@@ -277,7 +296,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "D",
   "explanation": "Correct answer: The corporate bond has higher credit risk",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru23-21",
@@ -291,7 +311,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “A legal right to use another person's land for a specific limited purpose”. An easement is a non-possessory property right letting one party use another's land for a defined purpose (e.g., a utility or access right-of-way).",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru23-22",
@@ -305,7 +326,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Open-end investment company”. Open-end funds (mutual funds) issue redeemable shares and must compute NAV at least once each business day, buying and selling at that NAV.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru23-23",
@@ -319,7 +341,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Exchange-traded fund (ETF)",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru23-24",
@@ -333,7 +356,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Magnified losses due to leverage",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-guru23-25",
@@ -348,7 +372,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   "answer": "C",
   "explanation": "Correct answer: The writer of a call option has the right to sell the underlying asset.",
   "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Options"
  },
  {
   "id": "yt-guru23-26",
@@ -362,7 +387,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “The put writer must buy XYZ shares from Maria at the strike price.”. The writer (seller) of a put is obligated to buy the underlying at the strike when the holder exercises; the buyer holds the right, the writer bears the duty.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Options"
  },
  {
   "id": "yt-guru23-27",
@@ -376,7 +402,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Tax-deferred transfers",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Options"
  },
  {
   "id": "yt-guru23-28",
@@ -390,7 +417,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Surrender charges usually increase each year the contract is held.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Variable Annuities & Insurance Products"
  },
  {
   "id": "yt-guru23-29",
@@ -404,7 +432,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Guaranteed minimum withdrawal benefit",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Options"
  },
  {
   "id": "yt-guru23-30",
@@ -418,7 +447,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Credit risk",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru23-31",
@@ -432,7 +462,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Unsystematic risk”. Unsystematic (company-specific) risk can be diversified away by holding many unrelated assets; systematic/market risk cannot be eliminated through diversification.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru23-32",
@@ -446,7 +477,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Taking more risk always results in higher returns.”. Risk and expected return are related, but risk does not guarantee higher actual returns — more risk raises the chance of loss, so an 'always' claim is false.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru23-33",
@@ -460,7 +492,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Credit risk",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru23-34",
@@ -474,7 +507,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Market order”. A market order executes immediately at the best available current price with no price guarantee, unlike a limit order which specifies a maximum/minimum price.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-guru23-35",
@@ -488,7 +522,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Her order remains unfilled.\" A buy limit order executes only at the limit price ($50) or lower. Since XYZ traded at $51 all day and never reached $50, the order is never triggered and stays open/unfilled at close.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-guru23-36",
@@ -502,7 +537,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "B",
   "explanation": "Correct answer: False",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-guru23-37",
@@ -516,7 +552,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "B",
   "explanation": "Regular-way settlement is T+1 (since May 2024): a Monday trade settles the next business day, Tuesday.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-guru23-38",
@@ -531,7 +568,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   "answer": "D",
   "explanation": "Correct answer: No, this may violate Regulation T's free-riding prohibition",
   "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru23-39",
@@ -545,7 +583,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Margin agreement",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru23-40",
@@ -559,7 +598,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Joint tenants with right of survivorship”. JTWROS requires equal ownership shares and passes automatically to the survivor; tenants in common allows unequal shares and provides no right of survivorship.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "yt-guru23-42",
@@ -573,7 +613,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Custodial account”. A custodial (UTMA/UGMA) account lets an adult (the custodian) manage and hold assets for a minor until the minor reaches the age of majority.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "yt-guru23-43",
@@ -587,7 +628,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "A",
   "explanation": "Correct answer: FINRA",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "yt-guru23-44",
@@ -601,7 +643,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “False”. Not every communication needs prior principal approval — only retail communications broadly distributed to more than 25 retail investors; one-on-one correspondence is reviewed after the fact.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Communications with the Public"
  },
  {
   "id": "yt-guru23-45",
@@ -615,7 +658,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "A",
   "explanation": "Correct answer: File the email with FINRA before sending",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru23-46",
@@ -629,7 +673,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "B",
   "explanation": "Correct answer: No, only material changes in the customer's circumstances require updates",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "AML & SARs"
  },
  {
   "id": "yt-guru23-47",
@@ -643,7 +688,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Registered representative's investment preferences",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru23-48",
@@ -657,7 +703,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Need for stable income and capital preservation”. Suitability requires matching the recommendation to the customer's profile; an elderly, low-income retiree's primary need is income and preservation, not aggressive growth.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru23-49",
@@ -671,7 +718,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Fifty percent of the purchase price must be deposited as initial margin.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru23-50",
@@ -685,7 +733,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Customers can borrow funds to purchase additional securities in a margin account.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "yt-guru23-51",
@@ -699,7 +748,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "A",
   "explanation": "Correct answer: The broker must wait for Maria to deposit more funds before taking any action.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru23-52",
@@ -713,7 +763,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Front-running”. Front-running — trading ahead of a client's pending order to profit from the anticipated price move — is a prohibited practice under securities regulation.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "yt-guru23-53",
@@ -727,7 +778,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Dollar-cost averaging",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "yt-guru23-54",
@@ -741,7 +793,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Placing a market order”. A market order is a normal, permitted order type; prohibited practices include painting the tape, wash sales, and marking the close — not simply using a market order.",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "yt-guru23-55",
@@ -755,6 +808,7 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Front-running",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
+  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  }
 ];

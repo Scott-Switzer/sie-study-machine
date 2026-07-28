@@ -11,7 +11,8 @@ var SIE_QUESTIONS_YOUTUBE_CA3 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Treasury bonds”. Treasury bonds are federal government securities, not municipal securities; munis are issued by states and localities (GO, revenue, etc.).",
-  "source": "YouTube: Series 7 Guru (ca3)"
+  "source": "YouTube: Series 7 Guru (ca3)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-ca3-3",
@@ -25,7 +26,8 @@ var SIE_QUESTIONS_YOUTUBE_CA3 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “The firm is required to keep the details of the transaction on record”. A member firm must keep records of certain transactions (e.g., an associated person's outside business) as required by rules.",
-  "source": "YouTube: Series 7 Guru (ca3)"
+  "source": "YouTube: Series 7 Guru (ca3)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-ca3-6",
@@ -39,7 +41,8 @@ var SIE_QUESTIONS_YOUTUBE_CA3 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Interest rate changes”. Bond prices fluctuate mainly because of changes in market interest rates; when rates rise, prices fall, and vice versa.",
-  "source": "YouTube: Series 7 Guru (ca3)"
+  "source": "YouTube: Series 7 Guru (ca3)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-ca3-24",
@@ -53,7 +56,8 @@ var SIE_QUESTIONS_YOUTUBE_CA3 = [
   },
   "answer": "D",
   "explanation": "Freddie Mac (FHLMC) buys CONVENTIONAL mortgages (not FHA/VA-insured) from lenders and packages them into pass-through securities. Ginnie Mae is the one that deals in FHA/VA-insured loans.",
-  "source": "YouTube: Series 7 Guru (ca3)"
+  "source": "YouTube: Series 7 Guru (ca3)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-ca3-55",
@@ -67,6 +71,7 @@ var SIE_QUESTIONS_YOUTUBE_CA3 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Diversified”. An investment company is 'diversified' if it invests at least 75% of assets with no more than 5% in any one issuer and no more than 10% of any issuer's voting stock.",
-  "source": "YouTube: Series 7 Guru (ca3)"
+  "source": "YouTube: Series 7 Guru (ca3)",
+  "topic": "Investment Risks"
  }
 ];

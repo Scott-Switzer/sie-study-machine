@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"developed economies and not with emerging economies..\" Political risk is most associated with emerging economies but can also occur in highly developed ones.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "yt-guru5-12",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"Low priority in liquidation.\" Common shareholders have limited liability, so 'unlimited liability' is not a risk of owning common stock.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru5-14",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Neither income nor capital growth would come from rents received..\" A real estate DPP can generate income from rents received on its portfolio properties as well as from capital appreciation.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "yt-guru5-17",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "D",
   "explanation": "The correct choice (B) is: \"$4.00..\" Noncumulative preferred has no arrears; after omitting dividends the company need only pay the current year's $4 before resuming common dividends.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru5-18",
@@ -67,7 +71,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "C",
   "explanation": "Regulation T is set by the Federal Reserve Board under the Securities Exchange Act of 1934. It sets the initial margin requirement (currently 50%) for securities purchases.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru5-23",
@@ -81,7 +86,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "D",
   "explanation": "Fully paid marginable securities have 50% loan value under Reg T. To cover a $3,200 cash call with securities, deposit securities worth $3,200 ÷ 0.50 = $6,400 in market value.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru5-27",
@@ -95,7 +101,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"credit unions.\" Depositories/intermediaries include DTC, NSCC, and carrying firms; credit unions are not part of the securities clearance system.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-guru5-29",
@@ -109,7 +116,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"30.\" The Dow Jones Industrial Average is a price-weighted average of 30 large U.S. industrial stocks.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru5-30",
@@ -123,7 +131,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"Unit investment trust.\" A unit investment trust has a fixed portfolio and a predetermined termination (liquidation) date.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru5-31",
@@ -137,7 +146,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"currency risk.\" Investing in foreign securities exposes the investor to currency risk from exchange-rate movements.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-guru5-32",
@@ -151,7 +161,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"Long call.\" A long call provides a full hedge against a short stock position because gains on the call offset rising stock prices.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru5-33",
@@ -165,7 +176,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"stop order.\" A stop order becomes a market order once the specified stop price is reached (triggered).",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-guru5-34",
@@ -179,7 +191,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"The employee.\" In a defined contribution plan the employee bears the investment risk and is responsible for the eventual return.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "yt-guru5-35",
@@ -193,7 +206,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"M2.\" M2 includes currency, checking accounts, small time deposits, and retail money market mutual funds.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru5-36",
@@ -207,7 +221,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"the premium.\" The maximum loss on a long call is limited to the premium paid.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru5-37",
@@ -221,7 +236,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"B shares.\" Class B shares carry a contingent deferred sales charge (CDSC) that starts high and declines to zero over a holding period.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru5-38",
@@ -235,7 +251,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"$250,000.\" Damages in a private suit based on manipulative practices are capped at $250,000.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru5-39",
@@ -249,7 +266,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"ABC Railroad Power Systems, Inc..\" Exempt issuers include governments, municipalities, and charitable/religious trusts; a regular corporation like ABC Railroad Power Systems is not exempt.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru5-40",
@@ -263,7 +281,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"6%.\" Sales charge = (POP - NAV) / POP = ($30 - $28.20) / $30 = 6%.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru5-41",
@@ -277,7 +296,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Tuesday, September 27.\" The record date is the date set by the board (Tuesday, September 27) on which a shareholder must be recorded to receive the dividend.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-guru5-42",
@@ -291,7 +311,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"Unit investment trust.\" A unit investment trust typically holds a fixed, unmanaged portfolio.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru5-43",
@@ -305,7 +326,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"Proceeds minus cost basis.\" For tax purposes, gain or loss = proceeds minus cost basis.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "yt-guru5-44",
@@ -319,7 +341,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"The number of rights issued is based on the number of new shares to be issued..\" In a rights offering the number of rights issued is based on existing shares (one right per share), not on the number of new shares to be issued.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "yt-guru5-47",
@@ -333,7 +356,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"$3,000 reduction in ordinary income and $9,000 in carry-forward losses.\" Net result is a $12,000 capital loss (a $17,000 loss on ABC and a $5,000 gain on DEF); only $3,000 is deductible against ordinary income with $9,000 carried forward.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "yt-guru5-49",
@@ -347,7 +371,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Contributions to ABLE accounts are tax deductible at the federal level..\" ABLE account contributions are not deductible at the federal level, though earnings and qualified withdrawals are tax-free.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru5-51",
@@ -361,7 +386,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"5%.\" Total return = ($102 sale - $100 cost) + $8 coupon = $10 on $100 cost = 10%.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru5-53",
@@ -375,7 +401,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"Call risk, which can lead to reinvestment risk..\" When a callable bond is called as rates fall, the investor faces call risk and must reinvest at lower rates (reinvestment risk).",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru5-54",
@@ -389,7 +416,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"A closed-end company may issue bonds..\" Bond mutual funds (open-end) may not issue senior securities such as bonds; closed-end companies may.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-guru5-57",
@@ -403,7 +431,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"Violated the TCPA because it is after 9:00 pm the prospect's time.\" The TCPA prohibits telephone solicitation after 9:00 p.m. in the called party's time zone.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru5-58",
@@ -417,7 +446,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"1.20%.\" Expense ratio = expenses / average net assets = $1.44M / $120M = 1.20%.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru5-60",
@@ -431,7 +461,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"voluntary..\" On Form U5, a 'voluntary' termination requires no additional explanation; other reasons do.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru5-61",
@@ -445,7 +476,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"I and IV.\" In a stock split, more shares means a lower per-share price (I) and fewer shares means a higher per-share price (IV).",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-guru5-63",
@@ -459,7 +491,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"8% of the issuer's common stock..\" A nonaffiliate is deemed a control person if aggregated with a spouse who owns 8% (control is attributed to spouses).",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru5-65",
@@ -473,7 +506,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"There is no limit to the number of transfers per year between custodians..\" Trustee-to-trustee (rollover) transfers between IRA custodians are unlimited in number and are not taxable events.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Market Participants (BDs, IAs, custodians, transfer agents)"
  },
  {
   "id": "yt-guru5-67",
@@ -487,7 +521,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"They are mandatory and must be placed during the cooling-off period..\" Tombstone ads are optional (not mandatory) and appear only after the effective date, not during the cooling-off period.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "yt-guru5-70",
@@ -501,7 +536,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "A",
   "explanation": "Correct answer: A Registered Options Principal (ROP) of the firm.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru5-72",
@@ -515,7 +551,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "C",
   "explanation": "Correct answer: $5,500",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru5-73",
@@ -529,7 +566,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "B",
   "explanation": "Correct answer: sell Treasury securities to banks in the open market.",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru5-74",
@@ -543,7 +581,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "A",
   "explanation": "Correct answer: The member firm",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru5-75",
@@ -557,6 +596,7 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
   },
   "answer": "A",
   "explanation": "Correct answer: I and III",
-  "source": "YouTube: Series 7 Guru (guru5)"
+  "source": "YouTube: Series 7 Guru (guru5)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  }
 ];

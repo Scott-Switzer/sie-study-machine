@@ -11,7 +11,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU68 = [
   },
   "answer": "D",
   "explanation": "Index funds are passively managed to track a benchmark (e.g., the S&P 500), so they have low portfolio turnover and lower management fees than actively managed funds. They do not guarantee principal and can decline in bear markets.",
-  "source": "YouTube: Series 7 Guru (guru68)"
+  "source": "YouTube: Series 7 Guru (guru68)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru68-1",
@@ -25,7 +26,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU68 = [
   },
   "answer": "B",
   "explanation": "Direct participation programs (e.g., real estate, oil & gas, equipment leasing partnerships) give investors direct ownership in tangible, often non-correlated assets that can produce relatively steady income flows. They are illiquid and lack transparency, which rules out choice A; they are not publicly traded stock purchases.",
-  "source": "YouTube: Series 7 Guru (guru68)"
+  "source": "YouTube: Series 7 Guru (guru68)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "yt-guru68-2",
@@ -39,6 +41,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU68 = [
   },
   "answer": "A",
   "explanation": "Contributions to a 529 plan are not deductible on federal income tax returns, and there are no federal income-eligibility limits to contribute. However, many states allow a state income tax deduction (or credit) for contributions to their own 529 plan, so the RR should explain the potential state tax deductibility.",
-  "source": "YouTube: Series 7 Guru (guru68)"
+  "source": "YouTube: Series 7 Guru (guru68)",
+  "topic": "Retirement Plans & Education Accounts"
  }
 ];

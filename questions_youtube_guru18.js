@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE_GURU18 = [
   },
   "answer": "C",
   "explanation": "Correct answer: $700 gain",
-  "source": "YouTube: Series 7 Guru (guru18)"
+  "source": "YouTube: Series 7 Guru (guru18)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru18-4",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE_GURU18 = [
   },
   "answer": "B",
   "explanation": "Correct answer: 154 and 126",
-  "source": "YouTube: Series 7 Guru (guru18)"
+  "source": "YouTube: Series 7 Guru (guru18)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru18-6",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE_GURU18 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Unlimited",
-  "source": "YouTube: Series 7 Guru (guru18)"
+  "source": "YouTube: Series 7 Guru (guru18)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru18-23",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_YOUTUBE_GURU18 = [
   },
   "answer": "A",
   "explanation": "Correct answer: $1,400",
-  "source": "YouTube: Series 7 Guru (guru18)"
+  "source": "YouTube: Series 7 Guru (guru18)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru18-27",
@@ -67,7 +71,8 @@ SIE_QUESTIONS_YOUTUBE_GURU18 = [
   },
   "answer": "D",
   "explanation": "Correct answer: 145",
-  "source": "YouTube: Series 7 Guru (guru18)"
+  "source": "YouTube: Series 7 Guru (guru18)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru18-29",
@@ -81,7 +86,8 @@ SIE_QUESTIONS_YOUTUBE_GURU18 = [
   },
   "answer": "B",
   "explanation": "Correct answer: $600",
-  "source": "YouTube: Series 7 Guru (guru18)"
+  "source": "YouTube: Series 7 Guru (guru18)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru18-30",
@@ -95,7 +101,8 @@ SIE_QUESTIONS_YOUTUBE_GURU18 = [
   },
   "answer": "D",
   "explanation": "Correct answer: $500",
-  "source": "YouTube: Series 7 Guru (guru18)"
+  "source": "YouTube: Series 7 Guru (guru18)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru18-36",
@@ -109,7 +116,8 @@ SIE_QUESTIONS_YOUTUBE_GURU18 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Short put",
-  "source": "YouTube: Series 7 Guru (guru18)"
+  "source": "YouTube: Series 7 Guru (guru18)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru18-38",
@@ -123,7 +131,8 @@ SIE_QUESTIONS_YOUTUBE_GURU18 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Long call",
-  "source": "YouTube: Series 7 Guru (guru18)"
+  "source": "YouTube: Series 7 Guru (guru18)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru18-40",
@@ -137,7 +146,8 @@ SIE_QUESTIONS_YOUTUBE_GURU18 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Unlimited",
-  "source": "YouTube: Series 7 Guru (guru18)"
+  "source": "YouTube: Series 7 Guru (guru18)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru18-45",
@@ -151,7 +161,8 @@ SIE_QUESTIONS_YOUTUBE_GURU18 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Bullish",
-  "source": "YouTube: Series 7 Guru (guru18)"
+  "source": "YouTube: Series 7 Guru (guru18)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru18-52",
@@ -165,7 +176,8 @@ SIE_QUESTIONS_YOUTUBE_GURU18 = [
   },
   "answer": "D",
   "explanation": "Correct answer: 122",
-  "source": "YouTube: Series 7 Guru (guru18)"
+  "source": "YouTube: Series 7 Guru (guru18)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru18-62",
@@ -179,7 +191,8 @@ SIE_QUESTIONS_YOUTUBE_GURU18 = [
   },
   "answer": "D",
   "explanation": "Correct answer: The option contract may breakeven",
-  "source": "YouTube: Series 7 Guru (guru18)"
+  "source": "YouTube: Series 7 Guru (guru18)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru18-63",
@@ -193,7 +206,8 @@ SIE_QUESTIONS_YOUTUBE_GURU18 = [
   },
   "answer": "A",
   "explanation": "Correct answer: $77 per share",
-  "source": "YouTube: Series 7 Guru (guru18)"
+  "source": "YouTube: Series 7 Guru (guru18)",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "yt-guru18-68",
@@ -207,7 +221,8 @@ SIE_QUESTIONS_YOUTUBE_GURU18 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Short 100 shares of Apple and buy 1 AAPL Dec 140 Call",
-  "source": "YouTube: Series 7 Guru (guru18)"
+  "source": "YouTube: Series 7 Guru (guru18)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru18-73",
@@ -221,7 +236,8 @@ SIE_QUESTIONS_YOUTUBE_GURU18 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Closing Sale",
-  "source": "YouTube: Series 7 Guru (guru18)"
+  "source": "YouTube: Series 7 Guru (guru18)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru18-88",
@@ -235,7 +251,8 @@ SIE_QUESTIONS_YOUTUBE_GURU18 = [
   },
   "answer": "A",
   "explanation": "Correct answer: More than a year, typically three years",
-  "source": "YouTube: Series 7 Guru (guru18)"
+  "source": "YouTube: Series 7 Guru (guru18)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru18-89",
@@ -249,7 +266,8 @@ SIE_QUESTIONS_YOUTUBE_GURU18 = [
   },
   "answer": "C",
   "explanation": "Correct answer: $28,000",
-  "source": "YouTube: Series 7 Guru (guru18)"
+  "source": "YouTube: Series 7 Guru (guru18)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru18-94",
@@ -263,7 +281,8 @@ SIE_QUESTIONS_YOUTUBE_GURU18 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Below 55 or above 45",
-  "source": "YouTube: Series 7 Guru (guru18)"
+  "source": "YouTube: Series 7 Guru (guru18)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru18-97",
@@ -277,7 +296,8 @@ SIE_QUESTIONS_YOUTUBE_GURU18 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Randomly",
-  "source": "YouTube: Series 7 Guru (guru18)"
+  "source": "YouTube: Series 7 Guru (guru18)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-guru18-98",
@@ -291,6 +311,7 @@ SIE_QUESTIONS_YOUTUBE_GURU18 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Short 1 BFD Dec 140 call",
-  "source": "YouTube: Series 7 Guru (guru18)"
+  "source": "YouTube: Series 7 Guru (guru18)",
+  "topic": "Account Opening, Suitability & KYC"
  }
 ];

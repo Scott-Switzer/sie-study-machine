@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Accept an unsolicited order from a customer to purchase XYZ",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-GURU71-2",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "A",
   "explanation": "Correct answer: closing purchase",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-GURU71-3",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "B",
   "explanation": "Correct answer: A 30 year zero coupon bond",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-GURU71-4",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Uncovered call writing",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Options"
  },
  {
   "id": "yt-GURU71-6",
@@ -67,7 +71,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "A",
   "explanation": "Correct answer: goods and services produced by a country",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-GURU71-7",
@@ -81,7 +86,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Open-end investment companies",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "yt-GURU71-8",
@@ -95,7 +101,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "B",
   "explanation": "Correct answer: a recession",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-GURU71-9",
@@ -109,7 +116,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "C",
   "explanation": "Correct answer: $7,000 per individual",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-GURU71-10",
@@ -123,7 +131,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "D",
   "explanation": "Correct answer: II and IV",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-GURU71-11",
@@ -137,7 +146,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "B",
   "explanation": "Correct answer: $5,000",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-GURU71-12",
@@ -151,7 +161,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "C",
   "explanation": "Correct answer: The FRB",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-GURU71-13",
@@ -165,7 +176,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "D",
   "explanation": "Correct answer: I, II and III",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-GURU71-14",
@@ -179,7 +191,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Bankers' acceptances",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-GURU71-15",
@@ -193,7 +206,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "A",
   "explanation": "Correct answer: annually",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-GURU71-16",
@@ -207,7 +221,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Since these products are exchange traded, they are suitable for anyone who would buy stocks",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-GURU71-17",
@@ -221,7 +236,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Engage in any activities that do not require a FINRA registration",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-GURU71-18",
@@ -235,7 +251,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "B",
   "explanation": "Correct answer: cash equal to the intrinsic value of the option",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Options"
  },
  {
   "id": "yt-GURU71-19",
@@ -249,7 +266,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Total liabilities + stockholder's equity",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-GURU71-21",
@@ -263,7 +281,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "D",
   "explanation": "Correct answer: The fund stands ready to issue and redeem shares as necessary",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-GURU71-22",
@@ -277,7 +296,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Lagging indicators",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-GURU71-23",
@@ -291,7 +311,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Significant price changes when small trades occur",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "yt-GURU71-24",
@@ -305,7 +326,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "A",
   "explanation": "Correct answer: $12.44",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-GURU71-25",
@@ -319,7 +341,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "B",
   "explanation": "Correct answer: below the current market price",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-GURU71-26",
@@ -333,7 +356,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "B",
   "explanation": "Correct answer: soliciting indications of interest",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-GURU71-27",
@@ -347,7 +371,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "C",
   "explanation": "Correct answer: CMOs",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-GURU71-28",
@@ -361,7 +386,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "B",
   "explanation": "Correct answer: the amount of the premium in excess of the intrinsic value",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Options"
  },
  {
   "id": "yt-GURU71-36",
@@ -375,7 +401,8 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Insider",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "yt-GURU71-37",
@@ -389,6 +416,7 @@ SIE_QUESTIONS_YOUTUBE_GURU71 = [
   },
   "answer": "C",
   "explanation": "Correct answer: that long-term interest rates are higher than short-term interest rates",
-  "source": "YouTube: Series 7 Guru (guru71)"
+  "source": "YouTube: Series 7 Guru (guru71)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  }
 ];

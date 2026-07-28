@@ -11,7 +11,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU66 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “buying puts on the S&P 500 index is an appropriate strategy.”. Buying index puts is a bearish strategy that profits when the broad market falls.",
-  "source": "YouTube: Series 7 Guru (guru66)"
+  "source": "YouTube: Series 7 Guru (guru66)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru66-1",
@@ -25,7 +26,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU66 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “I. Monthly if there has been any activity in the account”. Customers must receive account statements at least quarterly, and monthly if there was any activity in the account.",
-  "source": "YouTube: Series 7 Guru (guru66)"
+  "source": "YouTube: Series 7 Guru (guru66)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru66-2",
@@ -39,6 +41,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU66 = [
   },
   "answer": "B",
   "explanation": "The correct choice (A) is: “It will be guilty of a manipulative and deceptive act”. A market maker must honor its quoted two-sided market for at least one round lot or it commits a manipulative/deceptive act.",
-  "source": "YouTube: Series 7 Guru (guru66)"
+  "source": "YouTube: Series 7 Guru (guru66)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  }
 ];

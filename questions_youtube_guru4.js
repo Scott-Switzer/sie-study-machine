@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "D",
   "explanation": "Correct answer: An increase in the value of shares owned and any dividends received",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-guru4-7",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Made a deposit of cash or securities in a brokerage account within the past calendar year",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru4-9",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "D",
   "explanation": "Correct answer: The owner of a call has the right to exercise the contract, and the writer would then be assigned and obligated to sell shares to the owner at the strike price.",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru4-10",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "A",
   "explanation": "Correct answer: The sale of investment company shares in dollar amounts just below the point at which the sales charge is reduced on quantity transactions to incur the higher sales charge",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru4-11",
@@ -67,7 +71,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Cannot exceed $250",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru4-14",
@@ -81,7 +86,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Shares owned will decline in value (price)",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru4-15",
@@ -95,7 +101,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "D",
   "explanation": "Correct answer: An offering circular",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-guru4-16",
@@ -109,7 +116,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "B",
   "explanation": "Correct answer: The record date",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-guru4-18",
@@ -123,7 +131,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "C",
   "explanation": "Correct answer: An official statement",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru4-24",
@@ -137,7 +146,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Pays omitted and current preferred dividends before paying dividends on common stock",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru4-27",
@@ -151,7 +161,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Inform the customer that he can reduce his sales charge through a letter of intent",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru4-31",
@@ -165,7 +176,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "D",
   "explanation": "Correct answer: 72 is currently the highest price any buyer is willing to pay for 1000 shares",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru4-32",
@@ -179,7 +191,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Contributions to a traditional IRA may be deductible",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-guru4-35",
@@ -193,7 +206,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Indefinite, although the broker/dealer may demand return anytime",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-guru4-37",
@@ -207,7 +221,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Exchange Traded Fund",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru4-38",
@@ -221,7 +236,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "C",
   "explanation": "Correct answer: May exercise anytime up to expiration",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru4-40",
@@ -235,7 +251,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "C",
   "explanation": "Correct answer: A pool of short term investments",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru4-43",
@@ -249,7 +266,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Reinvestment",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-guru4-45",
@@ -263,7 +281,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Current market price",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru4-50",
@@ -277,7 +296,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Up to 1% of outstanding shares, within 90 days, 6 months after the offering",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-guru4-53",
@@ -291,7 +311,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Owns and manages a portfolio of real property and receives income from the property",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "yt-guru4-54",
@@ -305,7 +326,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Over the counter",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "yt-guru4-55",
@@ -319,7 +341,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Both members of the public as well as members of the industry",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru4-56",
@@ -333,7 +356,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Issued at a discount to par",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-guru4-59",
@@ -347,7 +371,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "C",
   "explanation": "Correct answer: SIMPLE",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-guru4-64",
@@ -361,7 +386,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "D",
   "explanation": "Correct answer: Not place discretionary trades without the customer's written authorization",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "yt-guru4-67",
@@ -375,7 +401,8 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "D",
   "explanation": "Correct answer: A long-term friend that has since become a customer",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "yt-guru4-73",
@@ -389,6 +416,7 @@ SIE_QUESTIONS_YOUTUBE_GURU4 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Decrease the number of shares outstanding and increase the share price",
-  "source": "YouTube: Series 7 Guru (guru4)"
+  "source": "YouTube: Series 7 Guru (guru4)",
+  "topic": "Corporate Actions & Proxies"
  }
 ];

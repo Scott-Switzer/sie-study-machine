@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE = [
   },
   "answer": "C",
   "explanation": "Bill, note, TIPS, or bonds? Well, there's only one that has the word inflation in the name, and that is a Treasury Inflation-Protected Security. Important to remember that the actual nominal yield is not adjusted, but the principal par value amount will be adjusted so that the interest payments will change if there is inflation, not because the cou",
-  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-001",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE = [
   },
   "answer": "A",
   "explanation": "Six, three, two, or four? So, we have a depression, at least six. We call it the Great Recession cuz we got to five, 2008, 2009. The two common types of 529 plans are So, 529 plans are ways to save for higher educational expenses, municipal funds and state funds, state college plans and city college plans, prepaid tuition plans and college savings",
-  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-002",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE = [
   },
   "answer": "A",
   "explanation": "Business risk, interest rate risk, political risk, or opportunity cost risk? So, business risk is related to the actual investment in the business itself. Interest rate risk primarily we see with fixed securities, debt instruments, political risk, no. But opportunity cost risk, yes. What could she have earned greater than zero? She's also exposed h",
-  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-004",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_YOUTUBE = [
   },
   "answer": "A",
   "explanation": "Variable life, 20-year level term, whole life, or universal life? Well, universal life is tied to interest rates. Whole life, you're not going to earn a rate of return similar to that in the stock market. 20-year level term doesn't have a rate of return at all. It's just pure protection. So, the correct answer here, variable life has a fixed premiu",
-  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam",
+  "topic": "Variable Annuities & Insurance Products"
  },
  {
   "id": "yt-005",
@@ -68,7 +72,8 @@ SIE_QUESTIONS_YOUTUBE = [
   "answer": "B",
   "explanation": "Correct answer: sovereign risk",
   "source": "YouTube: Pass Masters 75-Q SIE Final Exam",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-006",
@@ -82,7 +87,8 @@ SIE_QUESTIONS_YOUTUBE = [
   },
   "answer": "B",
   "explanation": "Correct answer: clearing firm",
-  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-007",
@@ -96,7 +102,8 @@ SIE_QUESTIONS_YOUTUBE = [
   },
   "answer": "A",
   "explanation": "Correct answer: A shelf registration is good for 2 years",
-  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-009",
@@ -110,7 +117,8 @@ SIE_QUESTIONS_YOUTUBE = [
   },
   "answer": "A",
   "explanation": "Commercial paper, Treasury bill, bank CD, or negotiable CD? Well, it's not a Treasury bill cuz it's issued by a corporation. Bank CDs are not securities at all. Negotiable CDs are issued by banks. So, this unsecured short-term corporate debt is describing commercial paper. It is issued at a discount.",
-  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-013",
@@ -122,7 +130,8 @@ SIE_QUESTIONS_YOUTUBE = [
   },
   "answer": "B",
   "explanation": "When interest rates have gone up or down? Down. When they go down enough, the issuer might call those bonds. So, if interest rates go down, the bonds may get called. The bonds in the portfolio would be hard to sell. The market price of his portfolio has decreased.",
-  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam",
+  "topic": "Options"
  },
  {
   "id": "yt-014",
@@ -134,7 +143,8 @@ SIE_QUESTIONS_YOUTUBE = [
   },
   "answer": "B",
   "explanation": "If they go to reinvest their money, are they going to earn the same amount? No, because interest rates have gone down. So, reinvestment risk. Those bonds in the secondary market before they were called would have gone up in price. The SEC requires that shareholders of publicly traded companies receive a proxy statement semiannually, prior to every",
-  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-015",
@@ -148,7 +158,8 @@ SIE_QUESTIONS_YOUTUBE = [
   },
   "answer": "D",
   "explanation": "Simple, testamentary, complex, or living? It is a living inter vivos trust that is created during the maker's lifetime. A registered rep who buys stocks for his discretionary accounts and then disseminates rumors via social media designed to drive up the price of the stock so he can sell it for a profit is guilty of front running, pump and dump, ex",
-  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "yt-017",
@@ -162,7 +173,8 @@ SIE_QUESTIONS_YOUTUBE = [
   },
   "answer": "B",
   "explanation": "Market, currency, reinvestment, or country? Oh, they should be concerned with currency risk, currency exchange rate risk. Importers and exporters, for sure. A highly leveraged company would be one with So when we issue debt, we call that leverage financing. So a highly leveraged company would be one with a large amount of debt outstanding. Yes.",
-  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-020",
@@ -176,7 +188,8 @@ SIE_QUESTIONS_YOUTUBE = [
   },
   "answer": "B",
   "explanation": "Correct answer: through private placements",
-  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-023",
@@ -190,7 +203,8 @@ SIE_QUESTIONS_YOUTUBE = [
   },
   "answer": "C",
   "explanation": "Prepayment risk, currency risk, reinvestment risk, or capital risk? So, when that bank CD matures in 6 months, is he going to be able to put it into another CD and earn the same amount of interest? Most likely not, because interest rates today are much lower than when he got into that CD. So, reinvestment risk. So, bank CDs have reinvestment risk,",
-  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-024",
@@ -204,7 +218,8 @@ SIE_QUESTIONS_YOUTUBE = [
   },
   "answer": "A",
   "explanation": "Preferred stock, foreign stock, ADR, or common stock? Now, all stocks dividends are paid at the discretion of the board of directors. They are never guaranteed. However, preferred stock does have a fixed dividend rate. So, that if a dividend is paid when you own preferred stock, you know how much you're going to get. So, of these four types of equi",
-  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-026",
@@ -218,6 +233,7 @@ SIE_QUESTIONS_YOUTUBE = [
   },
   "answer": "C",
   "explanation": "Congress, the Senate, the SEC, or the president? It is the Securities and Exchange Commission that oversees the entire US securities industry. Oversees the entire marketplace. Primary market, secondary market, corporate market, municipal market, all of it overseen by the Securities and Exchange Commission. All of the following are considered non-ca",
-  "source": "YouTube: Pass Masters 75-Q SIE Final Exam"
+  "source": "YouTube: Pass Masters 75-Q SIE Final Exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  }
 ];

@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE_GURU79 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Safety",
-  "source": "YouTube: Series 7 Guru (GURU79)"
+  "source": "YouTube: Series 7 Guru (GURU79)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-GURU79-2",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE_GURU79 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Tie rod",
-  "source": "YouTube: Series 7 Guru (GURU79)"
+  "source": "YouTube: Series 7 Guru (GURU79)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-GURU79-3",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE_GURU79 = [
   },
   "answer": "B",
   "explanation": "Correct answer: 4/32 inch",
-  "source": "YouTube: Series 7 Guru (GURU79)"
+  "source": "YouTube: Series 7 Guru (GURU79)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-GURU79-4",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_YOUTUBE_GURU79 = [
   },
   "answer": "B",
   "explanation": "Correct answer: 12-15 seconds",
-  "source": "YouTube: Series 7 Guru (GURU79)"
+  "source": "YouTube: Series 7 Guru (GURU79)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-GURU79-5",
@@ -67,7 +71,8 @@ SIE_QUESTIONS_YOUTUBE_GURU79 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Show a wider area than flat mirrors",
-  "source": "YouTube: Series 7 Guru (GURU79)"
+  "source": "YouTube: Series 7 Guru (GURU79)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-GURU79-6",
@@ -81,7 +86,8 @@ SIE_QUESTIONS_YOUTUBE_GURU79 = [
   },
   "answer": "B",
   "explanation": "Correct answer: In the opposite direction you want the trailer to go",
-  "source": "YouTube: Series 7 Guru (GURU79)"
+  "source": "YouTube: Series 7 Guru (GURU79)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-GURU79-7",
@@ -95,7 +101,8 @@ SIE_QUESTIONS_YOUTUBE_GURU79 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Because mirrors have blind spots",
-  "source": "YouTube: Series 7 Guru (GURU79)"
+  "source": "YouTube: Series 7 Guru (GURU79)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-GURU79-8",
@@ -109,7 +116,8 @@ SIE_QUESTIONS_YOUTUBE_GURU79 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Perception + Reaction + Braking",
-  "source": "YouTube: Series 7 Guru (GURU79)"
+  "source": "YouTube: Series 7 Guru (GURU79)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-GURU79-9",
@@ -123,7 +131,8 @@ SIE_QUESTIONS_YOUTUBE_GURU79 = [
   },
   "answer": "C",
   "explanation": "Correct answer: 4 times",
-  "source": "YouTube: Series 7 Guru (GURU79)"
+  "source": "YouTube: Series 7 Guru (GURU79)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-GURU79-10",
@@ -137,7 +146,8 @@ SIE_QUESTIONS_YOUTUBE_GURU79 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Tires losing contact with the road and floating on water",
-  "source": "YouTube: Series 7 Guru (GURU79)"
+  "source": "YouTube: Series 7 Guru (GURU79)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-GURU79-11",
@@ -151,7 +161,8 @@ SIE_QUESTIONS_YOUTUBE_GURU79 = [
   },
   "answer": "B",
   "explanation": "Correct answer: 3",
-  "source": "YouTube: Series 7 Guru (GURU79)"
+  "source": "YouTube: Series 7 Guru (GURU79)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-GURU79-12",
@@ -165,7 +176,8 @@ SIE_QUESTIONS_YOUTUBE_GURU79 = [
   },
   "answer": "B",
   "explanation": "Correct answer: The road is wet or icy",
-  "source": "YouTube: Series 7 Guru (GURU79)"
+  "source": "YouTube: Series 7 Guru (GURU79)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-GURU79-13",
@@ -179,7 +191,8 @@ SIE_QUESTIONS_YOUTUBE_GURU79 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Both A and B",
-  "source": "YouTube: Series 7 Guru (GURU79)"
+  "source": "YouTube: Series 7 Guru (GURU79)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-GURU79-14",
@@ -193,7 +206,8 @@ SIE_QUESTIONS_YOUTUBE_GURU79 = [
   },
   "answer": "B",
   "explanation": "Correct answer: A thin layer of ice that looks like wet road",
-  "source": "YouTube: Series 7 Guru (GURU79)"
+  "source": "YouTube: Series 7 Guru (GURU79)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-GURU79-15",
@@ -207,7 +221,8 @@ SIE_QUESTIONS_YOUTUBE_GURU79 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Stay off the brakes and grip the wheel firmly",
-  "source": "YouTube: Series 7 Guru (GURU79)"
+  "source": "YouTube: Series 7 Guru (GURU79)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-GURU79-16",
@@ -221,7 +236,8 @@ SIE_QUESTIONS_YOUTUBE_GURU79 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Look at the right edge of your lane",
-  "source": "YouTube: Series 7 Guru (GURU79)"
+  "source": "YouTube: Series 7 Guru (GURU79)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-GURU79-17",
@@ -235,7 +251,8 @@ SIE_QUESTIONS_YOUTUBE_GURU79 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Center of gravity",
-  "source": "YouTube: Series 7 Guru (GURU79)"
+  "source": "YouTube: Series 7 Guru (GURU79)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-GURU79-18",
@@ -249,7 +266,8 @@ SIE_QUESTIONS_YOUTUBE_GURU79 = [
   },
   "answer": "B",
   "explanation": "Correct answer: 0.04%",
-  "source": "YouTube: Series 7 Guru (GURU79)"
+  "source": "YouTube: Series 7 Guru (GURU79)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-GURU79-20",
@@ -263,6 +281,7 @@ SIE_QUESTIONS_YOUTUBE_GURU79 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Type B and C",
-  "source": "YouTube: Series 7 Guru (GURU79)"
+  "source": "YouTube: Series 7 Guru (GURU79)",
+  "topic": "Investment Risks"
  }
 ];

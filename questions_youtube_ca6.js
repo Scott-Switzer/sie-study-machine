@@ -11,6 +11,7 @@ SIE_QUESTIONS_YOUTUBE_CA6 = [
   },
   "answer": "C",
   "explanation": "Correct answer: $4 intrinsic value and $1 time value",
-  "source": "YouTube: Capital Advantage Tutoring (ca6 Series 7 Baseline Exam)"
+  "source": "YouTube: Capital Advantage Tutoring (ca6 Series 7 Baseline Exam)",
+  "topic": "Options"
  }
 ];

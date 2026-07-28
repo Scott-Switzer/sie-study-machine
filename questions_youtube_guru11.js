@@ -11,7 +11,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "B",
   "explanation": "A Currency Transaction Report (CTR) is required for currency or cash-equivalent transactions over $10,000. Twelve $1,000 postal money orders totaling $12,000 are cash equivalents and trigger a CTR; depositing securities or trading within an account does not.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "AML & SARs"
  },
  {
   "id": "yt-guru11-7",
@@ -25,7 +26,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "B",
   "explanation": "Agency MBS (e.g., GNMA/FNMA/FHLMC) are among the most liquid securities markets; saying the market is illiquid is the exception. Prepayment risk (from falling rates) and extension risk (from rising rates) and default risk are all real MBS risks.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-guru11-10",
@@ -39,7 +41,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "A",
   "explanation": "Municipal securities are exempt from federal SEC registration but are typically subject to state (blue sky) registration in the issuing state. (Note: on the source exam the credited answer was A; the most technically accurate SIE view is C — munis are exempt from SEC registration and disclose via an official statement — but the source key selected A.)",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru11-17",
@@ -53,7 +56,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "D",
   "explanation": "Direct pass-through of income and losses to investors is a feature of partnerships and S corporations (and DPPs such as real estate and oil & gas programs). A REIT is a corporation that does not pass through losses to shareholders (it passes income but not the tax losses). Source credits D.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-guru11-20",
@@ -67,7 +71,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "B",
   "explanation": "The bond resolution (indenture) sets out the terms of the issue, including any call provisions. The legal opinion addresses tax exemption; the notice of sale is an invitation to bid; The Bond Buyer is a trade publication.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru11-22",
@@ -81,7 +86,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "B",
   "explanation": "A reverse split reduces the number of shares outstanding, so earnings per share (net income / shares) increases even though total earnings are unchanged. Source credits B.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-guru11-25",
@@ -95,7 +101,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "A",
   "explanation": "Short stock and a short (uncovered) call both carry theoretically unlimited loss: a rising stock price can move without limit against the short seller. The protective put (B), covered call (C), and long stock plus long call (D) all have loss limited to the amount paid for the position plus premium. Therefore A (either a short stock or a short call position) is the only choice composed entirely of unlimited-loss positions.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru11-26",
@@ -109,7 +116,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "B",
   "explanation": "Whether a customer can afford $200/month contributions depends on cash flow, best shown by the income statement (revenues vs. expenses). Objectives guide goals but the income statement shows ability to pay. Source credits B.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru11-31",
@@ -123,7 +131,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "A",
   "explanation": "A warrant gives the holder the right to buy the issuer's stock at a fixed strike price for a long period (often years), typically slightly above current market when issued. Source credits A.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru11-36",
@@ -137,7 +146,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "C",
   "explanation": "A diversified foreign stock mutual fund is itself liquid (redeemable daily at NAV), so the investor is least concerned with liquidity risk; they remain exposed to market, political, and currency risk. Source credits C.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru11-37",
@@ -151,7 +161,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "A",
   "explanation": "Yield-based (interest-rate) options: a call gains when yields rise. Buying T-bond yield calls profits when long-term rates rise, offsetting the bond portfolio's price decline. Source credits A.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru11-39",
@@ -165,7 +176,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "B",
   "explanation": "A call is out of the money when the strike is above the stock price, and a put is out of the money when the strike is below the stock price. With DTET at $88: the Jun 80 call (I) is in the money (88 > 80); the Jun 95 put (II) is in the money (95 > 88); the Jun 95 call (III) is out of the money (88 < 95); the Jun 80 put (IV) is out of the money (88 > 80). So B pairs the two out-of-the-money contracts (III and IV).",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru11-40",
@@ -179,7 +191,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "A",
   "explanation": "ADR income may be subject to foreign withholding tax on the underlying foreign dividends, a tax not generally associated with domestic investments. Source credits A.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru11-43",
@@ -193,7 +206,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "C",
   "explanation": "Churning (excessive trading to generate commissions) is addressed under the quantitative suitability obligation, which requires that the total trading level be suitable for the customer. Source credits C.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "yt-guru11-44",
@@ -207,7 +221,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "A",
   "explanation": "The agreement among underwriters (AAU) sets out the responsibilities, allocation, and liabilities among the members of the underwriting syndicate. The underwriting agreement is between the issuer and the lead. Source credits A.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-guru11-45",
@@ -221,7 +236,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "D",
   "explanation": "Rule 506(b) (part of Regulation D) is a transactional exemption allowing the sale of securities without registration to accredited/limited purchasers with no general solicitation. Source credits D.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-guru11-50",
@@ -235,7 +251,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "C",
   "explanation": "In an IPO the company sells authorized shares to the public for the first time; these become issued and outstanding. The source credited authorized shares (C).",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-guru11-51",
@@ -249,7 +266,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "B",
   "explanation": "Exchange-listed common stock trades continuously with deep liquidity; while money market funds are redeemable at NAV, the source credited NYSE-listed common stock as the most liquid given continuous secondary-market trading. Source credits B.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "yt-guru11-53",
@@ -263,7 +281,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "D",
   "explanation": "The OTC market (e.g., NASDAQ) is a negotiated/dealer market, not a single auction market; the source credited 'an auction market' (A) as the answer under its key. (Technically OTC is a negotiated market, but the source key selected A.)",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "yt-guru11-58",
@@ -277,7 +296,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "A",
   "explanation": "A wash sale occurs when substantially identical securities are acquired within 30 days. Buying calls that are deep in-the-money or that essentially replicate the stock can be treated as acquiring the security; the source credited buying at-the-money calls (A) as triggering the wash-sale rule in its key.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru11-61",
@@ -291,7 +311,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "A",
   "explanation": "Income (adjustment) bonds pay interest only if the issuer earns sufficient income, so a loss year relieves the obligation. Convertible bonds, debentures, and cumulative preferred still accrue/pay. Source credits A.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru11-64",
@@ -305,7 +326,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "B",
   "explanation": "Taxes are based on assessed value: 10 mills = $10 per $1,000 of assessed value. $100,000 / 1,000 x $10 = $1,000. Source credits B.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru11-66",
@@ -319,7 +341,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "B",
   "explanation": "When the fund receives dividends on portfolio securities, NAV rises (the income accrues to the fund before being paid out); it does affect NAV. Redemptions, market-value changes, and dividend payments by the fund all affect NAV. The source credited B as the exception under its key.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru11-67",
@@ -333,7 +356,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "A",
   "explanation": "Selling syndicate (group) members earn the total takedown (concession + manager's portion returned) on the shares they sell. Selling group members earn only the concession. Source credits A.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-guru11-70",
@@ -347,7 +371,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "A",
   "explanation": "In a tenants in common account, there is no right of survivorship; the decedent's share passes to their estate (I) and then per their will (III), and the survivor keeps only their own share (IV is also true, but the source key credited A = I and III).",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "yt-guru11-72",
@@ -361,7 +386,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "C",
   "explanation": "Maximizing income is an investment objective (a goal). Liquidity, taxes, and value constraints are limitations, not goals. Source credits C.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru11-74",
@@ -375,7 +401,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "B",
   "explanation": "A stock split reduces both the price and the earnings-per-share proportionally, leaving the P/E ratio unchanged at 10:1. Source credits B.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-guru11-76",
@@ -389,7 +416,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "A",
   "explanation": "An associated person must amend Form U4 to report a statutory disqualification event within 10 business days of learning of it. Source credits A.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru11-84",
@@ -403,7 +431,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "A",
   "explanation": "To be called a no-load fund, the fund may not impose a front-end load and its 12b-1 fee cannot exceed 0.25% (the source key used 0.75% as the threshold in its framing). Source credits A.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "yt-guru11-88",
@@ -417,7 +446,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "B",
   "explanation": "Correspondence is any written (including email) communication to 25 or fewer retail investors in a 30-day period. 15 clients + 12 prospects = 27 retail investors exceeds 25, so it is retail communication; however the source key credited correspondence (C) under its threshold. (Technically 27 > 25 makes it retail communication — B — but the source answer is C.)",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "yt-guru11-90",
@@ -431,7 +461,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "B",
   "explanation": "With fully paid stock, the customer has deposited 100% (no loan), so the entire $72,000 is equity. Initial margin requirement is 50%, so required equity = $36,000; excess equity = $72,000 - $36,000 = $36,000. Source credits B.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru11-92",
@@ -445,7 +476,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "D",
   "explanation": "Short stock breakeven = sale price + premium paid for protection = $70 + $3.25 = $73.25 if assigned; but the source computation yields $66.75 as the effective breakeven under its method (short at $70, the call premium of $3.25 reduces the loss, giving $70 - $3.25 = $66.75 net). Source credits D.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru11-93",
@@ -459,7 +491,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "C",
   "explanation": "A non-traded (untraded) REIT does not trade on an exchange and therefore has no regular market quote; that matches the situation. Source credits C.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru11-98",
@@ -473,7 +506,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "B",
   "explanation": "Trading at a discount (94 < 100) with a 5% coupon, the YTM exceeds the coupon. Approximate YTM = (50 + (100-94)/12) / ((100+94)/2) ≈ (50 + 0.5) / 97 ≈ 5.21% plus accretion; the source key credited 5.67%. Source credits B.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru11-101",
@@ -487,7 +521,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "C",
   "explanation": "Correspondence is any written (including electronic) communication to no more than 25 retail investors (existing or prospective) within a 30-day period. A letter to fewer than 25 existing retail customers (II) and an email to fewer than 25 prospective customers (IV) are both correspondence. A public website report (I) and a blast to 200 prospects (III) are retail communications, not correspondence. Thus C (II and IV) is correct.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "yt-guru11-114",
@@ -501,7 +536,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "B",
   "explanation": "Under the 1933 Act, government and municipal securities are exempt from registration (along with U.S. government and nonprofit/charitable securities). Foreign government securities and a for-profit corporation's public IPO are NOT exempt and must be registered. Only A pairs two exempt issues (municipal (I) and U.S. government (III)) — the source key credited A (II and IV) under its labeling, but the two truly exempt categories among the choices are municipal and U.S. government, i.e. I and III (D). The originally marked-correct answer was A (II and IV).",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-guru11-119",
@@ -515,7 +551,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "A",
   "explanation": "U.S. Treasury securities are exempt from state and local income taxes, so they avoid the client's state and city taxes. Out-of-state municipals are exempt from federal but generally NOT the client's state tax. Source credits A.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru11-120",
@@ -529,7 +566,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "A",
   "explanation": "Upon receiving a written complaint, the firm must record (document) it and the action taken; it is not required to refund, arbitrate, or immediately notify the regulator. Source credits A.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru11-129",
@@ -543,7 +581,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "B",
   "explanation": "Gilts, Bunds, and OATs are sovereign (government) bonds of those countries; the source key credited eurobonds (B) under its labeling. (Technically these are domestic sovereign debt, C — but the source answer was B.)",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru11-131",
@@ -557,7 +596,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "A",
   "explanation": "A personalized-but-mass-marketing letter sent to multiple customers is still retail communication requiring principal approval before use, regardless of personalization. Source credits A.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "yt-guru11-133",
@@ -571,7 +611,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "A",
   "explanation": "FINRA Rule 2273 requires a departing representative who recruits existing customers to deliver certain educational disclosures using FINRA's template before the accounts are moved. Source credits A.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru11-135",
@@ -585,6 +626,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU11 = [
   },
   "answer": "D",
   "explanation": "Even without a par value, a no-par preferred stock pays a dividend at a stated rate (a fixed amount or percentage set in the charter), not a percentage of the common dividend. Source credits D.",
-  "source": "YouTube: Series 7 Guru (guru11)"
+  "source": "YouTube: Series 7 Guru (guru11)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  }
 ];

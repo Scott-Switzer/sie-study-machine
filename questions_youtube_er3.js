@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "B",
   "explanation": "Common stockholders are LAST in a liquidation — they have a residual claim to whatever assets remain after creditors, bondholders, and preferred stockholders. Dividends are not fixed, holders DO vote, and stock is equity, not debt.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-ER3-1",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Forward the complaint immediately to their supervisor or principal.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-ER3-2",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "B",
   "explanation": "Correct answer: The surviving spouse automatically becomes the sole owner of the account.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "yt-ER3-3",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Immediately at the best available price.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-ER3-4",
@@ -67,7 +71,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "B",
   "explanation": "Correct answer: It allows investors to convert shares into common stock.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-ER3-5",
@@ -81,7 +86,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Acceptable if the gains are reported to the firm.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "yt-ER3-6",
@@ -95,7 +101,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "B",
   "explanation": "Correct answer: Their value would likely decrease due to higher interest rates.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-ER3-7",
@@ -109,7 +116,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "C",
   "explanation": "Correct answer: The donor of the funds.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "yt-ER3-8",
@@ -124,7 +132,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   "answer": "C",
   "explanation": "Correct answer: The Municipal Securities Rulemaking Board (MSRB).",
   "source": "YouTube: Series 7 Guru (er3)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-ER3-9",
@@ -138,7 +147,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Open-end funds are priced at Net Asset Value (NAV), while closed-end funds can trade at a premium or discount to NAV.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-ER3-10",
@@ -152,7 +162,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "C",
   "explanation": "Correct answer: The Over-the-Counter (OTC) market.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "yt-ER3-11",
@@ -166,7 +177,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Retail communication.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "yt-ER3-12",
@@ -181,7 +193,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   "answer": "C",
   "explanation": "Correct answer: Unsystematic risk.",
   "source": "YouTube: Series 7 Guru (er3)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-ER3-13",
@@ -195,7 +208,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "B",
   "explanation": "Correct answer: The ETN's performance is tied to an underlying index, but the investor faces the credit risk of the issuer.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-ER3-14",
@@ -209,7 +223,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "C",
   "explanation": "Correct answer: A trust account.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-ER3-15",
@@ -223,7 +238,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "C",
   "explanation": "Correct answer: The failure of a broker-dealer, up to certain limits.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "yt-ER3-16",
@@ -237,7 +253,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "C",
   "explanation": "Correct answer: An underwriting syndicate.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-ER3-17",
@@ -251,7 +268,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "C",
   "explanation": "Correct answer: An underwriting syndicate.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-ER3-18",
@@ -265,7 +283,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "C",
   "explanation": "Correct answer: The interest income from municipal bonds is often exempt from federal income tax.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-ER3-19",
@@ -280,7 +299,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   "answer": "B",
   "explanation": "Correct answer: Churning.",
   "source": "YouTube: Series 7 Guru (er3)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "yt-ER3-20",
@@ -295,7 +315,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   "answer": "B",
   "explanation": "Correct answer: Churning.",
   "source": "YouTube: Series 7 Guru (er3)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "yt-ER3-21",
@@ -309,7 +330,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "B",
   "explanation": "Since May 2024, regular-way settlement for corporate securities and municipal bonds is T+1 (trade date plus one business day). The SIE now tests T+1.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-ER3-22",
@@ -323,7 +345,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "C",
   "explanation": "Correct answer: The interest income from municipal bonds is often exempt from federal income tax.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-ER3-23",
@@ -337,7 +360,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "B",
   "explanation": "Correct answer: To apply for a securities license and disclose employment history and disciplinary actions.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-ER3-24",
@@ -351,7 +375,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "B",
   "explanation": "Correct answer: A foreign company's shares, held in a U.S. bank.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-ER3-25",
@@ -365,7 +390,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "C",
   "explanation": "Correct answer: It indicates that short-term interest rates are higher than long-term interest rates, often preceding a recession.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-ER3-26",
@@ -379,7 +405,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Qualified plans, such as 401(k)s.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-ER3-27",
@@ -393,7 +420,8 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Suitability rule.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "AML & SARs"
  },
  {
   "id": "yt-ER3-28",
@@ -407,6 +435,7 @@ SIE_QUESTIONS_YOUTUBE_ER3 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Qualified plans, such as 401(k)s.",
-  "source": "YouTube: Series 7 Guru (er3)"
+  "source": "YouTube: Series 7 Guru (er3)",
+  "topic": "Retirement Plans & Education Accounts"
  }
 ];

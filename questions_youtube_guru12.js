@@ -11,7 +11,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"$50 annual interest until maturity..\" A 5% coupon on $1,000 par pays $50 of interest each year until maturity.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru12-4",
@@ -25,7 +26,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"pump and dump.\" Touting a little-known stock to customers and via cold calls to drive up the price is a 'pump and dump' manipulation.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "yt-guru12-5",
@@ -39,7 +41,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"Younger employees.\" Younger employees benefit most from defined contribution plans because they have the longest time for tax-deferred compounding.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-guru12-6",
@@ -53,7 +56,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"a buy back..\" A company buying its own debt directly from holders for cash is a tender offer.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru12-9",
@@ -67,7 +71,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"FHLMC certificate.\" FHLMC (Freddie Mac) certificate interest is taxable at federal, state, and local levels; municipal and Treasury interest are exempt at one or more levels.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru12-10",
@@ -81,7 +86,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"six years..\" Records of original entry must be made by the next business day and retained for six years.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru12-11",
@@ -95,7 +101,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"Short call.\" A short call has unlimited loss if the stock rises, the greatest risk among the listed positions.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru12-12",
@@ -109,7 +116,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"The put has intrinsic value..\" With MMS at $70 and a 75 put, the put is in the money and has intrinsic value of $5.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru12-13",
@@ -123,7 +131,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"these are unsecured debt securities..\" Collateral trust bonds are secured by pledged securities, so they are not unsecured debt.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru12-14",
@@ -137,7 +146,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Stock dividends..\" Stock dividends are generally non-taxable until sold; cash dividends, interest, and capital gains distributions are taxable.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "yt-guru12-15",
@@ -151,7 +161,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "B",
   "explanation": "Treasury STRIPS are zero-coupon securities: they are bought at a discount and pay NO periodic interest — the return is the accretion to face value at maturity. Notes, bonds, and corporates pay regular (usually semiannual) coupons.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-guru12-17",
@@ -165,7 +176,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"Common shares of a closed-end investment company.\" Closed-end fund shares trade in the market and can sell at premiums or discounts to NAV.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru12-18",
@@ -179,7 +191,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"Unlimited..\" A short call has unlimited maximum loss as the underlying can rise without bound.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru12-19",
@@ -193,7 +206,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"calls made to make the customer aware of new products that are available to the customer..\" The do-not-call exemptions include non-commercial, debt-collection, and nonprofit calls; soliciting new products is a commercial call and not exempt.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-guru12-21",
@@ -207,7 +221,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"0.5%.\" Expense ratio = $600,000 / $120,000,000 = 0.5%.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-guru12-23",
@@ -221,7 +236,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"II only.\" Tendering shares at a gain or loss versus cost basis creates a capital gain (III) or loss (I); there is no separate 'investment income' item.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru12-27",
@@ -235,7 +251,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"The share price goes down, and the number of shares goes up..\" A 20% stock dividend increases shares and proportionally decreases the per-share price.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru12-28",
@@ -249,7 +266,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"At the money..\" A March 55 call when the stock is at $55 is at the money (strike equals market price).",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru12-29",
@@ -263,7 +281,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Thursday, April 28.\" The ex-dividend date is one business day before the record date (Tuesday, April 26).",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-guru12-31",
@@ -277,7 +296,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"three years..\" FOCUS reports, U4 forms, and order tickets are records kept for three years.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru12-32",
@@ -291,7 +311,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"Municipal notes.\" The Investment Company Act of 1940 classifies investment companies into management companies, UITs, and face-amount certificate companies.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru12-34",
@@ -305,7 +326,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"level-load shares..\" Class C mutual fund shares are level-load shares (roughly level 12b-1 fees, no front/back load).",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru12-35",
@@ -319,7 +341,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Banker's acceptances (BAs).\" Bankers' acceptances are bank-guaranteed money market instruments used to finance international trade.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru12-36",
@@ -333,7 +356,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"The Bank Secrecy Act.\" Depositing just under $10,000 repeatedly to avoid the BSA CTR threshold is structuring (circumventing the Bank Secrecy Act).",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "AML & SARs"
  },
  {
   "id": "yt-guru12-38",
@@ -347,7 +371,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"The Uniform Securities Act.\" State securities laws governing BDs, reps, and advisers are the Uniform Securities Act.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru12-39",
@@ -361,7 +386,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"The warrant allows the holder to exercise to purchase the underlying stock at a price lower than the market price at the time of the warrant's issue..\" Warrants are issued with an exercise price above the market price at issuance, so the 'lower than market' statement is false.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru12-40",
@@ -375,7 +401,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"The investors.\" In a limited partnership, the partners (investors) are pass-through entities and bear the tax consequences directly.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru12-43",
@@ -389,7 +416,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"$900.\" Short 1 Dec 15 put @6: max loss = (15 - 6) x 100 = $900.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru12-44",
@@ -403,7 +431,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"as tax-free investments with no potential write-offs..\" DPPs are pass-through entities whose owners are liable for the taxes on income and gains.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru12-47",
@@ -417,7 +446,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"allowed to expire.\" An option with no intrinsic value at expiration will simply be allowed to expire worthless.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru12-48",
@@ -431,7 +461,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"she may not exercise the contracts. The contracts will exercise at expiration if they are in the money..\" European-style options may be exercised only on the last trading day before expiration.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "AML & SARs"
  },
  {
   "id": "yt-guru12-50",
@@ -445,6 +476,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"write covered puts that are currently out of the money..\" Writing out-of-the-money covered (cash-secured) puts lets the customer acquire stock below today's price if assigned.",
-  "source": "YouTube: Series 7 Guru (guru12)"
+  "source": "YouTube: Series 7 Guru (guru12)",
+  "topic": "Orders & Trade Execution"
  }
 ];

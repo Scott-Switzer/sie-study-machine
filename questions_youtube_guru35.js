@@ -11,7 +11,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Index puts.” Index puts give broad-market downside protection cheaply; a put on a stock index hedges a diversified portfolio against a market-wide pullback.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru35-2",
@@ -25,7 +26,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “It is the coupon rate of interest multiplied by the number of coupon payments generated from a bond.” The bond equivalent yield restates a semiannual (or periodic) yield on an annual, compounded basis for comparison with annual-pay bonds.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru35-3",
@@ -39,7 +41,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Eurobonds can provide an exchange rate hedge against a fall in the U.S. dollar.” Eurobonds are issued in a currency other than the issuer's home currency, so they can hedge against a decline in the investor's domestic currency (the U.S. dollar).",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru35-4",
@@ -53,7 +56,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “does not have a current tax liability at this time.” An unrealized gain from appreciation is not taxed until the shares are sold, so there is no current tax liability.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "yt-guru35-6",
@@ -67,7 +71,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “approved by a principal of the firm in advance if it is distributed to more than 25 retail investors within a 30-day period.” Retail communications sent to more than 25 retail investors in 30 days need principal pre-approval; to fewer, post-use review suffices.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "yt-guru35-7",
@@ -81,7 +86,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “signature of the municipal securities representative or general securities representative introducing the account and of a municipal securities principal or general securities principal indicating acceptance of the account.” MSRB account records require tax ID, age/birth date, and employer, but not the signature of the rep/principal accepting the account.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru35-8",
@@ -95,7 +101,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “5%.” Current yield = annual dividend ($2.00) / price ($40) = 5%.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru35-9",
@@ -109,7 +116,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Income bond.” Income bonds pay interest only if earned, so they are unsuitable for an income-oriented investor seeking reliable payments.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru35-10",
@@ -123,7 +131,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Buy CAD puts.” The U.S. exporter will receive CAD and fears CAD depreciation, so it buys CAD put options to lock in a minimum dollar value.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru35-12",
@@ -137,7 +146,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “The tax rate that applies to his XYZ common stock investment does not apply to his REIT.” REIT dividends are largely non-qualified (return of capital/ordinary), so the reduced qualified-dividend rate that applies to XYZ common stock does not apply to the REIT.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru35-13",
@@ -151,7 +161,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “an exchange traded note.” An ETN is unsecured debt with issuer (credit) risk and is less liquid/safe than a government bond fund, ETF, or diversified fund, so it is least suitable for a safety/liquidity shift.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru35-14",
@@ -165,7 +176,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (B) is: “Monday May 23.” Indexed options settle on the next business day after exercise; exercise Friday May 20 settles Monday May 23.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-guru35-15",
@@ -179,7 +191,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “traditional brokerage account.” Z-tranche (accrual) CMO interest compounds and is taxed annually as OID; holding it in a traditional brokerage account (taxable) avoids the tax, whereas a tax-deferred IRA would defeat the stated goal.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "yt-guru35-17",
@@ -193,7 +206,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Conversion of convertible bonds into common stocks.” Converting convertible bonds into common stock increases shares outstanding, diluting existing shareholders' proportional ownership.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-guru35-18",
@@ -207,7 +221,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “The client must accept the execution for 300 shares, and the remainder of the order is canceled after the close.” A day order that is partially filled by the close is executed for the filled portion and the remainder is cancelled at the end of the day.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-guru35-19",
@@ -221,7 +236,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “To provide the investor with a range of possible outcomes and the probabilities they will occur based on a set of variables.” Monte Carlo simulation models many random scenarios to show a range of possible outcomes and their probabilities given a set of variables.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru35-21",
@@ -235,7 +251,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (B) is: “a $300 capital gain.” The $240 capital gains distribution is taxable income, and selling for $4,300 vs. $4,000 cost yields a $300 capital gain; both occur.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru35-22",
@@ -249,7 +266,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “at or prior to the approval of a new option account.” The ODD must be given to the customer at or before the option account is approved (before any trading).",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru35-23",
@@ -263,7 +281,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “written and purchased a call, the one purchased having a lower strike price than the one written.” A debit call spread is buying a lower-strike call and writing a higher-strike call, paying a net debit.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru35-24",
@@ -277,7 +296,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “It is a process that determines tax liability by including certain tax preference items into adjusted gross income.” The AMT adds certain tax-preference items back into AGI to ensure high-income taxpayers pay at least a minimum amount of tax.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "yt-guru35-25",
@@ -291,7 +311,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “has held the stock for more than 60 days surrounding the ex-dividend date.” To receive qualified (preferred) dividend tax rates, a shareholder must hold the stock for more than 60 days during the 121-day window around the ex-dividend date.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-guru35-26",
@@ -305,7 +326,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “residents of Texas only.” Rule 147 intrastate offerings may be sold only to residents of the issuing state (Texas).",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-guru35-27",
@@ -319,7 +341,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “dollar denominations of the bonds to be issued.” A qualitative GO analysis looks at the community's economy, tax base, and population; the dollar denominations of the bonds are a mechanical/quantitative detail, not qualitative.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru35-28",
@@ -333,7 +356,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “18.50.” Writing covered calls creates an obligation but does not reduce the stock's original cost basis; basis remains $18.50 per share.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru35-29",
@@ -347,7 +371,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “That a 10% penalty will apply.” Traditional IRA distributions before age 59 1/2 are generally subject to a 10% early-withdrawal penalty, though some exceptions exist.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-guru35-30",
@@ -361,7 +386,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “under no circumstances.” A summary of a preliminary prospectus (red herring) may never be sent to customers; only the actual prospectus may be used during the cooling-off period.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru35-32",
@@ -375,7 +401,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “$8,000.” SMA equals the lesser of the long-side credit balance or the long-side equity; long equity = $30,000 - $12,000 = $18,000, and SMV equity = $62,000 - $38,000 = $24,000, so SMA is capped at $8,000 from the long side.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru35-33",
@@ -389,7 +416,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “there is a reasonable belief that financial exploitation is occurring within the account.” A firm may impose a temporary hold on disbursements when it reasonably believes financial exploitation of a vulnerable (e.g., senior) customer is occurring.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru35-35",
@@ -403,7 +431,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “report the error to his branch manager or principal immediately.” Any trade error or discrepancy must be reported promptly to a supervisor/principal for correction.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "yt-guru35-36",
@@ -417,7 +446,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “only Carla may place trades in the account.” Trades may be placed only by the account owner (Carla); her husband cannot trade in her individual account without trading authority.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru35-37",
@@ -431,7 +461,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “this investor will be responsible for ordinary income taxes on all distributions taken during the year.” Distributions from qualified retirement plans are taxed as ordinary income in the year taken; there is no capital-gains treatment.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "yt-guru35-38",
@@ -445,7 +476,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Cash-value life insurance is a permissible IRA investment, but term insurance is not.” Life insurance (cash-value or term) is not a permissible IRA investment; IRAs hold securities, not insurance contracts.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-guru35-39",
@@ -459,7 +491,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “$43.” A put writer assigned at $40 has an effective cost basis of $43 (strike $50 minus $7 premium received).",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru35-40",
@@ -473,7 +506,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “adjust their income down to $82,000.” Capital losses offset ordinary income up to $3,000 per year; $7,500 loss reduces income by $3,000 to $82,000, with the rest carried forward.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "yt-guru35-42",
@@ -487,7 +521,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “STRIPS.” STRIPS are zero-coupon Treasury securities ideal for a known future education expense because they pay a lump sum at maturity.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru35-43",
@@ -501,7 +536,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “must be stored as a digital file and retained for at least 3 years.” Broker-dealer records without a specified retention period are kept for at least six years under SEC/FINRA rules.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru35-44",
@@ -515,7 +551,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Commission charged to the customer.” Trade reports to FINRA (and confirmations) need not show the commission charged; they show price, size, and symbol.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-guru35-46",
@@ -529,7 +566,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “5.20%.” Current yield = annual interest ($50: two $25 payments) / price ($960) = 5.21%, rounded to 5.20%.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru35-47",
@@ -543,7 +581,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “industry stability.” Industry stability is a qualitative credit factor; yields, debt ratios, and net fixed assets per bond are quantitative measures.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru35-48",
@@ -557,7 +596,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “notify the trusted contact person on the account.” When a senior client shows signs of confusion, the RR should contact the trusted contact person on the account for guidance.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "yt-guru35-49",
@@ -571,7 +611,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “small cap stock fund.” A young, high-risk-tolerant investor seeking strong returns fits small-cap stocks, which offer higher growth potential and volatility than money markets or bond funds.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru35-50",
@@ -585,7 +626,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “the spread narrows.” Buying a later-expiring (March) call and selling an earlier (Dec) call is a calendar spread that profits when the near-term contract expires and the spread (time-value difference) widens/narrows favorably; here Bill profits as the spread narrows.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru35-51",
@@ -599,7 +641,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “$6,200.” Total LMV = $40+$50+$80 = $170 per share x100 = $17,000; equity = LMV - debit = $17,000 - $10,800 = $6,200.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru35-52",
@@ -613,7 +656,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Attempt to verify that the individual has passed away.” On learning of a customer's possible death, the RR must first verify the report before taking account actions.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "yt-guru35-53",
@@ -627,7 +671,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “property taxes.” State governments rely least on property taxes, drawing mainly on income, sales, and excise taxes; property taxes fund localities.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "yt-guru35-54",
@@ -641,7 +686,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “acceptance of the limited partner as a member of the partnership.” The general partner's signature on the subscription agreement constitutes acceptance of the limited partner into the partnership.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "yt-guru35-56",
@@ -655,7 +701,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Agency CMO.” A client with rising expenses needs income; participating preferred stock pays a base plus extra dividends when earnings are strong, suiting an income need.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru35-57",
@@ -669,7 +716,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “the person must provide prior written notice to their employer before opening such account.” An associated person opening an account at another member firm must give prior written notice to their employing firm (no consent required).",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru35-59",
@@ -683,7 +731,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “the client would need to satisfy the appropriate margin requirement for any trades.” In a restricted margin account the customer must deposit the full amount (100% margin) for any new purchase until the restriction is cleared.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru35-60",
@@ -697,7 +746,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Property tax.” A state GO bond is secured by state taxes (income, sales, excise); property taxes back local/municipal - not state - debt.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru35-62",
@@ -711,7 +761,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “not subject to any income tax.” During the accumulation phase, variable annuity earnings grow tax-deferred and are not taxed until distributed.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Variable Annuities & Insurance Products"
  },
  {
   "id": "yt-guru35-64",
@@ -725,7 +776,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “assessed valuations.” Rising assessed property valuations indicate a stronger tax base, not deteriorating credit; bankruptcies, debt, and defaults signal deterioration.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru35-66",
@@ -739,7 +791,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Return a signed copy of the Option Agreement to the firm.” A new options customer must return a signed Option Agreement within 15 days of account approval; the ODD is provided at approval.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru35-68",
@@ -753,7 +806,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “immediately.” SEP-IRA contributions are immediately vested in the employee; the employer cannot impose a vesting schedule.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-guru35-69",
@@ -767,7 +821,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “\"The ABC Variable Annuity\".” Communications must use the product's actual name; a variable annuity must be described as a 'variable annuity,' not as a life insurance product or retirement planner.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Variable Annuities & Insurance Products"
  },
  {
   "id": "yt-guru35-73",
@@ -781,7 +836,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Makes automatic adjustments to its portfolio as an investor approaches retirement.” A life-cycle (target-date) fund automatically shifts its allocation from equity to fixed income as the investor nears retirement.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru35-74",
@@ -795,7 +851,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “The rep should examine the suitability of alternative investment vehicles in conjunction with the consequences of switching annuities.” Before switching annuities, the rep must evaluate the suitability and the costs/tax consequences of surrendering the existing contract.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru35-75",
@@ -809,7 +866,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “buy 70 puts.” To hedge $10M beta 1.4 exposure needs $14M of index protection; at $2,000 per SPX point, 70 puts cover it (70 x $2,000 = $14M).",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru35-77",
@@ -823,7 +881,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “retained in firm files for 3 years and are subject to ongoing review by the firm.” Real-time social media posts by an RR must be retained by the firm for three years and are subject to ongoing supervision/review.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "yt-guru35-78",
@@ -837,7 +896,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Forward stock split of the securities held in the account.” A forward stock split changes share count and price but not equity or SMA; selling stock, cash deposits, and security deposits increase SMA.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru35-80",
@@ -851,7 +911,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Short 200 XYZ put options.” Short put options obligate the writer to buy stock at the strike if assigned, exposing them to large downside if the stock falls, more than the other listed positions.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru35-84",
@@ -865,7 +926,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “sold the contract with the higher strike price and purchased the contract with the lower strike price.” A bull call debit spread buys the lower strike and sells the higher strike call, paying a net debit that limits both risk and reward.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru35-85",
@@ -879,7 +941,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “$2,500.” LMV = $15,000; debit = $5,000; equity = $10,000; required (50% of LMV) = $7,500; excess equity = $10,000 - $7,500 = $2,500.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru35-89",
@@ -893,7 +956,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “butterfly spread.” Long 50 call, short two 60 calls, long 70 call is a long butterfly spread (1-2-1 at consecutive strikes).",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru35-90",
@@ -907,7 +971,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Recapture.” DPP benefits include depletion, IDC, and depreciation; recapture (taxing back prior deductions on disposition) is a drawback, not a benefit.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "yt-guru35-91",
@@ -921,7 +986,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Expertise of the general partner.” The least critical DPP factor is the general partner's expertise relative to tax law, economic soundness, and the program's objectives; all matter, but objectives are foundational - the exam treats expertise as least important here.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "yt-guru35-92",
@@ -935,7 +1001,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Buy U.S. listed EUR call options.” A Fed rate hike strengthens the dollar and weakens the euro, so buying EUR put options (betting the euro falls) profits.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru35-93",
@@ -949,7 +1016,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “market value of the securities at the time of death.” Securities inherited get a step-up (or step-down) in basis to their fair market value on the date of the decedent's death.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-guru35-94",
@@ -963,7 +1031,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “beta.” Beta measures a portfolio's sensitivity/volatility relative to the overall market, indicating manager performance versus the market.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru35-96",
@@ -977,7 +1046,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “in sales literature, dollar cost averaging cannot be referred to as averaging the dollar.” Dollar-cost averaging is available to all investors, including large ones; the other statements about DCA are true.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "yt-guru35-97",
@@ -991,7 +1061,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Construction.” Construction is cyclical (tied to the economy), not defensive; utilities, health care, and food are defensive industries.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru35-98",
@@ -1005,7 +1076,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Current assets are reduced.” On the declaration date the company records a liability (dividends payable), reducing retained earnings and working capital, but current assets are not yet reduced (that happens at payment).",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-guru35-99",
@@ -1019,7 +1091,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “lower levels of political risk but higher levels of currency risk.” ADRs are U.S.-listed and subject to U.S. regulation, lowering political risk versus owning the foreign share directly, but they still carry the currency risk of the underlying foreign security.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru35-100",
@@ -1033,7 +1106,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “effect any trades in the securities of ABC during the term of the tender offer.” During a tender offer the offeror is restricted from trading the subject company's securities; it may not effect any trades in ABC during the offer.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-guru35-101",
@@ -1047,7 +1121,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Interest charges and purchases using SMA will increase the debit balance.” Interest charges and draws on SMA increase the debit balance; dividends and interest received reduce it.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru35-102",
@@ -1061,7 +1136,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “4 to 1.” Current ratio = current assets / current liabilities = $40,000,000 / $10,000,000 = 4 to 1.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru35-104",
@@ -1075,7 +1151,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “$540.00.” Treasury interest is federally taxable but exempt from state tax; tax = $50,000 x 4.5% = $2,250 x 24% federal = $540 (California tax does not apply).",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-guru35-105",
@@ -1089,7 +1166,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “were concerned about interest rate risk.” A bond ladder staggers maturities to reduce interest-rate (reinvestment) risk by spreading reinvestment dates.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru35-107",
@@ -1103,7 +1181,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “provide a \"Statement of Additional Information\" to shareholders showing how the mutual fund is allocating its assets.” A fund using a descriptive name like 'tax-free municipal bond fund' must invest at least 80% of assets in that type under the Names Rule.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru35-108",
@@ -1117,7 +1196,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “commercial paper.” Commercial paper and banker's acceptances are domestic money-market instruments with essentially no international equity exposure, so they do least for international diversification (ADRs and Eurodollar bonds do).",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru35-109",
@@ -1131,7 +1211,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “EPS.” (Net income - preferred dividends) / common shares outstanding is earnings per share (EPS).",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru35-111",
@@ -1145,7 +1226,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "D",
   "explanation": "Gifted securities take the DONOR's cost basis. Horace paid $18.50, so Jill's basis is $18.50 — not the $21.75 market value on the gift date (that value matters only for gift-tax purposes, not the recipient's basis).",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "yt-guru35-113",
@@ -1159,7 +1241,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “$300.” Net direct debt per capita = Austin's own GO ($1M) + its share of county debt (70% of $1.5M = $1.05M) over 10,000 people = $2.05M / 10,000 = $205; the closest listed figure reflects the direct-debt method at $300 using the full outstanding debt assignment.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru35-115",
@@ -1173,7 +1256,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “sell the Treasuries and buy more blue-chip stocks paying a steady dividend.” Her Treasuries are low-yielding and conflict with growth/aggressive-income goals; selling them to add dividend-paying blue chips better matches her objectives.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru35-116",
@@ -1187,6 +1271,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “4.5.” Long stock at 51, short straddle premium received $5.50 ($3.25+$2.25); if the call is exercised (stock called away at 50), max gain is the $5.50 premium plus the $1 from stock above cost (51 to 50) = $5.50 net per share on the combined position.",
-  "source": "YouTube: Series 7 Guru (guru35)"
+  "source": "YouTube: Series 7 Guru (guru35)",
+  "topic": "Options"
  }
 ];

@@ -11,7 +11,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "D",
   "explanation": "Correct answer: D) The same stock in cash account without paying for the stock",
-  "source": "Quizlet 512395451 SIE Practice Test"
+  "source": "Quizlet 512395451 SIE Practice Test",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "web-WEBMORE-4",
@@ -25,7 +26,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "Correct answer: B) exposure to non-correlated assets with steady returns",
-  "source": "Quizlet 512395451 SIE Practice Test"
+  "source": "Quizlet 512395451 SIE Practice Test",
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "web-WEBMORE-7",
@@ -39,7 +41,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "Correct answer: B) a premium",
-  "source": "Quizlet 512395451 SIE Practice Test"
+  "source": "Quizlet 512395451 SIE Practice Test",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-WEBMORE-8",
@@ -53,7 +56,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "A",
   "explanation": "Correct answer: A) Profit limited and loss limited",
-  "source": "Quizlet 512395451 SIE Practice Test"
+  "source": "Quizlet 512395451 SIE Practice Test",
+  "topic": "Options"
  },
  {
   "id": "web-WEBMORE-15",
@@ -67,7 +71,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "D",
   "explanation": "Correct answer: D) Qualified distributions are excluded from federal income tax.",
-  "source": "Quizlet 512395451 SIE Practice Test"
+  "source": "Quizlet 512395451 SIE Practice Test",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "web-WEBMORE-18",
@@ -81,7 +86,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "C",
   "explanation": "Correct answer: C) shares owned by the shareholder",
-  "source": "Quizlet 512395451 SIE Practice Test"
+  "source": "Quizlet 512395451 SIE Practice Test",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-WEBMORE-23",
@@ -95,7 +101,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "D",
   "explanation": "Correct answer: D) A felony conviction for driving under the influence (DUI) charge",
-  "source": "Quizlet 512395451 SIE Practice Test"
+  "source": "Quizlet 512395451 SIE Practice Test",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-WEBMORE-25",
@@ -109,7 +116,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "D",
   "explanation": "Correct answer: D) commisions",
-  "source": "Quizlet 512395451 SIE Practice Test"
+  "source": "Quizlet 512395451 SIE Practice Test",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-WEBMORE-26",
@@ -123,7 +131,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "Correct answer: B) No-load funds are not permitted to charge a 12b-1 fee greater than 25 basis points",
-  "source": "Quizlet 512395451 SIE Practice Test"
+  "source": "Quizlet 512395451 SIE Practice Test",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-WEBMORE-27",
@@ -137,7 +146,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "A",
   "explanation": "Correct answer: A) The net asset value (NAV) of the shares when the owner dies",
-  "source": "Quizlet 512395451 SIE Practice Test"
+  "source": "Quizlet 512395451 SIE Practice Test",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-WEBMORE-31",
@@ -151,7 +161,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "D",
   "explanation": "Correct answer: D) A primary distribution involves a sale of newly issued shares by the issuer while a secondary distribution involves the sale of already issued and outstanding shares.",
-  "source": "Quizlet 512395451 SIE Practice Test"
+  "source": "Quizlet 512395451 SIE Practice Test",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-WEBMORE-32",
@@ -165,7 +176,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "D",
   "explanation": "Correct answer: D) Lower management fees due to the passive management of the fund.",
-  "source": "Quizlet 512395451 SIE Practice Test"
+  "source": "Quizlet 512395451 SIE Practice Test",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-WEBMORE-43",
@@ -179,7 +191,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "A",
   "explanation": "Correct answer: A) an agent",
-  "source": "Quizlet 512395451 SIE Practice Test"
+  "source": "Quizlet 512395451 SIE Practice Test",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-WEBMORE-53",
@@ -193,7 +206,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "Correct answer: B) Buy 2,500 shares at $10.00 and sell 1,000 shares at $10.10",
-  "source": "Quizlet 512395451 SIE Practice Test"
+  "source": "Quizlet 512395451 SIE Practice Test",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-WEBMORE-60",
@@ -207,7 +221,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "A",
   "explanation": "Correct answer: A) designating an AML compliance officer",
-  "source": "Quizlet 512395451 SIE Practice Test"
+  "source": "Quizlet 512395451 SIE Practice Test",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-WEBMORE-63",
@@ -221,7 +236,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "D",
   "explanation": "Correct answer: D) 8 days",
-  "source": "Quizlet 512395451 SIE Practice Test"
+  "source": "Quizlet 512395451 SIE Practice Test",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-WEBMORE-64",
@@ -235,7 +251,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "D",
   "explanation": "Correct answer: D) self-clearing",
-  "source": "Quizlet 512395451 SIE Practice Test"
+  "source": "Quizlet 512395451 SIE Practice Test",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-WEBMORE-65",
@@ -249,7 +266,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "Correct answer: B) Inflation",
-  "source": "Quizlet 512395451 SIE Practice Test"
+  "source": "Quizlet 512395451 SIE Practice Test",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-WEBMORE-91",
@@ -263,7 +281,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "C",
   "explanation": "A sell limit at 43 means the client will accept 43 OR BETTER (higher). 44 is the only execution at or above 43, so it is the only acceptable trade.",
-  "source": "Quizlet 787744524 SIE Unit 1 Checkpoint"
+  "source": "Quizlet 787744524 SIE Unit 1 Checkpoint",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-WEBMORE-92",
@@ -277,7 +296,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "roker-dealers who incorporate proprietary trading into their business model are known as market makers. As a market maker, the broker-dealer trades in their own account attempting to profit. A firm making markets may be a carrying firm or a fully disclosed firm. However, in this example, the trade was not in a stock in which the firm makes a market. They charged a commission. Commissionable transactions are those done by brokers for customer accounts not proprietary trades.",
-  "source": "Quizlet 787744524 SIE Unit 1 Checkpoint"
+  "source": "Quizlet 787744524 SIE Unit 1 Checkpoint",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-WEBMORE-93",
@@ -291,7 +311,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "roker-dealers who incorporate proprietary trading into their business model are known as market makers. As a market maker, the broker-dealer trades in their own account attempting to profit. A firm making markets may be a carrying firm or a fully disclosed firm. Commissionable transactions are those done by brokers for customer accounts not proprietary trades.",
-  "source": "Quizlet 787744524 SIE Unit 1 Checkpoint"
+  "source": "Quizlet 787744524 SIE Unit 1 Checkpoint",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-WEBMORE-94",
@@ -305,7 +326,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "A",
   "explanation": "self-clearing (or carrying) firm holds funds and securities of the fully disclosed or introducing firm's customers and performs related functions, such as sending confirmations and statements for them. Those firms, for whom the carrying firm performs those services, are known as its correspondents.",
-  "source": "Quizlet 787744524 SIE Unit 1 Checkpoint"
+  "source": "Quizlet 787744524 SIE Unit 1 Checkpoint",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-WEBMORE-95",
@@ -319,7 +341,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "C",
   "explanation": "ommon carriers (railroads), municipalizes, and charities are all examples of exempt issuers under the Securities Act of 1933. A for-profit corporation is not exempt.",
-  "source": "Quizlet 787744524 SIE Unit 1 Checkpoint"
+  "source": "Quizlet 787744524 SIE Unit 1 Checkpoint",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-WEBMORE-96",
@@ -333,7 +356,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "A",
   "explanation": "n order that triggers the entry of a limit order is a stop limit order. A stop order triggers a market order.",
-  "source": "Quizlet 787744524 SIE Unit 1 Checkpoint"
+  "source": "Quizlet 787744524 SIE Unit 1 Checkpoint",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "web-WEBMORE-97",
@@ -347,7 +371,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "earish means one believes the security will decline in value.",
-  "source": "Quizlet 787744524 SIE Unit 1 Checkpoint"
+  "source": "Quizlet 787744524 SIE Unit 1 Checkpoint",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-WEBMORE-100",
@@ -361,7 +386,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "No-load funds are not permitted to charge a 12b-1 fee greater than 25 basis points",
-  "source": "Quizlet 333857765 SIE Practice Exam"
+  "source": "Quizlet 333857765 SIE Practice Exam",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-WEBMORE-102",
@@ -375,7 +401,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "D",
   "explanation": "Lower management fees due to passive management of the fund",
-  "source": "Quizlet 333857765 SIE Practice Exam"
+  "source": "Quizlet 333857765 SIE Practice Exam",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-WEBMORE-103",
@@ -389,7 +416,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "Premium",
-  "source": "Quizlet 333857765 SIE Practice Exam"
+  "source": "Quizlet 333857765 SIE Practice Exam",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-WEBMORE-104",
@@ -403,7 +431,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "Buy 2,500 shares at $10.00 and sell 1,000 shares at $10.10",
-  "source": "Quizlet 333857765 SIE Practice Exam"
+  "source": "Quizlet 333857765 SIE Practice Exam",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-WEBMORE-107",
@@ -417,7 +446,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "C",
   "explanation": "It is issued stock that has subsequently reacquired by the corporation",
-  "source": "Quizlet 333857765 SIE Practice Exam"
+  "source": "Quizlet 333857765 SIE Practice Exam",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-WEBMORE-112",
@@ -431,7 +461,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "No-load funds are not permitted to charge 12b-1 fee greater than 25 basis points",
-  "source": "Quizlet 333857765 SIE Practice Exam"
+  "source": "Quizlet 333857765 SIE Practice Exam",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-WEBMORE-113",
@@ -445,7 +476,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "C",
   "explanation": "Variable rate demand note",
-  "source": "Quizlet 333857765 SIE Practice Exam"
+  "source": "Quizlet 333857765 SIE Practice Exam",
+  "topic": "Options"
  },
  {
   "id": "web-WEBMORE-114",
@@ -459,7 +491,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "D",
   "explanation": "Literature providing 10-year performance information to support predictions of future performance",
-  "source": "Quizlet 333857765 SIE Practice Exam"
+  "source": "Quizlet 333857765 SIE Practice Exam",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-WEBMORE-116",
@@ -473,7 +506,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "C",
   "explanation": "Qualified institutional buyers (QIB)",
-  "source": "Quizlet 333857765 SIE Practice Exam"
+  "source": "Quizlet 333857765 SIE Practice Exam",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-WEBMORE-118",
@@ -487,7 +521,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "Correct answer: B) - No-load funds are not permitted to charge 12b-1 fee greater than 25 basis points",
-  "source": "Quizlet 417183220 SIE Practice Test Questions"
+  "source": "Quizlet 417183220 SIE Practice Test Questions",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-WEBMORE-122",
@@ -501,7 +536,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "C",
   "explanation": "Correct answer: C) - Buy bonds in the open market",
-  "source": "Quizlet 417183220 SIE Practice Test Questions"
+  "source": "Quizlet 417183220 SIE Practice Test Questions",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-WEBMORE-123",
@@ -515,7 +551,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "A",
   "explanation": "Correct answer: A) - Cash",
-  "source": "Quizlet 417183220 SIE Practice Test Questions"
+  "source": "Quizlet 417183220 SIE Practice Test Questions",
+  "topic": "Options"
  },
  {
   "id": "web-WEBMORE-124",
@@ -529,7 +566,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "Correct answer: B) - The kind of annuity selected partly determines the payment amounts to the annuitant",
-  "source": "Quizlet 417183220 SIE Practice Test Questions"
+  "source": "Quizlet 417183220 SIE Practice Test Questions",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "web-WEBMORE-125",
@@ -543,7 +581,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "Correct answer: B) - Semiannually",
-  "source": "Quizlet 417183220 SIE Practice Test Questions"
+  "source": "Quizlet 417183220 SIE Practice Test Questions",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-WEBMORE-127",
@@ -557,7 +596,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "C",
   "explanation": "Correct answer: C) - Shares owned by the stockholder",
-  "source": "Quizlet 417183220 SIE Practice Test Questions"
+  "source": "Quizlet 417183220 SIE Practice Test Questions",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-WEBMORE-128",
@@ -571,7 +611,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "D",
   "explanation": "Correct answer: D) - Nonsystematic",
-  "source": "Quizlet 417183220 SIE Practice Test Questions"
+  "source": "Quizlet 417183220 SIE Practice Test Questions",
+  "topic": "Investment Risks"
  },
  {
   "id": "web-WEBMORE-133",
@@ -585,7 +626,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "A",
   "explanation": "Correct answer: A) - 30/360",
-  "source": "Quizlet 417183220 SIE Practice Test Questions"
+  "source": "Quizlet 417183220 SIE Practice Test Questions",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-WEBMORE-140",
@@ -599,7 +641,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "Correct answer: B) - Rights",
-  "source": "Quizlet 417183220 SIE Practice Test Questions"
+  "source": "Quizlet 417183220 SIE Practice Test Questions",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-WEBMORE-142",
@@ -613,7 +656,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "C",
   "explanation": "Correct answer: C) - American Depository Receipts (ADRs)",
-  "source": "Quizlet 417183220 SIE Practice Test Questions"
+  "source": "Quizlet 417183220 SIE Practice Test Questions",
+  "topic": "Municipal Securities"
  },
  {
   "id": "web-WEBMORE-150",
@@ -627,7 +671,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "D",
   "explanation": "Correct answer: D) - Maturities of the debt securities are short",
-  "source": "Quizlet 417183220 SIE Practice Test Questions"
+  "source": "Quizlet 417183220 SIE Practice Test Questions",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-WEBMORE-153",
@@ -641,7 +686,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "D",
   "explanation": "Correct answer: D) - A primary distribution involves a sale of newly issued shares by the issuer while a secondary distribution involves the sale of already issued and outstanding shares",
-  "source": "Quizlet 417183220 SIE Practice Test Questions"
+  "source": "Quizlet 417183220 SIE Practice Test Questions",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-WEBMORE-162",
@@ -655,7 +701,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "C",
   "explanation": "Correct answer: C) - Variable rate demand note",
-  "source": "Quizlet 417183220 SIE Practice Test Questions"
+  "source": "Quizlet 417183220 SIE Practice Test Questions",
+  "topic": "Options"
  },
  {
   "id": "web-WEBMORE-164",
@@ -669,7 +716,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "A",
   "explanation": "Correct answer: A) - The sport exchange rate",
-  "source": "Quizlet 417183220 SIE Practice Test Questions"
+  "source": "Quizlet 417183220 SIE Practice Test Questions",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-WEBMORE-165",
@@ -683,7 +731,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "Correct answer: B) - Build an order book and allocate the stock",
-  "source": "Quizlet 417183220 SIE Practice Test Questions"
+  "source": "Quizlet 417183220 SIE Practice Test Questions",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-WEBMORE-167",
@@ -697,7 +746,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "Correct answer: B) - Buy 2,500 shares at $10.00 and sell 1,000 shares at $10.10",
-  "source": "Quizlet 417183220 SIE Practice Test Questions"
+  "source": "Quizlet 417183220 SIE Practice Test Questions",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-WEBMORE-169",
@@ -711,7 +761,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "A",
   "explanation": "Correct answer: A) - $50",
-  "source": "Quizlet 417183220 SIE Practice Test Questions"
+  "source": "Quizlet 417183220 SIE Practice Test Questions",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-WEBMORE-170",
@@ -725,7 +776,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "C",
   "explanation": "Correct answer: C) - It is issued stock that has been subsequentl reacquired by the corporation",
-  "source": "Quizlet 417183220 SIE Practice Test Questions"
+  "source": "Quizlet 417183220 SIE Practice Test Questions",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-WEBMORE-179",
@@ -739,7 +791,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "C",
   "explanation": "Correct answer: C) - Driving part time for a transportation network company on weekend",
-  "source": "Quizlet 417183220 SIE Practice Test Questions"
+  "source": "Quizlet 417183220 SIE Practice Test Questions",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-WEBMORE-180",
@@ -753,7 +806,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "Correct answer: B) rights",
-  "source": "Quizlet 354703945 FINRA SIE Final Study"
+  "source": "Quizlet 354703945 FINRA SIE Final Study",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "web-WEBMORE-182",
@@ -767,7 +821,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "Correct answer: B) the kind of annuity selected partly determines the payment amounts to the annuitant",
-  "source": "Quizlet 354703945 FINRA SIE Final Study"
+  "source": "Quizlet 354703945 FINRA SIE Final Study",
+  "topic": "Taxation of Investments"
  },
  {
   "id": "web-WEBMORE-184",
@@ -781,7 +836,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "A",
   "explanation": "Correct answer: A) designing an AML compliance officer",
-  "source": "Quizlet 354703945 FINRA SIE Final Study"
+  "source": "Quizlet 354703945 FINRA SIE Final Study",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "web-WEBMORE-185",
@@ -795,7 +851,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "Correct answer: B) 50 shares at $100 per share",
-  "source": "Quizlet 354703945 FINRA SIE Final Study"
+  "source": "Quizlet 354703945 FINRA SIE Final Study",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "web-WEBMORE-186",
@@ -809,7 +866,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "Correct answer: B) a premium",
-  "source": "Quizlet 354703945 FINRA SIE Final Study"
+  "source": "Quizlet 354703945 FINRA SIE Final Study",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "web-WEBMORE-187",
@@ -823,7 +881,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "C",
   "explanation": "Correct answer: C) NAV competed after the order is received",
-  "source": "Quizlet 354703945 FINRA SIE Final Study"
+  "source": "Quizlet 354703945 FINRA SIE Final Study",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-WEBMORE-188",
@@ -837,7 +896,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "Correct answer: B) exchange",
-  "source": "Quizlet 354703945 FINRA SIE Final Study"
+  "source": "Quizlet 354703945 FINRA SIE Final Study",
+  "topic": "Investment Risks"
  },
  {
   "id": "web-WEBMORE-189",
@@ -851,7 +911,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "C",
   "explanation": "Correct answer: C) 1200 shares at $41.67",
-  "source": "Quizlet 354703945 FINRA SIE Final Study"
+  "source": "Quizlet 354703945 FINRA SIE Final Study",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "web-WEBMORE-190",
@@ -865,7 +926,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "Correct answer: B) the ownership of the dependent's is governed by their will or state law",
-  "source": "Quizlet 354703945 FINRA SIE Final Study"
+  "source": "Quizlet 354703945 FINRA SIE Final Study",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "web-WEBMORE-191",
@@ -879,7 +941,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "D",
   "explanation": "Correct answer: D) commissions",
-  "source": "Quizlet 354703945 FINRA SIE Final Study"
+  "source": "Quizlet 354703945 FINRA SIE Final Study",
+  "topic": "Employee Conduct (gifts, OBA, private securities)"
  },
  {
   "id": "web-WEBMORE-192",
@@ -893,7 +956,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "Correct answer: B) buy 2500 shares at $10 and sell 1000 shares at $10.10",
-  "source": "Quizlet 354703945 FINRA SIE Final Study"
+  "source": "Quizlet 354703945 FINRA SIE Final Study",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-WEBMORE-193",
@@ -907,7 +971,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "D",
   "explanation": "Correct answer: D) qualified distributions are excluded from federal income tax",
-  "source": "Quizlet 354703945 FINRA SIE Final Study"
+  "source": "Quizlet 354703945 FINRA SIE Final Study",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "web-WEBMORE-194",
@@ -921,7 +986,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "A",
   "explanation": "Correct answer: A) an independent securities analyst explains to the employee why the earnings for the company next quarter could be markedly poorer than expected",
-  "source": "Quizlet 354703945 FINRA SIE Final Study"
+  "source": "Quizlet 354703945 FINRA SIE Final Study",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "web-WEBMORE-195",
@@ -935,7 +1001,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "A",
   "explanation": "Correct answer: A) cash",
-  "source": "Quizlet 354703945 FINRA SIE Final Study"
+  "source": "Quizlet 354703945 FINRA SIE Final Study",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "web-WEBMORE-196",
@@ -949,7 +1016,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "D",
   "explanation": "Correct answer: D) a felony conviction for a driving under the influence charge",
-  "source": "Quizlet 354703945 FINRA SIE Final Study"
+  "source": "Quizlet 354703945 FINRA SIE Final Study",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "web-WEBMORE-197",
@@ -963,7 +1031,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "A",
   "explanation": "Correct answer: A) $50",
-  "source": "Quizlet 354703945 FINRA SIE Final Study"
+  "source": "Quizlet 354703945 FINRA SIE Final Study",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "web-WEBMORE-198",
@@ -977,7 +1046,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "C",
   "explanation": "windmill income UIT",
-  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check"
+  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "web-WEBMORE-199",
@@ -991,7 +1061,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "D",
   "explanation": "there is a continuous public offering",
-  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check"
+  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-WEBMORE-201",
@@ -1005,7 +1076,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "D",
   "explanation": "historic inflation rate",
-  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check"
+  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "web-WEBMORE-202",
@@ -1019,7 +1091,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "A",
   "explanation": "a key feature of the variable annuity is that most of the premium is invested in the insurance company's separate account rather than the general account. Within the separate account, there are a number of subaccounts that may be selected, depending on the investor's objectives. It is the performance o these subaccounts that provides the annuity's investment return",
-  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check"
+  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check",
+  "topic": "Variable Annuities & Insurance Products"
  },
  {
   "id": "web-WEBMORE-203",
@@ -1033,7 +1106,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "C",
   "explanation": "annuitization is a one time irrevocable actions",
-  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check"
+  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check",
+  "topic": "Variable Annuities & Insurance Products"
  },
  {
   "id": "web-WEBMORE-204",
@@ -1047,7 +1121,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "A",
   "explanation": "no load shares have expenses that are considered sales charges. Some broker-dealers may charge fees for transactions, but these fees are not from the fund",
-  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check"
+  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-WEBMORE-205",
@@ -1061,7 +1136,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "back-end load shares",
-  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check"
+  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-WEBMORE-206",
@@ -1075,7 +1151,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "C",
   "explanation": "larger investment amounts and long time frames",
-  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check"
+  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-WEBMORE-208",
@@ -1089,7 +1166,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "B",
   "explanation": "investment club",
-  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check"
+  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-WEBMORE-209",
@@ -1103,7 +1181,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "A",
   "explanation": "place the order",
-  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check"
+  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-WEBMORE-210",
@@ -1117,7 +1196,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "A",
   "explanation": "the market value of the portfolio declines",
-  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check"
+  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-WEBMORE-212",
@@ -1131,7 +1211,8 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "C",
   "explanation": "90% of net investment income",
-  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check"
+  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "web-WEBMORE-214",
@@ -1145,6 +1226,7 @@ var SIE_QUESTIONS_WEB_MORE = [
   },
   "answer": "C",
   "explanation": "not change a prospectus in any way",
-  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check"
+  "source": "Quizlet 560615874 SIE Unit 4 Knowledge Check",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  }
 ];

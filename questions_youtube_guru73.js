@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE_GURU73 = [
   },
   "answer": "A",
   "explanation": "Correct answer: Stockholders can participate directly in the management of the company",
-  "source": "YouTube: Series 7 Guru (guru73)"
+  "source": "YouTube: Series 7 Guru (guru73)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-GURU73-1",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE_GURU73 = [
   },
   "answer": "A",
   "explanation": "Answer choice A is highlighted as the selected response",
-  "source": "YouTube: Series 7 Guru (guru73)"
+  "source": "YouTube: Series 7 Guru (guru73)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-GURU73-2",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE_GURU73 = [
   },
   "answer": "B",
   "explanation": "Answer option B is highlighted as the selected response",
-  "source": "YouTube: Series 7 Guru (guru73)"
+  "source": "YouTube: Series 7 Guru (guru73)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-GURU73-3",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_YOUTUBE_GURU73 = [
   },
   "answer": "A",
   "explanation": "Answer option A is highlighted as the selected response",
-  "source": "YouTube: Series 7 Guru (guru73)"
+  "source": "YouTube: Series 7 Guru (guru73)",
+  "topic": "Options"
  },
  {
   "id": "yt-GURU73-4",
@@ -67,7 +71,8 @@ SIE_QUESTIONS_YOUTUBE_GURU73 = [
   },
   "answer": "A",
   "explanation": "Selected answer is highlighted in yellow",
-  "source": "YouTube: Series 7 Guru (guru73)"
+  "source": "YouTube: Series 7 Guru (guru73)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-GURU73-5",
@@ -81,7 +86,8 @@ SIE_QUESTIONS_YOUTUBE_GURU73 = [
   },
   "answer": "D",
   "explanation": "Option D is highlighted as the selected answer",
-  "source": "YouTube: Series 7 Guru (guru73)"
+  "source": "YouTube: Series 7 Guru (guru73)",
+  "topic": "Options"
  },
  {
   "id": "yt-GURU73-6",
@@ -95,6 +101,7 @@ SIE_QUESTIONS_YOUTUBE_GURU73 = [
   },
   "answer": "B",
   "explanation": "Answer choice B is highlighted as the selected response",
-  "source": "YouTube: Series 7 Guru (guru73)"
+  "source": "YouTube: Series 7 Guru (guru73)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  }
 ];

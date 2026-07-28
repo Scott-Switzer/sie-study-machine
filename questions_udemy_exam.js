@@ -12,7 +12,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "B",
   "explanation": "The reason you wouldn’t find the credit rating on a bond is because the credit rating would change if the issuer’s financial condition changes. They may have a AAA rating now but in three years, who knows?",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "udemy-02",
@@ -27,7 +28,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "D",
   "explanation": "Although the largest backing for municipal general obligation bonds is property taxes, they are also backed by traffic fines, licensing fees, sales taxes, and so on.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy-03",
@@ -42,7 +44,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "C",
   "explanation": "Open-end investment companies (mutual funds) do not charge a commission; they charge a sales charge added to the NAV.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "udemy-04",
@@ -61,7 +64,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "F",
   "explanation": "B. I and III  General partners are not allowed to borrow money from the partnership. In addition, they cannot manage two partnerships that are in direct competition with each other. For arguments sake, a general partner cannot be running two partnerships that are building commercial buildings near to each other.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "udemy-05",
@@ -76,7 +80,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "A",
   "explanation": "The buyers of options, whether calls or puts, have the right to buy (call options) or sell (put options) the underlying security at a fixed price.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Options"
  },
  {
   "id": "udemy-06",
@@ -91,7 +96,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "A",
   "explanation": "The USA Patriot Act requires financial institutions, such as brokerdealers and banks, to maintain CIPs (customer identification programs) to help prevent money laundering and the financing of terrorist organizations. Financial institutions are required to look at the Specially Designated Nationals (SDNs) list published by the Office of Foreign Asset Control (OFAC) to see whether any of their new customers are on the list. If a new customer is on the list, their assets will be frozen, and your firm must cease doing business with them.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "AML & SARs"
  },
  {
   "id": "udemy-07",
@@ -106,7 +112,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "A",
   "explanation": "Inflationary risk is also known as purchasing power risk. It is the risk that the return on investment will not keep pace with the rate of inflation. Long-term, such as T-bonds (Treasury bonds) and fixed annuities, have high inflationary risk.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "udemy-08",
@@ -121,7 +128,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "C",
   "explanation": "A third market trade is listed securities trading OTC (over-thecounter).",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "udemy-09",
@@ -136,7 +144,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "D",
   "explanation": "Unlike investment income, earned income is money received from working. Earning income includes wages, tips, bonuses, commissions, and so on.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "udemy-10",
@@ -151,7 +160,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "C",
   "explanation": "SROs are self-regulatory organizations that are unaffiliated with the federal government. The SEC (Securities and Exchange Commission) is a government agency.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "udemy-11",
@@ -166,7 +176,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "A",
   "explanation": "A shelf registration allows the issuer to sell securities registered with the Securities and Exchange Commission (SEC) for up to three years from the effective (release) date. A shelf registration allows an issuer to time the sale of its securities with market conditions.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "udemy-12",
@@ -185,7 +196,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "G",
   "explanation": "C. I and II  Stockholders can’t vote for dividends. Stock and cash dividends are declared by the board of directors.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "udemy-13",
@@ -204,7 +216,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "B",
   "explanation": "B. I and IV  The coupon rate or nominal yield of the bond is 5.5%, which means that the bond is paying $55 per year ($1,000 assumed par value × 5.5%). Since most bonds pay interest semiannually (twice a year), the semiannual interest payments are $27.50 ($55/2).",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "udemy-14",
@@ -223,7 +236,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "G",
   "explanation": "C. II and IV  Municipal revenue bonds are supposed to be self-supporting. The revenues received from the revenue-producing facility backing the bond are supposed to be enough to cover the debt. So, they don’t require voter approval and aren’t subject to a debt ceiling because they aren’t backed by taxes.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy-15",
@@ -238,7 +252,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "D",
   "explanation": "D. They may be purchased on margin  Since all mutual fund shares are new securities, they may not be purchased on margin and must be paid for in full. However, once an investor has held mutual fund shares for at least 30 days; they can be moved to a margin account.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Margin & Reg T"
  },
  {
   "id": "udemy-16",
@@ -253,7 +268,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "A",
   "explanation": "Since there are not shareholders in a limited partnership, Choice (D) is out. To dissolve a limited partnership prior to the preset dissolution date requires a majority vote of the limited partners only.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "udemy-17",
@@ -268,7 +284,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "D",
   "explanation": "The breakeven point is the same for both the buyer and seller. It is the point at which if the option is exercised, they’ll both break even, so neither will have a profit or loss.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Options"
  },
  {
   "id": "udemy-18",
@@ -283,7 +300,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "A",
   "explanation": "If the customer is opening a cash (not margin) account at your firm, their signature is not required on the new account form. However, the signature of the registered representative and the principal’s signature are both required.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Margin & Reg T"
  },
  {
   "id": "udemy-19",
@@ -298,7 +316,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "B",
   "explanation": "All long-term bonds have inflationary (purchasing power) risk. Inflationary risk is the risk that the return on the investment doesn’t keep pace with inflation. To limit inflationary risk, investors should purchase stocks. Over the long haul, stocks have more than kept pace with inflation.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "udemy-20",
@@ -313,7 +332,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "D",
   "explanation": "A trade between institutions without using the services of a brokerdealer is considered a fourth market trade. Fourth market trades usually take place using ECNs (electronic communications networks).",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "udemy-21",
@@ -328,7 +348,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "B",
   "explanation": "Cash dividends and corporate bond interest are taxable when received. Stock splits and stock dividends are NOT taxable events — they just adjust the number of shares and the cost basis per share.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "udemy-22",
@@ -343,7 +364,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "D",
   "explanation": "Yes, believe it or not, the MSRB (municipal securities rulemaking board) does not enforce MSRB rules, they just make them. FINRA and the SEC enforce MSRB rules for broker-dealers; and the FDIC, the FED, and Comptroller of Currency enforce MSRB rules for bank dealers.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "udemy-23",
@@ -358,7 +380,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "B",
   "explanation": "The Securities and Exchange Commission (SEC) Rule 415 outlines the rules for shelf offerings (shelf registration). Typically, a company isn’t going to sell all of its shares in one shot; it may want to wait another six months, a year, or two years before selling all of its authorized shares. Under SEC Rule 415, an issuer has up to two years to sell its registered securities without having to file a new registration statement.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "udemy-24",
@@ -373,7 +396,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "B",
   "explanation": "B. Common stockholders  All common stockholders (except if they purchased non-voting stock) receive voting rights. That same right is not afforded to preferred stockholders or bondholders.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "udemy-25",
@@ -388,7 +412,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "B",
   "explanation": "The coupon rate is based on the par value of the bonds, not the purchase price or market value. Ayla purchased $100,000 par value of bonds with a coupon rate of 4½%. This means that Ayla will receive $4,500 (4½% × $100,000) in interest per year. However, you can assume (unless told differently in the question) that bonds pay interest semiannually (every six months). So, you need to divide the annual interest by 2 to get $2,250 ($4,500/2).",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "udemy-26",
@@ -403,7 +428,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "A",
   "explanation": "Property taxes are the largest source of backing for general obligation (GO) bonds, not revenue bonds. Revenue bonds are selfsupporting and backed by user fees of the revenue-producing project or facility.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy-27",
@@ -418,7 +444,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "B",
   "explanation": "In both open- and closed-end funds, the NAV indicates the performance of the fund’s portfolio. If the NAV (net asset value) and POP (public offering price) move in opposite directions, the fund must be a closed-end fund. The price of a closed-end fund not only depends on the performance of the securities held but also on supply and demand. In an open-end fund, the NAV and POP must move in the same direction since the price depends solely on the performance of the securities held by the fund.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "udemy-28",
@@ -433,7 +460,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "A",
   "explanation": "A general partner has an active role in managing the partnership and has unlimited liability. A limited partner has an inactive role and limited liability.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "udemy-29",
@@ -452,7 +480,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "E",
   "explanation": "A. I and III  Buying puts and selling calls are bearish positions, meaning the investor wants the price of the underlying security to decrease. The buyer of a call option has the right to buy the stock, so the seller of a call has the obligation to sell the stock if the option is exercised.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Options"
  },
  {
   "id": "udemy-30",
@@ -471,7 +500,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "H",
   "explanation": "D. I, II, III, and IV  Actually, all of the choices listed would likely change the investor's investment objectives. Typically, as an investor grows older, they will likely want to take less risk. By the same token, investing for one person or two people as in someone getting married or divorced would change the investment objectives. Also, as people gain investment experience, they will likely be more open to more speculative investments. Plus, you can assume that as an investor has more family responsibilities, they will want to take less risk.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "udemy-31",
@@ -486,7 +516,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "D",
   "explanation": "Regulatory risk is the risk that the price of a security declines due to new regulations placed on specific corporations.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Investment Risks"
  },
  {
   "id": "udemy-32",
@@ -501,7 +532,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "B",
   "explanation": "Designated market makers (DMMs) are responsible for maintaining a fair and orderly market on the NYSE floor and helping to keep trading as active as possible.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "udemy-33",
@@ -520,7 +552,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "A",
   "explanation": "A. I only  Passive losses (losses from a limited partnership) can only be written off against passive income.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "udemy-34",
@@ -535,7 +568,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "A",
   "explanation": "The Trust Indenture Act prohibits bond issues of more than $50 million from being offered without an indenture. The bond indenture is a written agreement that protects bondholders by disclosing the particulars of an issue (coupon rate, coupon dates, maturity date, collateral backing the bond, and so on).",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Options"
  },
  {
   "id": "udemy-35",
@@ -550,7 +584,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "D",
   "explanation": "Shelf registration is a Securities and Exchange Commission (SEC) provision that allows an issuer to register a new issue without having to sell all the securities at one time. Shelf registration allows the issuer to hold back securities for up to three years without having to reregister them.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "udemy-36",
@@ -569,7 +604,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "G",
   "explanation": "C. I and IV  Common stockholders can vote for members of the board of directors (BOD) and for stock splits. However, stockholders do not have the right to vote for dividends whether they’re stock or cash.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "udemy-37",
@@ -584,7 +620,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "C",
   "explanation": "Since the coupon rate is 6%, Mr. Bear will receive $60 per year interest (6% of $1,000 par) broken down into two semiannual payments of $30 each until the bond matures.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "udemy-38",
@@ -599,7 +636,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "B",
   "explanation": "Property taxes are the largest source of backing for general obligation (GO) bonds, not revenue bonds. What’s important to revenue bond investors is the feasibility study (how much sense the income producing project makes), the flow of funds (priority of payments from revenues), and rate covenants (a promise to adequately charge users of the facility).",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy-39",
@@ -614,7 +652,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "C",
   "explanation": "Closed-end funds charge a commission added to the POP (public offering price). Open-end funds charge a sales charge, which is built into the POP (public offering price), except for no-load funds which do not charge a sales charge.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "udemy-40",
@@ -629,7 +668,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "D",
   "explanation": "D. both (A) and (B)  All limited partnerships must have at least one general and one limited partner.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
  {
   "id": "udemy-41",
@@ -644,7 +684,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "B",
   "explanation": "You should have knocked out Choice (A) right away because buying a call option is a bullish strategy used when you believe the price of the security is going to increase. Now, Choices (C) and (D) would work, but they aren't the cheapest options. Buying a straddle is ideal when you aren't sure which direction the stock is going because you are buying a put and buying a call. When shorting a stock, an investor has to come up with 50% of the market value. Buying a put is the best answer because it is a bearish strategy, and investors can have an interest in a large quantity of securities for a small outlay of money.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Options"
  },
  {
   "id": "udemy-42",
@@ -663,7 +704,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "D",
   "explanation": "D. I, II, III, and IV  Logically, all of the choices listed would change an investor’s investment objectives. Certainly, aging and having a child would most likely mean that an investor wouldn’t take as much risk. Depending on the terms of a divorce, an investor may want to invest in something that would provide regular income. However, winning a lot of money in a lottery would most likely mean that an investor would be able to take additional risk.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "udemy-43",
@@ -678,7 +720,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "C",
   "explanation": "Diversification does NOT reduce systematic (market) risk — a bear market hits everything. It DOES reduce non-systematic (business) risk, because losses in one company can be offset by others.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Investment Risks"
  },
  {
   "id": "udemy-44",
@@ -693,7 +736,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "A",
   "explanation": "The New York Stock Exchange is an auction (exchange) market where buyers and sellers get together to execute trades.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "udemy-45",
@@ -708,7 +752,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "C",
   "explanation": "When an investor receives dividends from a municipal bond fund, the dividends are federally tax free. However, capital gains distributions are taxable on all levels.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy-46",
@@ -723,7 +768,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "D",
   "explanation": "The Investment Company Act of 1940 regulates the registration requirements and the activities of investment companies, such as mutual funds.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "udemy-47",
@@ -738,7 +784,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "A",
   "explanation": "The cooling-off period is when the Securities and Exchange Commission (SEC) is reviewing a company’s registration statement before bringing new issues to market. The cooling-off period typically lasts about 20 days.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "udemy-48",
@@ -757,7 +804,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "A",
   "explanation": "A. I and III  Common stockholders have limited liability because their loss is limited to the amount they invested. If the issuer goes bankrupt, the common stockholders don’t owe money to anyone as a result of that bankruptcy. In addition, common stockholders have voting rights.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "udemy-49",
@@ -772,7 +820,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "B",
   "explanation": "To determine the annual interest, you have to multiply the coupon rate (4%) by par value ($1,000): (4%)($1,000) = $40 annual interest. Because bonds pay interest semiannually (twice a year), the investor will get paid $20 ($40/2) every six months.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "udemy-50",
@@ -791,7 +840,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "F",
   "explanation": "B. I and II  General obligation (GO) bonds require voter approval prior to being issued because they’re mostly backed by taxes on people living in the municipality. GO bonds are issued to fund non-revenueproducing facilities, such as schools and jails. A municipality would issue revenue bonds to fund revenue-producing projects, such as toll roads and airports. Revenue bonds are backed by users, not taxes.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy-51",
@@ -810,7 +860,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "H",
   "explanation": "D. II, III, and IV  Closed-end investment companies make a one-time offering of new shares and then trade in the market like other equity securities. Closed-end investment companies may also issue preferred stock and bonds in addition to common stock.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "udemy-52",
@@ -825,7 +876,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "D",
   "explanation": "All of the choices listed are benefits of investing in a limited partnership. Investors are certainly getting (or hoping for) professional management by way of general partner(s). Also, because a partnership isn’t taxed as a corporation, the gains and losses are passed through to investors. In addition, limited partners’ losses are limited to the amount invested plus any additional loans, if needed.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "udemy-53",
@@ -840,7 +892,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "C",
   "explanation": "The purchasers of options always have the right and the writers (sellers) have the obligation to live up to the terms of the contract if exercised. Here it is in a nutshell:  Buy a call — right to buy stock  Buy a put — right to sell stock  Sell a call — obligation to sell stock  Sell a put — obligation to buy stock",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Options"
  },
  {
   "id": "udemy-54",
@@ -855,7 +908,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "C",
   "explanation": "A customer's signature is NOT required on a new account form. The registered rep opening the account signs it, and a principal (manager) must sign to approve the account.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "udemy-55",
@@ -870,7 +924,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "B",
   "explanation": "Income (adjustment) bonds are issued by companies in reorganization and pay interest only if earned; high-yield bonds are junk bonds. Both carry high credit risk. AA- and AAA-rated bonds are considered safe.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy-56",
@@ -885,7 +940,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "C",
   "explanation": "Listed securities can be traded on an exchange, such as the New York Stock Exchange, or over the counter. Unlisted securities can only trade over the counter.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "udemy-57",
@@ -904,7 +960,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "B",
   "explanation": "B. I and IV  Municipal bond interest is exempt from federal tax. However, unless purchasing a municipal bond within your home state or from a U.S. protectorate (such as Guam, U.S. Virgin Islands, or Puerto Rico), the interest is subject to state tax.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy-58",
@@ -919,7 +976,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "C",
   "explanation": "C. The State  Administrators The State Administrators of each state are responsible for the state registration of securities, broker-dealers, registered reps, investment advisers, and so on. The North American Securities Administrators Association (NASAA) is devoted to investor protection.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "udemy-59",
@@ -937,7 +995,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "E",
   "explanation": "B. II and III  Be careful, any time you see something about the Securities and Exchange Commission (SEC), or any self-regulatory organization for that matter, approving or guaranteeing an issue, it’s a false answer. The SEC just clears the issue. During the cooling-off period, the SEC reviews registration statements and may issue stop orders.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "udemy-60",
@@ -952,7 +1011,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "D",
   "explanation": "Cain has a total of 4,000 votes (1,000 shares × 4 vacancies). Because HIT allows cumulative voting, Cain can vote the shares in any way he sees fit, even if he votes them all for one candidate. Statutory or regular voting would allow Cain to vote only up to 1,000 shares for each candidate.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "udemy-61",
@@ -971,7 +1031,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "F",
   "explanation": "B. I and III  The indenture of a bond is a legal contract between the issuer and the bondholder. The indenture includes items such as the nominal yield (coupon rate), the maturity date, collateral backing the bond (if any), coupon payment dates, and callable and convertible features. The rating and the yield to maturity can’t be included in the indenture because neither of them is static. The rating changes if the issuer’s financial condition changes, and the yield to maturity changes when the market value changes.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "udemy-62",
@@ -986,7 +1047,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "B",
   "explanation": "The dated date is the first day that a bond starts accruing interest and isn’t a factor in the marketability of a bond. However, the credit rating, the maturity date, and the issuer’s name are all important and would affect the marketability of a bond.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy-63",
@@ -1005,7 +1067,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "E",
   "explanation": "A. II and III  Closed-end funds are typically listed on an exchange and have a fixed number of shares outstanding. Closed-end funds must be sold to another investor and are not redeemable. In addition, closed-end funds may issue common stock, preferred stock, and bonds.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "udemy-64",
@@ -1020,7 +1083,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "C",
   "explanation": "DPPs (direct participation programs) are professionally managed by the general partner(s). If a limited partner decides to get involved with management decisions, they will lose their liability protection and open themselves up to being sued.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "udemy-65",
@@ -1039,7 +1103,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "E",
   "explanation": "A. I, III, and IV  Call options go in-the-money when the market price is greater than the strike (exercise) price. Put options go in-the-money whenever the market price is lower than the strike price. Therefore, the only option that is not in the money when UPP is trading at 43.50 is short a 40 put.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Options"
  },
  {
   "id": "udemy-66",
@@ -1054,7 +1119,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "D",
   "explanation": "The most important consideration is the client’s investment objectives. You’d hope that the client’s age, marital status, and financial needs should help your client determine their investment objectives. Investment objectives include current income, capital growth, tax-advantaged investments, preservation of capital, diversification, liquidity, and speculation.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "udemy-67",
@@ -1073,7 +1139,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "D",
   "explanation": "D. I, II, III, and IV  You’d do well to advise all your clients to have a well-diversified portfolio. Smaller investors can build a well-diversified portfolio by purchasing mutual funds. Diversification happens in many ways, such as buying different types of securities, buying securities from different industries, buying debt securities with different maturity dates, buying securities with different ratings, and buying securities from different areas of the country or world. Most investors diversify in several ways to limit their risk.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Options"
  },
  {
   "id": "udemy-68",
@@ -1088,7 +1155,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "D",
   "explanation": "OTCBB is the Over the Counter Bulletin Board, which is the quotation service operated by FINRA for unlisted (non-Nasdaq) securities.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "udemy-69",
@@ -1103,7 +1171,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "B",
   "explanation": "Interest on U.S. government T-bonds (treasury bonds) is subject to federal tax but not state tax.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "udemy-70",
@@ -1122,7 +1191,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "E",
   "explanation": "A. I and III  Investment advisers charge a fee for giving investment advice. If they have under $25 million under management, they only have to register with the state(s) where they are doing business. If they have $25 million or more under management, they have to register with the SEC and states. Rules for investment advisers are covered under The Investment Advisers Act of 1940.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "udemy-71",
@@ -1141,7 +1211,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "F",
   "explanation": "B. III and IV  Indications of interest for a new offering aren’t binding on the customer or on the broker-dealer. For example, a customer may tell you that they want to buy 10,000 shares of Zamzow when it’s available and then change their mind later. By the same token, the broker-dealer isn’t obligated to have 10,000 shares available to sell to the customer when Zamzow becomes available.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "udemy-72",
@@ -1156,7 +1227,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "C",
   "explanation": "This investor has a total of 8,000 votes (2,000 shares x 4 vacancies), which can be voted any which way because it’s cumulative voting. The reason that Choice (C) doesn’t work is because it would require 9,000 votes (3,000 votes x 3 candidates), and this investor has only 8,000.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "udemy-73",
@@ -1171,7 +1243,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "A",
   "explanation": "With a balloon maturity a portion of the bond is paid off in successive years like a serial bond, but it has one big final payment (balloon payment) due at the final maturity date like a term bond.",
   "source": "udemy_practice_exam",
-  "you_correct": false
+  "you_correct": false,
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "udemy-74",
@@ -1186,7 +1259,8 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "C",
   "explanation": "Looking at Choices (A) and (C), you’ll notice that they directly oppose each other, so the chances are extremely high that one of those is the correct answer. You’re looking for the answer that’s the exception in this case, so it has to be Choice (C). The call feature of a bond doesn’t make the bond more marketable; it makes it less marketable. Therefore, the issuers would have to pay higher coupon rates to attract investors.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Municipal Securities"
  },
  {
   "id": "udemy-75",
@@ -1201,6 +1275,7 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
   "answer": "B",
   "explanation": "Closed-end funds have a fixed number of securities outstanding. After the initial public offering, investors much purchase or sell the securities in the market because the securities cannot be redeemed with the issuer.",
   "source": "udemy_practice_exam",
-  "you_correct": true
+  "you_correct": true,
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  }
 ];

@@ -11,7 +11,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "A",
   "explanation": "For a young, long-term investor whose priority is safety of principal within a Roth IRA, a GNMA (Ginnie Mae) mutual fund offers high credit quality (government-backed) and is a common conservative choice; on the source exam GNMA was credited as most suitable given the conservative profile.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru33-21",
@@ -25,7 +26,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "B",
   "explanation": "Longing both a call and a put at the same strike (a long straddle) is a volatility strategy that profits from a large move in either direction. The source credited A under its key (the strategy is identified as a spread-type volatility play); the customer wants volatility, not a specific direction.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru33-22",
@@ -39,7 +41,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "D",
   "explanation": "Because her income needs are already covered by annuities, Social Security, and a pension, and she wants growth as a legacy, an equity-oriented growth portfolio (closed-end equity trust) is most suitable. The other choices are either redundant income products or inappropriate given her surplus cash flow and growth goal.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru33-23",
@@ -53,7 +56,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "D",
   "explanation": "To avoid current-year tax, the options must expire next year (April), not December. European-style options cannot be exercised early, so the customer is not forced into a taxable disposition this year, and an in-the-money strike generates the most premium (income). Thus D maximizes income while deferring tax.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru33-24",
@@ -67,7 +71,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "A",
   "explanation": "Best execution and fair dealing require the firm to credit the customer with the more favorable reported price ($20.00) even though the actual fill was $20.02; the firm must make the customer whole at the quoted price.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-guru33-25",
@@ -81,7 +86,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "A",
   "explanation": "Primary (now 'basic' for many purposes, but historically primary) EPS includes the dilutive effect of convertible securities and warrants if they are dilutive; fully diluted EPS captures all potential dilution. The source credits A as the primary-basis calculation including such potential dilution.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru33-26",
@@ -95,7 +101,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "A",
   "explanation": "A systematic withdrawal plan pays the investor a fixed amount periodically, which can exceed the income generated and therefore deplete (return of) capital over time.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru33-28",
@@ -109,7 +116,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "C",
   "explanation": "With no new employer plan, the cleanest rollover of the old 401(k) is into a traditional IRA (a rollover IRA), preserving tax-deferred status without the income tax hit of a Roth conversion. Source credits C.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-guru33-29",
@@ -123,7 +131,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "C",
   "explanation": "A bond insurer such as AMBAC (a municipal bond insurance provider) guarantees the timely payment of both principal and interest on the insured bonds.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Municipal Securities"
  },
  {
   "id": "yt-guru33-30",
@@ -137,7 +146,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "B",
   "explanation": "Purchase = 500 x $40 = $20,000; Reg T 50% means $10,000 debit and $10,000 initial equity. When price rises to $44, market value = $22,000, debit still $10,000, equity = $12,000. Excess over the 50% maintenance requirement generates SMA: equity - 50% of MV = $12,000 - $11,000 = $1,000 SMA. At $38 the equity falls but SMA already locked in at $1,000; final equity at $38 = $19,000 - $10,000 = $9,000 with $1,000 SMA. Source credits B.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru33-40",
@@ -151,7 +161,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "B",
   "explanation": "In a rights offering, existing shareholders receive transferable rights they may exercise, sell, or let expire; unexercised rights typically lapse within a short period (commonly 30-45 days). So II (rights may be sold) and III (short expiration) are true. I is false: the rights needed per new share equal shares outstanding divided by new shares (5,000,000 / 1,000,000 = 5 rights per share), the reverse of the statement. IV is false: rights offerings go only to existing shareholders, not the public. Thus B (II and III) is correct.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-guru33-41",
@@ -165,7 +176,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "B",
   "explanation": "A Coverdell Education Savings Account (ESA) is established for a specific beneficiary and the assets are for that beneficiary's education; the source credits Coverdell (B) as the appropriate vehicle that benefits the niece directly. (UTMA also gives the child control at the age of majority, but the source key selected B.)",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "yt-guru33-42",
@@ -179,7 +191,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "A",
   "explanation": "An inverse ETF moves opposite the index. A 10% index decline gives +10% = $11,000; then a 5% index rise gives -5% on $11,000 = $10,450. Net = $10,450.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru33-43",
@@ -193,7 +206,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "C",
   "explanation": "For a self-employed person, a SEP IRA allows the highest contribution (up to 25% of compensation, far above the IRA annual limits). Source credits C.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-guru33-44",
@@ -207,7 +221,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "B",
   "explanation": "Roth IRAs have no required minimum distribution (RMD) during the owner's lifetime and allow contributions at any age with earned income, unlike traditional IRAs which impose RMDs and previously barred contributions past 70.5. Source credits B.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-guru33-45",
@@ -221,7 +236,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "D",
   "explanation": "For a private placement offered under Regulation D, the issuer/representative must provide the PPM and obtain evidence (a signed acknowledgment) that each offeree received it; suitability and disclosure obligations still apply even with accredited-looking investors. Source credits D.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru33-46",
@@ -235,7 +251,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "B",
   "explanation": "Writing the put collects $5 x 100 = $500 premium. Exercise means she buys 100 shares at $70 = $7,000 cost. She then sells at $72 = $7,200, a $200 gain on the stock, plus $500 premium = $700 total profit.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru33-48",
@@ -249,7 +266,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "D",
   "explanation": "Non-qualified annuity withdrawals are taxed LIFO: the $10,000 withdrawal is all earnings (gain = $40,000 - $25,000 = $15,000, so the $10,000 comes entirely from gain). Tax = 28% x $10,000 = $2,800, plus a 10% early-withdrawal penalty (under 59.5) = $1,000, total $3,800. Source credits D.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru33-49",
@@ -263,7 +281,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "B",
   "explanation": "For a long-term goal (college for young children) and a low tax bracket, growth equity funds offer the best long-term appreciation; tax-exempt munis are less suitable given the low bracket and long horizon. Source credits B.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru33-50",
@@ -277,7 +296,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "B",
   "explanation": "Listed options have no loan value (they cannot be used as margin collateral) at 0%. However, the source credits 25% for a long put under certain firm policies in its key. Per the source answer, B (25%) is correct.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru33-52",
@@ -291,7 +311,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "D",
   "explanation": "The firm will receive CAD and is hurt if CAD falls. Buying CAD put options locks in a minimum USD value of the CAD received, hedging the downside. Source credits D.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru33-53",
@@ -305,7 +326,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "A",
   "explanation": "A material change in the client's circumstances (job loss, large severance) warrants discussing and possibly updating the investment objectives with the client; the RR should not unilaterally change objectives. Source credits A.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru33-54",
@@ -319,7 +341,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "B",
   "explanation": "Total invested = $23,687 + $2,000 = $25,687, which reaches the $25,000 breakpoint tier (5.25%). Sales charge = 5.25% x $2,000 = $105. Source credits B.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru33-55",
@@ -333,7 +356,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "C",
   "explanation": "To fight inflation the Fed tightens: raising reserve requirements (or the discount rate, or selling securities) reduces the money supply. Increasing reserve requirements is a contractionary action. Source credits C.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru33-57",
@@ -347,6 +371,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU33 = [
   },
   "answer": "D",
   "explanation": "In a firm commitment underwriting the underwriters buy the entire issue and bear the risk of reselling it; that is the most risk. Best efforts and all-or-none leave much risk with the issuer; stand-by (for a rights offering) is limited. Source credits D.",
-  "source": "YouTube: Series 7 Guru (guru33)"
+  "source": "YouTube: Series 7 Guru (guru33)",
+  "topic": "Orders & Trade Execution"
  }
 ];

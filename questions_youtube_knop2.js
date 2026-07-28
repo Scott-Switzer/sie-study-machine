@@ -11,7 +11,8 @@ var SIE_QUESTIONS_YOUTUBE_KNOP2 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “II and IV”. When new issues of the same quality offer a higher yield (9.5%), the older lower-coupon bond's price falls below par and its current yield also falls.",
-  "source": "YouTube: Series 7 Guru (knop2)"
+  "source": "YouTube: Series 7 Guru (knop2)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "yt-knop2-7",
@@ -25,7 +26,8 @@ var SIE_QUESTIONS_YOUTUBE_KNOP2 = [
   },
   "answer": "C",
   "explanation": "The correct choice (A) is: “401(k) plan”. Employer contributions to qualified plans are generally tax-deductible and not subject to FICA/FUTA when made.",
-  "source": "YouTube: Series 7 Guru (knop2)"
+  "source": "YouTube: Series 7 Guru (knop2)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-knop2-15",
@@ -39,7 +41,8 @@ var SIE_QUESTIONS_YOUTUBE_KNOP2 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Insider trading laws.”. Insider-trading laws prohibit trading on material nonpublic information and apply to corporate insiders and tippees.",
-  "source": "YouTube: Series 7 Guru (knop2)"
+  "source": "YouTube: Series 7 Guru (knop2)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-knop2-16",
@@ -53,7 +56,8 @@ var SIE_QUESTIONS_YOUTUBE_KNOP2 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Are pass-through securities”. CMOs are exposed to prepayment risk — borrowers may refinance when rates fall, returning principal sooner than expected.",
-  "source": "YouTube: Series 7 Guru (knop2)"
+  "source": "YouTube: Series 7 Guru (knop2)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-knop2-18",
@@ -67,7 +71,8 @@ var SIE_QUESTIONS_YOUTUBE_KNOP2 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “diversifying holdings”. Diversifying holdings across asset classes and issuers reduces unsystematic (company-specific) risk.",
-  "source": "YouTube: Series 7 Guru (knop2)"
+  "source": "YouTube: Series 7 Guru (knop2)",
+  "topic": "Options"
  },
  {
   "id": "yt-knop2-26",
@@ -81,7 +86,8 @@ var SIE_QUESTIONS_YOUTUBE_KNOP2 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Interpositioning a customer order to achieve a better execution for that customer order”. Interpositioning (inserting an unnecessary third party to the customer's disadvantage) is a prohibited practice; doing it to get better execution is permissible only if it benefits the customer.",
-  "source": "YouTube: Series 7 Guru (knop2)"
+  "source": "YouTube: Series 7 Guru (knop2)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-knop2-29",
@@ -95,7 +101,8 @@ var SIE_QUESTIONS_YOUTUBE_KNOP2 = [
   },
   "answer": "A",
   "explanation": "The correct choice (B) is: “Must get permission from MNO's board of directors in order to participate”. A tender offer is a public bid by an acquirer to buy shareholders' stock at a premium, governed by SEC tender-offer rules.",
-  "source": "YouTube: Series 7 Guru (knop2)"
+  "source": "YouTube: Series 7 Guru (knop2)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-knop2-51",
@@ -109,7 +116,8 @@ var SIE_QUESTIONS_YOUTUBE_KNOP2 = [
   },
   "answer": "A",
   "explanation": "To qualify, a REIT must distribute at least 90% of taxable income to shareholders (II) and is then exempt from federal corporate income tax (III). REITs are corporations, not pass-through partnerships (I false), and shareholders have limited liability (IV false).",
-  "source": "YouTube: Series 7 Guru (knop2)"
+  "source": "YouTube: Series 7 Guru (knop2)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-knop2-53",
@@ -123,7 +131,8 @@ var SIE_QUESTIONS_YOUTUBE_KNOP2 = [
   },
   "answer": "B",
   "explanation": "The correct choice (A) is: “within the time specified, but not less than four business days or more than 60 calendar days”. Customer complaints/responses must be provided within the time specified, but no less than 4 business days nor more than 60 calendar days.",
-  "source": "YouTube: Series 7 Guru (knop2)"
+  "source": "YouTube: Series 7 Guru (knop2)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-knop2-56",
@@ -137,7 +146,8 @@ var SIE_QUESTIONS_YOUTUBE_KNOP2 = [
   },
   "answer": "A",
   "explanation": "T-bills are short-term (maturities of 4, 8, 13, 17, 26, or 52 weeks), sold at a discount with no periodic coupons (I, II), and carry the full faith and credit of the U.S. government (IV). They are NOT long-term, so III is false.",
-  "source": "YouTube: Series 7 Guru (knop2)"
+  "source": "YouTube: Series 7 Guru (knop2)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-knop2-57",
@@ -151,7 +161,8 @@ var SIE_QUESTIONS_YOUTUBE_KNOP2 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “Offering circulars”. Under MSRB rules, an official statement/offering circular is an exempt disclosure document, not an 'advertisement' subject to advertising rules.",
-  "source": "YouTube: Series 7 Guru (knop2)"
+  "source": "YouTube: Series 7 Guru (knop2)",
+  "topic": "Communications with the Public"
  },
  {
   "id": "yt-knop2-62",
@@ -165,7 +176,8 @@ var SIE_QUESTIONS_YOUTUBE_KNOP2 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “85”. Accrued interest on a semi-annual T-bond is counted from the last coupon date to settlement; for the given trade it is 85 days.",
-  "source": "YouTube: Series 7 Guru (knop2)"
+  "source": "YouTube: Series 7 Guru (knop2)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-knop2-72",
@@ -179,6 +191,7 @@ var SIE_QUESTIONS_YOUTUBE_KNOP2 = [
   },
   "answer": "C",
   "explanation": "403(b) contributions are made pre-tax and grow tax-deferred, so ALL distributions are taxed as ORDINARY INCOME — never capital gains.",
-  "source": "YouTube: Series 7 Guru (knop2)"
+  "source": "YouTube: Series 7 Guru (knop2)",
+  "topic": "Retirement Plans & Education Accounts"
  }
 ];

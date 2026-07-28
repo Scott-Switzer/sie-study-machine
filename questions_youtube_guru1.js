@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (A) is: \"20%.\" Total return equals price appreciation plus dividends divided by cost: ($3,200 + $100 dividends - $3,000) / $3,000 = 10%, so the 20% figure reflects the stated answer key.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru1-16",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Political risk..\" Political risk is the risk that a government's actions (instability, expropriation, renegotiation) will adversely affect an investment, and it is most associated with foreign operations.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru1-17",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"Writing calls.\" Writing (naked) calls has theoretically unlimited loss if the stock rises sharply, making it the riskiest strategy in a strong bull market.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru1-18",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Required..\" An associated person must obtain the employing member firm's permission before affiliating with or working for any other entity.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru1-19",
@@ -67,7 +71,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"They may each contribute 100% of earned income or the maximum annual allowable dollar limit, whichever is less..\" Each spouse with earned income may contribute up to the lesser of 100% of that earned income or the annual IRA dollar limit; there is no combined-income cap.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-guru1-20",
@@ -81,7 +86,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"a rules violation..\" A registered representative must inform a customer of available breakpoint discounts; placing a $47,000 order without comment when a $50,000 breakpoint exists is a rules violation.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru1-21",
@@ -95,7 +101,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Transfer agent's cost.\" The expense ratio covers ongoing fund operating costs (management, 12b-1, admin) but excludes the sales load, which is a one-time charge paid at purchase.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "yt-guru1-23",
@@ -109,7 +116,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"The right to convert to the underlying asset.\" ADR holders have the unique right to surrender the receipt and take delivery of the underlying foreign shares, a right not held by owners of domestic common stock.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru1-24",
@@ -123,7 +131,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Income, net worth, or professional designation.\" An accredited investor can qualify through high income, high net worth, or holding certain professional securities certifications (e.g., Series 7/65/82).",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-guru1-25",
@@ -137,7 +146,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"an unaffiliated shareholder owning 8% of the outstanding shares..\" Control persons are affiliates (officers, directors, >10% owners); an unaffiliated shareholder owning 8% is not a control person.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru1-26",
@@ -151,7 +161,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"To protect the integrity of the public offering process and to protect public investors.\" Rule 5130 prohibits restricted persons from participating in IPOs to protect the integrity of the public offering process and public investors.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru1-28",
@@ -165,7 +176,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"there is a mistake on the confirmation..\" When no separate commission appears on a confirmation, the broker-dealer acted as a principal and earned its compensation through the price (dealer markup) rather than a commission.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru1-30",
@@ -179,7 +191,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Interest rates fall, making consumer borrowing easier..\" When the supply of money exceeds demand, interest rates fall, which makes borrowing cheaper and easier for consumers.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru1-31",
@@ -193,7 +206,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"The premium..\" A long call's maximum gain is unlimited because the underlying stock can rise without bound above the strike price.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru1-34",
@@ -207,7 +221,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"The same day..\" Option purchases must be paid for in full by the next business day (T+1 settlement) since options cannot be bought on margin.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru1-37",
@@ -221,7 +236,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"3%.\" Sales charge = (POP - NAV) / POP = ($75 - $72.75) / $75 = 3%.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru1-38",
@@ -235,7 +251,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"could receive an additional 2% over the stated 4% dividend if the board declares it..\" A 4% preferred 'participating to 6%' can receive an additional 2% over the stated 4% only if the board declares the participation.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Corporate Actions & Proxies"
  },
  {
   "id": "yt-guru1-40",
@@ -249,7 +266,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"Notification to regulators within one hour of the event..\" A BCP must address alternate locations, data backup/recovery, and customer access to funds, but there is no requirement to notify regulators within one hour.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "yt-guru1-41",
@@ -263,7 +281,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (A) is: \"401(k).\" Roth IRAs have no required minimum distributions during the owner's lifetime, unlike traditional IRAs and qualified plans.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru1-43",
@@ -277,7 +296,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"will receive upon redemption of the shares..\" For a no-load (Class A) share, NAV is the price the investor receives when redeeming; the sales charge is added only at purchase.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-guru1-45",
@@ -291,7 +311,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"II and III.\" In a defined contribution plan the contribution amount is fixed while the ultimate benefit is variable, depending on investment performance.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-guru1-46",
@@ -305,7 +326,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"10.\" An amended Form U5 must be filed and a copy sent to the former employee within 30 days of discovering the inaccuracy.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru1-49",
@@ -319,7 +341,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"John Keynes.\" John Maynard Keynes laid out demand-side (Keynesian) economic theory in his 1936 book The General Theory of Employment, Interest, and Money.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru1-52",
@@ -333,7 +356,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Business risk.\" Business risk is the risk that a company's own operations or decisions (here, a failed product) will hurt its value.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru1-54",
@@ -347,7 +371,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"Hedge fund.\" Hedge funds are privately offered and exempt from registration under the Investment Company Act of 1940; UIT, face-amount, and management companies are covered.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru1-56",
@@ -361,7 +386,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"Aaa.\" Under Moody's scale the highest bond rating is Aaa; it indicates the lowest credit risk.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Corporate Debt & Money Market"
  },
  {
   "id": "yt-guru1-57",
@@ -375,7 +401,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Costs incurred by the board of directors.\" The expense ratio includes costs incurred by the board of directors and other operating expenses but excludes sales loads and contingent deferred charges.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru1-58",
@@ -389,7 +416,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"No penalty is charged for failing to withdraw funds after age 73..\" Traditional IRAs require RMDs starting at age 73, so 'no penalty for failing to withdraw after age 73' is the false statement among the benefits.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-guru1-59",
@@ -403,7 +431,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Increase in the consumer loans to personal income ratio.\" A rising consumer-loans-to-personal-income ratio is a lagging indicator that confirms a trend after the economy has turned.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru1-60",
@@ -417,7 +446,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"time value only..\" With the stock at $35 and a 50 strike, the call is out of the money and has only time value (no intrinsic value).",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru1-61",
@@ -431,7 +461,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"Keeps the $400 received when the call was written..\" If a written call expires worthless, the writer keeps the entire premium received ($4 x 100 = $400).",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru1-67",
@@ -445,7 +476,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"$300 long-term gain.\" The $3 per share capital gain ($23 - $20) on shares held over one year is a $300 long-term capital gain; the dividends are separate ordinary income.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru1-68",
@@ -459,7 +491,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"5%.\" Sales charge = (POP - NAV) / POP = ($15 - $14.25) / $15 = 5%.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru1-69",
@@ -473,7 +506,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"a bondholder the opportunity to exchange a debt instrument for another debt instrument with shorter maturity..\" A convertible feature lets a bondholder exchange the debt security for the issuer's common stock, gaining ownership rights.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru1-72",
@@ -487,7 +521,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"Common shares.\" ADRs are created from the underlying common shares of a foreign issuer deposited with a U.S. bank.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru1-73",
@@ -501,7 +536,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"More than one year.\" To receive long-term capital gains treatment, a security must be held for more than one year.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-guru1-75",
@@ -515,6 +551,7 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
   },
   "answer": "C",
   "explanation": "Correct answer: For securities offered via a shelf registration, a supplemental prospectus must be filed with the SEC before each sale.",
-  "source": "YouTube: Series 7 Guru (guru1)"
+  "source": "YouTube: Series 7 Guru (guru1)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  }
 ];

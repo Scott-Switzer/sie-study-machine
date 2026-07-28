@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Facilitate the buying and selling of securities”. The primary function of the securities markets is to facilitate the buying and selling (liquidity) of securities between investors.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru41-2",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: “SEC”. The SEC is the federal agency that administers the federal securities laws and regulates the industry.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "yt-guru41-3",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Bullish",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Regulators (SEC, FINRA, MSRB, NASAA, state)"
  },
  {
   "id": "yt-guru41-4",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Protects customer accounts in case of broker-dealer insolvency”. SIPC protects customers against the loss of securities and cash held at a failed broker-dealer; it does not protect against market losses.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "yt-guru41-5",
@@ -67,7 +71,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Treasury bill”. Treasury bills are short-term U.S. government debt securities issued at a discount and maturing in one year or less.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "US Government & Agency Securities"
  },
  {
   "id": "yt-guru41-6",
@@ -81,7 +86,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “An order to buy or sell at the current market price”. A market order executes immediately at the best available price but guarantees neither price nor full execution.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-guru41-7",
@@ -95,7 +101,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “A disclosure document for investors in new securities”. A prospectus is the disclosure document delivered to investors for a new securities offering, describing risks and terms.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-guru41-8",
@@ -109,7 +116,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Fixed annuity”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru41-9",
@@ -123,7 +131,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Up to 3x the profit gained or loss avoided”. Civil penalties for insider trading can be up to three times the profit gained or loss avoided (treble damages).",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Prohibited Activities (manipulation, insider trading)"
  },
  {
   "id": "yt-guru41-10",
@@ -137,7 +146,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Government securities trade”. Government securities (Treasuries) trade in the secondary market and are quoted on a yield basis.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Settlement & Clearing (T+1, DTCC)"
  },
  {
   "id": "yt-guru41-11",
@@ -151,7 +161,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “$500,000”. SIPC protects customers against the loss of securities and cash held at a failed broker-dealer; it does not protect against market losses.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Customer Protection (SIPC, FDIC, BCP)"
  },
  {
   "id": "yt-guru41-12",
@@ -165,7 +176,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Return on investment”. Return on investment (ROI) measures the gain or loss relative to the amount invested.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Retirement Plans & Education Accounts"
  },
  {
   "id": "yt-guru41-13",
@@ -179,7 +191,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Who receives the proceeds”. The secondary market is where investors trade already-issued securities among themselves; the issuer receives no proceeds from these trades.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Market Structure (primary/secondary/third/fourth)"
  },
  {
   "id": "yt-guru41-14",
@@ -193,7 +206,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Traditional IRA”. A Traditional IRA provides tax-deferred growth; contributions may be deductible depending on income and plan coverage.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru41-15",
@@ -207,7 +221,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Diversified investment vehicle”. Mutual funds and ETFs are diversified investment vehicles pooling many securities to spread risk.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru41-16",
@@ -221,7 +236,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Ease of converting to cash”. Liquidity is the ease with which an asset can be converted to cash without loss of value.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru41-17",
@@ -235,7 +251,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Option contract”. An option contract gives the holder the right, but not the obligation, to buy (call) or sell (put) the underlying at a strike price.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Options"
  },
  {
   "id": "yt-guru41-18",
@@ -249,7 +266,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “25%”. A UIT has a fixed, unmanaged portfolio and redeemable shares; it does not actively trade its holdings like a managed fund.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru41-19",
@@ -263,7 +281,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Fixed dividends”. Preferred shares have a fixed/stated dividend and rank ahead of common equity in both dividends and liquidation.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru41-20",
@@ -277,7 +296,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Net Asset Value",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru41-21",
@@ -291,7 +311,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: “Discount rates, reserve requirements, and open market operations”. To stimulate a weak economy, the Fed buys securities in the open market, injecting reserves and pushing interest rates down.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Economic Factors (Fed, monetary/fiscal policy, indicators)"
  },
  {
   "id": "yt-guru41-22",
@@ -305,7 +326,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “Open-end fund”. An open-end fund issues redeemable shares and stands ready to buy them back at NAV; it is the classic mutual fund structure.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },
  {
   "id": "yt-guru41-23",
@@ -319,7 +341,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Converts to a market order once a certain price is reached”. A market order executes immediately at the best available price but guarantees neither price nor full execution.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Orders & Trade Execution"
  },
  {
   "id": "yt-guru41-24",
@@ -333,7 +356,8 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: “FinCEN”. FinCEN enforces the Bank Secrecy Act to safeguard the financial system from money laundering and terrorist financing.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "AML & SARs"
  },
  {
   "id": "yt-guru41-25",
@@ -347,6 +371,7 @@ SIE_QUESTIONS_YOUTUBE_GURU41 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: “Initial public offering”. An IPO is a primary-market transaction where a private company first sells shares to the public.",
-  "source": "YouTube: Series 7 Guru (guru41)"
+  "source": "YouTube: Series 7 Guru (guru41)",
+  "topic": "Corporate Actions & Proxies"
  }
 ];

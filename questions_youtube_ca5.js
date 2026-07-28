@@ -12,7 +12,8 @@ SIE_QUESTIONS_YOUTUBE_CA5 = [
   "answer": "C",
   "explanation": "Correct answer: Annual statements must be sent if no account activity occurs",
   "source": "YouTube: Capital Advantage Tutoring (ca5 Achievable SIE Mock #2)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-CA5-528",
@@ -26,6 +27,7 @@ SIE_QUESTIONS_YOUTUBE_CA5 = [
   },
   "answer": "C",
   "explanation": "Correct answer: Open-end management companies",
-  "source": "YouTube: Capital Advantage Tutoring (ca5 Achievable SIE Mock #2)"
+  "source": "YouTube: Capital Advantage Tutoring (ca5 Achievable SIE Mock #2)",
+  "topic": "Investment Risks"
  }
 ];

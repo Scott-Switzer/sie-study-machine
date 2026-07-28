@@ -11,7 +11,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "D",
   "explanation": "Based on the income shown, the client does not meet the accredited investor income threshold on W-2 wages alone; the source credited 'an eligible investor' (C) as the appropriate classification in its key.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-guru30-4",
@@ -25,7 +26,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "B",
   "explanation": "FINRA's suitability rule requires a reasonable-basis suitability analysis (the recommendation is suitable for at least some investors, II) and a customer-specific suitability analysis (suitable for the particular customer's objectives and profile, III). Firms cannot guarantee profits (I is false), and there is no once-per-year-only monitoring rule (IV is false). Therefore B (II and III) is correct.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru30-11",
@@ -39,7 +41,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "D",
   "explanation": "conflicting on-screen selections: A/B/D",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru30-12",
@@ -53,7 +56,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"With very young children, higher education is too far in the future to plan for financially..\" Future education needs are a nonfinancial consideration because they cannot be expressed as a concrete dollar amount or cash flow.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-guru30-14",
@@ -67,7 +71,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"Speculation. She can afford to take some flyers and wishes to do so..\" 'Fun' aggressive investing with money one can afford to lose is speculative in objective.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru30-15",
@@ -81,7 +86,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "D",
   "explanation": "conflicting on-screen selections: A/B",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "yt-guru30-16",
@@ -95,7 +101,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Expected retirement age.\" For a young couple with children, expected retirement age is the least relevant near-term suitability factor versus education goals, values, and job stability.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru30-17",
@@ -109,7 +116,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Monthly.\" Preparing a personal income statement monthly is the most convenient and timely approach.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru30-18",
@@ -123,7 +131,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"A letter from the client's best friend assuring you that the individual is a qualified risk taker.\" Three years of tax returns best document that a client has the net worth to sustain a total loss.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "AML & SARs"
  },
  {
   "id": "yt-guru30-21",
@@ -137,7 +146,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"I and III.\" The client's risk tolerance and investment needs/objectives carry the most weight in advisory recommendations.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru30-23",
@@ -151,7 +161,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"a nonapproval account..\" An account where the rep may trade without prior approval is a discretionary account (via power of attorney).",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "yt-guru30-25",
@@ -165,7 +176,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"I and III.\" Liquid net worth and monthly credit card payments are financial considerations; risk tolerance and dependents are nonfinancial.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru30-27",
@@ -179,7 +191,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"Investment constraints..\" Factors that constrain an investment plan are called investment constraints.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru30-29",
@@ -193,7 +206,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"A letter from a duly licensed life insurance agent..\" Accredited status may be verified by bank statements, CPA confirmation, or tax returns, but not by a life insurance agent's letter.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },
  {
   "id": "yt-guru30-36",
@@ -207,7 +221,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"Increase my position in ABC.\" A specific, non-discretionary oral order ('buy 100 ABC when the price is right') may be accepted without additional documentation.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru30-38",
@@ -221,7 +236,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"W-2 forms.\" W-2 forms show wages, not capital gains, so they are unhelpful in computing a client's capital gains.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru30-43",
@@ -235,7 +251,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"an entitled investor..\" Net worth over $1 million (excluding primary residence) qualifies the client as an accredited investor.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru30-47",
@@ -249,7 +266,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"providing a limited power of attorney giving discretionary powers..\" Discretionary trading authority is granted by a limited power of attorney given to the registered representative.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru30-48",
@@ -263,7 +281,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"Preserving capital.\" Preserving capital is an investment objective; funding education or retirement are goals.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru30-49",
@@ -277,7 +296,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "B",
   "explanation": "conflicting on-screen selections: A/B",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
  {
   "id": "yt-guru30-50",
@@ -291,7 +311,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "C",
   "explanation": "The correct choice (C) is: \"discuss with the customer why speculative stocks might not be appropriate, given the circumstances as you know them before entering any orders..\" When a trade appears unsuitable, the rep should discuss the concerns with the customer before entering any orders rather than refusing outright or entering blindly.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "yt-guru30-51",
@@ -305,7 +326,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "D",
   "explanation": "conflicting on-screen selections: A/D",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Account Types & Ownership (JTWROS, custodial, discretionary)"
  },
  {
   "id": "yt-guru30-53",
@@ -319,7 +341,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"Level of risk tolerance..\" A client's family history of Depression-era losses reflects their level of risk tolerance.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru30-54",
@@ -333,7 +356,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"I and III.\" The two Reg BI component obligations that apply directly to registered representatives are Disclosure (I) and Care (II).",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru30-56",
@@ -347,7 +371,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "B",
   "explanation": "correct is B = Current income",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru30-58",
@@ -361,7 +386,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "D",
   "explanation": "The correct choice (D) is: \"execute the order and mark it unsolicited..\" When a customer specifies a particular bond and gives no suitability info, the rep executes the order and marks it unsolicited.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru30-59",
@@ -375,7 +401,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"You may not make any investment recommendations to him..\" Without enough information to make a suitability determination, the rep may not make any investment recommendations.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru30-62",
@@ -389,7 +416,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "B",
   "explanation": "The correct choice (B) is: \"Short-term bonds are the safest, so the portfolio should be confined to those..\" Funding a child's education requires growth with some risk; principal-protected government bonds alone likely will not keep pace.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Investment Risks"
  },
  {
   "id": "yt-guru30-65",
@@ -403,7 +431,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "A",
   "explanation": "Correct answer: is suitable for at least some investors.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru30-66",
@@ -417,7 +446,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "A",
   "explanation": "Correct answer: It is permitted if provided for in the underlying documentation.",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Margin & Reg T"
  },
  {
   "id": "yt-guru30-67",
@@ -431,7 +461,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "D",
   "explanation": "conflicting on-screen selections: A/D",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Registration & Licensing (U4/U5, CE)"
  },
  {
   "id": "yt-guru30-70",
@@ -445,7 +476,8 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   },
   "answer": "A",
   "explanation": "correct is A = Time horizon",
-  "source": "YouTube: Series 7 Guru (guru30)"
+  "source": "YouTube: Series 7 Guru (guru30)",
+  "topic": "Account Opening, Suitability & KYC"
  },
  {
   "id": "yt-guru30-71",
@@ -460,6 +492,7 @@ SIE_QUESTIONS_YOUTUBE_GURU30 = [
   "answer": "B",
   "explanation": "Correct answer: Growth.",
   "source": "YouTube: Series 7 Guru (guru30)",
-  "needs_review": true
+  "needs_review": true,
+  "topic": "Account Opening, Suitability & KYC"
  }
 ];

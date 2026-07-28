@@ -14,7 +14,7 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   "source": "YouTube: Series 7 Guru (guru65)"
  },
  {
-  "id": "yt-guru65-",
+  "id": "yt-guru65-1",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "A customer who wants to ensure they can buy or sell a stock at a specific price or better should use which of the following order types?",
   "choices": {
@@ -28,7 +28,7 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   "source": "YouTube: Series 7 Guru (guru65)"
  },
  {
-  "id": "yt-guru65-",
+  "id": "yt-guru65-2",
   "section": "2 - Products & Risks",
   "stem": "Which of the following is true regarding common stock?",
   "choices": {
@@ -42,7 +42,7 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   "source": "YouTube: Series 7 Guru (guru65)"
  },
  {
-  "id": "yt-guru65-",
+  "id": "yt-guru65-3",
   "section": "1 - Capital Markets",
   "stem": "Which of the following regulatory bodies is responsible for enforcing federal securities laws and regulating the securities industry?",
   "choices": {
@@ -56,7 +56,7 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   "source": "YouTube: Series 7 Guru (guru65)"
  },
  {
-  "id": "yt-guru65-",
+  "id": "yt-guru65-4",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "A customer opens a joint account with their spouse. Upon the death of one spouse, the surviving spouse automatically becomes the sole owner of the account's assets. This is characteristic of which type of joint account?",
   "choices": {
@@ -70,7 +70,7 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   "source": "YouTube: Series 7 Guru (guru65)"
  },
  {
-  "id": "yt-guru65-",
+  "id": "yt-guru65-5",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "Which of the following actions by an associated person would be considered a prohibited practice related to insider trading?",
   "choices": {
@@ -84,7 +84,7 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   "source": "YouTube: Series 7 Guru (guru65)"
  },
  {
-  "id": "yt-guru65-",
+  "id": "yt-guru65-6",
   "section": "4 - Regulatory Framework",
   "stem": "What is the primary characteristic of a general obligation (GO) bond?",
   "choices": {
@@ -98,7 +98,7 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   "source": "YouTube: Series 7 Guru (guru65)"
  },
  {
-  "id": "yt-guru65-",
+  "id": "yt-guru65-7",
   "section": "2 - Products & Risks",
   "stem": "Which of the following is true regarding a Series 7 Registered Representative?",
   "choices": {
@@ -112,7 +112,7 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   "source": "YouTube: Series 7 Guru (guru65)"
  },
  {
-  "id": "yt-guru65-",
+  "id": "yt-guru65-8",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "A fully disclosed broker-dealer introduces its customer accounts to a carrying firm. Which entity is responsible for maintaining custody of customer assets?",
   "choices": {
@@ -126,7 +126,7 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   "source": "YouTube: Series 7 Guru (guru65)"
  },
  {
-  "id": "yt-guru65-",
+  "id": "yt-guru65-9",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "Which document must be provided to a customer at or before the time of account opening for a margin account?",
   "choices": {
@@ -140,7 +140,7 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   "source": "YouTube: Series 7 Guru (guru65)"
  },
  {
-  "id": "yt-guru65-",
+  "id": "yt-guru65-10",
   "section": "2 - Products & Risks",
   "stem": "Which of the following investment risks is associated with the possibility that an issuer may fail to make timely payments of principal and interest on a debt security?",
   "choices": {
@@ -154,7 +154,7 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   "source": "YouTube: Series 7 Guru (guru65)"
  },
  {
-  "id": "yt-guru65-",
+  "id": "yt-guru65-11",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "What is the primary purpose of the Customer Identification Program (CIP) under the USA PATRIOT Act?",
   "choices": {
@@ -168,7 +168,7 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   "source": "YouTube: Series 7 Guru (guru65)"
  },
  {
-  "id": "yt-guru65-",
+  "id": "yt-guru65-12",
   "section": "1 - Capital Markets",
   "stem": "Which of the following statements about municipal bonds is true?",
   "choices": {
@@ -182,7 +182,7 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   "source": "YouTube: Series 7 Guru (guru65)"
  },
  {
-  "id": "yt-guru65-",
+  "id": "yt-guru65-13",
   "section": "1 - Capital Markets",
   "stem": "What is the primary function of a transfer agent?",
   "choices": {
@@ -196,7 +196,7 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   "source": "YouTube: Series 7 Guru (guru65)"
  },
  {
-  "id": "yt-guru65-",
+  "id": "yt-guru65-14",
   "section": "2 - Products & Risks",
   "stem": "An investor who sells a call option is said to be taking which position?",
   "choices": {
@@ -210,7 +210,7 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   "source": "YouTube: Series 7 Guru (guru65)"
  },
  {
-  "id": "yt-guru65-",
+  "id": "yt-guru65-15",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "Under what circumstance would a broker-dealer be required to file a Suspicious Activity Report (SAR)?",
   "choices": {
@@ -224,7 +224,7 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   "source": "YouTube: Series 7 Guru (guru65)"
  },
  {
-  "id": "yt-guru65-",
+  "id": "yt-guru65-16",
   "section": "2 - Products & Risks",
   "stem": "Which of the following best describes the characteristics of a Money Market Mutual Fund?",
   "choices": {
@@ -238,7 +238,7 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   "source": "YouTube: Series 7 Guru (guru65)"
  },
  {
-  "id": "yt-guru65-",
+  "id": "yt-guru65-17",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "What is the primary role of the Depository Trust & Clearing Corporation (DTCC)?",
   "choices": {
@@ -252,7 +252,7 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   "source": "YouTube: Series 7 Guru (guru65)"
  },
  {
-  "id": "yt-guru65-",
+  "id": "yt-guru65-18",
   "section": "2 - Products & Risks",
   "stem": "An investor's portfolio consists of 60% equities and 40% fixed income. If the market value of equities increases significantly, causing the portfolio to become 70% equities and 30% fixed income, what action would be considered rebalancing?",
   "choices": {
@@ -266,7 +266,7 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   "source": "YouTube: Series 7 Guru (guru65)"
  },
  {
-  "id": "yt-guru65-",
+  "id": "yt-guru65-19",
   "section": "1 - Capital Markets",
   "stem": "Which type of offering allows an existing shareholder to sell their shares to the public?",
   "choices": {
@@ -280,7 +280,7 @@ SIE_QUESTIONS_YOUTUBE_GURU65 = [
   "source": "YouTube: Series 7 Guru (guru65)"
  },
  {
-  "id": "yt-guru65-",
+  "id": "yt-guru65-20",
   "section": "1 - Capital Markets",
   "stem": "Which of the following entities issues Ginnie Mae (GNMA) pass-through certificates?",
   "choices": {

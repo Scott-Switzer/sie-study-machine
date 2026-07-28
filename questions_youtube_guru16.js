@@ -80,7 +80,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU16 = [
    "D": "II and IV"
   },
   "answer": "C",
-  "explanation": "Correct answer: I and III",
+  "explanation": "I and III are correct: Form U-4 asks for the applicant's name (including aliases) and a 10-YEAR employment history. II is wrong because residency history goes back 5 years (not 2), and IV is wrong because arrests and charges — not just convictions — must be disclosed.",
   "source": "YouTube: Series 7 Guru (guru16)"
  },
  {
@@ -93,8 +93,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU16 = [
    "C": "The member firm may not vote the shares under any circumstances.",
    "D": "The member firm may vote the shares as it wishes on minor matters."
   },
-  "answer": "B",
-  "explanation": "Correct answer: The member firm must ascertain how the investor wishes to vote the shares.",
+  "answer": "D",
+  "explanation": "Under exchange proxy rules, if a customer has not returned voting instructions by 10 days before the meeting, the member firm holding street-name stock MAY vote the shares as it wishes — but only on minor (routine) matters. With 8 days left, the firm may vote on routine items only.",
   "source": "YouTube: Series 7 Guru (guru16)"
  },
  {

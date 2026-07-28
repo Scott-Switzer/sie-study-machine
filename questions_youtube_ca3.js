@@ -52,7 +52,7 @@ var SIE_QUESTIONS_YOUTUBE_CA3 = [
    "D": "Conventional mortgages"
   },
   "answer": "D",
-  "explanation": "Correct answer: Conventional mortgages",
+  "explanation": "Freddie Mac (FHLMC) buys CONVENTIONAL mortgages (not FHA/VA-insured) from lenders and packages them into pass-through securities. Ginnie Mae is the one that deals in FHA/VA-insured loans.",
   "source": "YouTube: Series 7 Guru (ca3)"
  },
  {

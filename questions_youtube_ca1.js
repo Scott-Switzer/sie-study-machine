@@ -430,7 +430,7 @@ var SIE_QUESTIONS_YOUTUBE_CA1 = [
    "D": "0"
   },
   "answer": "A",
-  "explanation": "Correct answer: $12",
+  "explanation": "9% cumulative preferred ($100 par) = $9/yr. Missed $2 two years ago ($9−$7) + missed $1 last year ($9−$8) + the full $9 current dividend = $12 in arrears + current that must be paid before any common dividend.",
   "source": "YouTube: Series 7 Guru (ca1)"
  },
  {

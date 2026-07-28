@@ -251,12 +251,15 @@ var SIE_QUESTIONS_UDEMY1 = [
  {
   "id": "udemy3-19",
   "section": "4 - Regulatory Framework",
-  "stem": "Which self-regulatory organization (SRO) is responsible for the operation and regulation of the over-the-counter market and exchanges, such as the New York Stock Exchange? SEC CBOE MSRB",
+  "stem": "Which self-regulatory organization (SRO) is responsible for the operation and regulation of the over-the-counter market and exchanges, such as the New York Stock Exchange?",
   "choices": {
-   "A": "FINRA"
+   "A": "FINRA",
+   "B": "SEC",
+   "C": "CBOE",
+   "D": "MSRB"
   },
   "answer": "A",
-  "explanation": "D. FINRA\n\nFINRA (Financial Industry Regulatory Authority) is a self-regulatory organization that is responsible for the operation and regulation of the over-the-counter (OTC) market, investment banking, NYSE trades, investment companies, and so on.",
+  "explanation": "FINRA is the SRO responsible for regulating the OTC market and member-firm activity on exchanges such as the NYSE. The SEC is a government agency (not an SRO); the CBOE governs options; the MSRB writes municipal rules.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
   "topic": "Markets / structure"
  },
@@ -617,14 +620,15 @@ var SIE_QUESTIONS_UDEMY1 = [
  {
   "id": "udemy3-45",
   "section": "2 - Products & Risks",
-  "stem": "Which of the following does NOT describe treasury stock? Treasury stockholders have no voting rights.",
+  "stem": "Which of the following does NOT describe treasury stock?",
   "choices": {
    "A": "It is stock that was previously authorized but still unissued.",
    "B": "It is issued stock that has been repurchased by the company.",
-   "C": "It has no dividends."
+   "C": "It pays no dividends.",
+   "D": "It has no voting rights."
   },
   "answer": "A",
-  "explanation": "B. It is stock that was previously authorized but still unissued.\n\nChoices (B) and (C) oppose each other, so one of them has to be the answer to the question. Treasury stock is stock that was issued and subsequently repurchased by the company. Treasury stockholders have no voting rights and don't receive dividends.",
+  "explanation": "Treasury stock is stock that was ISSUED and later repurchased by the company — not authorized-but-unissued stock. Treasury shares have no voting rights and receive no dividends.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
   "topic": "Voting / corp governance"
  },
@@ -986,13 +990,15 @@ var SIE_QUESTIONS_UDEMY1 = [
  {
   "id": "udemy3-72",
   "section": "2 - Products & Risks",
-  "stem": "The general partner of an oil and gas developmental program is responsible for all of the following EXCEPT paying the partnership's expenses managing the partnership",
+  "stem": "The general partner of an oil and gas developmental program is responsible for all of the following EXCEPT:",
   "choices": {
-   "A": "providing a bulk of the capital for the partnership",
-   "B": "accepting new limited partners"
+   "A": "providing the bulk of the capital for the partnership",
+   "B": "accepting new limited partners",
+   "C": "paying the partnership's expenses",
+   "D": "managing the partnership"
   },
   "answer": "A",
-  "explanation": "C. providing a bulk of the capital for the partnership\n\nThe general partner is responsible for running and making decisions for the partnership. However, the limited partners provide the bulk of the capital.",
+  "explanation": "The general partner runs the partnership: manages it, pays its expenses, and admits new limited partners. The LIMITED partners are the ones who provide the bulk of the capital.",
   "source": "Udemy SIE Practice Test 3 (Attempt 1, scored 50/75)",
   "topic": "DPP / Limited Partnerships"
  },

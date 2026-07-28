@@ -14,7 +14,7 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   "source": "YouTube: Series 7 Guru (guru63)"
  },
  {
-  "id": "yt-guru63-",
+  "id": "yt-guru63-1",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "An accountant makes a referral to a broker-dealer. When can the broker-dealer share commissions with the accountant?",
   "choices": {
@@ -28,7 +28,7 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   "source": "YouTube: Series 7 Guru (guru63)"
  },
  {
-  "id": "yt-guru63-",
+  "id": "yt-guru63-2",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "An accountant makes a referral to a broker-dealer. Under what circumstances may the dealer share commissions with the accountant?",
   "choices": {
@@ -42,7 +42,7 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   "source": "YouTube: Series 7 Guru (guru63)"
  },
  {
-  "id": "yt-guru63-",
+  "id": "yt-guru63-3",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "Which of the following parties would be in violation of the rules against insider trading?",
   "choices": {
@@ -56,7 +56,7 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   "source": "YouTube: Series 7 Guru (guru63)"
  },
  {
-  "id": "yt-guru63-",
+  "id": "yt-guru63-4",
   "section": "4 - Regulatory Framework",
   "stem": "Which one is NOT designed to target money laundering?",
   "choices": {
@@ -70,7 +70,7 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   "source": "YouTube: Series 7 Guru (guru63)"
  },
  {
-  "id": "yt-guru63-",
+  "id": "yt-guru63-5",
   "section": "2 - Products & Risks",
   "stem": "An S corporation is limited to how many shareholders?",
   "choices": {
@@ -84,7 +84,7 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   "source": "YouTube: Series 7 Guru (guru63)"
  },
  {
-  "id": "yt-guru63-",
+  "id": "yt-guru63-6",
   "section": "4 - Regulatory Framework",
   "stem": "Under FINRA Rule 4370, broker-dealers must have procedures and processes in place to ensure that critical business functions can continue during and after a disaster. What is this called?",
   "choices": {
@@ -98,7 +98,7 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   "source": "YouTube: Series 7 Guru (guru63)"
  },
  {
-  "id": "yt-guru63-",
+  "id": "yt-guru63-7",
   "section": "2 - Products & Risks",
   "stem": "Which of the following is not considered an institutional client?",
   "choices": {
@@ -112,7 +112,7 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   "source": "YouTube: Series 7 Guru (guru63)"
  },
  {
-  "id": "yt-guru63-",
+  "id": "yt-guru63-8",
   "section": "4 - Regulatory Framework",
   "stem": "The Bank Secrecy Act requires that every financial institution file currency transaction reports for each cash transaction that:",
   "choices": {
@@ -126,7 +126,7 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   "source": "YouTube: Series 7 Guru (guru63)"
  },
  {
-  "id": "yt-guru63-",
+  "id": "yt-guru63-9",
   "section": "2 - Products & Risks",
   "stem": "The investment's quarterly return was 3%. What is the annualized return?",
   "choices": {
@@ -140,7 +140,7 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   "source": "YouTube: Series 7 Guru (guru63)"
  },
  {
-  "id": "yt-guru63-",
+  "id": "yt-guru63-10",
   "section": "1 - Capital Markets",
   "stem": "A stock buyback is also known as a:",
   "choices": {
@@ -154,7 +154,7 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   "source": "YouTube: Series 7 Guru (guru63)"
  },
  {
-  "id": "yt-guru63-",
+  "id": "yt-guru63-11",
   "section": "4 - Regulatory Framework",
   "stem": "Proxy solicitations must:",
   "choices": {
@@ -168,7 +168,7 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   "source": "YouTube: Series 7 Guru (guru63)"
  },
  {
-  "id": "yt-guru63-",
+  "id": "yt-guru63-12",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "Which one is FALSE?",
   "choices": {
@@ -182,7 +182,7 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   "source": "YouTube: Series 7 Guru (guru63)"
  },
  {
-  "id": "yt-guru63-",
+  "id": "yt-guru63-13",
   "section": "1 - Capital Markets",
   "stem": "When a member firm is new to the industry they:",
   "choices": {
@@ -196,7 +196,7 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   "source": "YouTube: Series 7 Guru (guru63)"
  },
  {
-  "id": "yt-guru63-",
+  "id": "yt-guru63-14",
   "section": "4 - Regulatory Framework",
   "stem": "Under Regulation S-P consumers must be given a reasonable means to exercise an opt out right. Which of the following is not a reasonable means?",
   "choices": {
@@ -210,7 +210,7 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   "source": "YouTube: Series 7 Guru (guru63)"
  },
  {
-  "id": "yt-guru63-",
+  "id": "yt-guru63-15",
   "section": "2 - Products & Risks",
   "stem": "Which type of business does not survive the death of the owner?",
   "choices": {
@@ -224,7 +224,7 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   "source": "YouTube: Series 7 Guru (guru63)"
  },
  {
-  "id": "yt-guru63-",
+  "id": "yt-guru63-16",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "In a cash account an investor who tries to sell the shares before having paid for them may be found guilty of:",
   "choices": {
@@ -238,7 +238,7 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   "source": "YouTube: Series 7 Guru (guru63)"
  },
  {
-  "id": "yt-guru63-",
+  "id": "yt-guru63-17",
   "section": "2 - Products & Risks",
   "stem": "What is FALSE regarding IRAs?",
   "choices": {
@@ -252,7 +252,7 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   "source": "YouTube: Series 7 Guru (guru63)"
  },
  {
-  "id": "yt-guru63-",
+  "id": "yt-guru63-18",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "Mitch just recently joined the firm as a registered representative. He has a personal trading account at another member firm. Which of the following is true?",
   "choices": {
@@ -266,7 +266,7 @@ SIE_QUESTIONS_YOUTUBE_GURU63 = [
   "source": "YouTube: Series 7 Guru (guru63)"
  },
  {
-  "id": "yt-guru63-",
+  "id": "yt-guru63-19",
   "section": "2 - Products & Risks",
   "stem": "Which type of tax rate is harder on low income families?",
   "choices": {

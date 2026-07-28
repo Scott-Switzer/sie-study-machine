@@ -2382,9 +2382,9 @@ SIE_QUESTIONS_WEB_CE = [
  {
   "id": "web-CE-171",
   "section": "1 - Capital Markets",
-  "stem": "Securities regulations that are called blue",
+  "stem": "Securities regulations that are called blue-sky laws refer to those at:",
   "choices": {
-   "A": "sky laws refer to those at- Both the state and the federal level",
+   "A": "Both the state and the federal level",
    "B": "The state level",
    "C": "Neither the state nor the federal level",
    "D": "The federal level"
@@ -3574,7 +3574,7 @@ SIE_QUESTIONS_WEB_CE = [
   "section": "4 - Regulatory Framework",
   "stem": "All of the following are required when completing Form U-4 EXCEPT",
   "choices": {
-   "A": "4 except- Employment history for the past 10 years",
+   "A": "Employment history for the past 10 years",
    "B": "Date of birth",
    "C": "Legal name and any aliases used",
    "D": "Educational degrees"
@@ -3630,7 +3630,7 @@ SIE_QUESTIONS_WEB_CE = [
   "section": "4 - Regulatory Framework",
   "stem": "All of the following information is required to be provided on the Form U-4 EXCEPT",
   "choices": {
-   "A": "4 except- Disclosure of criminal arrests and charges",
+   "A": "Disclosure of criminal arrests and charges",
    "B": "5-year residency history.",
    "C": "Education (degrees or designations)",
    "D": "10-year employment history (including full- time education)."
@@ -4580,9 +4580,9 @@ SIE_QUESTIONS_WEB_CE = [
  {
   "id": "web-CE-328",
   "section": "3 - Trading, Accounts & Prohibited",
-  "stem": "A broker",
+  "stem": "A broker-dealer wants to give a gift to an employee of another member firm. This is permitted provided all of the following conditions are met EXCEPT:",
   "choices": {
-   "A": "dealer wants to give an employee of another firm a gift. This is permitted provided all of the following conditions are met except- The gift or compensation doesn't exceed the annual $100 limit",
+   "A": "The gift is valued within the allowed dollar limit",
    "B": "The gift or compensation is not conditional on sales",
    "C": "The gift or compensation is preapproved by the firm's self-regulatory organization (SRO)",
    "D": "The gift or compensation has the employing member firm's prior approval"
@@ -4622,9 +4622,9 @@ SIE_QUESTIONS_WEB_CE = [
  {
   "id": "web-CE-331",
   "section": "3 - Trading, Accounts & Prohibited",
-  "stem": "An investment company wishes to provide incentives for registered representatives of several broker",
+  "stem": "An investment company wishes to provide incentives for registered representatives of several broker-dealer firms to sell its investment products. The company proposes to send selected representatives to a sales training seminar. Which of the following would be acceptable features of the trip? I. The venue of the seminar is a resort in the Canary Islands. II. There is an incidental tour the representatives may attend at their own expense. III. The representatives may bring their spouses, whose expenses will also be paid. IV. The representatives must obtain their employing firms' permission to attend.",
   "choices": {
-   "A": "dealer firms to sell their investment products. The company proposes to send some selected representatives to a sales training seminar. Which of the following would be acceptable features of the trip? I. The venue of the seminar is a resort in the Canary Islands. II. There is an incidental tour the representatives may attend at their own expense. III. The representatives may bring their spouses, whose expenses will also be paid. IV. The representatives must obtain their employing firms' permission to attend.- I and III",
+   "A": "I and III",
    "B": "I and IV",
    "C": "II and III",
    "D": "II and IV"
@@ -5154,9 +5154,9 @@ SIE_QUESTIONS_WEB_CE = [
  {
   "id": "web-CE-369",
   "section": "2 - Products & Risks",
-  "stem": "Interest",
+  "stem": "Interest-rate sensitivity for preferred shareholders should be understood to mean that:",
   "choices": {
-   "A": "rate sensitivity for preferred shareholders should be understood to mean that- When interest rates rise, so do the prices of preferred shares",
+   "A": "When interest rates rise, so do the prices of preferred shares",
    "B": "When interest rates rise, the prices for preferred shares can fall",
    "C": "Preferred share prices are not impacted by (insensitive to) changes in interest rates",
    "D": "When interest rates fall, so do the prices of preferred shares"
@@ -5168,9 +5168,9 @@ SIE_QUESTIONS_WEB_CE = [
  {
   "id": "web-CE-370",
   "section": "2 - Products & Risks",
-  "stem": "Past",
+  "stem": "Past-due dividends on cumulative preferred shares:",
   "choices": {
-   "A": "due dividends on cumulative preferred shares- Must be reallocated to common shareholders",
+   "A": "Must be reallocated to common shareholders",
    "B": "Can never be paid until common shareholders receive a dividend",
    "C": "Are written off as nonpayable",
    "D": "Accumulate on the company's books until paid"

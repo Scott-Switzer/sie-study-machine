@@ -150,7 +150,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU12 = [
    "D": "Treasury bonds."
   },
   "answer": "B",
-  "explanation": "Correct answer: Treasury STRIPS.",
+  "explanation": "Treasury STRIPS are zero-coupon securities: they are bought at a discount and pay NO periodic interest — the return is the accretion to face value at maturity. Notes, bonds, and corporates pay regular (usually semiannual) coupons.",
   "source": "YouTube: Series 7 Guru (guru12)"
  },
  {

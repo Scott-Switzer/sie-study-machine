@@ -14,7 +14,7 @@ SIE_QUESTIONS_YOUTUBE_GURU73 = [
   "source": "YouTube: Series 7 Guru (guru73)"
  },
  {
-  "id": "yt-GURU73-",
+  "id": "yt-GURU73-1",
   "section": "4 - Regulatory Framework",
   "stem": "A breakpoint sale is define as",
   "choices": {
@@ -28,7 +28,7 @@ SIE_QUESTIONS_YOUTUBE_GURU73 = [
   "source": "YouTube: Series 7 Guru (guru73)"
  },
  {
-  "id": "yt-GURU73-",
+  "id": "yt-GURU73-2",
   "section": "2 - Products & Risks",
   "stem": "A common shareholders preemptive right is",
   "choices": {
@@ -42,7 +42,7 @@ SIE_QUESTIONS_YOUTUBE_GURU73 = [
   "source": "YouTube: Series 7 Guru (guru73)"
  },
  {
-  "id": "yt-GURU73-",
+  "id": "yt-GURU73-3",
   "section": "2 - Products & Risks",
   "stem": "Your customer, an income investor, has indicated they would like to receive quarterly income. The most appropriate recommendation would be",
   "choices": {
@@ -56,7 +56,7 @@ SIE_QUESTIONS_YOUTUBE_GURU73 = [
   "source": "YouTube: Series 7 Guru (guru73)"
  },
  {
-  "id": "yt-GURU73-",
+  "id": "yt-GURU73-4",
   "section": "2 - Products & Risks",
   "stem": "XYZ offers a tender offer for its stock at $10/share for a minimum of 1000 shares and a maximum of 100,000 shares. If your customer owns 500 shares, how much would they receive?",
   "choices": {
@@ -70,7 +70,7 @@ SIE_QUESTIONS_YOUTUBE_GURU73 = [
   "source": "YouTube: Series 7 Guru (guru73)"
  },
  {
-  "id": "yt-GURU73-",
+  "id": "yt-GURU73-5",
   "section": "2 - Products & Risks",
   "stem": "(Stem partially cut off, question relates to calculating dividend yield)",
   "choices": {
@@ -84,7 +84,7 @@ SIE_QUESTIONS_YOUTUBE_GURU73 = [
   "source": "YouTube: Series 7 Guru (guru73)"
  },
  {
-  "id": "yt-GURU73-",
+  "id": "yt-GURU73-6",
   "section": "2 - Products & Risks",
   "stem": "The XYZ company declares a $0.45 cash dividend for shareholders of record as of Monday June 9th. When is the ex-dividend date?",
   "choices": {

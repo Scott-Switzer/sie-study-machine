@@ -514,8 +514,8 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
    "C": "On Wednesday, two business days after the trade",
    "D": "On Thursday, three business days after the trade"
   },
-  "answer": "C",
-  "explanation": "Correct answer: On Wednesday, two business days after the trade",
+  "answer": "B",
+  "explanation": "Regular-way settlement is T+1 (since May 2024): a Monday trade settles the next business day, Tuesday.",
   "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
  },
  {
@@ -560,21 +560,6 @@ SIE_QUESTIONS_YOUTUBE_GURU23 = [
   "answer": "C",
   "explanation": "The correct choice (C) is: “Joint tenants with right of survivorship”. JTWROS requires equal ownership shares and passes automatically to the survivor; tenants in common allows unequal shares and provides no right of survivorship.",
   "source": "YouTube: Pass the SIE - 98 Must-Know 2026"
- },
- {
-  "id": "yt-guru23-41",
-  "section": "4 - Regulatory Framework",
-  "stem": "Which of the following is NOT required to open a new customer account under FINRA rules?",
-  "choices": {
-   "A": "Social Security number",
-   "B": "Customer's date of birth",
-   "C": "Physical address",
-   "D": "Signature of the principal approving the account"
-  },
-  "answer": "D",
-  "explanation": "Correct answer: Signature of the principal approving the account",
-  "source": "YouTube: Pass the SIE - 98 Must-Know 2026",
-  "needs_review": true
  },
  {
   "id": "yt-guru23-42",

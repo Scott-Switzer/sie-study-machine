@@ -318,19 +318,15 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
  {
   "id": "udemy-21",
   "section": "2 - Products & Risks",
-  "stem": "Which of the following are taxable to investors?",
+  "stem": "Which of the following are taxable to investors? I. Stock splits II. Stock dividends III. Cash dividends IV. Corporate bond interest",
   "choices": {
-   "A": "I. Stock splits",
-   "B": "II. Stock dividends",
-   "C": "III. Cash dividends",
-   "D": "IV. Corporate bond interest",
-   "E": "I and II",
-   "F": "III and IV",
-   "G": "I and III",
-   "H": "II, III, and IV"
+   "A": "I and II",
+   "B": "III and IV",
+   "C": "I and III",
+   "D": "II, III, and IV"
   },
-  "answer": "F",
-  "explanation": "Correct answer: III and IV",
+  "answer": "B",
+  "explanation": "Cash dividends and corporate bond interest are taxable when received. Stock splits and stock dividends are NOT taxable events — they just adjust the number of shares and the cost basis per share.",
   "source": "udemy_practice_exam",
   "you_correct": true
  },
@@ -672,19 +668,15 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
  {
   "id": "udemy-43",
   "section": "2 - Products & Risks",
-  "stem": "Which TWO of the following statements are TRUE regarding portfolio diversification?",
+  "stem": "Which TWO of the following statements are TRUE regarding portfolio diversification? I. Diversification reduces systematic risk. II. Diversification doesn't reduce systematic risk. III. Diversification reduces non-systematic risk. IV. Diversification doesn't reduce non-systematic risk.",
   "choices": {
-   "A": "I. Diversification reduces systematic risk.",
-   "B": "II. Diversification doesn’t reduce systematic risk.",
-   "C": "III. Diversification reduces non-systematic risk.",
-   "D": "IV. Diversification doesn’t reduce non-systematic risk.",
-   "E": "I and III",
-   "F": "I and IV",
-   "G": "II and III",
-   "H": "II and IV"
+   "A": "I and III",
+   "B": "I and IV",
+   "C": "II and III",
+   "D": "II and IV"
   },
-  "answer": "G",
-  "explanation": "C. II and III  Portfolio diversification doesn’t reduce systematic (market) risk because a bearish market can affect all securities. However, portfolio diversification does reduce non-systematic (business) risk because some companies may perform better than expected, even though others may not be performing as well.",
+  "answer": "C",
+  "explanation": "Diversification does NOT reduce systematic (market) risk — a bear market hits everything. It DOES reduce non-systematic (business) risk, because losses in one company can be offset by others.",
   "source": "udemy_practice_exam",
   "you_correct": false
  },
@@ -853,37 +845,30 @@ var SIE_QUESTIONS_UDEMY_EXAM = [
  {
   "id": "udemy-54",
   "section": "3 - Trading, Accounts & Prohibited",
-  "stem": "Whose signature is required on a new account form?",
+  "stem": "Whose signature is required on a new account form? I. The customer's II. The registered rep's III. A principal's",
   "choices": {
-   "A": "I. The customer’s",
-   "B": "II. The registered rep’s",
-   "C": "III. A principal’s",
-   "D": "I and II",
-   "E": "I and III",
-   "F": "II and III",
-   "G": "I, II, and III"
+   "A": "I and II",
+   "B": "I and III",
+   "C": "II and III",
+   "D": "I, II, and III"
   },
-  "answer": "F",
-  "explanation": "C. II and III  Yes, believe it or not, a customer’s signature isn’t required on a new account form. However, if you’re opening a new account for a customer, you’d have to fill out and sign the new account form and have it signed by a principal (manager) of the firm.",
+  "answer": "C",
+  "explanation": "A customer's signature is NOT required on a new account form. The registered rep opening the account signs it, and a principal (manager) must sign to approve the account.",
   "source": "udemy_practice_exam",
   "you_correct": false
  },
  {
   "id": "udemy-55",
   "section": "2 - Products & Risks",
-  "stem": "An investor is interested in purchasing debt securities for the first time. If their biggest concern is credit risk, which of the following bonds should they NOT purchase?",
+  "stem": "An investor is interested in purchasing debt securities for the first time. If their biggest concern is credit risk, which of the following bonds should they NOT purchase? I. Income bonds II. High-yield bonds III. AA-rated corporate bonds IV. AAA-rated industrial development revenue bonds",
   "choices": {
-   "A": "I. Income bonds",
-   "B": "II. High-yield bonds",
-   "C": "III. AA-rated corporate bonds",
-   "D": "IV. AAA-rated industrial development revenue bonds",
-   "E": "I only",
-   "F": "I and II",
-   "G": "II and III",
-   "H": "II, III, and IV"
+   "A": "I only",
+   "B": "I and II",
+   "C": "II and III",
+   "D": "II, III, and IV"
   },
   "answer": "B",
-  "explanation": "B. I and II  AA-rated corporate bonds and AAA-rated industrial development bonds are both considered safe investments. However, income bonds are issued by corporations in bankruptcy, and high-yield bonds are also known as junk bonds. This investor should definitely stay away from purchasing income bonds and high-yield bonds.",
+  "explanation": "Income (adjustment) bonds are issued by companies in reorganization and pay interest only if earned; high-yield bonds are junk bonds. Both carry high credit risk. AA- and AAA-rated bonds are considered safe.",
   "source": "udemy_practice_exam",
   "you_correct": true
  },

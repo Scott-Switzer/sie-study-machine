@@ -14,7 +14,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-1",
   "section": "1 - Capital Markets",
   "stem": "An investor purchases a municipal bond. Which of the following statements about the taxation of its interest income is generally true?",
   "choices": {
@@ -28,7 +28,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-2",
   "section": "2 - Products & Risks",
   "stem": "Which of the following investment products is characterized by a fixed portfolio of securities, typically bonds or other income-producing assets, that is held until maturity to provide predictable income?",
   "choices": {
@@ -42,7 +42,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-3",
   "section": "2 - Products & Risks",
   "stem": "A customer who purchased a bond at a discount and plans to hold it until maturity will experience which of the following in relation to its yield?",
   "choices": {
@@ -56,7 +56,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-4",
   "section": "1 - Capital Markets",
   "stem": "Which of the following is considered a primary market transaction?",
   "choices": {
@@ -70,7 +70,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-5",
   "section": "2 - Products & Risks",
   "stem": "Which of the following investment risks is most associated with long-term bonds during a period of rising interest rates?",
   "choices": {
@@ -84,7 +84,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-6",
   "section": "2 - Products & Risks",
   "stem": "A 'qualified' dividend is taxed at which of the following rates for individual investors?",
   "choices": {
@@ -98,7 +98,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-7",
   "section": "4 - Regulatory Framework",
   "stem": "Which of the following actions is prohibited under FINRA rules regarding communication with the public?",
   "choices": {
@@ -112,7 +112,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-8",
   "section": "2 - Products & Risks",
   "stem": "An investor seeking to speculate on the decline in the price of a stock they do not own would most likely:",
   "choices": {
@@ -127,7 +127,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "needs_review": true
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-9",
   "section": "2 - Products & Risks",
   "stem": "Which of the following is considered an unsecured debt instrument issued by a corporation?",
   "choices": {
@@ -141,7 +141,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-10",
   "section": "2 - Products & Risks",
   "stem": "An investor owns a diversified portfolio of common stocks and is concerned about a general market decline. To hedge against this, the investor might:",
   "choices": {
@@ -156,7 +156,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "needs_review": true
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-11",
   "section": "1 - Capital Markets",
   "stem": "Under the Securities Act of 1933, which of the following must be provided to investors before or at the time of sale for most new issues?",
   "choices": {
@@ -171,7 +171,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "needs_review": true
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-12",
   "section": "2 - Products & Risks",
   "stem": "Which of the following is the LAST stage in the order of liquidation for a corporation?",
   "choices": {
@@ -186,7 +186,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "needs_review": true
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-13",
   "section": "2 - Products & Risks",
   "stem": "An investor owns a diversified portfolio of common stocks and is concerned about a general market decline. To hedge against this, the investor might:",
   "choices": {
@@ -201,7 +201,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "needs_review": true
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-14",
   "section": "4 - Regulatory Framework",
   "stem": "A breakpoint sale, which is a violation of FINRA rules, occurs when a registered representative:",
   "choices": {
@@ -215,7 +215,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-15",
   "section": "1 - Capital Markets",
   "stem": "Which of the following regulatory bodies is primarily responsible for the oversight of municipal securities firms and professionals?",
   "choices": {
@@ -229,7 +229,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-16",
   "section": "1 - Capital Markets",
   "stem": "The dividend discount model (DDM) values a stock based on which of the following?",
   "choices": {
@@ -243,7 +243,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-17",
   "section": "2 - Products & Risks",
   "stem": "Which type of investment company issues a fixed number of shares that trade on an exchange, often at a premium or discount to their Net Asset Value (NAV)?",
   "choices": {
@@ -257,7 +257,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-18",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "Which of the following is considered a 'red flag' for potential money laundering activities?",
   "choices": {
@@ -271,7 +271,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-19",
   "section": "2 - Products & Risks",
   "stem": "An investor who believes interest rates will fall would most likely invest in which of the following?",
   "choices": {
@@ -286,7 +286,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "needs_review": true
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-20",
   "section": "4 - Regulatory Framework",
   "stem": "The bid price in a securities quote represents:",
   "choices": {
@@ -300,7 +300,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-21",
   "section": "1 - Capital Markets",
   "stem": "Which of the following statements regarding rights offerings is TRUE?",
   "choices": {
@@ -314,7 +314,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-22",
   "section": "1 - Capital Markets",
   "stem": "Which of the following statements regarding rights offerings is TRUE?",
   "choices": {
@@ -328,7 +328,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-23",
   "section": "2 - Products & Risks",
   "stem": "All of the following are typically considered suitable investments for an investor seeking aggressive growth, EXCEPT:",
   "choices": {
@@ -343,7 +343,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "needs_review": true
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-24",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "A customer opens a new margin account and deposits $3,000. If the Federal Reserve Board's Regulation T is 50%, what is the maximum amount of stock the customer can purchase?",
   "choices": {
@@ -357,7 +357,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-25",
   "section": "1 - Capital Markets",
   "stem": "Which of the following statements regarding rights offerings is TRUE?",
   "choices": {
@@ -371,7 +371,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-26",
   "section": "2 - Products & Risks",
   "stem": "An investor owns a callable bond. If interest rates fall significantly after the bond is issued, the investor faces which of the following risks?",
   "choices": {
@@ -385,7 +385,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-27",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "Which of the following statements accurately describes the taxation of withdrawals from a Roth IRA?",
   "choices": {
@@ -400,7 +400,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "needs_review": true
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-28",
   "section": "2 - Products & Risks",
   "stem": "An investor owns a callable bond. If interest rates fall significantly after the bond is issued, the investor faces which of the following risks?",
   "choices": {
@@ -414,7 +414,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-29",
   "section": "2 - Products & Risks",
   "stem": "Which of the following would least likely be found in the common stock section of an investor's brokerage statement?",
   "choices": {
@@ -428,7 +428,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-30",
   "section": "1 - Capital Markets",
   "stem": "When comparing an Electronic Communication Network (ECN) to a traditional exchange, ECNs are best known for:",
   "choices": {
@@ -443,7 +443,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "needs_review": true
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-31",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "A customer has a cash account and wants to purchase mutual fund shares. Which of the following statements is TRUE regarding payment?",
   "choices": {
@@ -457,7 +457,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-32",
   "section": "1 - Capital Markets",
   "stem": "An investor is concerned about inflation eroding the purchasing power of their fixed income investments. Which of the following would offer the best protection against inflation?",
   "choices": {
@@ -471,7 +471,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-33",
   "section": "1 - Capital Markets",
   "stem": "An investor is concerned about inflation eroding the purchasing power of their fixed income investments. Which of the following would offer the best protection against inflation?",
   "choices": {
@@ -485,7 +485,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-34",
   "section": "2 - Products & Risks",
   "stem": "Which of the following is typically characterized by a high degree of liquidity and a relatively stable Net Asset Value (NAV) of $1.00 per share?",
   "choices": {
@@ -499,7 +499,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-35",
   "section": "2 - Products & Risks",
   "stem": "Which of the following is typically characterized by a high degree of liquidity and a relatively stable Net Asset Value (NAV) of $1.00 per share?",
   "choices": {
@@ -513,7 +513,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-36",
   "section": "2 - Products & Risks",
   "stem": "In a limited partnership, which partner typically has unlimited liability and is responsible for managing the business?",
   "choices": {
@@ -528,7 +528,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "needs_review": true
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-37",
   "section": "2 - Products & Risks",
   "stem": "Which of the following transactions would be most suitable for an investor seeking safety and a predictable, but modest, income stream with minimal risk?",
   "choices": {
@@ -542,7 +542,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-38",
   "section": "2 - Products & Risks",
   "stem": "Which of the following transactions would be most suitable for an investor seeking safety and a predictable, but modest, income stream with minimal risk?",
   "choices": {
@@ -556,7 +556,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-39",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "Under FINRA rules, a registered representative is generally prohibited from sharing in the profits or losses of a customer's account unless:",
   "choices": {
@@ -570,7 +570,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-40",
   "section": "2 - Products & Risks",
   "stem": "Which of the following debt instruments allows the investor to sell the bond back to the issuer prior to its stated maturity date?",
   "choices": {
@@ -584,7 +584,7 @@ SIE_QUESTIONS_YOUTUBE_ER2 = [
   "source": "YouTube: Series 7 Guru (er2)"
  },
  {
-  "id": "yt-ER2-",
+  "id": "yt-ER2-41",
   "section": "2 - Products & Risks",
   "stem": "An investor wants to sell a bond immediately at the best available price. Which type of order should they place?",
   "choices": {

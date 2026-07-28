@@ -60,13 +60,13 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   "section": "2 - Products & Risks",
   "stem": "Which of the following is NOT true regarding American Depositary Receipts (ADRs)?",
   "choices": {
-   "A": "US Bank",
+   "A": "ADRs are issued by U.S. depositary banks",
    "B": "each ADR represents 100 shares of foreign stock and the ADR holder May request delivery of the foreign shares",
    "C": "ADR holders have the right to vote and to receive dividends that the foreign corporation declares for shareholders",
    "D": "the foreign country May issue restrictions on the foreign ownership of stock"
   },
   "answer": "B",
-  "explanation": "Correct answer: each ADR represents 100 shares of foreign stock and the ADR holder May request delivery of the foreign shares",
+  "explanation": "B is NOT true: there is no fixed 100-share ratio — each ADR can represent any number (or fraction) of foreign shares set by the depositary bank. The other statements about ADRs are true.",
   "source": "YouTube: Series 7 Guru (guru51)"
  },
  {
@@ -122,7 +122,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
    "D": "$900"
   },
   "answer": "D",
-  "explanation": "The correct choice (D) is: \"$900.\" 8% preferred yields $8 per share plus $1 per share participation (the common's $1 annual dividend), totaling $9 x 100 = $900.",
+  "explanation": "8% participating preferred on $100 par pays $8/share. 'Participating' means it also receives the common dividend ($0.25 × 4 = $1/share). ($8 + $1) × 100 shares = $900.",
   "source": "YouTube: Series 7 Guru (guru51)"
  },
  {
@@ -361,20 +361,6 @@ var SIE_QUESTIONS_YOUTUBE_GURU51 = [
   },
   "answer": "A",
   "explanation": "The correct choice (A) is: \"$1,000.\" GNMA pass-through certificates have a minimum purchase denomination of $1,000.",
-  "source": "YouTube: Series 7 Guru (guru51)"
- },
- {
-  "id": "yt-guru51-32",
-  "section": "2 - Products & Risks",
-  "stem": "$11,000 your customer buys a .s t Bond at 10316 how much did he pay for the bond",
-  "choices": {
-   "A": "1, $3160",
-   "B": "$13.6",
-   "C": "$135",
-   "D": "$1,316"
-  },
-  "answer": "C",
-  "explanation": "Correct answer: $135",
   "source": "YouTube: Series 7 Guru (guru51)"
  },
  {

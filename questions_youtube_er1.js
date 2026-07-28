@@ -14,7 +14,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-1",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "A registered representative (RR) wants to share in the profits and losses of a customer's account. Which of the following statements is TRUE regarding this arrangement?",
   "choices": {
@@ -28,7 +28,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-2",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "Under normal circumstances, when must a customer receive a disclosure document for an options account?",
   "choices": {
@@ -42,7 +42,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-3",
   "section": "1 - Capital Markets",
   "stem": "Which of the following best describes the role of a transfer agent?",
   "choices": {
@@ -56,7 +56,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-4",
   "section": "2 - Products & Risks",
   "stem": "All of the following are typically considered institutional investors EXCEPT:",
   "choices": {
@@ -70,7 +70,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-5",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "A registered representative discovers that a client, who has previously affirmed they are not associated with another broker-dealer, is in fact an employee of another FINRA member firm. What action should the RR take?",
   "choices": {
@@ -85,7 +85,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "needs_review": true
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-6",
   "section": "2 - Products & Risks",
   "stem": "An investor places an order to buy 100 shares of XYZ stock at a specific price or better. This type of order is known as a:",
   "choices": {
@@ -99,7 +99,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-7",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "What is the primary purpose of the Securities Investor Protection Corporation (SIPC)?",
   "choices": {
@@ -113,7 +113,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-8",
   "section": "4 - Regulatory Framework",
   "stem": "What is the maximum political contribution amount an investment adviser representative (IAR) can make to an official for whom they are not entitled to vote, without triggering a two-year ban on compensated advisory business with that official?",
   "choices": {
@@ -127,7 +127,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-9",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "A customer opens a cash account and signs a new account form. Which of the following information is NOT required on the new account form?",
   "choices": {
@@ -142,7 +142,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "needs_review": true
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-10",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "A customer opens a cash account and signs a new account form. Which of the following information is NOT required on the new account form?",
   "choices": {
@@ -157,7 +157,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "needs_review": true
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-11",
   "section": "4 - Regulatory Framework",
   "stem": "What is the maximum political contribution amount an investment adviser representative (IAR) can make to an official for whom they are not entitled to vote, without triggering a two-year ban on compensated advisory business with that official?",
   "choices": {
@@ -171,7 +171,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-12",
   "section": "2 - Products & Risks",
   "stem": "A security that represents an undivided interest in a managed portfolio of securities, typically mutual funds or municipal bonds, that is generally fixed with no active trading once established, is known as a:",
   "choices": {
@@ -186,7 +186,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "needs_review": true
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-13",
   "section": "1 - Capital Markets",
   "stem": "Which of the following is considered a control relationship in the context of a municipal bond underwriting?",
   "choices": {
@@ -200,7 +200,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-14",
   "section": "1 - Capital Markets",
   "stem": "Which of the following is considered a control relationship in the context of a municipal bond underwriting?",
   "choices": {
@@ -214,7 +214,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-15",
   "section": "4 - Regulatory Framework",
   "stem": "An investment banking firm helps a corporation raise capital by issuing new securities to the public. This activity is known as:",
   "choices": {
@@ -228,7 +228,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-16",
   "section": "4 - Regulatory Framework",
   "stem": "The Uniform Practice Code (UPC) sets forth rules for which of the following?",
   "choices": {
@@ -242,7 +242,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-17",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "What is the primary purpose of a 'Chinese Wall' within a financial firm?",
   "choices": {
@@ -256,7 +256,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-18",
   "section": "1 - Capital Markets",
   "stem": "Which of the following regulatory bodies is primarily responsible for enforcing municipal securities rules for broker-dealers?",
   "choices": {
@@ -271,7 +271,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "needs_review": true
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-19",
   "section": "2 - Products & Risks",
   "stem": "An investor purchasing a bond at a discount and holding it to maturity will realize a capital gain if:",
   "choices": {
@@ -285,7 +285,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-20",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "A registered representative receives a gift from a client valued at $150. Which of the following is TRUE regarding this gift?",
   "choices": {
@@ -299,7 +299,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-21",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "A registered representative receives a gift from a client valued at $150. Which of the following is TRUE regarding this gift?",
   "choices": {
@@ -313,7 +313,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-22",
   "section": "2 - Products & Risks",
   "stem": "In a partnership, which partners have unlimited liability?",
   "choices": {
@@ -328,7 +328,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "needs_review": true
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-23",
   "section": "2 - Products & Risks",
   "stem": "In a partnership, which partners have unlimited liability?",
   "choices": {
@@ -343,7 +343,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "needs_review": true
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-24",
   "section": "1 - Capital Markets",
   "stem": "Which of the following is TRUE regarding the taxation of municipal bonds?",
   "choices": {
@@ -357,7 +357,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-25",
   "section": "1 - Capital Markets",
   "stem": "Which of the following regulatory bodies is primarily responsible for creating rules for municipal securities dealers?",
   "choices": {
@@ -371,7 +371,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-26",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "A customer wants to open an account that allows them to trade securities on margin. Which of the following documents is required in addition to a new account form?",
   "choices": {
@@ -385,7 +385,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-27",
   "section": "2 - Products & Risks",
   "stem": "An investor who buys a call option is typically:",
   "choices": {
@@ -399,7 +399,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-28",
   "section": "4 - Regulatory Framework",
   "stem": "A registered representative recommends a very aggressive growth fund to an elderly client who states they are risk-averse and need income from their investments. This action is most likely a violation of which of the following?",
   "choices": {
@@ -414,7 +414,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "needs_review": true
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-29",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "Which of the following types of orders guarantees execution but not a specific price?",
   "choices": {
@@ -428,7 +428,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-30",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "Which of the following types of orders guarantees execution but not a specific price?",
   "choices": {
@@ -442,7 +442,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-31",
   "section": "2 - Products & Risks",
   "stem": "All of the following are characteristics of preferred stock EXCEPT:",
   "choices": {
@@ -457,7 +457,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "needs_review": true
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-32",
   "section": "4 - Regulatory Framework",
   "stem": "The primary goal of a growth investor is to:",
   "choices": {
@@ -471,7 +471,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-33",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "A broker-dealer must send a customer a statement of their account at least:",
   "choices": {
@@ -485,7 +485,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-34",
   "section": "1 - Capital Markets",
   "stem": "The term \"accredited investor\" is primarily used in the context of:",
   "choices": {
@@ -499,7 +499,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-35",
   "section": "2 - Products & Risks",
   "stem": "All of the following are characteristics of preferred stock EXCEPT:",
   "choices": {
@@ -514,7 +514,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "needs_review": true
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-36",
   "section": "4 - Regulatory Framework",
   "stem": "What is the primary purpose of a mutual fund prospectus?",
   "choices": {
@@ -528,7 +528,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-37",
   "section": "2 - Products & Risks",
   "stem": "Which of the following is considered money market instrument?",
   "choices": {
@@ -542,7 +542,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-38",
   "section": "3 - Trading, Accounts & Prohibited",
   "stem": "All of the following are permissible activities for a FINRA registered representative EXCEPT:",
   "choices": {
@@ -556,7 +556,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-39",
   "section": "4 - Regulatory Framework",
   "stem": "What is the primary purpose of a mutual fund prospectus?",
   "choices": {
@@ -570,7 +570,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-40",
   "section": "1 - Capital Markets",
   "stem": "What is the primary function of a prime broker?",
   "choices": {
@@ -584,7 +584,7 @@ SIE_QUESTIONS_YOUTUBE_ER1 = [
   "source": "YouTube: Series 7 Guru (er1)"
  },
  {
-  "id": "yt-ER1-",
+  "id": "yt-ER1-41",
   "section": "4 - Regulatory Framework",
   "stem": "A short sale involves:",
   "choices": {

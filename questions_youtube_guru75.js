@@ -15,7 +15,7 @@ SIE_QUESTIONS_YOUTUBE_GURU75 = [
   "needs_review": true
  },
  {
-  "id": "yt-GURU75-",
+  "id": "yt-GURU75-1",
   "section": "2 - Products & Risks",
   "stem": "Which of the following is most likely a general obligation bond?",
   "choices": {
@@ -29,7 +29,7 @@ SIE_QUESTIONS_YOUTUBE_GURU75 = [
   "source": "YouTube: Series 7 Guru (GURU75)"
  },
  {
-  "id": "yt-GURU75-",
+  "id": "yt-GURU75-2",
   "section": "1 - Capital Markets",
   "stem": "Since a bond was issued interest have gone down. You would expect the bond to be trading in the secondary market at?",
   "choices": {
@@ -43,7 +43,7 @@ SIE_QUESTIONS_YOUTUBE_GURU75 = [
   "source": "YouTube: Series 7 Guru (GURU75)"
  },
  {
-  "id": "yt-GURU75-",
+  "id": "yt-GURU75-3",
   "section": "1 - Capital Markets",
   "stem": "All of the following are true of GNMA EXCEPT:",
   "choices": {
@@ -57,7 +57,7 @@ SIE_QUESTIONS_YOUTUBE_GURU75 = [
   "source": "YouTube: Series 7 Guru (GURU75)"
  },
  {
-  "id": "yt-GURU75-",
+  "id": "yt-GURU75-4",
   "section": "2 - Products & Risks",
   "stem": "Which of the following has no reinvestment risk until maturity?",
   "choices": {
@@ -71,7 +71,7 @@ SIE_QUESTIONS_YOUTUBE_GURU75 = [
   "source": "YouTube: Series 7 Guru (GURU75)"
  },
  {
-  "id": "yt-GURU75-",
+  "id": "yt-GURU75-5",
   "section": "2 - Products & Risks",
   "stem": "If the issued bonds come due on different dates this type of maturity is:",
   "choices": {
@@ -85,7 +85,7 @@ SIE_QUESTIONS_YOUTUBE_GURU75 = [
   "source": "YouTube: Series 7 Guru (GURU75)"
  },
  {
-  "id": "yt-GURU75-",
+  "id": "yt-GURU75-6",
   "section": "2 - Products & Risks",
   "stem": "If all the bonds come due on the same date this type of maturity is:",
   "choices": {
@@ -99,7 +99,7 @@ SIE_QUESTIONS_YOUTUBE_GURU75 = [
   "source": "YouTube: Series 7 Guru (GURU75)"
  },
  {
-  "id": "yt-GURU75-",
+  "id": "yt-GURU75-7",
   "section": "2 - Products & Risks",
   "stem": "Below which credit rating are bonds less than investment grade?",
   "choices": {
@@ -113,7 +113,7 @@ SIE_QUESTIONS_YOUTUBE_GURU75 = [
   "source": "YouTube: Series 7 Guru (GURU75)"
  },
  {
-  "id": "yt-GURU75-",
+  "id": "yt-GURU75-8",
   "section": "2 - Products & Risks",
   "stem": "Which of the following is secured by rolling stock?",
   "choices": {
@@ -127,7 +127,7 @@ SIE_QUESTIONS_YOUTUBE_GURU75 = [
   "source": "YouTube: Series 7 Guru (GURU75)"
  },
  {
-  "id": "yt-GURU75-",
+  "id": "yt-GURU75-9",
   "section": "2 - Products & Risks",
   "stem": "A bond with an 8% coupon and is trading at 90. What is the current yield?",
   "choices": {

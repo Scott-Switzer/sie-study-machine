@@ -66,7 +66,7 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
    "D": "the Comptroller of the Currency."
   },
   "answer": "C",
-  "explanation": "Correct answer: the Federal Reserve Board (FRB).",
+  "explanation": "Regulation T is set by the Federal Reserve Board under the Securities Exchange Act of 1934. It sets the initial margin requirement (currently 50%) for securities purchases.",
   "source": "YouTube: Series 7 Guru (guru5)"
  },
  {
@@ -80,7 +80,7 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
    "D": "Fully paid for marginable securities totaling $6,400 in market value"
   },
   "answer": "D",
-  "explanation": "Correct answer: Fully paid for marginable securities totaling $6,400 in market value",
+  "explanation": "Fully paid marginable securities have 50% loan value under Reg T. To cover a $3,200 cash call with securities, deposit securities worth $3,200 ÷ 0.50 = $6,400 in market value.",
   "source": "YouTube: Series 7 Guru (guru5)"
  },
  {

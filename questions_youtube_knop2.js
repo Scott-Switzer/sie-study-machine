@@ -178,7 +178,7 @@ var SIE_QUESTIONS_YOUTUBE_KNOP2 = [
    "D": "not be taxed in the year received"
   },
   "answer": "C",
-  "explanation": "Correct answer: be taxed as ordinary income",
+  "explanation": "403(b) contributions are made pre-tax and grow tax-deferred, so ALL distributions are taxed as ORDINARY INCOME — never capital gains.",
   "source": "YouTube: Series 7 Guru (knop2)"
  }
 ];

@@ -192,7 +192,7 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
    "D": "Make sales"
   },
   "answer": "B",
-  "explanation": "Correct answer: Purely clerical activities until she is granted registration",
+  "explanation": "Until her registration is actually granted, Wanda may perform only clerical/administrative work. Soliciting, taking orders, or selling requires an EFFECTIVE registration — passing the exam alone is not enough.",
   "source": "YouTube: Series 7 Guru (pm1)"
  },
  {
@@ -248,7 +248,7 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
    "D": "Red herring"
   },
   "answer": "A",
-  "explanation": "Correct answer: Official statement",
+  "explanation": "Municipal bonds are exempt securities under the Securities Act of 1933, so no prospectus is required — instead, purchasers of new municipal issues receive an OFFICIAL STATEMENT (the muni disclosure document).",
   "source": "YouTube: Series 7 Guru (pm1)"
  },
  {
@@ -328,7 +328,7 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
   "choices": {
    "A": "Securities Act of 1933",
    "B": "Investment Company Act of 1940",
-   "C": "Investment Advisers Act of 1970",
+   "C": "Investment Advisers Act of 1940",
    "D": "Securities Exchange Act of 1934"
   },
   "answer": "D",
@@ -346,7 +346,7 @@ SIE_QUESTIONS_YOUTUBE_PM1 = [
    "D": "Annually"
   },
   "answer": "B",
-  "explanation": "Correct answer: Prior to every shareholder meeting",
+  "explanation": "Proxy statements must be provided before EVERY shareholder meeting where votes are solicited — not on a fixed calendar schedule.",
   "source": "YouTube: Series 7 Guru (pm1)"
  },
  {

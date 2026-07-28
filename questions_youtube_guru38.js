@@ -9,8 +9,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU38 = [
    "C": "T+3",
    "D": "Same day"
   },
-  "answer": "B",
-  "explanation": "The correct choice (B) is: “T+2”. Most securities transactions settle on a T+2 (trade date plus two business days) basis.",
+  "answer": "A",
+  "explanation": "Regular-way settlement for equities is T+1 (trade date plus one business day) under the settlement cycle effective May 2024. The SIE now tests T+1, not T+2.",
   "source": "YouTube: Series 7 Guru (guru38)"
  },
  {
@@ -24,7 +24,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU38 = [
    "D": "The registered representative may accept the gift, but must report it to FINRA immediately."
   },
   "answer": "A",
-  "explanation": "Correct answer: The registered representative must decline the gift.",
+  "explanation": "FINRA Rule 3220 caps business-related gifts at $100 per person per year. A $150 gift from a client exceeds the limit, so it must be declined. (Note: firm policies can be stricter, never looser, than the FINRA cap.)",
   "source": "YouTube: Series 7 Guru (guru38)"
  },
  {

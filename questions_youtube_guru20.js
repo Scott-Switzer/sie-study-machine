@@ -250,7 +250,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU20 = [
    "D": "the price of the bond move higher."
   },
   "answer": "D",
-  "explanation": "The correct choice (A) is: \"the price of the bond be unchanged..\" A bond with a 4% coupon when market rates are 2.5% is attractive, so its price rises.",
+  "explanation": "Bond prices and market interest rates move inversely. When market rates fall below the coupon rate, the bond trades at a premium (price rises).",
   "source": "YouTube: Series 7 Guru (guru20)",
   "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },

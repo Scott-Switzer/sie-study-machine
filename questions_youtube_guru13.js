@@ -219,8 +219,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU13 = [
    "C": "Third market (listed securities trading OTC).",
    "D": "Fourth market (institution-to-institution)."
   },
-  "answer": "B",
-  "explanation": "The correct choice (A) is: “First market (exchange-listed).”. Securities listed on an exchange (including Nasdaq) trade in the first market (the exchange); the OTC/third market trades away from the exchange.",
+  "answer": "A",
+  "explanation": "Nasdaq is an exchange so trades in the first market.",
   "source": "YouTube: Series 7 Guru (guru13)",
   "topic": "Market Structure (primary/secondary/third/fourth)"
  },

@@ -219,8 +219,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU29 = [
    "C": "Closed-end fund",
    "D": "Exchange-traded fund (ETF)"
   },
-  "answer": "D",
-  "explanation": "The correct choice (C) is: “Closed-end fund”. A closed-end fund issues a fixed number of shares that trade on an exchange at market-determined prices that can differ from NAV.",
+  "answer": "C",
+  "explanation": "Closed-end funds issue a fixed number of shares that trade on an exchange at prices determined by supply and demand — often at a premium or discount to NAV. Open-end funds continuously issue/redeem shares at NAV.",
   "source": "YouTube: Series 7 Guru (guru29)",
   "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },

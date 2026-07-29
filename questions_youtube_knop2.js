@@ -25,7 +25,7 @@ var SIE_QUESTIONS_YOUTUBE_KNOP2 = [
    "D": "Corporate pension plan"
   },
   "answer": "C",
-  "explanation": "The correct choice (A) is: “401(k) plan”. Employer contributions to qualified plans are generally tax-deductible and not subject to FICA/FUTA when made.",
+  "explanation": "Nonqualified deferred compensation plans are not ERISA qualified plans because they are offered to a selective group and do not meet ERISA's minimum participation, vesting, or nondiscrimination standards. In contrast, 401(k) plans, Keogh plans, and corporate pension plans that meet ERISA requirements ARE qualified.",
   "source": "YouTube: Series 7 Guru (knop2)",
   "topic": "Retirement Plans & Education Accounts"
  },
@@ -100,9 +100,10 @@ var SIE_QUESTIONS_YOUTUBE_KNOP2 = [
    "D": "May only participate if his net short position is less than 100 shares."
   },
   "answer": "A",
-  "explanation": "The correct choice (B) is: “Must get permission from MNO's board of directors in order to participate”. A tender offer is a public bid by an acquirer to buy shareholders' stock at a premium, governed by SEC tender-offer rules.",
+  "explanation": "Correct answer: May not participate in the tender offer. This question may be ambiguous. Short sellers can participate in a tender offer by delivering borrowed shares or by covering their short. Open an issue on GitHub with the app export so the maintainers can verify against the original source.",
   "source": "YouTube: Series 7 Guru (knop2)",
-  "topic": "Corporate Actions & Proxies"
+  "topic": "Corporate Actions & Proxies",
+  "needs_review": true
  },
  {
   "id": "yt-knop2-51",
@@ -130,7 +131,7 @@ var SIE_QUESTIONS_YOUTUBE_KNOP2 = [
    "D": "the business day following the day of the contract"
   },
   "answer": "B",
-  "explanation": "The correct choice (A) is: “within the time specified, but not less than four business days or more than 60 calendar days”. Customer complaints/responses must be provided within the time specified, but no less than 4 business days nor more than 60 calendar days.",
+  "explanation": "In traditional exchange rules (reflecting the T+2 standard that governed regular-way transactions before the 2024 change to T+1), delivery under a regular-way contract is the second business day after the trade date. Current SIE references test T+1 as the effective regular-way settlement cycle since May 2024.",
   "source": "YouTube: Series 7 Guru (knop2)",
   "topic": "Settlement & Clearing (T+1, DTCC)"
  },

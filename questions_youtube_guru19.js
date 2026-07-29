@@ -191,7 +191,7 @@ SIE_QUESTIONS_YOUTUBE_GURU19 = [
    "D": "9% of the net asset value."
   },
   "answer": "C",
-  "explanation": "The correct choice (A) is: “8.5% of the net asset value.”. Sales charge % = (POP - NAV) / POP; with POP $120 and NAV $116.40, SC = 3.60/120 = 3%.",
+  "explanation": "FINRA caps the sales charge on open-end investment company shares at 8.5% of the PUBLIC OFFERING PRICE (POP), not NAV.",
   "source": "YouTube: Series 7 Guru (guru19)",
   "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },

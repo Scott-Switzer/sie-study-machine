@@ -280,7 +280,7 @@ var SIE_QUESTIONS_YOUTUBE_KNOP1 = [
    "D": "Their options might have an expiration as long as three years"
   },
   "answer": "C",
-  "explanation": "The correct choice (D) is: \"If properly supervised by a principal..\" Market manipulation is prohibited under all circumstances; there is no permissible indirect manipulation.",
+  "explanation": "Buying an equity LEAPS call gives the holder the RIGHT (not obligation) to buy. The most the buyer can lose is the premium paid — that is LIMITED risk, not unlimited. Unlimited risk belongs to the WRITER/seller of the call. LEAPS can have expirations up to three years; they are OCC-guaranteed and can be closed out before expiration.",
   "source": "YouTube: Series 7 Guru (knop1)",
   "topic": "Prohibited Activities (manipulation, insider trading)"
  },

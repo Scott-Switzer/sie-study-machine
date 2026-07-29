@@ -25,7 +25,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU21 = [
    "D": "Insider Trading Act of 1988"
   },
   "answer": "D",
-  "explanation": "The correct choice (B) is: \"Rule 147.\" Rule 144 limits the volume a control person (affiliate) may sell in the public market over any 90-day period.",
+  "explanation": "The Insider Trading and Securities Fraud Enforcement Act of 1988 (commonly called the Insider Trading Act) established both civil and criminal penalties for trading on material non-public information. The Securities Exchange Act of 1934 (Section 10(b) and Rule 10b-5) is the underlying anti-fraud provision, but the 1988 Act made penalties multi-tier.",
   "source": "YouTube: Series 7 Guru (guru21)",
   "topic": "AML & SARs"
  },

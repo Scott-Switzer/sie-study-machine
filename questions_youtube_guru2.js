@@ -400,7 +400,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU2 = [
    "D": "is good for three years and requires a prospectus to be filed only once."
   },
   "answer": "D",
-  "explanation": "The correct choice (C) is: “is good for two years and requires a supplemental prospectus be filed before each sale.” A shelf registration (Rule 415) is effective for three years and requires a supplemental prospectus before each takedown/sale.",
+  "explanation": "Rule 415 shelf registrations are effective for three years and require a supplemental prospectus (or base shelf prospectus) before each takedown.",
   "source": "YouTube: Series 7 Guru (guru2)",
   "topic": "Offerings & Underwriting (IPO, prospectus, Reg D, 144)"
  },

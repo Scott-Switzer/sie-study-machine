@@ -1210,7 +1210,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU8 = [
    "D": "generates nonallocated income."
   },
   "answer": "C",
-  "explanation": "The correct choice (D) is: “generates nonallocated income.” A blind pool is a DPP offering where 25% or more of the properties or assets are not identified at the time of sale.",
+  "explanation": "A blind pool is a direct participation program where 25% or more of the underlying properties or assets are not identified at the time the securities are sold.",
   "source": "YouTube: Series 7 Guru (guru8)",
   "topic": "Alternatives (DPPs, REITs, hedge funds)"
  },
@@ -1300,7 +1300,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU8 = [
    "D": "$51."
   },
   "answer": "A",
-  "explanation": "The correct choice (B) is: “$53.” The premium received reduces the stock's net cost basis: $53 - $4 = $49 per share.",
+  "explanation": "Covered call premium reduces the stock's adjusted cost basis: $53 − $4 = $49 per share. The premium is NOT ordinary income at sale (it's a capital transaction).",
   "source": "YouTube: Series 7 Guru (guru8)",
   "topic": "Options"
  },
@@ -1465,7 +1465,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU8 = [
    "D": "a multiprogram partnership."
   },
   "answer": "B",
-  "explanation": "The correct choice (C) is: “a merger.” A rollup merges several limited partnerships into one new entity, often to provide liquidity for weak programs.",
+  "explanation": "A DPP rollup (also called a DPP rescue) is the industry term for combining multiple unsuccessful limited partnerships into one new entity to provide liquidity to investors.",
   "source": "YouTube: Series 7 Guru (guru8)",
   "topic": "Corporate Actions & Proxies"
  },

@@ -9,8 +9,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU62 = [
    "C": "In 12 months",
    "D": "April 15"
   },
-  "answer": "B",
-  "explanation": "The correct choice (A) is: “At the end of that December”. New agent registrations are effective for the remainder of the year and renew at the end of December, so a mid-December registration renews at year-end.",
+  "answer": "A",
+  "explanation": "A representative's initial registration is effective for the remainder of the calendar year. A December 10 registration therefore expires at December 31 of that same year — not after 'just over one year.'",
   "source": "youtube:guru62:dM3JI9ldcog",
   "topic": "Market Structure (primary/secondary/third/fourth)"
  },

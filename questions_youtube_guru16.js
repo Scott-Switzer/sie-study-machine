@@ -10,7 +10,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU16 = [
    "D": "neither an owner nor a debtor of the company"
   },
   "answer": "D",
-  "explanation": "The correct choice (A) is: “an owner of the company”. Note for review: trading options is a derivative strategy giving the right (not obligation) to buy/sell the underlying; it does not by itself make the investor an owner of the company.",
+  "explanation": "Trading options is a derivative strategy: you gain the right (call) or obligation (put) to buy/sell the underlying stock, but you do not become an owner of the issuing company.",
   "source": "YouTube: Series 7 Guru (guru16)",
   "topic": "Options"
  },

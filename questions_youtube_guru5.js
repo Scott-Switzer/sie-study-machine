@@ -54,8 +54,8 @@ SIE_QUESTIONS_YOUTUBE_GURU5 = [
    "C": "$2.50.",
    "D": "nothing."
   },
-  "answer": "D",
-  "explanation": "The correct choice (B) is: \"$4.00..\" Noncumulative preferred has no arrears; after omitting dividends the company need only pay the current year's $4 before resuming common dividends.",
+  "answer": "B",
+  "explanation": "NONCUMULATIVE preferred stock has NO obligation to pay omitted dividends — missed years do not accumulate. When dividends resume, only the current year's preferred dividend ($4/share) must be paid before any common dividend. There are no arrears to make up.",
   "source": "YouTube: Series 7 Guru (guru5)",
   "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },

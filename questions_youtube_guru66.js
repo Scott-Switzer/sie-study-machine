@@ -40,7 +40,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU66 = [
    "D": "This is not a violation"
   },
   "answer": "B",
-  "explanation": "The correct choice (A) is: “It will be guilty of a manipulative and deceptive act”. A market maker must honor its quoted two-sided market for at least one round lot or it commits a manipulative/deceptive act.",
+  "explanation": "A market maker must honor its quoted two-sided market for at least one round lot on each side. Failing to do so is a 'backing away' violation under FINRA rules.",
   "source": "YouTube: Series 7 Guru (guru66)",
   "topic": "Market Structure (primary/secondary/third/fourth)"
  }

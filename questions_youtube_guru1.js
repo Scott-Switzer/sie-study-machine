@@ -10,7 +10,7 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
    "D": "15%"
   },
   "answer": "C",
-  "explanation": "The correct choice (A) is: \"20%.\" Total return equals price appreciation plus dividends divided by cost: ($3,200 + $100 dividends - $3,000) / $3,000 = 10%, so the 20% figure reflects the stated answer key.",
+  "explanation": "Total return = (ending value + dividends − cost) / cost = ($3,200 + $100 − $3,000) / $3,000 = $300 / $3,000 = 10%. Returns are not the same as price appreciation.",
   "source": "YouTube: Series 7 Guru (guru1)",
   "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },
@@ -279,8 +279,8 @@ SIE_QUESTIONS_YOUTUBE_GURU1 = [
    "C": "Short call and short put",
    "D": "Long call and long put"
   },
-  "answer": "B",
-  "explanation": "The correct choice (A) is: \"401(k).\" Roth IRAs have no required minimum distributions during the owner's lifetime, unlike traditional IRAs and qualified plans.",
+  "answer": "D",
+  "explanation": "With stock at $30 and strike at $40: the long call is OTM (strike above market) and the short put is OTM (the put holder would not exercise, since selling at $40 when market is $30 would lose value). The pair 'long call and short put' is the only combination where neither leg is in the money.",
   "source": "YouTube: Series 7 Guru (guru1)",
   "topic": "Options"
  },

@@ -9,8 +9,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU37 = [
    "C": "The individual is statutorily disqualified regardless of the nature of the crime or the time elapsed.",
    "D": "The individual is statutorily disqualified and would need to seek a waiver from FINRA."
   },
-  "answer": "C",
-  "explanation": "The correct choice (B) is: “The individual is eligible because more than 10 years have passed since the conviction.”. A felony conviction related to securities or a serious crime is a statutory disqualification unless more than 10 years have passed since the sentence ended.",
+  "answer": "B",
+  "explanation": "Under FINRA statutory disqualification rules, a non-securities-related felony conviction no longer creates an automatic bar once more than 10 years have passed since the sentence was completed. (FINRA retains discretionary review authority under its character/fitness standard.)",
   "source": "YouTube: Series 7 Guru (guru37)",
   "topic": "Registration & Licensing (U4/U5, CE)"
  },
@@ -159,8 +159,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU37 = [
    "C": "8%.",
    "D": "12%."
   },
-  "answer": "C",
-  "explanation": "The correct choice (A) is: “0%.”. A zero-coupon bond pays no periodic interest (0% current yield) and returns principal at maturity.",
+  "answer": "A",
+  "explanation": "Cumulative preferred dividends in arrears must be paid to preferred before any common dividend. The question asks what common shareholders will receive: $0. Preferred is owed 8% ($4 + $4 in arrears), but common gets nothing until preferred is caught up.",
   "source": "YouTube: Series 7 Guru (guru37)",
   "topic": "Corporate Debt & Money Market"
  },

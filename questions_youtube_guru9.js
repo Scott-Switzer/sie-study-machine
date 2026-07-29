@@ -550,7 +550,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU9 = [
    "D": "Rights"
   },
   "answer": "A",
-  "explanation": "The correct choice (B) is: “T-notes.” Options are exempt from Regulation T margin rules but the firm sets its own initial margin requirement for option positions.",
+  "explanation": "Mutual funds are exempt from Regulation T margin rules, but member firms must establish and follow their own initial margin requirements for margin loans against mutual funds.",
   "source": "YouTube: Series 7 Guru (guru9)",
   "topic": "Margin & Reg T"
  },

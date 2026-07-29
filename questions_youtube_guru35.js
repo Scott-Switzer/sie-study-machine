@@ -174,8 +174,8 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
    "C": "Wednesday May 25.",
    "D": "Friday May 27."
   },
-  "answer": "C",
-  "explanation": "The correct choice (B) is: “Monday May 23.” Indexed options settle on the next business day after exercise; exercise Friday May 20 settles Monday May 23.",
+  "answer": "B",
+  "explanation": "Stock/equity index options exercise and settle on the next business day after the exercise notice. Friday May 20 exercise notice → settlement Monday May 23.",
   "source": "YouTube: Series 7 Guru (guru35)",
   "topic": "Settlement & Clearing (T+1, DTCC)"
  },
@@ -250,7 +250,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU35 = [
    "D": "neither A nor B."
   },
   "answer": "C",
-  "explanation": "The correct choice (B) is: “a $300 capital gain.” The $240 capital gains distribution is taxable income, and selling for $4,300 vs. $4,000 cost yields a $300 capital gain; both occur.",
+  "explanation": "Both occur: the $2.40/share capital-gains distribution ($240 total) is taxable income, AND the $4,300 sale proceeds minus $4,000 cost = $300 capital gain. Answer 'both A and B' is correct.",
   "source": "YouTube: Series 7 Guru (guru35)",
   "topic": "Packaged Products (mutual funds, ETFs, UITs, closed-end)"
  },

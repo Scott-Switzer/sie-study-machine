@@ -100,7 +100,7 @@ var SIE_QUESTIONS_YOUTUBE_PM3 = [
    "D": "12%"
   },
   "answer": "A",
-  "explanation": "The correct choice (C) is: “8%”. Current yield = annual dollar interest / market price; a 12% coupon bond at 120 ($1,200) yields $120/$1,200 = 10%.",
+  "explanation": "Current yield = annual coupon interest / current market price. Annual interest = 12% × $1,000 = $120. Market price = 120% × $1,000 = $1,200. Current yield = $120 ÷ $1,200 = 10%.",
   "source": "YouTube: Series 7 Guru (pm3)",
   "topic": "Corporate Debt & Money Market"
  },

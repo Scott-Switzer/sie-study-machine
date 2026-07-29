@@ -40,7 +40,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU67 = [
    "D": "Warrants"
   },
   "answer": "A",
-  "explanation": "The correct choice (B) is: “Preferred stock”. Preferred stock generally has no voting rights (unlike common) but carries a fixed dividend and priority over common in liquidation.",
+  "explanation": "Common stockholders have voting rights. Preferred stockholders generally do NOT have voting rights (except in specific circumstances like missed dividends).",
   "source": "YouTube: Series 7 Guru (guru67)",
   "topic": "Equity Securities (common, preferred, rights, warrants, ADRs)"
  },

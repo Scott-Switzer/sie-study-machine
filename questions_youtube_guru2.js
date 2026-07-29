@@ -272,7 +272,7 @@ var SIE_QUESTIONS_YOUTUBE_GURU2 = [
  {
   "id": "yt-guru2-21",
   "section": "2 - Products & Risks",
-  "stem": "Your client, Harry Swenson, is very frugal. He feels like mutual funds have too many expenses and he doesn't believe that over a long period the active management of investment advisors can outperform their respective benchmarks, but he likes the idea of a pooled investment in the stock market rather than picking individual stocks on his own. Which of the following types of investments should you recommend?",
+  "stem": "Your client, your client, is very frugal. He feels like mutual funds have too many expenses and he doesn't believe that over a long period the active management of investment advisors can outperform their respective benchmarks, but he likes the idea of a pooled investment in the stock market rather than picking individual stocks on his own. Which of the following types of investments should you recommend?",
   "choices": {
    "A": "A closed-end fund",
    "B": "An exchange-traded fund (ETF)",

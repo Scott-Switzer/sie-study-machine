@@ -1900,7 +1900,7 @@ function reviewMock(){
 
 
 /* ---------------- GOAL / COUNTDOWN ---------------- */
-const EXAM_DEFAULT = "2026-07-29";
+const EXAM_DEFAULT = "";
 function loadGoal(){ try{ return JSON.parse(localStorage.getItem('sie_goal')||'{}'); }catch(e){ return {}; } }
 function saveGoal(g){ localStorage.setItem('sie_goal', JSON.stringify(g)); }
 function daysLeft(){

@@ -77,3 +77,10 @@ MIT — see [LICENSE](LICENSE). The study guides in `literature/` are sourced fr
 ## Disclaimer
 
 Study material is for personal exam prep. Not affiliated with FINRA, NASAA, or any exam provider. Verify all answers against current FINRA materials — the outline and rules change from time to time.
+
+## Report a wrong or garbled question
+
+Found a mistake? Use the app's **⬇️ Export reported** button and open a
+[question-report issue](https://github.com/Scott-Switzer/sie-study-machine/issues/new?template=question-report.md)
+pasting the JSON straight into the body. The auto-fix workflow will apply it
+directly to the bank and redeploy — no maintainer intervention required.
